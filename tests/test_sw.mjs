@@ -62,9 +62,10 @@ test('the service worker is a classic script, not a module', () => {
 });
 
 test('the service worker resolves its paths against its own directory', () => {
-  // The base has to be an absolute URL. A pathname makes every URL built
-  // from it throw, which the install handler swallows and the prefetch
-  // handler does not.
-  assert.match(swSource, /new URL\('\.\/', self\.location\)\.href/);
-  assert.doesNotMatch(swSource, /new URL\('\.\/', self\.location\)\.pathname/);
+  // The base used to build URLs has to be an absolute URL. A pathname makes
+  // every URL built from it throw, which the install handler swallows and
+  // the prefetch handler does not. A separate pathname is fine for working
+  // out which requests are the app's own data.
+  assert.match(swSource, /const BASE = new URL\('\.\/', self\.location\)\.href;/);
+  assert.match(swSource, /new URL\(path, BASE\)/);
 });
