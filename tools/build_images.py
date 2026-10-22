@@ -17,6 +17,7 @@ Usage:
 
 import argparse
 import base64
+import io
 import json
 import re
 import sys
@@ -248,6 +249,140 @@ def run_tier1(only=None):
     return 0
 
 
+# --------------------------------------------------------------------------
+# tier 2 - the network
+# --------------------------------------------------------------------------
+
+MAX_DIM = 1000
+QUALITY = 78
+BACKOFF = (30, 60, 120, 240)
+
+
+def downscale(raw, max_dim=MAX_DIM, quality=QUALITY):
+    """Re-encode an image as WebP, no larger than max_dim on its long side."""
+    from PIL import Image
+
+    try:
+        with Image.open(io.BytesIO(raw)) as image:
+            image.load()
+            if image.mode not in ("RGB", "RGBA"):
+                image = image.convert("RGB")
+            if max(image.size) > max_dim:
+                image.thumbnail((max_dim, max_dim * 4), Image.LANCZOS)
+            buffer = io.BytesIO()
+            image.convert("RGB").save(buffer, "WEBP", quality=quality, method=4)
+            return buffer.getvalue()
+    except ValueError:
+        raise
+    except Exception as error:
+        raise ValueError(f"not a usable image: {error}") from error
+
+
+def fetch_image(url, referer=BASE_URL, timeout=45, attempts=4):
+    """GET an image. Returns the bytes, or None if the host never gave them up.
+
+    The host answers 403 without a Referer and rate-limits with 429, so the
+    Referer is always sent and a 429 is backed off rather than abandoned.
+    """
+    for attempt in range(attempts):
+        request = urllib.request.Request(
+            url,
+            headers={"User-Agent": USER_AGENT, "Referer": referer, "Accept": "image/*,*/*"},
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=timeout) as response:
+                return response.read()
+        except urllib.error.HTTPError as error:
+            if error.code == 429 and attempt < attempts - 1:
+                time.sleep(BACKOFF[min(attempt, len(BACKOFF) - 1)])
+                continue
+            return None
+        except Exception:
+            time.sleep(5)
+    return None
+
+
+def upstream_image_urls(slug):
+    """The upstream image URL for every meta of a guide, keyed by meta id.
+
+    The app guide JSON only stores the local path, so the upstream URL has to
+    come from the raw payload kept in data-source.
+    """
+    path = SOURCE_DIR / f"{slug}.json"
+    if not path.exists():
+        return {}, None
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    public = (payload.get("data") or {}).get("public") or {}
+    if not public:
+        return {}, None
+
+    urls = {}
+    for step in public.get("steps") or []:
+        for item in step.get("items") or []:
+            if item.get("kind") != "tip":
+                continue
+            image = (item.get("data") or {}).get("image") or {}
+            if image.get("imageUrl"):
+                urls[item.get("id")] = image["imageUrl"]
+    return urls, public.get("heroImage")
+
+
+def tier2(guide, out_dir, sleep=2.5, referer=BASE_URL):
+    """Fetch every image the guide needs that is not on disk yet.
+
+    Returns (written, failed).
+    """
+    out = Path(out_dir)
+    out.mkdir(parents=True, exist_ok=True)
+
+    urls, hero = upstream_image_urls(guide["slug"])
+    metas = guide_metas(guide)
+
+    written = 0
+    failed = 0
+
+    for meta in metas:
+        if not meta.get("image"):
+            continue
+        target = out / f"{meta['id']}.webp"
+        if target.exists():
+            continue
+        url = urls.get(meta["id"])
+        if not url:
+            failed += 1
+            continue
+        raw = fetch_image(f"{BASE_URL}{url}", referer=referer)
+        if raw is None:
+            failed += 1
+            continue
+        try:
+            data = downscale(raw)
+        except ValueError:
+            failed += 1
+            continue
+        target.write_bytes(data)
+        written += 1
+        if sleep:
+            time.sleep(sleep)
+
+    if hero:
+        hero_target = out / "hero.webp"
+        if not hero_target.exists():
+            raw = fetch_image(f"{BASE_URL}{hero}", referer=referer)
+            if raw is not None:
+                try:
+                    hero_target.write_bytes(downscale(raw, max_dim=1400))
+                    written += 1
+                except ValueError:
+                    failed += 1
+            else:
+                failed += 1
+            if sleep:
+                time.sleep(sleep)
+
+    return written, failed
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--tier", choices=["1", "2", "all"], default="all")
@@ -257,7 +392,7 @@ def main():
     if args.tier in ("1", "all"):
         run_tier1(args.only)
     if args.tier in ("2", "all"):
-        from build_images_net import run_tier2  # noqa: F401  (added in task 3)
+        from build_images_net import run_tier2
 
         run_tier2(args.only)
     return 0

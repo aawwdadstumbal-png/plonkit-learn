@@ -1,6 +1,7 @@
 """Tests for the image pipeline: matching the local archive to the live guides."""
 
 import base64
+import io
 import json
 import os
 import sys
@@ -167,6 +168,53 @@ class Tier1Tests(unittest.TestCase):
             written, _ = build_images.tier1(guide, blocks, tmp)
             self.assertEqual(written, 0)
             self.assertEqual(os.listdir(tmp), [])
+
+
+class Tier2Tests(unittest.TestCase):
+    def test_downscale_shrinks_a_large_image(self):
+        from PIL import Image
+
+        buffer = io.BytesIO()
+        Image.new("RGB", (2400, 1200), (90, 190, 130)).save(buffer, "PNG")
+        result = build_images.downscale(buffer.getvalue(), max_dim=1000)
+        self.assertEqual(result[:4], b"RIFF")
+        self.assertEqual(result[8:12], b"WEBP")
+        with Image.open(io.BytesIO(result)) as img:
+            self.assertLessEqual(max(img.size), 1000)
+
+    def test_downscale_leaves_a_small_image_small(self):
+        from PIL import Image
+
+        buffer = io.BytesIO()
+        Image.new("RGB", (200, 100), (10, 20, 30)).save(buffer, "PNG")
+        result = build_images.downscale(buffer.getvalue(), max_dim=1000)
+        with Image.open(io.BytesIO(result)) as img:
+            self.assertLessEqual(max(img.size), 200)
+
+    def test_downscale_rejects_non_image_data(self):
+        with self.assertRaises(ValueError):
+            build_images.downscale(b"<html>not an image</html>")
+
+    def test_tier2_skips_existing_files(self):
+        guide = load_guide("albania")
+        with tempfile.TemporaryDirectory() as tmp:
+            for meta in build_images.guide_metas(guide):
+                if meta.get("image"):
+                    with open(os.path.join(tmp, meta["id"] + ".webp"), "wb") as fh:
+                        fh.write(b"RIFF0000WEBPnot-really")
+            # The hero exists too, so this run must not touch the network.
+            with open(os.path.join(tmp, "hero.webp"), "wb") as fh:
+                fh.write(b"RIFF0000WEBPnot-really")
+            written, failed = build_images.tier2(guide, tmp, sleep=0)
+            self.assertEqual(written, 0)
+            self.assertEqual(failed, 0)
+
+    def test_tier2_reports_a_missing_upstream_url(self):
+        guide = {"slug": "nowhere", "sections": [{"metas": [{"id": "A", "image": "img/nowhere/A.webp", "text": ["x"]}]}]}
+        with tempfile.TemporaryDirectory() as tmp:
+            written, failed = build_images.tier2(guide, tmp, sleep=0)
+            self.assertEqual(written, 0)
+            self.assertEqual(failed, 1)
 
 
 if __name__ == "__main__":
