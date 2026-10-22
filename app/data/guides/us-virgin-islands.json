@@ -3,7 +3,7 @@
  "title": "US Virgin Islands",
  "code": "VI",
  "continent": "North America",
- "hero": "img/us-virgin-islands/hero.webp",
+ "hero": "data/img/us-virgin-islands/hero.webp",
  "metaCount": 10,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "QKxC",
-     "image": "img/us-virgin-islands/QKxC.webp",
+     "image": "data/img/us-virgin-islands/QKxC.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "abU4",
-     "image": "img/us-virgin-islands/abU4.webp",
+     "image": "data/img/us-virgin-islands/abU4.webp",
      "mapsUrl": "https://goo.gl/maps/6YfarA8BezMnq6L98",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "GTl0",
-     "image": "img/us-virgin-islands/GTl0.webp",
+     "image": "data/img/us-virgin-islands/GTl0.webp",
      "mapsUrl": "https://goo.gl/maps/Y4QVPFaPECRzMA5fA",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "Nfmm",
-     "image": "img/us-virgin-islands/Nfmm.webp",
+     "image": "data/img/us-virgin-islands/Nfmm.webp",
      "mapsUrl": "https://maps.app.goo.gl/ENbMwXjZ5aKe5odr7",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "yUX7",
-     "image": "img/us-virgin-islands/yUX7.webp",
+     "image": "data/img/us-virgin-islands/yUX7.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
    "metas": [
     {
      "id": "OgDE",
-     "image": "img/us-virgin-islands/OgDE.webp",
+     "image": "data/img/us-virgin-islands/OgDE.webp",
      "mapsUrl": "https://goo.gl/maps/BTtS23iSfgfeMy1T6",
      "width": 0.573,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "x3lV",
-     "image": "img/us-virgin-islands/x3lV.webp",
+     "image": "data/img/us-virgin-islands/x3lV.webp",
      "mapsUrl": "https://goo.gl/maps/d5uDu9mMyf6hg38V7",
      "width": 0.573,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "Ij8c",
-     "image": "img/us-virgin-islands/Ij8c.webp",
+     "image": "data/img/us-virgin-islands/Ij8c.webp",
      "mapsUrl": "https://maps.app.goo.gl/xLrQa59tFdzDqweL7",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "hBRi",
-     "image": "img/us-virgin-islands/hBRi.webp",
+     "image": "data/img/us-virgin-islands/hBRi.webp",
      "mapsUrl": "https://goo.gl/maps/VfJjHzGuEzRqCqTA9",
      "width": 0.573,
      "text": [
@@ -119,7 +119,7 @@
    "metas": [
     {
      "id": "LB6O",
-     "image": "img/us-virgin-islands/LB6O.webp",
+     "image": "data/img/us-virgin-islands/LB6O.webp",
      "mapsUrl": "https://goo.gl/maps/1p7YCLvRLRpQ4yim6",
      "width": 0.573,
      "text": [

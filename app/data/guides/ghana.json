@@ -3,7 +3,7 @@
  "title": "Ghana",
  "code": "GH",
  "continent": "Africa",
- "hero": "img/ghana/hero.webp",
+ "hero": "data/img/ghana/hero.webp",
  "metaCount": 28,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "3ug2",
-     "image": "img/ghana/3ug2.webp",
+     "image": "data/img/ghana/3ug2.webp",
      "mapsUrl": "https://www.google.com/maps/@9.0744935,-0.543021,3a,90y,75.07h,1t/data=!3m6!1e1!3m4!1sBaBOs3o6j3Y5RFFns4wPHA!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "bJXr",
-     "image": "img/ghana/bJXr.webp",
+     "image": "data/img/ghana/bJXr.webp",
      "mapsUrl": "https://maps.app.goo.gl/JzS7S9F9MBAjqBSj9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "dAJp",
-     "image": "img/ghana/dAJp.webp",
+     "image": "data/img/ghana/dAJp.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "4IA8",
-     "image": "img/ghana/4IA8.webp",
+     "image": "data/img/ghana/4IA8.webp",
      "mapsUrl": "https://maps.app.goo.gl/TegdzZwbULciynS3A",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "EktN",
-     "image": "img/ghana/EktN.webp",
+     "image": "data/img/ghana/EktN.webp",
      "mapsUrl": "https://maps.app.goo.gl/S4SSsQVFHfs9xfDw9",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "Tx1K",
-     "image": "img/ghana/Tx1K.webp",
+     "image": "data/img/ghana/Tx1K.webp",
      "mapsUrl": "https://maps.app.goo.gl/f6FtUCcy6FYMUPfT7",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "m5GG",
-     "image": "img/ghana/m5GG.webp",
+     "image": "data/img/ghana/m5GG.webp",
      "mapsUrl": "https://maps.app.goo.gl/ecidTYLA7AwMhzVS7",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "trbc",
-     "image": "img/ghana/trbc.webp",
+     "image": "data/img/ghana/trbc.webp",
      "mapsUrl": "https://maps.app.goo.gl/qNESZkrxf2YwmmGg6",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "sHFU",
-     "image": "img/ghana/sHFU.webp",
+     "image": "data/img/ghana/sHFU.webp",
      "mapsUrl": "https://maps.app.goo.gl/VgivW3YAcX7GxYn96",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
    "metas": [
     {
      "id": "hLru",
-     "image": "img/ghana/hLru.webp",
+     "image": "data/img/ghana/hLru.webp",
      "mapsUrl": "/images/ghana/Coverage_map.png",
      "width": 0.573,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "Grzs",
-     "image": "img/ghana/Grzs.webp",
+     "image": "data/img/ghana/Grzs.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "Kg6Q",
-     "image": "img/ghana/Kg6Q.webp",
+     "image": "data/img/ghana/Kg6Q.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "H3ol",
-     "image": "img/ghana/H3ol.webp",
+     "image": "data/img/ghana/H3ol.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "JppT",
-     "image": "img/ghana/JppT.webp",
+     "image": "data/img/ghana/JppT.webp",
      "mapsUrl": "https://goo.gl/maps/E5cAKDLqceU34jPS8",
      "width": 0.573,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "VFa6",
-     "image": "img/ghana/VFa6.webp",
+     "image": "data/img/ghana/VFa6.webp",
      "mapsUrl": "https://goo.gl/maps/LqK7jGHJ4kkT66qQ6",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "7ooz",
-     "image": "img/ghana/7ooz.webp",
+     "image": "data/img/ghana/7ooz.webp",
      "mapsUrl": "https://goo.gl/maps/mMYk8eKtAnfVxZfh6",
      "width": 0.573,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "H4D5",
-     "image": "img/ghana/H4D5.webp",
+     "image": "data/img/ghana/H4D5.webp",
      "mapsUrl": "https://www.google.com/maps/@5.0732971,-2.6641149,3a,90y,91.63h,88.96t/data=!3m6!1e1!3m4!1s2ng2SGIgsfRYZurS_23lBg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -205,7 +205,7 @@
    "metas": [
     {
      "id": "74In",
-     "image": "img/ghana/74In.webp",
+     "image": "data/img/ghana/74In.webp",
      "mapsUrl": "https://goo.gl/maps/6tcWbDbUiSGjNixp9",
      "width": 0.573,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "lK0K",
-     "image": "img/ghana/lK0K.webp",
+     "image": "data/img/ghana/lK0K.webp",
      "mapsUrl": "https://goo.gl/maps/i4ePJww9zLA7ZtbY6",
      "width": 0.573,
      "text": [
@@ -225,7 +225,7 @@
     },
     {
      "id": "KrKW",
-     "image": "img/ghana/KrKW.webp",
+     "image": "data/img/ghana/KrKW.webp",
      "mapsUrl": "https://goo.gl/maps/tSqVKwqtYZGFrAmR6",
      "width": 0.573,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "c7W9",
-     "image": "img/ghana/c7W9.webp",
+     "image": "data/img/ghana/c7W9.webp",
      "mapsUrl": "https://goo.gl/maps/tsYsCxPwwtjuLywXA",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "zy0V",
-     "image": "img/ghana/zy0V.webp",
+     "image": "data/img/ghana/zy0V.webp",
      "mapsUrl": "https://goo.gl/maps/zvw7QUS2dK3pE8bv5",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "yRvT",
-     "image": "img/ghana/yRvT.webp",
+     "image": "data/img/ghana/yRvT.webp",
      "mapsUrl": "https://goo.gl/maps/QgJN6BiTkEkEETLb8",
      "width": 0.573,
      "text": [
@@ -263,7 +263,7 @@
     },
     {
      "id": "4Awi",
-     "image": "img/ghana/4Awi.webp",
+     "image": "data/img/ghana/4Awi.webp",
      "mapsUrl": "https://goo.gl/maps/EUgkfuE64RE4tACW6",
      "width": 0.573,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "Yl0l",
-     "image": "img/ghana/Yl0l.webp",
+     "image": "data/img/ghana/Yl0l.webp",
      "mapsUrl": "https://www.google.com/maps/@5.9771614,1.0186978,3a,90y,154.45h,83.5t/data=!3m6!1e1!3m4!1saTNG4PPv47kupHJ6DJwztw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -282,7 +282,7 @@
     },
     {
      "id": "Y6Tn",
-     "image": "img/ghana/Y6Tn.webp",
+     "image": "data/img/ghana/Y6Tn.webp",
      "mapsUrl": "https://goo.gl/maps/wP5DFUQGWqcapujEA",
      "width": 0.573,
      "text": [
@@ -291,7 +291,7 @@
     },
     {
      "id": "hyou",
-     "image": "img/ghana/hyou.webp",
+     "image": "data/img/ghana/hyou.webp",
      "mapsUrl": "https://goo.gl/maps/2aFiHDX32TtAuCs8A",
      "width": 0.573,
      "text": [
@@ -300,7 +300,7 @@
     },
     {
      "id": "nHMr",
-     "image": "img/ghana/nHMr.webp",
+     "image": "data/img/ghana/nHMr.webp",
      "mapsUrl": "https://goo.gl/maps/fhhLwXYKofZRgTDm7",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Spillover countries",
  "code": "XX-SPILLS",
  "continent": "General",
- "hero": "img/spillover-countries/hero.webp",
+ "hero": "data/img/spillover-countries/hero.webp",
  "metaCount": 14,
  "sections": [
   {
@@ -55,7 +55,7 @@
    "metas": [
     {
      "id": "bUZ0",
-     "image": "img/spillover-countries/bUZ0.webp",
+     "image": "data/img/spillover-countries/bUZ0.webp",
      "mapsUrl": "https://goo.gl/maps/b3XfCvCvzTiuwnUy7",
      "width": 0.573,
      "text": [
@@ -64,7 +64,7 @@
     },
     {
      "id": "vwvs",
-     "image": "img/spillover-countries/vwvs.webp",
+     "image": "data/img/spillover-countries/vwvs.webp",
      "mapsUrl": "https://goo.gl/maps/u7RVyQEaM3k6JVKK9",
      "width": 0.573,
      "text": [
@@ -73,7 +73,7 @@
     },
     {
      "id": "tt9c",
-     "image": "img/spillover-countries/tt9c.webp",
+     "image": "data/img/spillover-countries/tt9c.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "zFZV",
-     "image": "img/spillover-countries/zFZV.webp",
+     "image": "data/img/spillover-countries/zFZV.webp",
      "mapsUrl": "https://goo.gl/maps/ibcHzMjqt6Ghf4FD6",
      "width": 0.573,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "sL2m",
-     "image": "img/spillover-countries/sL2m.webp",
+     "image": "data/img/spillover-countries/sL2m.webp",
      "mapsUrl": "https://goo.gl/maps/8FUT7bTQV1s39Rza9",
      "width": 0.573,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "yNOt",
-     "image": "img/spillover-countries/yNOt.webp",
+     "image": "data/img/spillover-countries/yNOt.webp",
      "mapsUrl": "https://goo.gl/maps/yKPqYfB1eUMQdE629",
      "width": 0.573,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "AQaF",
-     "image": "img/spillover-countries/AQaF.webp",
+     "image": "data/img/spillover-countries/AQaF.webp",
      "mapsUrl": "https://goo.gl/maps/681tUrrRqMghcFjH7",
      "width": 0.573,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "H5vA",
-     "image": "img/spillover-countries/H5vA.webp",
+     "image": "data/img/spillover-countries/H5vA.webp",
      "mapsUrl": "https://goo.gl/maps/qdg3eyUcrKpH7GJBA",
      "width": 0.573,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "XqKF",
-     "image": "img/spillover-countries/XqKF.webp",
+     "image": "data/img/spillover-countries/XqKF.webp",
      "mapsUrl": "https://goo.gl/maps/noUf8RacCV7yCacS7",
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "srta",
-     "image": "img/spillover-countries/srta.webp",
+     "image": "data/img/spillover-countries/srta.webp",
      "mapsUrl": "https://goo.gl/maps/mqZJPzJDWq2fgPtx8",
      "width": 0.573,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "7txk",
-     "image": "img/spillover-countries/7txk.webp",
+     "image": "data/img/spillover-countries/7txk.webp",
      "mapsUrl": "https://goo.gl/maps/RNKdEMF3teguHuQL9",
      "width": 0.573,
      "text": [
@@ -179,7 +179,7 @@
    "metas": [
     {
      "id": "hxDO",
-     "image": "img/spillover-countries/hxDO.webp",
+     "image": "data/img/spillover-countries/hxDO.webp",
      "mapsUrl": "https://goo.gl/maps/6u1jNGYeR2EMAEq4A",
      "width": 0.573,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "PisM",
-     "image": "img/spillover-countries/PisM.webp",
+     "image": "data/img/spillover-countries/PisM.webp",
      "mapsUrl": "https://goo.gl/maps/8sVebukuMt1TSzVQ8",
      "width": 0.573,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "iw5M",
-     "image": "img/spillover-countries/iw5M.webp",
+     "image": "data/img/spillover-countries/iw5M.webp",
      "mapsUrl": "https://goo.gl/maps/vVLqPWa6WuHJNQqE8",
      "width": 0.573,
      "text": [

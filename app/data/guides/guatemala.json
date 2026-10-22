@@ -3,7 +3,7 @@
  "title": "Guatemala",
  "code": "GT",
  "continent": "North America",
- "hero": "img/guatemala/hero.webp",
+ "hero": "data/img/guatemala/hero.webp",
  "metaCount": 28,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "quLJ",
-     "image": "img/guatemala/quLJ.webp",
+     "image": "data/img/guatemala/quLJ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "gZYw",
-     "image": "img/guatemala/gZYw.webp",
+     "image": "data/img/guatemala/gZYw.webp",
      "mapsUrl": "https://goo.gl/maps/D48c6cCqKHfYhQuX9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "HQly",
-     "image": "img/guatemala/HQly.webp",
+     "image": "data/img/guatemala/HQly.webp",
      "mapsUrl": "https://goo.gl/maps/cwf8vawYn4echrZd6",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "PGLM",
-     "image": "img/guatemala/PGLM.webp",
+     "image": "data/img/guatemala/PGLM.webp",
      "mapsUrl": "https://goo.gl/maps/q8y2LD2zs2C8QruE7",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "PUP5",
-     "image": "img/guatemala/PUP5.webp",
+     "image": "data/img/guatemala/PUP5.webp",
      "mapsUrl": "https://goo.gl/maps/a9fUCoZEc4nKUxV2A",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "mgoz",
-     "image": "img/guatemala/mgoz.webp",
+     "image": "data/img/guatemala/mgoz.webp",
      "mapsUrl": "https://www.google.com/maps/@14.6255005,-90.5568668,3a,15y,74.14h,81.77t/data=!3m6!1e1!3m4!1smSi97ivNOrtG5_baoEx9YQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "kyzr",
-     "image": "img/guatemala/kyzr.webp",
+     "image": "data/img/guatemala/kyzr.webp",
      "mapsUrl": "https://goo.gl/maps/z3C6xKzkRjpHVv6w6",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
    "metas": [
     {
      "id": "UdGx",
-     "image": "img/guatemala/UdGx.webp",
+     "image": "data/img/guatemala/UdGx.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "bviD",
-     "image": "img/guatemala/bviD.webp",
+     "image": "data/img/guatemala/bviD.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "HmBj",
-     "image": "img/guatemala/HmBj.webp",
+     "image": "data/img/guatemala/HmBj.webp",
      "mapsUrl": "https://goo.gl/maps/smc84PABGgGm8RvJ9",
      "width": 0.573,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "rIJc",
-     "image": "img/guatemala/rIJc.webp",
+     "image": "data/img/guatemala/rIJc.webp",
      "mapsUrl": "https://goo.gl/maps/cvr61aTLJurqudZQ6",
      "width": 0.573,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "gNVA",
-     "image": "img/guatemala/gNVA.webp",
+     "image": "data/img/guatemala/gNVA.webp",
      "mapsUrl": "https://goo.gl/maps/RrMgtXnb9nF7heeFA",
      "width": 0.573,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "urVz",
-     "image": "img/guatemala/urVz.webp",
+     "image": "data/img/guatemala/urVz.webp",
      "mapsUrl": "https://goo.gl/maps/z8fdGA1XkCzwdssE9",
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "wuun",
-     "image": "img/guatemala/wuun.webp",
+     "image": "data/img/guatemala/wuun.webp",
      "mapsUrl": "https://goo.gl/maps/oiHsWxudChDeaGV39",
      "width": 0.573,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "7t14",
-     "image": "img/guatemala/7t14.webp",
+     "image": "data/img/guatemala/7t14.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "LaQp",
-     "image": "img/guatemala/LaQp.webp",
+     "image": "data/img/guatemala/LaQp.webp",
      "mapsUrl": "https://goo.gl/maps/qU7Ek9tdd4qyUt159",
      "width": 0.573,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "TOL4",
-     "image": "img/guatemala/TOL4.webp",
+     "image": "data/img/guatemala/TOL4.webp",
      "mapsUrl": "https://goo.gl/maps/86Gre6p6eGpLLFp46",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "2nYg",
-     "image": "img/guatemala/2nYg.webp",
+     "image": "data/img/guatemala/2nYg.webp",
      "mapsUrl": "https://goo.gl/maps/gCV9MkB5DKZWTPg28",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "lkgV",
-     "image": "img/guatemala/lkgV.webp",
+     "image": "data/img/guatemala/lkgV.webp",
      "mapsUrl": "https://goo.gl/maps/aPUqgqM7bmhQnXvn6",
      "width": 0.573,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "VLvK",
-     "image": "img/guatemala/VLvK.webp",
+     "image": "data/img/guatemala/VLvK.webp",
      "mapsUrl": "https://maps.app.goo.gl/81WKdyb2VyTQfo7R8",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "acEC",
-     "image": "img/guatemala/acEC.webp",
+     "image": "data/img/guatemala/acEC.webp",
      "mapsUrl": "https://goo.gl/maps/s24s15LqTenyD2jx6",
      "width": 0.573,
      "text": [
@@ -231,7 +231,7 @@
    "metas": [
     {
      "id": "hIlm",
-     "image": "img/guatemala/hIlm.webp",
+     "image": "data/img/guatemala/hIlm.webp",
      "mapsUrl": "https://goo.gl/maps/ZZpvQFbfqkoPfNg59",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "UW8N",
-     "image": "img/guatemala/UW8N.webp",
+     "image": "data/img/guatemala/UW8N.webp",
      "mapsUrl": "https://goo.gl/maps/SYZ6QEEndt5nL9x68",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "QYdU",
-     "image": "img/guatemala/QYdU.webp",
+     "image": "data/img/guatemala/QYdU.webp",
      "mapsUrl": "https://goo.gl/maps/4PMTuyHnYbNwXAoK7",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "eusx",
-     "image": "img/guatemala/eusx.webp",
+     "image": "data/img/guatemala/eusx.webp",
      "mapsUrl": "https://goo.gl/maps/hBYUhYoECd9YpMzt5",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "lw5V",
-     "image": "img/guatemala/lw5V.webp",
+     "image": "data/img/guatemala/lw5V.webp",
      "mapsUrl": "https://goo.gl/maps/tcxK6zbKiZ1bweiG8",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "xmWF",
-     "image": "img/guatemala/xmWF.webp",
+     "image": "data/img/guatemala/xmWF.webp",
      "mapsUrl": "https://goo.gl/maps/msrYgLWStRDy2FXL7",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "Wu24",
-     "image": "img/guatemala/Wu24.webp",
+     "image": "data/img/guatemala/Wu24.webp",
      "mapsUrl": "https://goo.gl/maps/fuj99J6ybsPnZsDE6",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Andorra",
  "code": "AD",
  "continent": "Europe",
- "hero": "img/andorra/hero.webp",
+ "hero": "data/img/andorra/hero.webp",
  "metaCount": 16,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "zsXQ",
-     "image": "img/andorra/zsXQ.webp",
+     "image": "data/img/andorra/zsXQ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "1Qw8",
-     "image": "img/andorra/1Qw8.webp",
+     "image": "data/img/andorra/1Qw8.webp",
      "mapsUrl": "https://goo.gl/maps/4ZDLUSorBTBtVv3w5",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "QX0k",
-     "image": "img/andorra/QX0k.webp",
+     "image": "data/img/andorra/QX0k.webp",
      "mapsUrl": "https://goo.gl/maps/ZrtDdX73zVEF1VHA9",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "oy4W",
-     "image": "img/andorra/oy4W.webp",
+     "image": "data/img/andorra/oy4W.webp",
      "mapsUrl": "https://goo.gl/maps/TKsJpKsb95ZX4LVaA",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "NHCC",
-     "image": "img/andorra/NHCC.webp",
+     "image": "data/img/andorra/NHCC.webp",
      "mapsUrl": "https://goo.gl/maps/QhciRdf4ngh6XhSy9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "ZYyW",
-     "image": "img/andorra/ZYyW.webp",
+     "image": "data/img/andorra/ZYyW.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "4Dnj",
-     "image": "img/andorra/4Dnj.webp",
+     "image": "data/img/andorra/4Dnj.webp",
      "mapsUrl": "https://goo.gl/maps/Biy2NcYPRMkbiuqg6",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "kLb3",
-     "image": "img/andorra/kLb3.webp",
+     "image": "data/img/andorra/kLb3.webp",
      "mapsUrl": "https://goo.gl/maps/c3WDEKnBp4Kx6Ucg8",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "yQEn",
-     "image": "img/andorra/yQEn.webp",
+     "image": "data/img/andorra/yQEn.webp",
      "mapsUrl": "https://goo.gl/maps/AxEgwqKPhpP2EzLf7",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "JMBH",
-     "image": "img/andorra/JMBH.webp",
+     "image": "data/img/andorra/JMBH.webp",
      "mapsUrl": "https://goo.gl/maps/EntyVY3Mmh3FV2cB8",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "TBFy",
-     "image": "img/andorra/TBFy.webp",
+     "image": "data/img/andorra/TBFy.webp",
      "mapsUrl": "https://goo.gl/maps/pGA6AAWD1htrgR4q6",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "LHX7",
-     "image": "img/andorra/LHX7.webp",
+     "image": "data/img/andorra/LHX7.webp",
      "mapsUrl": "https://goo.gl/maps/B3pbnmC9TqEP3jtL9",
      "width": 0.5,
      "text": [
@@ -137,7 +137,7 @@
     },
     {
      "id": "PGfc",
-     "image": "img/andorra/PGfc.webp",
+     "image": "data/img/andorra/PGfc.webp",
      "mapsUrl": "https://goo.gl/maps/kwA7aDrBRdHApj5A8",
      "width": 0.5,
      "text": [
@@ -156,7 +156,7 @@
    "metas": [
     {
      "id": "OMfo",
-     "image": "img/andorra/OMfo.webp",
+     "image": "data/img/andorra/OMfo.webp",
      "mapsUrl": "https://goo.gl/maps/PThXhgDraXSm485y6",
      "width": 0.573,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "3F4R",
-     "image": "img/andorra/3F4R.webp",
+     "image": "data/img/andorra/3F4R.webp",
      "mapsUrl": "https://goo.gl/maps/YMGjVWRdh7y96w5Y8",
      "width": 0.573,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "vpA3",
-     "image": "img/andorra/vpA3.webp",
+     "image": "data/img/andorra/vpA3.webp",
      "mapsUrl": "https://goo.gl/maps/9cfe6joY3Yrpw1dq7",
      "width": 0.573,
      "text": [

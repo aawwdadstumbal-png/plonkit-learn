@@ -3,7 +3,7 @@
  "title": "Qatar",
  "code": "QA",
  "continent": "Asia",
- "hero": "img/qatar/hero.webp",
+ "hero": "data/img/qatar/hero.webp",
  "metaCount": 28,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "swZh",
-     "image": "img/qatar/swZh.webp",
+     "image": "data/img/qatar/swZh.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "F3sC",
-     "image": "img/qatar/F3sC.webp",
+     "image": "data/img/qatar/F3sC.webp",
      "mapsUrl": "https://goo.gl/maps/hG3A7d8PmrJVREag9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "unhN",
-     "image": "img/qatar/unhN.webp",
+     "image": "data/img/qatar/unhN.webp",
      "mapsUrl": "https://goo.gl/maps/93i1pngQ5JNxg9QP6",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "ZpMs",
-     "image": "img/qatar/ZpMs.webp",
+     "image": "data/img/qatar/ZpMs.webp",
      "mapsUrl": "https://goo.gl/maps/Renv5A1k3wqJDjmH6",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "IvYr",
-     "image": "img/qatar/IvYr.webp",
+     "image": "data/img/qatar/IvYr.webp",
      "mapsUrl": "https://goo.gl/maps/7H2syKvgiFZGhyvP9",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "XQGn",
-     "image": "img/qatar/XQGn.webp",
+     "image": "data/img/qatar/XQGn.webp",
      "mapsUrl": "https://goo.gl/maps/vyBWdLGRZ45hig5T8",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "sRjs",
-     "image": "img/qatar/sRjs.webp",
+     "image": "data/img/qatar/sRjs.webp",
      "mapsUrl": "https://goo.gl/maps/DWDixma3HcEcerM69",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "Bcaj",
-     "image": "img/qatar/Bcaj.webp",
+     "image": "data/img/qatar/Bcaj.webp",
      "mapsUrl": "https://goo.gl/maps/mj8vmvtKuS87w3tQ6",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
    "metas": [
     {
      "id": "sO5C",
-     "image": "img/qatar/sO5C.webp",
+     "image": "data/img/qatar/sO5C.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "eMIV",
-     "image": "img/qatar/eMIV.webp",
+     "image": "data/img/qatar/eMIV.webp",
      "mapsUrl": "https://d12eu00glpdtk2.cloudfront.net/public/images/local/zones-of-qatar-2020-PSA.JPG",
      "width": 0.573,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "wBgz",
-     "image": "img/qatar/wBgz.webp",
+     "image": "data/img/qatar/wBgz.webp",
      "mapsUrl": "https://goo.gl/maps/azFQWo4CQjbTLxRV7",
      "width": 0.573,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "QWts",
-     "image": "img/qatar/QWts.webp",
+     "image": "data/img/qatar/QWts.webp",
      "mapsUrl": "https://maps.app.goo.gl/9z65ZJ3LMVrf5CHr6",
      "width": 0.573,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "DTBf",
-     "image": "img/qatar/DTBf.webp",
+     "image": "data/img/qatar/DTBf.webp",
      "mapsUrl": "https://goo.gl/maps/mnrxxVzp4bsrCX1YA",
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "WcSv",
-     "image": "img/qatar/WcSv.webp",
+     "image": "data/img/qatar/WcSv.webp",
      "mapsUrl": "https://goo.gl/maps/Pyuj9bGnbTgSvySr6",
      "width": 0.573,
      "text": [
@@ -169,7 +169,7 @@
    "metas": [
     {
      "id": "29Ya",
-     "image": "img/qatar/29Ya.webp",
+     "image": "data/img/qatar/29Ya.webp",
      "mapsUrl": "https://goo.gl/maps/zwUH6gceMPAxHJNm9",
      "width": 0.573,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "jmFE",
-     "image": "img/qatar/jmFE.webp",
+     "image": "data/img/qatar/jmFE.webp",
      "mapsUrl": "https://goo.gl/maps/6YH83ZPGt8x8GdL9A",
      "width": 0.573,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "hMwr",
-     "image": "img/qatar/hMwr.webp",
+     "image": "data/img/qatar/hMwr.webp",
      "mapsUrl": "https://goo.gl/maps/7GUmTgXzV8XGd5V99",
      "width": 0.573,
      "text": [
@@ -196,7 +196,7 @@
     },
     {
      "id": "KtSR",
-     "image": "img/qatar/KtSR.webp",
+     "image": "data/img/qatar/KtSR.webp",
      "mapsUrl": "https://goo.gl/maps/HkKKTNJvqY1EzSHr5",
      "width": 0.573,
      "text": [
@@ -205,7 +205,7 @@
     },
     {
      "id": "IL8W",
-     "image": "img/qatar/IL8W.webp",
+     "image": "data/img/qatar/IL8W.webp",
      "mapsUrl": "https://goo.gl/maps/9dcYpeDgJzE4ZCoL8",
      "width": 0.573,
      "text": [
@@ -214,7 +214,7 @@
     },
     {
      "id": "A1pX",
-     "image": "img/qatar/A1pX.webp",
+     "image": "data/img/qatar/A1pX.webp",
      "mapsUrl": "https://goo.gl/maps/WQ7oQ2H33pDof6hm7",
      "width": 0.573,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "xFsU",
-     "image": "img/qatar/xFsU.webp",
+     "image": "data/img/qatar/xFsU.webp",
      "mapsUrl": "https://goo.gl/maps/YhvRmjh8VfszKDmk7",
      "width": 0.573,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "IrTG",
-     "image": "img/qatar/IrTG.webp",
+     "image": "data/img/qatar/IrTG.webp",
      "mapsUrl": "https://goo.gl/maps/bTP8W4bfzVUb7JYi7",
      "width": 0.573,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "kekJ",
-     "image": "img/qatar/kekJ.webp",
+     "image": "data/img/qatar/kekJ.webp",
      "mapsUrl": "https://goo.gl/maps/9nyFHpov4NtATegYA",
      "width": 0.573,
      "text": [
@@ -250,7 +250,7 @@
     },
     {
      "id": "eekc",
-     "image": "img/qatar/eekc.webp",
+     "image": "data/img/qatar/eekc.webp",
      "mapsUrl": "https://goo.gl/maps/gim4wCkSgGorF66m7",
      "width": 0.573,
      "text": [
@@ -259,7 +259,7 @@
     },
     {
      "id": "wSQQ",
-     "image": "img/qatar/wSQQ.webp",
+     "image": "data/img/qatar/wSQQ.webp",
      "mapsUrl": "https://goo.gl/maps/382mjVZWvUYiSiMF7",
      "width": 0.573,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "Rdpp",
-     "image": "img/qatar/Rdpp.webp",
+     "image": "data/img/qatar/Rdpp.webp",
      "mapsUrl": "https://goo.gl/maps/Mbi5imw2ScVxBFCt6",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "azNo",
-     "image": "img/qatar/azNo.webp",
+     "image": "data/img/qatar/azNo.webp",
      "mapsUrl": "https://goo.gl/maps/9c7MHTRHWV1cJkkv6",
      "width": 0.573,
      "text": [
@@ -289,7 +289,7 @@
     },
     {
      "id": "tm4B",
-     "image": "img/qatar/tm4B.webp",
+     "image": "data/img/qatar/tm4B.webp",
      "mapsUrl": "https://goo.gl/maps/Tn2mHDzDJipNFDfD9",
      "width": 0.573,
      "text": [

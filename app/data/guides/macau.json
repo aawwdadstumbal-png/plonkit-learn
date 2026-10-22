@@ -3,7 +3,7 @@
  "title": "Macau",
  "code": "MO",
  "continent": "Asia",
- "hero": "img/macau/hero.webp",
+ "hero": "data/img/macau/hero.webp",
  "metaCount": 11,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "Q02G",
-     "image": "img/macau/Q02G.webp",
+     "image": "data/img/macau/Q02G.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Macau_locator_map.svg/1205px-Macau_locator_map.svg.png",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "Rskk",
-     "image": "img/macau/Rskk.webp",
+     "image": "data/img/macau/Rskk.webp",
      "mapsUrl": "https://goo.gl/maps/sWL4TAdQtBHrmt8i8",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "xDZU",
-     "image": "img/macau/xDZU.webp",
+     "image": "data/img/macau/xDZU.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "5pnX",
-     "image": "img/macau/5pnX.webp",
+     "image": "data/img/macau/5pnX.webp",
      "mapsUrl": "https://goo.gl/maps/ju7iHWF8ireQLBRK8",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "YpXQ",
-     "image": "img/macau/YpXQ.webp",
+     "image": "data/img/macau/YpXQ.webp",
      "mapsUrl": "https://goo.gl/maps/dTagWVtXj5i8ZH2f9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "3QHj",
-     "image": "img/macau/3QHj.webp",
+     "image": "data/img/macau/3QHj.webp",
      "mapsUrl": "https://goo.gl/maps/1Niz7edXudqih1qr5",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "aq1W",
-     "image": "img/macau/aq1W.webp",
+     "image": "data/img/macau/aq1W.webp",
      "mapsUrl": "https://goo.gl/maps/s8H2z59BDDiAMzY69",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
    "metas": [
     {
      "id": "vB8M",
-     "image": "img/macau/vB8M.webp",
+     "image": "data/img/macau/vB8M.webp",
      "mapsUrl": "https://goo.gl/maps/BgZnxvPfVdhPqbYd6",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "HyRc",
-     "image": "img/macau/HyRc.webp",
+     "image": "data/img/macau/HyRc.webp",
      "mapsUrl": "https://goo.gl/maps/2rXTjyffftw4wB7H8",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
    "metas": [
     {
      "id": "Hhsi",
-     "image": "img/macau/Hhsi.webp",
+     "image": "data/img/macau/Hhsi.webp",
      "mapsUrl": "https://goo.gl/maps/sAD84yjBikdeBBAQA",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "UfMe",
-     "image": "img/macau/UfMe.webp",
+     "image": "data/img/macau/UfMe.webp",
      "mapsUrl": "https://goo.gl/maps/QBF8uRmGzn2Fmiyu8",
      "width": 0.5,
      "text": [

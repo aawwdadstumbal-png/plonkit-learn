@@ -3,7 +3,7 @@
  "title": "Bhutan",
  "code": "BT",
  "continent": "Asia",
- "hero": "img/bhutan/hero.webp",
+ "hero": "data/img/bhutan/hero.webp",
  "metaCount": 21,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "FySh",
-     "image": "img/bhutan/FySh.webp",
+     "image": "data/img/bhutan/FySh.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "y1Qr",
-     "image": "img/bhutan/y1Qr.webp",
+     "image": "data/img/bhutan/y1Qr.webp",
      "mapsUrl": "https://goo.gl/maps/3rChFyPHnfF3ecf8A",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "uFJO",
-     "image": "img/bhutan/uFJO.webp",
+     "image": "data/img/bhutan/uFJO.webp",
      "mapsUrl": "https://goo.gl/maps/g9SDn1o4acabbFp48",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "uyf1",
-     "image": "img/bhutan/uyf1.webp",
+     "image": "data/img/bhutan/uyf1.webp",
      "mapsUrl": "https://goo.gl/maps/UJ4d8DKQfYMB3dnr5",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "iq4h",
-     "image": "img/bhutan/iq4h.webp",
+     "image": "data/img/bhutan/iq4h.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "b3oU",
-     "image": "img/bhutan/b3oU.webp",
+     "image": "data/img/bhutan/b3oU.webp",
      "mapsUrl": "https://goo.gl/maps/6Viczpcj1EtKV12L7",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "6ZzJ",
-     "image": "img/bhutan/6ZzJ.webp",
+     "image": "data/img/bhutan/6ZzJ.webp",
      "mapsUrl": "https://goo.gl/maps/FN4PcKZe6yAHvWLm8",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "M7LD",
-     "image": "img/bhutan/M7LD.webp",
+     "image": "data/img/bhutan/M7LD.webp",
      "mapsUrl": "https://goo.gl/maps/1U12ij1qDyS5gC1U8",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "fJM0",
-     "image": "img/bhutan/fJM0.webp",
+     "image": "data/img/bhutan/fJM0.webp",
      "mapsUrl": "https://goo.gl/maps/m4W2YWypQCniMUju5",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "3qFe",
-     "image": "img/bhutan/3qFe.webp",
+     "image": "data/img/bhutan/3qFe.webp",
      "mapsUrl": "https://goo.gl/maps/WHxm9vEHgvs3zrLW6",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "LdOA",
-     "image": "img/bhutan/LdOA.webp",
+     "image": "data/img/bhutan/LdOA.webp",
      "mapsUrl": "https://goo.gl/maps/e8yVQ9nH4KAj5gBc6",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "tkrk",
-     "image": "img/bhutan/tkrk.webp",
+     "image": "data/img/bhutan/tkrk.webp",
      "mapsUrl": "https://goo.gl/maps/ynoqojGHcZF7pRWS7",
      "width": 0.5,
      "text": [
@@ -146,7 +146,7 @@
    "metas": [
     {
      "id": "NdvV",
-     "image": "img/bhutan/NdvV.webp",
+     "image": "data/img/bhutan/NdvV.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -155,7 +155,7 @@
     },
     {
      "id": "yGLe",
-     "image": "img/bhutan/yGLe.webp",
+     "image": "data/img/bhutan/yGLe.webp",
      "mapsUrl": "https://goo.gl/maps/SWjdgTTe8YtqGBJK8",
      "width": 0.573,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "6TGY",
-     "image": "img/bhutan/6TGY.webp",
+     "image": "data/img/bhutan/6TGY.webp",
      "mapsUrl": "https://goo.gl/maps/UGCTB8fkPyaP147K8",
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "FHkm",
-     "image": "img/bhutan/FHkm.webp",
+     "image": "data/img/bhutan/FHkm.webp",
      "mapsUrl": "https://maps.app.goo.gl/i7xwQmdkMie3zwGH7",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
    "metas": [
     {
      "id": "s895",
-     "image": "img/bhutan/s895.webp",
+     "image": "data/img/bhutan/s895.webp",
      "mapsUrl": "https://maps.app.goo.gl/LVeCkVQDZk7d1yMLA",
      "width": 0.573,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "RG1f",
-     "image": "img/bhutan/RG1f.webp",
+     "image": "data/img/bhutan/RG1f.webp",
      "mapsUrl": "https://maps.app.goo.gl/pdCZ9W9Psh7uVZoB9",
      "width": 0.573,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "QdQ2",
-     "image": "img/bhutan/QdQ2.webp",
+     "image": "data/img/bhutan/QdQ2.webp",
      "mapsUrl": "https://goo.gl/maps/CMc6UH95XYi9hh8C8",
      "width": 0.573,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "W6QG",
-     "image": "img/bhutan/W6QG.webp",
+     "image": "data/img/bhutan/W6QG.webp",
      "mapsUrl": "https://goo.gl/maps/kG2xBExJv1FQubZs7",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "TQCb",
-     "image": "img/bhutan/TQCb.webp",
+     "image": "data/img/bhutan/TQCb.webp",
      "mapsUrl": "https://goo.gl/maps/F5NHAL23irP2y5zw7",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Poland",
  "code": "PL",
  "continent": "Europe",
- "hero": "img/poland/hero.webp",
+ "hero": "data/img/poland/hero.webp",
  "metaCount": 37,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "y2jz",
-     "image": "img/poland/y2jz.webp",
+     "image": "data/img/poland/y2jz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "vySo",
-     "image": "img/poland/vySo.webp",
+     "image": "data/img/poland/vySo.webp",
      "mapsUrl": "https://goo.gl/maps/JLqgxCCLwZPCWaBc6",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "doge",
-     "image": "img/poland/doge.webp",
+     "image": "data/img/poland/doge.webp",
      "mapsUrl": "https://goo.gl/maps/39wkM2cWyNEru3PV9",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "oHYD",
-     "image": "img/poland/oHYD.webp",
+     "image": "data/img/poland/oHYD.webp",
      "mapsUrl": "https://goo.gl/maps/EJethngG8F1qTPbn9",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "mshS",
-     "image": "img/poland/mshS.webp",
+     "image": "data/img/poland/mshS.webp",
      "mapsUrl": "https://goo.gl/maps/SK5BmTVwiKdnmYj86",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "LdxT",
-     "image": "img/poland/LdxT.webp",
+     "image": "data/img/poland/LdxT.webp",
      "mapsUrl": "https://goo.gl/maps/PkutnaBqg9k5AvFg6",
      "width": 0.5,
      "text": [
@@ -82,7 +82,7 @@
     },
     {
      "id": "Pahm",
-     "image": "img/poland/Pahm.webp",
+     "image": "data/img/poland/Pahm.webp",
      "mapsUrl": "https://goo.gl/maps/8VXdM9vMLNFfyaHf9",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "htL5",
-     "image": "img/poland/htL5.webp",
+     "image": "data/img/poland/htL5.webp",
      "mapsUrl": "https://goo.gl/maps/pFDmFCCsQLmMdg5J6",
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "WkuT",
-     "image": "img/poland/WkuT.webp",
+     "image": "data/img/poland/WkuT.webp",
      "mapsUrl": "https://goo.gl/maps/1CeLkPMYyLwCVuMv8",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "6stB",
-     "image": "img/poland/6stB.webp",
+     "image": "data/img/poland/6stB.webp",
      "mapsUrl": "https://goo.gl/maps/ctgqRbCiXueFGUsq8",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "4nMB",
-     "image": "img/poland/4nMB.webp",
+     "image": "data/img/poland/4nMB.webp",
      "mapsUrl": "https://goo.gl/maps/fBEXJiJirAUqvSBH8",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "8spo",
-     "image": "img/poland/8spo.webp",
+     "image": "data/img/poland/8spo.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "gOOw",
-     "image": "img/poland/gOOw.webp",
+     "image": "data/img/poland/gOOw.webp",
      "mapsUrl": "https://goo.gl/maps/B4GPd7Lax9aqWjtG7",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "1Vb3",
-     "image": "img/poland/1Vb3.webp",
+     "image": "data/img/poland/1Vb3.webp",
      "mapsUrl": "https://goo.gl/maps/5ph3F2YMQFCEdpgZ6",
      "width": 0.5,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "EKCR",
-     "image": "img/poland/EKCR.webp",
+     "image": "data/img/poland/EKCR.webp",
      "mapsUrl": "https://goo.gl/maps/khSSLnT5DAcwpjHe8",
      "width": 0.5,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "kRKi",
-     "image": "img/poland/kRKi.webp",
+     "image": "data/img/poland/kRKi.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "E5c9",
-     "image": "img/poland/E5c9.webp",
+     "image": "data/img/poland/E5c9.webp",
      "mapsUrl": "https://goo.gl/maps/A7QAMkV6U8khYJYZ9",
      "width": 0.5,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "rudj",
-     "image": "img/poland/rudj.webp",
+     "image": "data/img/poland/rudj.webp",
      "mapsUrl": "https://maps.app.goo.gl/UBMfggfhw4Tm5Q3T7",
      "width": 0.5,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "LU2Z",
-     "image": "img/poland/LU2Z.webp",
+     "image": "data/img/poland/LU2Z.webp",
      "mapsUrl": "https://maps.app.goo.gl/RoYSNfCkgrKmBwhQA",
      "width": 0.5,
      "text": [
@@ -222,7 +222,7 @@
    "metas": [
     {
      "id": "OH23",
-     "image": "img/poland/OH23.webp",
+     "image": "data/img/poland/OH23.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -233,7 +233,7 @@
     },
     {
      "id": "hZvJ",
-     "image": "img/poland/hZvJ.webp",
+     "image": "data/img/poland/hZvJ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -243,7 +243,7 @@
     },
     {
      "id": "dcsB",
-     "image": "img/poland/dcsB.webp",
+     "image": "data/img/poland/dcsB.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -253,7 +253,7 @@
     },
     {
      "id": "gxrJ",
-     "image": "img/poland/gxrJ.webp",
+     "image": "data/img/poland/gxrJ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -268,7 +268,7 @@
     },
     {
      "id": "RD4g",
-     "image": "img/poland/RD4g.webp",
+     "image": "data/img/poland/RD4g.webp",
      "mapsUrl": "https://goo.gl/maps/cLHqKgY1i4YCLj4U9",
      "width": 0.573,
      "text": [
@@ -278,7 +278,7 @@
     },
     {
      "id": "k6sd",
-     "image": "img/poland/k6sd.webp",
+     "image": "data/img/poland/k6sd.webp",
      "mapsUrl": "https://maps.app.goo.gl/Bdfgf8L7pjWrYpGw7",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "1VXO",
-     "image": "img/poland/1VXO.webp",
+     "image": "data/img/poland/1VXO.webp",
      "mapsUrl": "https://maps.app.goo.gl/JmGQh1xdaQMBcnxZA",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "ILmx",
-     "image": "img/poland/ILmx.webp",
+     "image": "data/img/poland/ILmx.webp",
      "mapsUrl": "https://maps.app.goo.gl/FV7sTZYgsDmWEe9y9",
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "PuJB",
-     "image": "img/poland/PuJB.webp",
+     "image": "data/img/poland/PuJB.webp",
      "mapsUrl": "https://maps.app.goo.gl/QGodoGPV4WptW43o6",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "QpLU",
-     "image": "img/poland/QpLU.webp",
+     "image": "data/img/poland/QpLU.webp",
      "mapsUrl": "https://maps.app.goo.gl/dS9w2W5mWpaUbGtr7",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "ZbOn",
-     "image": "img/poland/ZbOn.webp",
+     "image": "data/img/poland/ZbOn.webp",
      "mapsUrl": "https://maps.app.goo.gl/pniirTvwdJgTmSqW6",
      "width": 0.573,
      "text": [
@@ -333,7 +333,7 @@
     },
     {
      "id": "QRyL",
-     "image": "img/poland/QRyL.webp",
+     "image": "data/img/poland/QRyL.webp",
      "mapsUrl": "https://maps.app.goo.gl/gJtKS8oiU6MemQsq6",
      "width": 0.573,
      "text": [
@@ -351,7 +351,7 @@
    "metas": [
     {
      "id": "dx99",
-     "image": "img/poland/dx99.webp",
+     "image": "data/img/poland/dx99.webp",
      "mapsUrl": "https://goo.gl/maps/axmv3MroqEJsr5rk6",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "QKpM",
-     "image": "img/poland/QKpM.webp",
+     "image": "data/img/poland/QKpM.webp",
      "mapsUrl": "https://goo.gl/maps/v5H94G6PuAZAhgZS7",
      "width": 0.573,
      "text": [
@@ -369,7 +369,7 @@
     },
     {
      "id": "JBtU",
-     "image": "img/poland/JBtU.webp",
+     "image": "data/img/poland/JBtU.webp",
      "mapsUrl": "https://goo.gl/maps/pfYxU8oqykBSb1Tr7",
      "width": 0.573,
      "text": [
@@ -378,7 +378,7 @@
     },
     {
      "id": "v82S",
-     "image": "img/poland/v82S.webp",
+     "image": "data/img/poland/v82S.webp",
      "mapsUrl": "https://maps.app.goo.gl/GQrRNhfmC8wHd8sx9",
      "width": 0.573,
      "text": [
@@ -387,7 +387,7 @@
     },
     {
      "id": "blym",
-     "image": "img/poland/blym.webp",
+     "image": "data/img/poland/blym.webp",
      "mapsUrl": "https://maps.app.goo.gl/uYU6bYZsFREJhSsq6",
      "width": 0.573,
      "text": [
@@ -396,7 +396,7 @@
     },
     {
      "id": "EruS",
-     "image": "img/poland/EruS.webp",
+     "image": "data/img/poland/EruS.webp",
      "mapsUrl": "https://maps.app.goo.gl/gHXuMRgbN6bXJmyQ9",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Liechtenstein",
  "code": "LI",
  "continent": "Europe",
- "hero": "img/liechtenstein/hero.webp",
+ "hero": "data/img/liechtenstein/hero.webp",
  "metaCount": 27,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "rcYy",
-     "image": "img/liechtenstein/rcYy.webp",
+     "image": "data/img/liechtenstein/rcYy.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "SrOE",
-     "image": "img/liechtenstein/SrOE.webp",
+     "image": "data/img/liechtenstein/SrOE.webp",
      "mapsUrl": "https://maps.app.goo.gl/d4TSgr1MVjrn7HPh9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "X4GL",
-     "image": "img/liechtenstein/X4GL.webp",
+     "image": "data/img/liechtenstein/X4GL.webp",
      "mapsUrl": "https://maps.app.goo.gl/ng9uBmFyjrGAJLU8A",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "p90S",
-     "image": "img/liechtenstein/p90S.webp",
+     "image": "data/img/liechtenstein/p90S.webp",
      "mapsUrl": "https://maps.app.goo.gl/t3s7tP6f3gWZshNu7",
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "ci1R",
-     "image": "img/liechtenstein/ci1R.webp",
+     "image": "data/img/liechtenstein/ci1R.webp",
      "mapsUrl": "https://maps.app.goo.gl/8uHzuhiisnbHw4S46",
      "width": 0.5,
      "text": [
@@ -73,7 +73,7 @@
     },
     {
      "id": "qb5C",
-     "image": "img/liechtenstein/qb5C.webp",
+     "image": "data/img/liechtenstein/qb5C.webp",
      "mapsUrl": "https://maps.app.goo.gl/KvREG22Xb1TxTVbn7",
      "width": 0.5,
      "text": [
@@ -82,7 +82,7 @@
     },
     {
      "id": "Ctc1",
-     "image": "img/liechtenstein/Ctc1.webp",
+     "image": "data/img/liechtenstein/Ctc1.webp",
      "mapsUrl": "https://maps.app.goo.gl/K6qWhntS9DKpRALV6",
      "width": 0.5,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "DhYM",
-     "image": "img/liechtenstein/DhYM.webp",
+     "image": "data/img/liechtenstein/DhYM.webp",
      "mapsUrl": "https://maps.app.goo.gl/TtKWwMEXipCJ61yw5",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "ndYF",
-     "image": "img/liechtenstein/ndYF.webp",
+     "image": "data/img/liechtenstein/ndYF.webp",
      "mapsUrl": "https://maps.app.goo.gl/ghWpyNirh3qs2kvn9",
      "width": 0.5,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "UNBX",
-     "image": "img/liechtenstein/UNBX.webp",
+     "image": "data/img/liechtenstein/UNBX.webp",
      "mapsUrl": "https://maps.app.goo.gl/WKCipG81eMWdJSox6",
      "width": 0.5,
      "text": [
@@ -139,7 +139,7 @@
    "metas": [
     {
      "id": "wjF4",
-     "image": "img/liechtenstein/wjF4.webp",
+     "image": "data/img/liechtenstein/wjF4.webp",
      "mapsUrl": "https://maps.app.goo.gl/yGx6Fy4Z4WUnvqDU9",
      "width": 0.573,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "5YU7",
-     "image": "img/liechtenstein/5YU7.webp",
+     "image": "data/img/liechtenstein/5YU7.webp",
      "mapsUrl": "https://maps.app.goo.gl/WcreiPhz4jVASaPE9",
      "width": 0.573,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "fK9u",
-     "image": "img/liechtenstein/fK9u.webp",
+     "image": "data/img/liechtenstein/fK9u.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ztrpxc417tNA66ms6",
      "width": 0.573,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "25UF",
-     "image": "img/liechtenstein/25UF.webp",
+     "image": "data/img/liechtenstein/25UF.webp",
      "mapsUrl": "https://maps.app.goo.gl/hXXtx7tByhzgn9Ha8",
      "width": 0.573,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "uDcT",
-     "image": "img/liechtenstein/uDcT.webp",
+     "image": "data/img/liechtenstein/uDcT.webp",
      "mapsUrl": "https://maps.app.goo.gl/T3LBJGuprQG7M9aH7",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "Hu33",
-     "image": "img/liechtenstein/Hu33.webp",
+     "image": "data/img/liechtenstein/Hu33.webp",
      "mapsUrl": "https://maps.app.goo.gl/HLSeT7fg6T2Gk59f8",
      "width": 0.573,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "gG0N",
-     "image": "img/liechtenstein/gG0N.webp",
+     "image": "data/img/liechtenstein/gG0N.webp",
      "mapsUrl": "https://maps.app.goo.gl/vqsbtJqackCdEitA7",
      "width": 0.573,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "BTob",
-     "image": "img/liechtenstein/BTob.webp",
+     "image": "data/img/liechtenstein/BTob.webp",
      "mapsUrl": "https://maps.app.goo.gl/fyPizqVwdjxWWHDE6",
      "width": 0.573,
      "text": [
@@ -213,7 +213,7 @@
     },
     {
      "id": "iJBv",
-     "image": "img/liechtenstein/iJBv.webp",
+     "image": "data/img/liechtenstein/iJBv.webp",
      "mapsUrl": "https://maps.app.goo.gl/PskAjZtbd5NKNcqr5",
      "width": 0.573,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "t5Ye",
-     "image": "img/liechtenstein/t5Ye.webp",
+     "image": "data/img/liechtenstein/t5Ye.webp",
      "mapsUrl": "https://maps.app.goo.gl/pUeLq4xJCzcrcgrk8",
      "width": 0.573,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "PSiM",
-     "image": "img/liechtenstein/PSiM.webp",
+     "image": "data/img/liechtenstein/PSiM.webp",
      "mapsUrl": "https://maps.app.goo.gl/jPFZaHzmGkmJExxv7",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "mKMX",
-     "image": "img/liechtenstein/mKMX.webp",
+     "image": "data/img/liechtenstein/mKMX.webp",
      "mapsUrl": "https://maps.app.goo.gl/MqYQUvyG9mrEEe5N9",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "UTf6",
-     "image": "img/liechtenstein/UTf6.webp",
+     "image": "data/img/liechtenstein/UTf6.webp",
      "mapsUrl": "https://maps.app.goo.gl/oLjhmwZ2yf59Dpy49",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "9VvC",
-     "image": "img/liechtenstein/9VvC.webp",
+     "image": "data/img/liechtenstein/9VvC.webp",
      "mapsUrl": "https://maps.app.goo.gl/L3V9v1xhJF147Xw18",
      "width": 0.573,
      "text": [
@@ -268,7 +268,7 @@
     },
     {
      "id": "Q2Ay",
-     "image": "img/liechtenstein/Q2Ay.webp",
+     "image": "data/img/liechtenstein/Q2Ay.webp",
      "mapsUrl": "https://maps.app.goo.gl/uRFSMZLpPzf6gpoP9",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
    "metas": [
     {
      "id": "NSbp",
-     "image": "img/liechtenstein/NSbp.webp",
+     "image": "data/img/liechtenstein/NSbp.webp",
      "mapsUrl": "https://maps.app.goo.gl/azBc75pi22L5j3yV9",
      "width": 0.573,
      "text": [
@@ -295,7 +295,7 @@
     },
     {
      "id": "c1EG",
-     "image": "img/liechtenstein/c1EG.webp",
+     "image": "data/img/liechtenstein/c1EG.webp",
      "mapsUrl": "https://maps.app.goo.gl/e3uph7ptbQF8z3t29",
      "width": 0.573,
      "text": [

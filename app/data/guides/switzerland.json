@@ -3,7 +3,7 @@
  "title": "Switzerland",
  "code": "CH",
  "continent": "Europe",
- "hero": "img/switzerland/hero.webp",
+ "hero": "data/img/switzerland/hero.webp",
  "metaCount": 41,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "srYV",
-     "image": "img/switzerland/srYV.webp",
+     "image": "data/img/switzerland/srYV.webp",
      "mapsUrl": "https://www.google.com/maps/@47.0331656,7.7057612,3a,75y,90.57h,85.91t/data=!3m6!1e1!3m4!1sL38SiHkSPvfSwnNyIC-FWw!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -33,7 +33,7 @@
     },
     {
      "id": "wLZ9",
-     "image": "img/switzerland/wLZ9.webp",
+     "image": "data/img/switzerland/wLZ9.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -44,7 +44,7 @@
     },
     {
      "id": "lPuj",
-     "image": "img/switzerland/lPuj.webp",
+     "image": "data/img/switzerland/lPuj.webp",
      "mapsUrl": "https://www.google.com/maps/@47.1206954,8.0692266,3a,50.4y,114.81h,68.31t/data=!3m6!1e1!3m4!1sFZCUXqe-KLDmbKXcEj8DAQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -54,7 +54,7 @@
     },
     {
      "id": "9CSb",
-     "image": "img/switzerland/9CSb.webp",
+     "image": "data/img/switzerland/9CSb.webp",
      "mapsUrl": "https://www.google.se/maps/@47.5258076,8.2439528,3a,33.4y,3.77h,103.89t/data=!3m6!1e1!3m4!1syf3QMjATwhRqmzdohNSaBg!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -64,7 +64,7 @@
     },
     {
      "id": "e1U8",
-     "image": "img/switzerland/e1U8.webp",
+     "image": "data/img/switzerland/e1U8.webp",
      "mapsUrl": "https://www.google.com/maps/@47.4740255,8.0507911,3a,15y,355.26h,91.13t/data=!3m7!1e1!3m5!1sqb-1uwoO4jwFuYpDwvxJHw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dqb-1uwoO4jwFuYpDwvxJHw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D338.48508%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "WZTx",
-     "image": "img/switzerland/WZTx.webp",
+     "image": "data/img/switzerland/WZTx.webp",
      "mapsUrl": "https://goo.gl/maps/og6G3hAaCuRfawHU6",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "K1Ul",
-     "image": "img/switzerland/K1Ul.webp",
+     "image": "data/img/switzerland/K1Ul.webp",
      "mapsUrl": "https://www.google.com/maps/@47.3350065,8.3040221,3a,43.1y,82.36h,76.19t/data=!3m6!1e1!3m4!1sEmvYucUMah0tD2Wdu_uceg!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "PEET",
-     "image": "img/switzerland/PEET.webp",
+     "image": "data/img/switzerland/PEET.webp",
      "mapsUrl": "https://www.google.com/maps/@47.3121463,7.664027,3a,15y,318.41h,94.17t/data=!3m6!1e1!3m4!1sU3eCl7BNYcUSYHIvg1UGVg!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "waGu",
-     "image": "img/switzerland/waGu.webp",
+     "image": "data/img/switzerland/waGu.webp",
      "mapsUrl": "https://www.google.com/maps/@47.3848991,8.3864539,3a,15y,352.81h,82.59t/data=!3m6!1e1!3m4!1s4XnqWNUCKp_qOwcpTiSQow!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "JMIW",
-     "image": "img/switzerland/JMIW.webp",
+     "image": "data/img/switzerland/JMIW.webp",
      "mapsUrl": "https://goo.gl/maps/kxWBdraHb97nkeLQA",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "FOTA",
-     "image": "img/switzerland/FOTA.webp",
+     "image": "data/img/switzerland/FOTA.webp",
      "mapsUrl": "https://www.google.se/maps/@46.8798706,6.9758277,3a,75y,112.06h,83.82t/data=!3m6!1e1!3m4!1s9Vt7SJCsIPinVJwzLnYu0Q!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "aYNF",
-     "image": "img/switzerland/aYNF.webp",
+     "image": "data/img/switzerland/aYNF.webp",
      "mapsUrl": "https://www.google.se/maps/@46.7025897,8.8493444,3a,75y,330h,105.97t/data=!3m6!1e1!3m4!1slWFjS6yGA9-2QV4XLynz5A!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "kRj5",
-     "image": "img/switzerland/kRj5.webp",
+     "image": "data/img/switzerland/kRj5.webp",
      "mapsUrl": "https://www.google.com/maps/@47.4822109,8.4443509,3a,45.2y,119.57h,86.9t/data=!3m7!1e1!3m5!1shCh6zuSyYj-_gO_0yJ39CA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DhCh6zuSyYj-_gO_0yJ39CA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D252.86197%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
    "metas": [
     {
      "id": "Oo4G",
-     "image": "img/switzerland/Oo4G.webp",
+     "image": "data/img/switzerland/Oo4G.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "ARS4",
-     "image": "img/switzerland/ARS4.webp",
+     "image": "data/img/switzerland/ARS4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "hhwq",
-     "image": "img/switzerland/hhwq.webp",
+     "image": "data/img/switzerland/hhwq.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "EEdr",
-     "image": "img/switzerland/EEdr.webp",
+     "image": "data/img/switzerland/EEdr.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "efcd",
-     "image": "img/switzerland/efcd.webp",
+     "image": "data/img/switzerland/efcd.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "nUOq",
-     "image": "img/switzerland/nUOq.webp",
+     "image": "data/img/switzerland/nUOq.webp",
      "mapsUrl": "https://maps.app.goo.gl/S8PwBvpT81A8VQvd9",
      "width": 0.573,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "9xai",
-     "image": "img/switzerland/9xai.webp",
+     "image": "data/img/switzerland/9xai.webp",
      "mapsUrl": "https://maps.app.goo.gl/7uxdNooxMKqhBHhFA",
      "width": 0.573,
      "text": [
@@ -224,7 +224,7 @@
     },
     {
      "id": "vKu1",
-     "image": "img/switzerland/vKu1.webp",
+     "image": "data/img/switzerland/vKu1.webp",
      "mapsUrl": "https://maps.app.goo.gl/yDzAa84WVfDPftodA",
      "width": 0.573,
      "text": [
@@ -233,7 +233,7 @@
     },
     {
      "id": "pdKy",
-     "image": "img/switzerland/pdKy.webp",
+     "image": "data/img/switzerland/pdKy.webp",
      "mapsUrl": "https://www.google.se/maps/@46.0108569,8.9033604,3a,84.4y,9.62h,103.2t/data=!3m6!1e1!3m4!1swObHjWiP9BgTVd5gZW9RKA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -243,7 +243,7 @@
     },
     {
      "id": "6CVU",
-     "image": "img/switzerland/6CVU.webp",
+     "image": "data/img/switzerland/6CVU.webp",
      "mapsUrl": "https://maps.app.goo.gl/cFoCckBaPTeEQAmYA",
      "width": 0.573,
      "text": [
@@ -252,7 +252,7 @@
     },
     {
      "id": "YE3t",
-     "image": "img/switzerland/YE3t.webp",
+     "image": "data/img/switzerland/YE3t.webp",
      "mapsUrl": "https://maps.app.goo.gl/4FEGr9TihbuhX8NT8",
      "width": 0.573,
      "text": [
@@ -262,7 +262,7 @@
     },
     {
      "id": "jQTD",
-     "image": "img/switzerland/jQTD.webp",
+     "image": "data/img/switzerland/jQTD.webp",
      "mapsUrl": "https://maps.app.goo.gl/wWci28CFMBhM8rUX6",
      "width": 0.573,
      "text": [
@@ -272,7 +272,7 @@
     },
     {
      "id": "KVPw",
-     "image": "img/switzerland/KVPw.webp",
+     "image": "data/img/switzerland/KVPw.webp",
      "mapsUrl": "https://maps.app.goo.gl/RM81TxHV5rL27ENU6",
      "width": 0.573,
      "text": [
@@ -281,7 +281,7 @@
     },
     {
      "id": "JkUC",
-     "image": "img/switzerland/JkUC.webp",
+     "image": "data/img/switzerland/JkUC.webp",
      "mapsUrl": "https://www.google.se/maps/@46.8013643,6.7330986,3a,22.1y,136.22h,88.56t/data=!3m6!1e1!3m4!1sHN58HK9l7gR1RsPQO_cIKg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -290,7 +290,7 @@
     },
     {
      "id": "H9pK",
-     "image": "img/switzerland/H9pK.webp",
+     "image": "data/img/switzerland/H9pK.webp",
      "mapsUrl": "https://maps.app.goo.gl/vuix1bqqQGwKiyWN9",
      "width": 0.573,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "DapV",
-     "image": "img/switzerland/DapV.webp",
+     "image": "data/img/switzerland/DapV.webp",
      "mapsUrl": "https://maps.app.goo.gl/VsTKuC2Eyb6RmuQK9",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "V7Ou",
-     "image": "img/switzerland/V7Ou.webp",
+     "image": "data/img/switzerland/V7Ou.webp",
      "mapsUrl": "https://maps.app.goo.gl/i7acjUcC5mPCW3cC9",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
     },
     {
      "id": "XO5x",
-     "image": "img/switzerland/XO5x.webp",
+     "image": "data/img/switzerland/XO5x.webp",
      "mapsUrl": "https://maps.app.goo.gl/jmTT9DLE4nhE3Qsx6",
      "width": 0.573,
      "text": [
@@ -327,7 +327,7 @@
     },
     {
      "id": "e2jj",
-     "image": "img/switzerland/e2jj.webp",
+     "image": "data/img/switzerland/e2jj.webp",
      "mapsUrl": null,
      "width": 1,
      "text": [
@@ -346,7 +346,7 @@
    "metas": [
     {
      "id": "fLRI",
-     "image": "img/switzerland/fLRI.webp",
+     "image": "data/img/switzerland/fLRI.webp",
      "mapsUrl": "https://www.google.se/maps/@46.5544469,6.4426351,3a,40y,146.94h,91.25t/data=!3m6!1e1!3m4!1sF1vZiFG-Z3XOqOV7nTjvyw!2e0!7i13312!8i6656!5m1!1e4",
      "width": 0.573,
      "text": [
@@ -355,7 +355,7 @@
     },
     {
      "id": "xSSR",
-     "image": "img/switzerland/xSSR.webp",
+     "image": "data/img/switzerland/xSSR.webp",
      "mapsUrl": "https://www.google.se/maps/@47.579076,9.3187153,3a,71.9y,32.49h,89.55t/data=!3m6!1e1!3m4!1semCvlHdt6OltXYRWwdbfTw!2e0!7i13312!8i6656!5m1!1e4",
      "width": 0.573,
      "text": [
@@ -365,7 +365,7 @@
     },
     {
      "id": "hdVS",
-     "image": "img/switzerland/hdVS.webp",
+     "image": "data/img/switzerland/hdVS.webp",
      "mapsUrl": "https://www.google.se/maps/@46.1357039,7.1359628,3a,75y,46.7h,86.99t/data=!3m7!1e1!3m5!1sarsDGHXPAK7ICHL7Gm7wLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DarsDGHXPAK7ICHL7Gm7wLA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D64.43692%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -374,7 +374,7 @@
     },
     {
      "id": "1rvx",
-     "image": "img/switzerland/1rvx.webp",
+     "image": "data/img/switzerland/1rvx.webp",
      "mapsUrl": "https://www.google.se/maps/@47.568453,9.2361495,3a,71.8y,20.37h,95.07t/data=!3m6!1e1!3m4!1sqAvLZr6snnOTxogUnHky7g!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -383,7 +383,7 @@
     },
     {
      "id": "q9q8",
-     "image": "img/switzerland/q9q8.webp",
+     "image": "data/img/switzerland/q9q8.webp",
      "mapsUrl": "https://www.google.se/maps/@46.8073564,9.3392194,2a,75y,59.7h,90.91t/data=!3m7!1e1!3m5!1sJPgRwnmgScEvpjUS7AteBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJPgRwnmgScEvpjUS7AteBg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D345.45978%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -392,7 +392,7 @@
     },
     {
      "id": "JZSb",
-     "image": "img/switzerland/JZSb.webp",
+     "image": "data/img/switzerland/JZSb.webp",
      "mapsUrl": "https://www.google.com/maps/@46.4284643,7.8183143,3a,75y,287.59h,119.4t/data=!3m6!1e1!3m4!1swJus2sEl7-vFz2c7l6waZA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -402,7 +402,7 @@
     },
     {
      "id": "5c2b",
-     "image": "img/switzerland/5c2b.webp",
+     "image": "data/img/switzerland/5c2b.webp",
      "mapsUrl": "https://www.google.se/maps/@47.4357403,9.3928237,3a,15.7y,326.13h,97.57t/data=!3m7!1e1!3m5!1sZ4wB-pIims-wOTG28uQiAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DZ4wB-pIims-wOTG28uQiAQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D174.7588%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -411,7 +411,7 @@
     },
     {
      "id": "bd1S",
-     "image": "img/switzerland/bd1S.webp",
+     "image": "data/img/switzerland/bd1S.webp",
      "mapsUrl": "https://maps.app.goo.gl/VXbVLfz6NjkHKTbs7",
      "width": 0.573,
      "text": [
@@ -420,7 +420,7 @@
     },
     {
      "id": "pzZV",
-     "image": "img/switzerland/pzZV.webp",
+     "image": "data/img/switzerland/pzZV.webp",
      "mapsUrl": "https://www.google.se/maps/@46.9479948,7.4501508,3a,75y,98.68h,103.83t/data=!3m7!1e1!3m5!1sJ5ORCfNf0VoySkwxhwhiSQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJ5ORCfNf0VoySkwxhwhiSQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D165.1159%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [

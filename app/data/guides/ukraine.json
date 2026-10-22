@@ -3,7 +3,7 @@
  "title": "Ukraine",
  "code": "UA",
  "continent": "Europe",
- "hero": "img/ukraine/hero.webp",
+ "hero": "data/img/ukraine/hero.webp",
  "metaCount": 44,
  "sections": [
   {
@@ -59,7 +59,7 @@
    "metas": [
     {
      "id": "aOBs",
-     "image": "img/ukraine/aOBs.webp",
+     "image": "data/img/ukraine/aOBs.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "ugIv",
-     "image": "img/ukraine/ugIv.webp",
+     "image": "data/img/ukraine/ugIv.webp",
      "mapsUrl": "https://goo.gl/maps/ohBSrAuAqf8cMgtL8",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "JmjH",
-     "image": "img/ukraine/JmjH.webp",
+     "image": "data/img/ukraine/JmjH.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "9fKw",
-     "image": "img/ukraine/9fKw.webp",
+     "image": "data/img/ukraine/9fKw.webp",
      "mapsUrl": "https://goo.gl/maps/VwauXV3GFgJP5C7c8",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "CdRn",
-     "image": "img/ukraine/CdRn.webp",
+     "image": "data/img/ukraine/CdRn.webp",
      "mapsUrl": "https://maps.app.goo.gl/UR8YeAJH7naTNHWUA",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "sSrn",
-     "image": "img/ukraine/sSrn.webp",
+     "image": "data/img/ukraine/sSrn.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "MArz",
-     "image": "img/ukraine/MArz.webp",
+     "image": "data/img/ukraine/MArz.webp",
      "mapsUrl": "https://goo.gl/maps/1mhLqq79EuLWV49a6",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "c205",
-     "image": "img/ukraine/c205.webp",
+     "image": "data/img/ukraine/c205.webp",
      "mapsUrl": "https://goo.gl/maps/3tVWRXKf6txYgwZv8",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "AXOh",
-     "image": "img/ukraine/AXOh.webp",
+     "image": "data/img/ukraine/AXOh.webp",
      "mapsUrl": "https://goo.gl/maps/7nYqbtur3i8sjMds7",
      "width": 0.5,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "ftY0",
-     "image": "img/ukraine/ftY0.webp",
+     "image": "data/img/ukraine/ftY0.webp",
      "mapsUrl": "https://goo.gl/maps/x5BRstpw64dCRMXQ8",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "3Khl",
-     "image": "img/ukraine/3Khl.webp",
+     "image": "data/img/ukraine/3Khl.webp",
      "mapsUrl": "https://goo.gl/maps/9DG59wvsABNdQbwNA",
      "width": 0.5,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "iXrj",
-     "image": "img/ukraine/iXrj.webp",
+     "image": "data/img/ukraine/iXrj.webp",
      "mapsUrl": "https://goo.gl/maps/AgDTXGeQeu6iKpwg9",
      "width": 0.5,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "ffx5",
-     "image": "img/ukraine/ffx5.webp",
+     "image": "data/img/ukraine/ffx5.webp",
      "mapsUrl": "https://goo.gl/maps/KKYQ4T5oNRXTSXDM9",
      "width": 0.5,
      "text": [
@@ -198,7 +198,7 @@
     },
     {
      "id": "mASo",
-     "image": "img/ukraine/mASo.webp",
+     "image": "data/img/ukraine/mASo.webp",
      "mapsUrl": "https://goo.gl/maps/ShYnKNzfdpPnWfdJ6",
      "width": 0.5,
      "text": [
@@ -207,7 +207,7 @@
     },
     {
      "id": "9V71",
-     "image": "img/ukraine/9V71.webp",
+     "image": "data/img/ukraine/9V71.webp",
      "mapsUrl": "https://goo.gl/maps/bvTwyq6HLYGyxZ9u7",
      "width": 0.5,
      "text": [
@@ -216,7 +216,7 @@
     },
     {
      "id": "J6ak",
-     "image": "img/ukraine/J6ak.webp",
+     "image": "data/img/ukraine/J6ak.webp",
      "mapsUrl": "https://goo.gl/maps/r31Rb9yCfi9kusxN7",
      "width": 0.5,
      "text": [
@@ -226,7 +226,7 @@
     },
     {
      "id": "YsNh",
-     "image": "img/ukraine/YsNh.webp",
+     "image": "data/img/ukraine/YsNh.webp",
      "mapsUrl": "https://goo.gl/maps/zbDTDuXVvL1TCeTp8",
      "width": 0.5,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "dZuO",
-     "image": "img/ukraine/dZuO.webp",
+     "image": "data/img/ukraine/dZuO.webp",
      "mapsUrl": "https://goo.gl/maps/aSs9kxZQ84hVQBbx8",
      "width": 0.5,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "G7CF",
-     "image": "img/ukraine/G7CF.webp",
+     "image": "data/img/ukraine/G7CF.webp",
      "mapsUrl": "https://goo.gl/maps/jq6qEfeGHHF4x2h39",
      "width": 0.5,
      "text": [
@@ -259,7 +259,7 @@
     },
     {
      "id": "Hkd1",
-     "image": "img/ukraine/Hkd1.webp",
+     "image": "data/img/ukraine/Hkd1.webp",
      "mapsUrl": "https://goo.gl/maps/CvzVwPQqdzoZ9Sjp8",
      "width": 0.5,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "wdxm",
-     "image": "img/ukraine/wdxm.webp",
+     "image": "data/img/ukraine/wdxm.webp",
      "mapsUrl": "https://goo.gl/maps/7LkZPQrY4SJkvJXc8",
      "width": 0.5,
      "text": [
@@ -288,7 +288,7 @@
    "metas": [
     {
      "id": "tc2U",
-     "image": "img/ukraine/tc2U.webp",
+     "image": "data/img/ukraine/tc2U.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "uPIf",
-     "image": "img/ukraine/uPIf.webp",
+     "image": "data/img/ukraine/uPIf.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -309,7 +309,7 @@
     },
     {
      "id": "VZe4",
-     "image": "img/ukraine/VZe4.webp",
+     "image": "data/img/ukraine/VZe4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "nLtW",
-     "image": "img/ukraine/nLtW.webp",
+     "image": "data/img/ukraine/nLtW.webp",
      "mapsUrl": "https://www.google.com/maps/@49.5602723,25.6224129,3a,15y,72.99h,98.58t/data=!3m6!1e1!3m4!1somSxgV3UO9vMcsix-4MaOA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "t7jl",
-     "image": "img/ukraine/t7jl.webp",
+     "image": "data/img/ukraine/t7jl.webp",
      "mapsUrl": "https://maps.app.goo.gl/cfnbYiNAAE84PBLD6",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "TCLY",
-     "image": "img/ukraine/TCLY.webp",
+     "image": "data/img/ukraine/TCLY.webp",
      "mapsUrl": "https://goo.gl/maps/ttvYWnbUQacm3yyw7",
      "width": 0.573,
      "text": [
@@ -349,7 +349,7 @@
     },
     {
      "id": "pjlN",
-     "image": "img/ukraine/pjlN.webp",
+     "image": "data/img/ukraine/pjlN.webp",
      "mapsUrl": "https://goo.gl/maps/5f74GEbvVoWHJbFn9",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "7Sho",
-     "image": "img/ukraine/7Sho.webp",
+     "image": "data/img/ukraine/7Sho.webp",
      "mapsUrl": "https://goo.gl/maps/3AUYodhHvj8xYNDe8",
      "width": 0.573,
      "text": [
@@ -369,7 +369,7 @@
     },
     {
      "id": "clFO",
-     "image": "img/ukraine/clFO.webp",
+     "image": "data/img/ukraine/clFO.webp",
      "mapsUrl": "https://goo.gl/maps/R5BPsUYLrzGj1DuR9",
      "width": 0.573,
      "text": [
@@ -380,7 +380,7 @@
     },
     {
      "id": "INTC",
-     "image": "img/ukraine/INTC.webp",
+     "image": "data/img/ukraine/INTC.webp",
      "mapsUrl": "https://goo.gl/maps/43KwdhUBTR63Wdhq8",
      "width": 0.573,
      "text": [
@@ -389,7 +389,7 @@
     },
     {
      "id": "wjAJ",
-     "image": "img/ukraine/wjAJ.webp",
+     "image": "data/img/ukraine/wjAJ.webp",
      "mapsUrl": "https://goo.gl/maps/HeMu3MKGjwMkE8XbA",
      "width": 0.573,
      "text": [
@@ -400,7 +400,7 @@
     },
     {
      "id": "AkYz",
-     "image": "img/ukraine/AkYz.webp",
+     "image": "data/img/ukraine/AkYz.webp",
      "mapsUrl": "https://www.google.com/maps/@46.7466337,33.3598742,3a,15y,252.53h,96.14t/data=!3m6!1e1!3m4!1snFUnRbez3yFUVjnKG9azVg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
    "metas": [
     {
      "id": "IG9J",
-     "image": "img/ukraine/IG9J.webp",
+     "image": "data/img/ukraine/IG9J.webp",
      "mapsUrl": "https://goo.gl/maps/cQooXU6ATdCtezRh8",
      "width": 0.573,
      "text": [
@@ -430,7 +430,7 @@
     },
     {
      "id": "Vcd1",
-     "image": "img/ukraine/Vcd1.webp",
+     "image": "data/img/ukraine/Vcd1.webp",
      "mapsUrl": "https://goo.gl/maps/NZ9GTKyGpySoQNhN6",
      "width": 0.573,
      "text": [
@@ -439,7 +439,7 @@
     },
     {
      "id": "rOmV",
-     "image": "img/ukraine/rOmV.webp",
+     "image": "data/img/ukraine/rOmV.webp",
      "mapsUrl": "https://goo.gl/maps/FFdvbDVPjS7MD7o17",
      "width": 0.573,
      "text": [
@@ -448,7 +448,7 @@
     },
     {
      "id": "QxHe",
-     "image": "img/ukraine/QxHe.webp",
+     "image": "data/img/ukraine/QxHe.webp",
      "mapsUrl": "https://goo.gl/maps/JL9zYRCmmL3eAyF56",
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "7ytl",
-     "image": "img/ukraine/7ytl.webp",
+     "image": "data/img/ukraine/7ytl.webp",
      "mapsUrl": "https://maps.app.goo.gl/vVkZ4uh7Ceo2Cpr96",
      "width": 0.573,
      "text": [
@@ -466,7 +466,7 @@
     },
     {
      "id": "p0kA",
-     "image": "img/ukraine/p0kA.webp",
+     "image": "data/img/ukraine/p0kA.webp",
      "mapsUrl": "https://goo.gl/maps/Zj97CTnqBAp6jmBy8",
      "width": 0.573,
      "text": [
@@ -475,7 +475,7 @@
     },
     {
      "id": "Wve0",
-     "image": "img/ukraine/Wve0.webp",
+     "image": "data/img/ukraine/Wve0.webp",
      "mapsUrl": "https://goo.gl/maps/NiiWvxGea7ZQ2A8B6",
      "width": 0.573,
      "text": [
@@ -485,7 +485,7 @@
     },
     {
      "id": "NPC1",
-     "image": "img/ukraine/NPC1.webp",
+     "image": "data/img/ukraine/NPC1.webp",
      "mapsUrl": "https://goo.gl/maps/TZJXViB8DXJm3ng98",
      "width": 0.573,
      "text": [
@@ -494,7 +494,7 @@
     },
     {
      "id": "0TmA",
-     "image": "img/ukraine/0TmA.webp",
+     "image": "data/img/ukraine/0TmA.webp",
      "mapsUrl": "https://goo.gl/maps/scN4U9SbFQeLYG85A",
      "width": 0.573,
      "text": [
@@ -503,7 +503,7 @@
     },
     {
      "id": "fmwm",
-     "image": "img/ukraine/fmwm.webp",
+     "image": "data/img/ukraine/fmwm.webp",
      "mapsUrl": "https://goo.gl/maps/UEMdd5aeDpYMC8PF8",
      "width": 0.573,
      "text": [
@@ -513,7 +513,7 @@
     },
     {
      "id": "a4Vs",
-     "image": "img/ukraine/a4Vs.webp",
+     "image": "data/img/ukraine/a4Vs.webp",
      "mapsUrl": "https://goo.gl/maps/4RzVtbK6pEcdYJLw9",
      "width": 0.573,
      "text": [

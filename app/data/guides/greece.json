@@ -3,7 +3,7 @@
  "title": "Greece",
  "code": "GR",
  "continent": "Europe",
- "hero": "img/greece/hero.webp",
+ "hero": "data/img/greece/hero.webp",
  "metaCount": 35,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "rFeU",
-     "image": "img/greece/rFeU.webp",
+     "image": "data/img/greece/rFeU.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "Pz7M",
-     "image": "img/greece/Pz7M.webp",
+     "image": "data/img/greece/Pz7M.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "iK1n",
-     "image": "img/greece/iK1n.webp",
+     "image": "data/img/greece/iK1n.webp",
      "mapsUrl": "https://goo.gl/maps/XQNh2Qh9hEDBsxUX7",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "stIX",
-     "image": "img/greece/stIX.webp",
+     "image": "data/img/greece/stIX.webp",
      "mapsUrl": "https://goo.gl/maps/Ew9nFEzg4b8DDyLP8",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "9EGM",
-     "image": "img/greece/9EGM.webp",
+     "image": "data/img/greece/9EGM.webp",
      "mapsUrl": "https://www.google.com/maps/@38.021455,23.7599009,3a,15y,110.16h,118.15t/data=!3m6!1e1!3m4!1scoA-FhYp3AieTLLlLE5xog!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "LomS",
-     "image": "img/greece/LomS.webp",
+     "image": "data/img/greece/LomS.webp",
      "mapsUrl": "https://goo.gl/maps/rSnrVdTGecgndtDG9",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "t5zz",
-     "image": "img/greece/t5zz.webp",
+     "image": "data/img/greece/t5zz.webp",
      "mapsUrl": "https://goo.gl/maps/UmESCSxoVCPvCHfKA",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "W9N2",
-     "image": "img/greece/W9N2.webp",
+     "image": "data/img/greece/W9N2.webp",
      "mapsUrl": "https://www.google.com/maps/@40.5399748,21.4696156,3a,90y,226.27h,76.22t/data=!3m6!1e1!3m4!1s4_y_sv7Qif_tp_yDHyQHYA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "P33J",
-     "image": "img/greece/P33J.webp",
+     "image": "data/img/greece/P33J.webp",
      "mapsUrl": "https://goo.gl/maps/bia7yQBWYgWtMd2e9",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "UvYA",
-     "image": "img/greece/UvYA.webp",
+     "image": "data/img/greece/UvYA.webp",
      "mapsUrl": "https://goo.gl/maps/6zQFVB55gnHkDfh49",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "ZlI6",
-     "image": "img/greece/ZlI6.webp",
+     "image": "data/img/greece/ZlI6.webp",
      "mapsUrl": "https://goo.gl/maps/n5bpunFarzjo3EKt6",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "Mulx",
-     "image": "img/greece/Mulx.webp",
+     "image": "data/img/greece/Mulx.webp",
      "mapsUrl": "https://goo.gl/maps/MEEBupwmygH8a8ae9",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "ui2d",
-     "image": "img/greece/ui2d.webp",
+     "image": "data/img/greece/ui2d.webp",
      "mapsUrl": "https://goo.gl/maps/LWboq1rdF8eLh2Pm7",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "2vBM",
-     "image": "img/greece/2vBM.webp",
+     "image": "data/img/greece/2vBM.webp",
      "mapsUrl": "https://goo.gl/maps/T8QQR5Kw9iUQ7K286",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "9dRJ",
-     "image": "img/greece/9dRJ.webp",
+     "image": "data/img/greece/9dRJ.webp",
      "mapsUrl": "https://goo.gl/maps/RCxiJ5SWmjfFM3TB8",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
     },
     {
      "id": "uCkV",
-     "image": "img/greece/uCkV.webp",
+     "image": "data/img/greece/uCkV.webp",
      "mapsUrl": "https://goo.gl/maps/ijD7VCRuaB4nMfVo8",
      "width": 0.5,
      "text": [
@@ -168,7 +168,7 @@
     },
     {
      "id": "OinI",
-     "image": "img/greece/OinI.webp",
+     "image": "data/img/greece/OinI.webp",
      "mapsUrl": "https://goo.gl/maps/r4Eud81jAxZzSdTm6",
      "width": 0.5,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "OXmC",
-     "image": "img/greece/OXmC.webp",
+     "image": "data/img/greece/OXmC.webp",
      "mapsUrl": "https://goo.gl/maps/bKvuNXgGtgFjZWVP8",
      "width": 0.5,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "D0RT",
-     "image": "img/greece/D0RT.webp",
+     "image": "data/img/greece/D0RT.webp",
      "mapsUrl": "https://goo.gl/maps/iuStzioDWdWQnko49",
      "width": 0.5,
      "text": [
@@ -198,7 +198,7 @@
     },
     {
      "id": "PD64",
-     "image": "img/greece/PD64.webp",
+     "image": "data/img/greece/PD64.webp",
      "mapsUrl": "https://maps.app.goo.gl/z4XT1tgshszgbgTr8",
      "width": 0.5,
      "text": [
@@ -207,7 +207,7 @@
     },
     {
      "id": "gSZ9",
-     "image": "img/greece/gSZ9.webp",
+     "image": "data/img/greece/gSZ9.webp",
      "mapsUrl": "https://goo.gl/maps/Vp75s8ddQsapxaYw7",
      "width": 0.5,
      "text": [
@@ -225,7 +225,7 @@
    "metas": [
     {
      "id": "OrNT",
-     "image": "img/greece/OrNT.webp",
+     "image": "data/img/greece/OrNT.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "4veg",
-     "image": "img/greece/4veg.webp",
+     "image": "data/img/greece/4veg.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "0HUg",
-     "image": "img/greece/0HUg.webp",
+     "image": "data/img/greece/0HUg.webp",
      "mapsUrl": "https://goo.gl/maps/dSDwKjSW5WX7ZfUM9",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "LYqE",
-     "image": "img/greece/LYqE.webp",
+     "image": "data/img/greece/LYqE.webp",
      "mapsUrl": "https://goo.gl/maps/aSvMDddt19EkE8DeA",
      "width": 0.573,
      "text": [
@@ -263,7 +263,7 @@
     },
     {
      "id": "gZjk",
-     "image": "img/greece/gZjk.webp",
+     "image": "data/img/greece/gZjk.webp",
      "mapsUrl": "https://goo.gl/maps/huRUpj39j9knpijJ9",
      "width": 0.573,
      "text": [
@@ -272,7 +272,7 @@
     },
     {
      "id": "1EYq",
-     "image": "img/greece/1EYq.webp",
+     "image": "data/img/greece/1EYq.webp",
      "mapsUrl": "https://goo.gl/maps/fei5QoyWXasfZvdM8",
      "width": 0.573,
      "text": [
@@ -281,7 +281,7 @@
     },
     {
      "id": "czh8",
-     "image": "img/greece/czh8.webp",
+     "image": "data/img/greece/czh8.webp",
      "mapsUrl": "https://www.google.com/maps/@35.3110874,25.3634001,3a,84.8y,116.37h,86.03t/data=!3m6!1e1!3m4!1s_RKJMbJpvRedOTGFAa5fKA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -290,7 +290,7 @@
     },
     {
      "id": "IAgW",
-     "image": "img/greece/IAgW.webp",
+     "image": "data/img/greece/IAgW.webp",
      "mapsUrl": "https://goo.gl/maps/jYPsyjs5oEN6rSv7A",
      "width": 0.573,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "NfLS",
-     "image": "img/greece/NfLS.webp",
+     "image": "data/img/greece/NfLS.webp",
      "mapsUrl": "https://goo.gl/maps/cPnsLsDkXv4DrJ9R9",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
    "metas": [
     {
      "id": "LaWJ",
-     "image": "img/greece/LaWJ.webp",
+     "image": "data/img/greece/LaWJ.webp",
      "mapsUrl": "https://goo.gl/maps/VtEyfppwnoTu59bi9",
      "width": 0.573,
      "text": [
@@ -326,7 +326,7 @@
     },
     {
      "id": "mBGi",
-     "image": "img/greece/mBGi.webp",
+     "image": "data/img/greece/mBGi.webp",
      "mapsUrl": "https://goo.gl/maps/7rpKD4hmLhDbGE338",
      "width": 0.573,
      "text": [
@@ -335,7 +335,7 @@
     },
     {
      "id": "EurJ",
-     "image": "img/greece/EurJ.webp",
+     "image": "data/img/greece/EurJ.webp",
      "mapsUrl": "https://goo.gl/maps/JZx5ugETzPT2DY1ZA",
      "width": 0.573,
      "text": [
@@ -344,7 +344,7 @@
     },
     {
      "id": "nWCE",
-     "image": "img/greece/nWCE.webp",
+     "image": "data/img/greece/nWCE.webp",
      "mapsUrl": "https://goo.gl/maps/ZXm4H8xf48XuxBJH7",
      "width": 0.573,
      "text": [
@@ -353,7 +353,7 @@
     },
     {
      "id": "iTtu",
-     "image": "img/greece/iTtu.webp",
+     "image": "data/img/greece/iTtu.webp",
      "mapsUrl": "https://goo.gl/maps/hxVyNZcKDLxSjLjE6",
      "width": 0.573,
      "text": [

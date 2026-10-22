@@ -3,7 +3,7 @@
  "title": "Rwanda",
  "code": "RW",
  "continent": "Africa",
- "hero": "img/rwanda/hero.webp",
+ "hero": "data/img/rwanda/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "6v8t",
-     "image": "img/rwanda/6v8t.webp",
+     "image": "data/img/rwanda/6v8t.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "kgGt",
-     "image": "img/rwanda/kgGt.webp",
+     "image": "data/img/rwanda/kgGt.webp",
      "mapsUrl": "https://maps.app.goo.gl/B3wq9HweTJEii1pG8",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "qx8o",
-     "image": "img/rwanda/qx8o.webp",
+     "image": "data/img/rwanda/qx8o.webp",
      "mapsUrl": "https://maps.app.goo.gl/BxBGj4R9B8DihnYT8",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "SBDN",
-     "image": "img/rwanda/SBDN.webp",
+     "image": "data/img/rwanda/SBDN.webp",
      "mapsUrl": "https://goo.gl/maps/hX9fjJ12EmcFTcz56",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "w8kf",
-     "image": "img/rwanda/w8kf.webp",
+     "image": "data/img/rwanda/w8kf.webp",
      "mapsUrl": "https://maps.app.goo.gl/KQG8ihg2rehSPasG8",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "mjV9",
-     "image": "img/rwanda/mjV9.webp",
+     "image": "data/img/rwanda/mjV9.webp",
      "mapsUrl": "https://goo.gl/maps/WX7MpZGdAWGawsqy8",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "hmIS",
-     "image": "img/rwanda/hmIS.webp",
+     "image": "data/img/rwanda/hmIS.webp",
      "mapsUrl": "https://goo.gl/maps/gbzPuri7vRJkiagbA",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "UOlK",
-     "image": "img/rwanda/UOlK.webp",
+     "image": "data/img/rwanda/UOlK.webp",
      "mapsUrl": "https://maps.app.goo.gl/TENaUbM3LUFCsXjT8",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "QYX7",
-     "image": "img/rwanda/QYX7.webp",
+     "image": "data/img/rwanda/QYX7.webp",
      "mapsUrl": "https://maps.app.goo.gl/pf4mLdKzRWrKCcv96",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "g5Yq",
-     "image": "img/rwanda/g5Yq.webp",
+     "image": "data/img/rwanda/g5Yq.webp",
      "mapsUrl": "https://goo.gl/maps/5MdC1wVQaF4pqS9y5",
      "width": 0.5,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "J31h",
-     "image": "img/rwanda/J31h.webp",
+     "image": "data/img/rwanda/J31h.webp",
      "mapsUrl": "https://maps.app.goo.gl/vDyTReJJbcLtNTf7A",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "Hh5T",
-     "image": "img/rwanda/Hh5T.webp",
+     "image": "data/img/rwanda/Hh5T.webp",
      "mapsUrl": "https://goo.gl/maps/CJPhQkbQuiDrtUPn6",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "MTTM",
-     "image": "img/rwanda/MTTM.webp",
+     "image": "data/img/rwanda/MTTM.webp",
      "mapsUrl": "https://goo.gl/maps/WycbsHZUDD5q3nFt7",
      "width": 0.5,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "qGPQ",
-     "image": "img/rwanda/qGPQ.webp",
+     "image": "data/img/rwanda/qGPQ.webp",
      "mapsUrl": "https://goo.gl/maps/q5Xv4xi6cunJK86u9",
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "i3Ur",
-     "image": "img/rwanda/i3Ur.webp",
+     "image": "data/img/rwanda/i3Ur.webp",
      "mapsUrl": "https://goo.gl/maps/tbZ9ZSvbU7j8yY2t7",
      "width": 0.5,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "840u",
-     "image": "img/rwanda/840u.webp",
+     "image": "data/img/rwanda/840u.webp",
      "mapsUrl": "https://goo.gl/maps/ciq4R8Po2TLcNrD7A",
      "width": 0.5,
      "text": [
@@ -175,7 +175,7 @@
    "metas": [
     {
      "id": "fT6w",
-     "image": "img/rwanda/fT6w.webp",
+     "image": "data/img/rwanda/fT6w.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -186,7 +186,7 @@
     },
     {
      "id": "cXjQ",
-     "image": "img/rwanda/cXjQ.webp",
+     "image": "data/img/rwanda/cXjQ.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -195,7 +195,7 @@
     },
     {
      "id": "1ukT",
-     "image": "img/rwanda/1ukT.webp",
+     "image": "data/img/rwanda/1ukT.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "GGAi",
-     "image": "img/rwanda/GGAi.webp",
+     "image": "data/img/rwanda/GGAi.webp",
      "mapsUrl": "https://maps.app.goo.gl/TWXnvD4ycKzex6XC8",
      "width": 0.573,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "G0Ol",
-     "image": "img/rwanda/G0Ol.webp",
+     "image": "data/img/rwanda/G0Ol.webp",
      "mapsUrl": "https://goo.gl/maps/aAdzZnGza8TpogbF7",
      "width": 0.573,
      "text": [
@@ -226,7 +226,7 @@
     },
     {
      "id": "Hb5P",
-     "image": "img/rwanda/Hb5P.webp",
+     "image": "data/img/rwanda/Hb5P.webp",
      "mapsUrl": "https://maps.app.goo.gl/96duijq1j6WHLQAq9",
      "width": 0.573,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "2JiY",
-     "image": "img/rwanda/2JiY.webp",
+     "image": "data/img/rwanda/2JiY.webp",
      "mapsUrl": "https://goo.gl/maps/yMBXHuVJYtoaML5e9",
      "width": 0.573,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "2MuC",
-     "image": "img/rwanda/2MuC.webp",
+     "image": "data/img/rwanda/2MuC.webp",
      "mapsUrl": "https://maps.app.goo.gl/oDMq8e3EqRgLQZjA7",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
    "metas": [
     {
      "id": "rAil",
-     "image": "img/rwanda/rAil.webp",
+     "image": "data/img/rwanda/rAil.webp",
      "mapsUrl": "https://goo.gl/maps/5pk2yQnTb2ZCx74f9",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "Zc2V",
-     "image": "img/rwanda/Zc2V.webp",
+     "image": "data/img/rwanda/Zc2V.webp",
      "mapsUrl": "https://maps.app.goo.gl/tTkNGTBJNG4KAf6fA",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "rl93",
-     "image": "img/rwanda/rl93.webp",
+     "image": "data/img/rwanda/rl93.webp",
      "mapsUrl": "https://maps.app.goo.gl/Y3y44sSa4hGEaTX26",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "pMGj",
-     "image": "img/rwanda/pMGj.webp",
+     "image": "data/img/rwanda/pMGj.webp",
      "mapsUrl": "https://maps.app.goo.gl/stMBdvzjha6vokzw7",
      "width": 0.573,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "jFGS",
-     "image": "img/rwanda/jFGS.webp",
+     "image": "data/img/rwanda/jFGS.webp",
      "mapsUrl": "https://maps.app.goo.gl/PafdZEXjivDXHhQn6",
      "width": 0.573,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "vMyW",
-     "image": "img/rwanda/vMyW.webp",
+     "image": "data/img/rwanda/vMyW.webp",
      "mapsUrl": "https://maps.app.goo.gl/KJr8k9PwGWTDxgYV9",
      "width": 0.573,
      "text": [
@@ -322,7 +322,7 @@
     },
     {
      "id": "XCdi",
-     "image": "img/rwanda/XCdi.webp",
+     "image": "data/img/rwanda/XCdi.webp",
      "mapsUrl": "https://goo.gl/maps/gAjq1ucPiKnNmvhT7",
      "width": 0.573,
      "text": [
@@ -331,7 +331,7 @@
     },
     {
      "id": "5bSi",
-     "image": "img/rwanda/5bSi.webp",
+     "image": "data/img/rwanda/5bSi.webp",
      "mapsUrl": "https://goo.gl/maps/nKdtaHx2GqdGdUKKA",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Belgium",
  "code": "BE",
  "continent": "Europe",
- "hero": "img/belgium/hero.webp",
+ "hero": "data/img/belgium/hero.webp",
  "metaCount": 37,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "AXSi",
-     "image": "img/belgium/AXSi.webp",
+     "image": "data/img/belgium/AXSi.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "LF07",
-     "image": "img/belgium/LF07.webp",
+     "image": "data/img/belgium/LF07.webp",
      "mapsUrl": "https://goo.gl/maps/s9WZ5wXHjxfdasxEA",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "aGFv",
-     "image": "img/belgium/aGFv.webp",
+     "image": "data/img/belgium/aGFv.webp",
      "mapsUrl": "https://goo.gl/maps/JzDBPBQmQpdpUTkr9",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "UD8T",
-     "image": "img/belgium/UD8T.webp",
+     "image": "data/img/belgium/UD8T.webp",
      "mapsUrl": "https://goo.gl/maps/RDvW3wTW4iqNV2tD7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "rJDM",
-     "image": "img/belgium/rJDM.webp",
+     "image": "data/img/belgium/rJDM.webp",
      "mapsUrl": "https://goo.gl/maps/2cyUjSDG4BH9f5uY9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "ahrj",
-     "image": "img/belgium/ahrj.webp",
+     "image": "data/img/belgium/ahrj.webp",
      "mapsUrl": "https://goo.gl/maps/BrFNjfuzU7Za474WA",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "Bf5S",
-     "image": "img/belgium/Bf5S.webp",
+     "image": "data/img/belgium/Bf5S.webp",
      "mapsUrl": "https://goo.gl/maps/BWExLfB7TTbSVkYP8",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "IlY6",
-     "image": "img/belgium/IlY6.webp",
+     "image": "data/img/belgium/IlY6.webp",
      "mapsUrl": "https://goo.gl/maps/VyCtDfWcNBhg1ikRA",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "73Bz",
-     "image": "img/belgium/73Bz.webp",
+     "image": "data/img/belgium/73Bz.webp",
      "mapsUrl": "https://goo.gl/maps/FY37vi9S3bTNxSy48",
      "width": 0.5,
      "text": [
@@ -106,7 +106,7 @@
     },
     {
      "id": "ecIc",
-     "image": "img/belgium/ecIc.webp",
+     "image": "data/img/belgium/ecIc.webp",
      "mapsUrl": "https://goo.gl/maps/tAXCzpF27GcFKZ3w5",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "nGOp",
-     "image": "img/belgium/nGOp.webp",
+     "image": "data/img/belgium/nGOp.webp",
      "mapsUrl": "https://goo.gl/maps/Lx7hvoAnHXN2cTo26",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "xzJZ",
-     "image": "img/belgium/xzJZ.webp",
+     "image": "data/img/belgium/xzJZ.webp",
      "mapsUrl": "https://goo.gl/maps/sAhc1r57JwaqtSwbA",
      "width": 0.5,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "Qz6K",
-     "image": "img/belgium/Qz6K.webp",
+     "image": "data/img/belgium/Qz6K.webp",
      "mapsUrl": "https://goo.gl/maps/H1iv87V57GXsDUaF6",
      "width": 0.5,
      "text": [
@@ -145,7 +145,7 @@
     },
     {
      "id": "3Ooh",
-     "image": "img/belgium/3Ooh.webp",
+     "image": "data/img/belgium/3Ooh.webp",
      "mapsUrl": "https://goo.gl/maps/fdDEVHLvT4MspLHg6",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "5jYM",
-     "image": "img/belgium/5jYM.webp",
+     "image": "data/img/belgium/5jYM.webp",
      "mapsUrl": "https://goo.gl/maps/4uR8PfFXDqHnYBAm9",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "5MIw",
-     "image": "img/belgium/5MIw.webp",
+     "image": "data/img/belgium/5MIw.webp",
      "mapsUrl": "https://goo.gl/maps/jNqSmefYGT6CNZjM9",
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "3xpW",
-     "image": "img/belgium/3xpW.webp",
+     "image": "data/img/belgium/3xpW.webp",
      "mapsUrl": "https://goo.gl/maps/SZQPkdFXQga29Mig7",
      "width": 0.5,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "9KhQ",
-     "image": "img/belgium/9KhQ.webp",
+     "image": "data/img/belgium/9KhQ.webp",
      "mapsUrl": "https://goo.gl/maps/tLBvPZEDG73hkQqX6",
      "width": 0.5,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "npN9",
-     "image": "img/belgium/npN9.webp",
+     "image": "data/img/belgium/npN9.webp",
      "mapsUrl": "https://goo.gl/maps/fCWKiPpJJfNcsqAeA",
      "width": 0.5,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "n3uG",
-     "image": "img/belgium/n3uG.webp",
+     "image": "data/img/belgium/n3uG.webp",
      "mapsUrl": "https://goo.gl/maps/zUnpUySpKYHrrXzv5",
      "width": 0.5,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "6eFr",
-     "image": "img/belgium/6eFr.webp",
+     "image": "data/img/belgium/6eFr.webp",
      "mapsUrl": "https://goo.gl/maps/2ubdwvM6Bjjs3VDW6",
      "width": 0.5,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "by58",
-     "image": "img/belgium/by58.webp",
+     "image": "data/img/belgium/by58.webp",
      "mapsUrl": "https://maps.app.goo.gl/225Vb9eT7t7mPzuL8",
      "width": 0.5,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "u60n",
-     "image": "img/belgium/u60n.webp",
+     "image": "data/img/belgium/u60n.webp",
      "mapsUrl": "https://goo.gl/maps/pbmTw41ejWoYiJYa7",
      "width": 0.5,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "uyob",
-     "image": "img/belgium/uyob.webp",
+     "image": "data/img/belgium/uyob.webp",
      "mapsUrl": "https://goo.gl/maps/qkXHByaV3c78U93C7",
      "width": 0.5,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "0VLo",
-     "image": "img/belgium/0VLo.webp",
+     "image": "data/img/belgium/0VLo.webp",
      "mapsUrl": "https://maps.app.goo.gl/fnNQtz3nEusXaXGc6",
      "width": 0.5,
      "text": [
@@ -267,7 +267,7 @@
    "metas": [
     {
      "id": "vR5K",
-     "image": "img/belgium/vR5K.webp",
+     "image": "data/img/belgium/vR5K.webp",
      "mapsUrl": "https://goo.gl/maps/pCMD8ApVEhVboHDEA",
      "width": 0.5,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "U0Ti",
-     "image": "img/belgium/U0Ti.webp",
+     "image": "data/img/belgium/U0Ti.webp",
      "mapsUrl": "/images/belgium/talenmap2.png",
      "width": 0.5,
      "text": [
@@ -288,7 +288,7 @@
     },
     {
      "id": "Wopz",
-     "image": "img/belgium/Wopz.webp",
+     "image": "data/img/belgium/Wopz.webp",
      "mapsUrl": "https://goo.gl/maps/18z3QyG4rHdDjHEN7",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "t75X",
-     "image": "img/belgium/t75X.webp",
+     "image": "data/img/belgium/t75X.webp",
      "mapsUrl": "https://goo.gl/maps/4vxDP2GLvrwdzX277",
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "m1Lx",
-     "image": "img/belgium/m1Lx.webp",
+     "image": "data/img/belgium/m1Lx.webp",
      "mapsUrl": "https://goo.gl/maps/icrhJ8kLAgPaZTzz9",
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
     },
     {
      "id": "rJaC",
-     "image": "img/belgium/rJaC.webp",
+     "image": "data/img/belgium/rJaC.webp",
      "mapsUrl": "https://maps.app.goo.gl/YZsLvD7jARV44N618",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "EGhx",
-     "image": "img/belgium/EGhx.webp",
+     "image": "data/img/belgium/EGhx.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "VtiH",
-     "image": "img/belgium/VtiH.webp",
+     "image": "data/img/belgium/VtiH.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -349,7 +349,7 @@
     },
     {
      "id": "Iq0Z",
-     "image": "img/belgium/Iq0Z.webp",
+     "image": "data/img/belgium/Iq0Z.webp",
      "mapsUrl": "https://goo.gl/maps/tRz8HLksXMQTSxh4A",
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "0Xu1",
-     "image": "img/belgium/0Xu1.webp",
+     "image": "data/img/belgium/0Xu1.webp",
      "mapsUrl": "https://www.google.com/maps/@51.2585987,3.1534841,3a,90y,128.06h,79.88t/data=!3m6!1e1!3m4!1sb1octdAqmTfgteLc4ef9oA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -369,7 +369,7 @@
     },
     {
      "id": "6AkT",
-     "image": "img/belgium/6AkT.webp",
+     "image": "data/img/belgium/6AkT.webp",
      "mapsUrl": "https://goo.gl/maps/bkLrKGQ8pg4f6ZBW7",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
    "metas": [
     {
      "id": "fihD",
-     "image": "img/belgium/fihD.webp",
+     "image": "data/img/belgium/fihD.webp",
      "mapsUrl": "https://goo.gl/maps/xrgVB4eEoeEeHmY67",
      "width": 0.573,
      "text": [

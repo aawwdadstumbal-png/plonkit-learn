@@ -3,7 +3,7 @@
  "title": "Lesotho",
  "code": "LS",
  "continent": "Africa",
- "hero": "img/lesotho/hero.webp",
+ "hero": "data/img/lesotho/hero.webp",
  "metaCount": 21,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "TZam",
-     "image": "img/lesotho/TZam.webp",
+     "image": "data/img/lesotho/TZam.webp",
      "mapsUrl": "https://goo.gl/maps/PK8NwNS3Zok1yCA6A",
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "kxM2",
-     "image": "img/lesotho/kxM2.webp",
+     "image": "data/img/lesotho/kxM2.webp",
      "mapsUrl": "https://goo.gl/maps/Nq6giZuHZuTNmkTt7",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "JzJz",
-     "image": "img/lesotho/JzJz.webp",
+     "image": "data/img/lesotho/JzJz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "kqbl",
-     "image": "img/lesotho/kqbl.webp",
+     "image": "data/img/lesotho/kqbl.webp",
      "mapsUrl": "https://goo.gl/maps/ReggmYP1bDLvZzRy6",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "0ojD",
-     "image": "img/lesotho/0ojD.webp",
+     "image": "data/img/lesotho/0ojD.webp",
      "mapsUrl": "https://goo.gl/maps/ivnDRFo19e2ukgGe7",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "t2FE",
-     "image": "img/lesotho/t2FE.webp",
+     "image": "data/img/lesotho/t2FE.webp",
      "mapsUrl": "https://goo.gl/maps/JSAz42fCg3b2hkEJA",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "mefQ",
-     "image": "img/lesotho/mefQ.webp",
+     "image": "data/img/lesotho/mefQ.webp",
      "mapsUrl": "https://goo.gl/maps/Vz5UWqorAUAkz7vG6",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "njvL",
-     "image": "img/lesotho/njvL.webp",
+     "image": "data/img/lesotho/njvL.webp",
      "mapsUrl": "https://goo.gl/maps/GU5WE2weMnhFiqMU8",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "Ne2W",
-     "image": "img/lesotho/Ne2W.webp",
+     "image": "data/img/lesotho/Ne2W.webp",
      "mapsUrl": "https://goo.gl/maps/Uwp5vKH5X3oWjsSq9",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "fu9e",
-     "image": "img/lesotho/fu9e.webp",
+     "image": "data/img/lesotho/fu9e.webp",
      "mapsUrl": "https://goo.gl/maps/n51avXLx2feZfeDQ6",
      "width": 0.5,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "4i78",
-     "image": "img/lesotho/4i78.webp",
+     "image": "data/img/lesotho/4i78.webp",
      "mapsUrl": "https://goo.gl/maps/NQMV9xwjPjVCwo766",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
    "metas": [
     {
      "id": "7YgM",
-     "image": "img/lesotho/7YgM.webp",
+     "image": "data/img/lesotho/7YgM.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "rdOK",
-     "image": "img/lesotho/rdOK.webp",
+     "image": "data/img/lesotho/rdOK.webp",
      "mapsUrl": "https://goo.gl/maps/YQWRgiVHLma1bfcB6",
      "width": 0.573,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "ed3U",
-     "image": "img/lesotho/ed3U.webp",
+     "image": "data/img/lesotho/ed3U.webp",
      "mapsUrl": "https://goo.gl/maps/U93FdwHKwfh7eZJN6",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
    "metas": [
     {
      "id": "q6tO",
-     "image": "img/lesotho/q6tO.webp",
+     "image": "data/img/lesotho/q6tO.webp",
      "mapsUrl": "https://goo.gl/maps/yGCxxjNpMm9aMB5t8",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "ylee",
-     "image": "img/lesotho/ylee.webp",
+     "image": "data/img/lesotho/ylee.webp",
      "mapsUrl": "https://goo.gl/maps/FR7SfP3UGAjjPZWP7",
      "width": 0.573,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "k5TG",
-     "image": "img/lesotho/k5TG.webp",
+     "image": "data/img/lesotho/k5TG.webp",
      "mapsUrl": "https://goo.gl/maps/YauJmmSZemc7ebRa8",
      "width": 0.573,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "qWpp",
-     "image": "img/lesotho/qWpp.webp",
+     "image": "data/img/lesotho/qWpp.webp",
      "mapsUrl": "https://goo.gl/maps/xQ568u9GPqLMKoKR9",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "uroc",
-     "image": "img/lesotho/uroc.webp",
+     "image": "data/img/lesotho/uroc.webp",
      "mapsUrl": "https://goo.gl/maps/yPgXFUYj3ddAeX9e9",
      "width": 0.573,
      "text": [
@@ -225,7 +225,7 @@
     },
     {
      "id": "p4dx",
-     "image": "img/lesotho/p4dx.webp",
+     "image": "data/img/lesotho/p4dx.webp",
      "mapsUrl": "https://goo.gl/maps/cTatdqkYHfBRnimK6",
      "width": 0.573,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "EKt9",
-     "image": "img/lesotho/EKt9.webp",
+     "image": "data/img/lesotho/EKt9.webp",
      "mapsUrl": "https://goo.gl/maps/5zG7CxMUsBbhpJZQ9",
      "width": 0.573,
      "text": [

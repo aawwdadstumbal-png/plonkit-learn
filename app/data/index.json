@@ -5,7 +5,7 @@
   "code": "US-AK",
   "continent": "North America",
   "metaCount": 25,
-  "hero": "img/alaska/hero.webp"
+  "hero": "data/img/alaska/hero.webp"
  },
  {
   "slug": "albania",
@@ -13,7 +13,7 @@
   "code": "AL",
   "continent": "Europe",
   "metaCount": 35,
-  "hero": "img/albania/hero.webp"
+  "hero": "data/img/albania/hero.webp"
  },
  {
   "slug": "american-samoa",
@@ -21,7 +21,7 @@
   "code": "AS",
   "continent": "Oceania",
   "metaCount": 7,
-  "hero": "img/american-samoa/hero.webp"
+  "hero": "data/img/american-samoa/hero.webp"
  },
  {
   "slug": "andorra",
@@ -29,7 +29,7 @@
   "code": "AD",
   "continent": "Europe",
   "metaCount": 16,
-  "hero": "img/andorra/hero.webp"
+  "hero": "data/img/andorra/hero.webp"
  },
  {
   "slug": "antarctica",
@@ -37,7 +37,7 @@
   "code": "AQ",
   "continent": "Antarctica",
   "metaCount": 20,
-  "hero": "img/antarctica/hero.webp"
+  "hero": "data/img/antarctica/hero.webp"
  },
  {
   "slug": "argentina",
@@ -45,7 +45,7 @@
   "code": "AR",
   "continent": "South America",
   "metaCount": 57,
-  "hero": "img/argentina/hero.webp"
+  "hero": "data/img/argentina/hero.webp"
  },
  {
   "slug": "australia",
@@ -53,7 +53,7 @@
   "code": "AU",
   "continent": "Oceania",
   "metaCount": 74,
-  "hero": "img/australia/hero.webp"
+  "hero": "data/img/australia/hero.webp"
  },
  {
   "slug": "austria",
@@ -61,7 +61,7 @@
   "code": "AT",
   "continent": "Europe",
   "metaCount": 39,
-  "hero": "img/austria/hero.webp"
+  "hero": "data/img/austria/hero.webp"
  },
  {
   "slug": "azores",
@@ -69,7 +69,7 @@
   "code": "PT-AZ",
   "continent": "Europe",
   "metaCount": 16,
-  "hero": "img/azores/hero.webp"
+  "hero": "data/img/azores/hero.webp"
  },
  {
   "slug": "bangladesh",
@@ -77,7 +77,7 @@
   "code": "BD",
   "continent": "Asia",
   "metaCount": 44,
-  "hero": "img/bangladesh/hero.webp"
+  "hero": "data/img/bangladesh/hero.webp"
  },
  {
   "slug": "belarus",
@@ -85,7 +85,7 @@
   "code": "BY",
   "continent": "Europe",
   "metaCount": 6,
-  "hero": "img/belarus/hero.webp"
+  "hero": "data/img/belarus/hero.webp"
  },
  {
   "slug": "belgium",
@@ -93,7 +93,7 @@
   "code": "BE",
   "continent": "Europe",
   "metaCount": 37,
-  "hero": "img/belgium/hero.webp"
+  "hero": "data/img/belgium/hero.webp"
  },
  {
   "slug": "bermuda",
@@ -101,7 +101,7 @@
   "code": "BM",
   "continent": "North America",
   "metaCount": 13,
-  "hero": "img/bermuda/hero.webp"
+  "hero": "data/img/bermuda/hero.webp"
  },
  {
   "slug": "bhutan",
@@ -109,7 +109,7 @@
   "code": "BT",
   "continent": "Asia",
   "metaCount": 21,
-  "hero": "img/bhutan/hero.webp"
+  "hero": "data/img/bhutan/hero.webp"
  },
  {
   "slug": "bolivia",
@@ -117,7 +117,7 @@
   "code": "BO",
   "continent": "South America",
   "metaCount": 59,
-  "hero": "img/bolivia/hero.webp"
+  "hero": "data/img/bolivia/hero.webp"
  },
  {
   "slug": "botswana",
@@ -125,7 +125,7 @@
   "code": "BW",
   "continent": "Africa",
   "metaCount": 36,
-  "hero": "img/botswana/hero.webp"
+  "hero": "data/img/botswana/hero.webp"
  },
  {
   "slug": "brazil",
@@ -133,7 +133,7 @@
   "code": "BR",
   "continent": "South America",
   "metaCount": 104,
-  "hero": "img/brazil/hero.webp"
+  "hero": "data/img/brazil/hero.webp"
  },
  {
   "slug": "british-indian-ocean-territory",
@@ -141,7 +141,7 @@
   "code": "IO",
   "continent": "Asia",
   "metaCount": 10,
-  "hero": "img/british-indian-ocean-territory/hero.webp"
+  "hero": "data/img/british-indian-ocean-territory/hero.webp"
  },
  {
   "slug": "bulgaria",
@@ -149,7 +149,7 @@
   "code": "BG",
   "continent": "Europe",
   "metaCount": 32,
-  "hero": "img/bulgaria/hero.webp"
+  "hero": "data/img/bulgaria/hero.webp"
  },
  {
   "slug": "cambodia",
@@ -157,7 +157,7 @@
   "code": "KH",
   "continent": "Asia",
   "metaCount": 41,
-  "hero": "img/cambodia/hero.webp"
+  "hero": "data/img/cambodia/hero.webp"
  },
  {
   "slug": "canada",
@@ -165,7 +165,7 @@
   "code": "CA",
   "continent": "North America",
   "metaCount": 102,
-  "hero": "img/canada/hero.webp"
+  "hero": "data/img/canada/hero.webp"
  },
  {
   "slug": "chile",
@@ -173,7 +173,7 @@
   "code": "CL",
   "continent": "South America",
   "metaCount": 64,
-  "hero": "img/chile/hero.webp"
+  "hero": "data/img/chile/hero.webp"
  },
  {
   "slug": "china",
@@ -181,7 +181,7 @@
   "code": "CN",
   "continent": "Asia",
   "metaCount": 16,
-  "hero": "img/china/hero.webp"
+  "hero": "data/img/china/hero.webp"
  },
  {
   "slug": "christmas-island",
@@ -189,7 +189,7 @@
   "code": "CX",
   "continent": "Oceania",
   "metaCount": 13,
-  "hero": "img/christmas-island/hero.webp"
+  "hero": "data/img/christmas-island/hero.webp"
  },
  {
   "slug": "cocos-islands",
@@ -197,7 +197,7 @@
   "code": "CC",
   "continent": "Oceania",
   "metaCount": 12,
-  "hero": "img/cocos-islands/hero.webp"
+  "hero": "data/img/cocos-islands/hero.webp"
  },
  {
   "slug": "colombia",
@@ -205,7 +205,7 @@
   "code": "CO",
   "continent": "South America",
   "metaCount": 23,
-  "hero": "img/colombia/hero.webp"
+  "hero": "data/img/colombia/hero.webp"
  },
  {
   "slug": "costa-rica",
@@ -213,7 +213,7 @@
   "code": "CR",
   "continent": "North America",
   "metaCount": 83,
-  "hero": "img/costa-rica/hero.webp"
+  "hero": "data/img/costa-rica/hero.webp"
  },
  {
   "slug": "croatia",
@@ -221,7 +221,7 @@
   "code": "HR",
   "continent": "Europe",
   "metaCount": 33,
-  "hero": "img/croatia/hero.webp"
+  "hero": "data/img/croatia/hero.webp"
  },
  {
   "slug": "curacao",
@@ -229,7 +229,7 @@
   "code": "CW",
   "continent": "South America",
   "metaCount": 13,
-  "hero": "img/curacao/hero.webp"
+  "hero": "data/img/curacao/hero.webp"
  },
  {
   "slug": "cyprus",
@@ -237,7 +237,7 @@
   "code": "CY",
   "continent": "Europe",
   "metaCount": 34,
-  "hero": "img/cyprus/hero.webp"
+  "hero": "data/img/cyprus/hero.webp"
  },
  {
   "slug": "czechia",
@@ -245,7 +245,7 @@
   "code": "CZ",
   "continent": "Europe",
   "metaCount": 60,
-  "hero": "img/czechia/hero.webp"
+  "hero": "data/img/czechia/hero.webp"
  },
  {
   "slug": "denmark",
@@ -253,7 +253,7 @@
   "code": "DK",
   "continent": "Europe",
   "metaCount": 32,
-  "hero": "img/denmark/hero.webp"
+  "hero": "data/img/denmark/hero.webp"
  },
  {
   "slug": "dominican-republic",
@@ -261,7 +261,7 @@
   "code": "DO",
   "continent": "North America",
   "metaCount": 13,
-  "hero": "img/dominican-republic/hero.webp"
+  "hero": "data/img/dominican-republic/hero.webp"
  },
  {
   "slug": "ecuador",
@@ -269,7 +269,7 @@
   "code": "EC",
   "continent": "South America",
   "metaCount": 32,
-  "hero": "img/ecuador/hero.webp"
+  "hero": "data/img/ecuador/hero.webp"
  },
  {
   "slug": "egypt",
@@ -277,7 +277,7 @@
   "code": "EG",
   "continent": "Africa",
   "metaCount": 13,
-  "hero": "img/egypt/hero.webp"
+  "hero": "data/img/egypt/hero.webp"
  },
  {
   "slug": "estonia",
@@ -285,7 +285,7 @@
   "code": "EE",
   "continent": "Europe",
   "metaCount": 25,
-  "hero": "img/estonia/hero.webp"
+  "hero": "data/img/estonia/hero.webp"
  },
  {
   "slug": "eswatini",
@@ -293,7 +293,7 @@
   "code": "SZ",
   "continent": "Africa",
   "metaCount": 17,
-  "hero": "img/eswatini/hero.webp"
+  "hero": "data/img/eswatini/hero.webp"
  },
  {
   "slug": "falkland-islands",
@@ -301,7 +301,7 @@
   "code": "FK",
   "continent": "South America",
   "metaCount": 7,
-  "hero": "img/falkland-islands/hero.webp"
+  "hero": "data/img/falkland-islands/hero.webp"
  },
  {
   "slug": "faroe-islands",
@@ -309,7 +309,7 @@
   "code": "FO",
   "continent": "Europe",
   "metaCount": 19,
-  "hero": "img/faroe-islands/hero.webp"
+  "hero": "data/img/faroe-islands/hero.webp"
  },
  {
   "slug": "finland",
@@ -317,7 +317,7 @@
   "code": "FI",
   "continent": "Europe",
   "metaCount": 53,
-  "hero": "img/finland/hero.webp"
+  "hero": "data/img/finland/hero.webp"
  },
  {
   "slug": "france",
@@ -325,7 +325,7 @@
   "code": "FR",
   "continent": "Europe",
   "metaCount": 92,
-  "hero": "img/france/hero.webp"
+  "hero": "data/img/france/hero.webp"
  },
  {
   "slug": "germany",
@@ -333,7 +333,7 @@
   "code": "DE",
   "continent": "Europe",
   "metaCount": 71,
-  "hero": "img/germany/hero.webp"
+  "hero": "data/img/germany/hero.webp"
  },
  {
   "slug": "ghana",
@@ -341,7 +341,7 @@
   "code": "GH",
   "continent": "Africa",
   "metaCount": 28,
-  "hero": "img/ghana/hero.webp"
+  "hero": "data/img/ghana/hero.webp"
  },
  {
   "slug": "gibraltar",
@@ -349,7 +349,7 @@
   "code": "GI",
   "continent": "Europe",
   "metaCount": 10,
-  "hero": "img/gibraltar/hero.webp"
+  "hero": "data/img/gibraltar/hero.webp"
  },
  {
   "slug": "greece",
@@ -357,7 +357,7 @@
   "code": "GR",
   "continent": "Europe",
   "metaCount": 35,
-  "hero": "img/greece/hero.webp"
+  "hero": "data/img/greece/hero.webp"
  },
  {
   "slug": "greenland",
@@ -365,7 +365,7 @@
   "code": "GL",
   "continent": "North America",
   "metaCount": 52,
-  "hero": "img/greenland/hero.webp"
+  "hero": "data/img/greenland/hero.webp"
  },
  {
   "slug": "guam",
@@ -373,7 +373,7 @@
   "code": "GU",
   "continent": "Oceania",
   "metaCount": 12,
-  "hero": "img/guam/hero.webp"
+  "hero": "data/img/guam/hero.webp"
  },
  {
   "slug": "guatemala",
@@ -381,7 +381,7 @@
   "code": "GT",
   "continent": "North America",
   "metaCount": 28,
-  "hero": "img/guatemala/hero.webp"
+  "hero": "data/img/guatemala/hero.webp"
  },
  {
   "slug": "hawaii",
@@ -389,7 +389,7 @@
   "code": "US-HI",
   "continent": "North America",
   "metaCount": 32,
-  "hero": "img/hawaii/hero.webp"
+  "hero": "data/img/hawaii/hero.webp"
  },
  {
   "slug": "hong-kong",
@@ -397,7 +397,7 @@
   "code": "HK",
   "continent": "Asia",
   "metaCount": 44,
-  "hero": "img/hong-kong/hero.webp"
+  "hero": "data/img/hong-kong/hero.webp"
  },
  {
   "slug": "hungary",
@@ -405,7 +405,7 @@
   "code": "HU",
   "continent": "Europe",
   "metaCount": 28,
-  "hero": "img/hungary/hero.webp"
+  "hero": "data/img/hungary/hero.webp"
  },
  {
   "slug": "iceland",
@@ -413,7 +413,7 @@
   "code": "IS",
   "continent": "Europe",
   "metaCount": 30,
-  "hero": "img/iceland/hero.webp"
+  "hero": "data/img/iceland/hero.webp"
  },
  {
   "slug": "india",
@@ -421,7 +421,7 @@
   "code": "IN",
   "continent": "Asia",
   "metaCount": 104,
-  "hero": "img/india/hero.webp"
+  "hero": "data/img/india/hero.webp"
  },
  {
   "slug": "indonesia",
@@ -429,7 +429,7 @@
   "code": "ID",
   "continent": "Asia",
   "metaCount": 59,
-  "hero": "img/indonesia/hero.webp"
+  "hero": "data/img/indonesia/hero.webp"
  },
  {
   "slug": "iraq",
@@ -437,7 +437,7 @@
   "code": "IQ",
   "continent": "Asia",
   "metaCount": 5,
-  "hero": "img/iraq/hero.webp"
+  "hero": "data/img/iraq/hero.webp"
  },
  {
   "slug": "ireland",
@@ -445,7 +445,7 @@
   "code": "IE",
   "continent": "Europe",
   "metaCount": 27,
-  "hero": "img/ireland/hero.webp"
+  "hero": "data/img/ireland/hero.webp"
  },
  {
   "slug": "isle-of-man",
@@ -453,7 +453,7 @@
   "code": "IM",
   "continent": "Europe",
   "metaCount": 21,
-  "hero": "img/isle-of-man/hero.webp"
+  "hero": "data/img/isle-of-man/hero.webp"
  },
  {
   "slug": "israel-west-bank",
@@ -461,7 +461,7 @@
   "code": "IL",
   "continent": "Asia",
   "metaCount": 64,
-  "hero": "img/israel-west-bank/hero.webp"
+  "hero": "data/img/israel-west-bank/hero.webp"
  },
  {
   "slug": "italy",
@@ -469,7 +469,7 @@
   "code": "IT",
   "continent": "Europe",
   "metaCount": 52,
-  "hero": "img/italy/hero.webp"
+  "hero": "data/img/italy/hero.webp"
  },
  {
   "slug": "japan",
@@ -477,7 +477,7 @@
   "code": "JP",
   "continent": "Asia",
   "metaCount": 82,
-  "hero": "img/japan/hero.webp"
+  "hero": "data/img/japan/hero.webp"
  },
  {
   "slug": "jersey",
@@ -485,7 +485,7 @@
   "code": "JE",
   "continent": "Europe",
   "metaCount": 19,
-  "hero": "img/jersey/hero.webp"
+  "hero": "data/img/jersey/hero.webp"
  },
  {
   "slug": "jordan",
@@ -493,7 +493,7 @@
   "code": "JO",
   "continent": "Asia",
   "metaCount": 25,
-  "hero": "img/jordan/hero.webp"
+  "hero": "data/img/jordan/hero.webp"
  },
  {
   "slug": "kazakhstan",
@@ -501,7 +501,7 @@
   "code": "KZ",
   "continent": "Asia",
   "metaCount": 56,
-  "hero": "img/kazakhstan/hero.webp"
+  "hero": "data/img/kazakhstan/hero.webp"
  },
  {
   "slug": "kenya",
@@ -509,7 +509,7 @@
   "code": "KE",
   "continent": "Africa",
   "metaCount": 42,
-  "hero": "img/kenya/hero.webp"
+  "hero": "data/img/kenya/hero.webp"
  },
  {
   "slug": "kyrgyzstan",
@@ -517,7 +517,7 @@
   "code": "KG",
   "continent": "Asia",
   "metaCount": 91,
-  "hero": "img/kyrgyzstan/hero.webp"
+  "hero": "data/img/kyrgyzstan/hero.webp"
  },
  {
   "slug": "laos",
@@ -525,7 +525,7 @@
   "code": "LA",
   "continent": "Asia",
   "metaCount": 27,
-  "hero": "img/laos/hero.webp"
+  "hero": "data/img/laos/hero.webp"
  },
  {
   "slug": "latvia",
@@ -533,7 +533,7 @@
   "code": "LV",
   "continent": "Europe",
   "metaCount": 18,
-  "hero": "img/latvia/hero.webp"
+  "hero": "data/img/latvia/hero.webp"
  },
  {
   "slug": "lebanon",
@@ -541,7 +541,7 @@
   "code": "LB",
   "continent": "Asia",
   "metaCount": 25,
-  "hero": "img/lebanon/hero.webp"
+  "hero": "data/img/lebanon/hero.webp"
  },
  {
   "slug": "lesotho",
@@ -549,7 +549,7 @@
   "code": "LS",
   "continent": "Africa",
   "metaCount": 21,
-  "hero": "img/lesotho/hero.webp"
+  "hero": "data/img/lesotho/hero.webp"
  },
  {
   "slug": "liechtenstein",
@@ -557,7 +557,7 @@
   "code": "LI",
   "continent": "Europe",
   "metaCount": 27,
-  "hero": "img/liechtenstein/hero.webp"
+  "hero": "data/img/liechtenstein/hero.webp"
  },
  {
   "slug": "lithuania",
@@ -565,7 +565,7 @@
   "code": "LT",
   "continent": "Europe",
   "metaCount": 25,
-  "hero": "img/lithuania/hero.webp"
+  "hero": "data/img/lithuania/hero.webp"
  },
  {
   "slug": "luxembourg",
@@ -573,7 +573,7 @@
   "code": "LU",
   "continent": "Europe",
   "metaCount": 21,
-  "hero": "img/luxembourg/hero.webp"
+  "hero": "data/img/luxembourg/hero.webp"
  },
  {
   "slug": "macau",
@@ -581,7 +581,7 @@
   "code": "MO",
   "continent": "Asia",
   "metaCount": 11,
-  "hero": "img/macau/hero.webp"
+  "hero": "data/img/macau/hero.webp"
  },
  {
   "slug": "madagascar",
@@ -589,7 +589,7 @@
   "code": "MG",
   "continent": "Africa",
   "metaCount": 52,
-  "hero": "img/madagascar/hero.webp"
+  "hero": "data/img/madagascar/hero.webp"
  },
  {
   "slug": "madeira",
@@ -597,7 +597,7 @@
   "code": "PT-MA",
   "continent": "Europe",
   "metaCount": 32,
-  "hero": "img/madeira/hero.webp"
+  "hero": "data/img/madeira/hero.webp"
  },
  {
   "slug": "malaysia",
@@ -605,7 +605,7 @@
   "code": "MY",
   "continent": "Asia",
   "metaCount": 32,
-  "hero": "img/malaysia/hero.webp"
+  "hero": "data/img/malaysia/hero.webp"
  },
  {
   "slug": "mali",
@@ -613,7 +613,7 @@
   "code": "ML",
   "continent": "Africa",
   "metaCount": 23,
-  "hero": "img/mali/hero.webp"
+  "hero": "data/img/mali/hero.webp"
  },
  {
   "slug": "malta",
@@ -621,7 +621,7 @@
   "code": "MT",
   "continent": "Europe",
   "metaCount": 15,
-  "hero": "img/malta/hero.webp"
+  "hero": "data/img/malta/hero.webp"
  },
  {
   "slug": "martinique",
@@ -629,7 +629,7 @@
   "code": "MQ",
   "continent": "North America",
   "metaCount": 4,
-  "hero": "img/martinique/hero.webp"
+  "hero": "data/img/martinique/hero.webp"
  },
  {
   "slug": "mexico",
@@ -637,7 +637,7 @@
   "code": "MX",
   "continent": "North America",
   "metaCount": 97,
-  "hero": "img/mexico/hero.webp"
+  "hero": "data/img/mexico/hero.webp"
  },
  {
   "slug": "middle-earth",
@@ -645,7 +645,7 @@
   "code": "",
   "continent": "General",
   "metaCount": 27,
-  "hero": "img/middle-earth/hero.webp"
+  "hero": "data/img/middle-earth/hero.webp"
  },
  {
   "slug": "monaco",
@@ -653,7 +653,7 @@
   "code": "MC",
   "continent": "Europe",
   "metaCount": 8,
-  "hero": "img/monaco/hero.webp"
+  "hero": "data/img/monaco/hero.webp"
  },
  {
   "slug": "mongolia",
@@ -661,7 +661,7 @@
   "code": "MN",
   "continent": "Asia",
   "metaCount": 83,
-  "hero": "img/mongolia/hero.webp"
+  "hero": "data/img/mongolia/hero.webp"
  },
  {
   "slug": "montenegro",
@@ -669,7 +669,7 @@
   "code": "ME",
   "continent": "Europe",
   "metaCount": 20,
-  "hero": "img/montenegro/hero.webp"
+  "hero": "data/img/montenegro/hero.webp"
  },
  {
   "slug": "namibia",
@@ -677,7 +677,7 @@
   "code": "NA",
   "continent": "Africa",
   "metaCount": 80,
-  "hero": "img/namibia/hero.webp"
+  "hero": "data/img/namibia/hero.webp"
  },
  {
   "slug": "nepal",
@@ -685,7 +685,7 @@
   "code": "NP",
   "continent": "Asia",
   "metaCount": 84,
-  "hero": "img/nepal/hero.webp"
+  "hero": "data/img/nepal/hero.webp"
  },
  {
   "slug": "netherlands",
@@ -693,7 +693,7 @@
   "code": "NL",
   "continent": "Europe",
   "metaCount": 52,
-  "hero": "img/netherlands/hero.webp"
+  "hero": "data/img/netherlands/hero.webp"
  },
  {
   "slug": "new-zealand",
@@ -701,7 +701,7 @@
   "code": "NZ",
   "continent": "Oceania",
   "metaCount": 74,
-  "hero": "img/new-zealand/hero.webp"
+  "hero": "data/img/new-zealand/hero.webp"
  },
  {
   "slug": "nigeria",
@@ -709,7 +709,7 @@
   "code": "NG",
   "continent": "Africa",
   "metaCount": 29,
-  "hero": "img/nigeria/hero.webp"
+  "hero": "data/img/nigeria/hero.webp"
  },
  {
   "slug": "north-macedonia",
@@ -717,7 +717,7 @@
   "code": "MK",
   "continent": "Europe",
   "metaCount": 25,
-  "hero": "img/north-macedonia/hero.webp"
+  "hero": "data/img/north-macedonia/hero.webp"
  },
  {
   "slug": "northern-mariana-islands",
@@ -725,7 +725,7 @@
   "code": "MP",
   "continent": "Oceania",
   "metaCount": 11,
-  "hero": "img/northern-mariana-islands/hero.webp"
+  "hero": "data/img/northern-mariana-islands/hero.webp"
  },
  {
   "slug": "norway",
@@ -733,7 +733,7 @@
   "code": "NO",
   "continent": "Europe",
   "metaCount": 55,
-  "hero": "img/norway/hero.webp"
+  "hero": "data/img/norway/hero.webp"
  },
  {
   "slug": "oman",
@@ -741,7 +741,7 @@
   "code": "OM",
   "continent": "Asia",
   "metaCount": 70,
-  "hero": "img/oman/hero.webp"
+  "hero": "data/img/oman/hero.webp"
  },
  {
   "slug": "pakistan",
@@ -749,7 +749,7 @@
   "code": "PK",
   "continent": "Asia",
   "metaCount": 25,
-  "hero": "img/pakistan/hero.webp"
+  "hero": "data/img/pakistan/hero.webp"
  },
  {
   "slug": "panama",
@@ -757,7 +757,7 @@
   "code": "PA",
   "continent": "North America",
   "metaCount": 31,
-  "hero": "img/panama/hero.webp"
+  "hero": "data/img/panama/hero.webp"
  },
  {
   "slug": "peru",
@@ -765,7 +765,7 @@
   "code": "PE",
   "continent": "South America",
   "metaCount": 66,
-  "hero": "img/peru/hero.webp"
+  "hero": "data/img/peru/hero.webp"
  },
  {
   "slug": "philippines",
@@ -773,7 +773,7 @@
   "code": "PH",
   "continent": "Asia",
   "metaCount": 47,
-  "hero": "img/philippines/hero.webp"
+  "hero": "data/img/philippines/hero.webp"
  },
  {
   "slug": "pitcairn-islands",
@@ -781,7 +781,7 @@
   "code": "PN",
   "continent": "Oceania",
   "metaCount": 8,
-  "hero": "img/pitcairn-islands/hero.webp"
+  "hero": "data/img/pitcairn-islands/hero.webp"
  },
  {
   "slug": "poland",
@@ -789,7 +789,7 @@
   "code": "PL",
   "continent": "Europe",
   "metaCount": 37,
-  "hero": "img/poland/hero.webp"
+  "hero": "data/img/poland/hero.webp"
  },
  {
   "slug": "portugal",
@@ -797,7 +797,7 @@
   "code": "PT",
   "continent": "Europe",
   "metaCount": 35,
-  "hero": "img/portugal/hero.webp"
+  "hero": "data/img/portugal/hero.webp"
  },
  {
   "slug": "puerto-rico",
@@ -805,7 +805,7 @@
   "code": "PR",
   "continent": "North America",
   "metaCount": 18,
-  "hero": "img/puerto-rico/hero.webp"
+  "hero": "data/img/puerto-rico/hero.webp"
  },
  {
   "slug": "qatar",
@@ -813,7 +813,7 @@
   "code": "QA",
   "continent": "Asia",
   "metaCount": 28,
-  "hero": "img/qatar/hero.webp"
+  "hero": "data/img/qatar/hero.webp"
  },
  {
   "slug": "reunion",
@@ -821,7 +821,7 @@
   "code": "RE",
   "continent": "Africa",
   "metaCount": 14,
-  "hero": "img/reunion/hero.webp"
+  "hero": "data/img/reunion/hero.webp"
  },
  {
   "slug": "romania",
@@ -829,7 +829,7 @@
   "code": "RO",
   "continent": "Europe",
   "metaCount": 36,
-  "hero": "img/romania/hero.webp"
+  "hero": "data/img/romania/hero.webp"
  },
  {
   "slug": "russia",
@@ -837,7 +837,7 @@
   "code": "RU",
   "continent": "Europe",
   "metaCount": 125,
-  "hero": "img/russia/hero.webp"
+  "hero": "data/img/russia/hero.webp"
  },
  {
   "slug": "rwanda",
@@ -845,7 +845,7 @@
   "code": "RW",
   "continent": "Africa",
   "metaCount": 32,
-  "hero": "img/rwanda/hero.webp"
+  "hero": "data/img/rwanda/hero.webp"
  },
  {
   "slug": "saint-pierre-and-miquelon",
@@ -853,7 +853,7 @@
   "code": "PM",
   "continent": "North America",
   "metaCount": 12,
-  "hero": "img/saint-pierre-and-miquelon/hero.webp"
+  "hero": "data/img/saint-pierre-and-miquelon/hero.webp"
  },
  {
   "slug": "san-marino",
@@ -861,7 +861,7 @@
   "code": "SM",
   "continent": "Europe",
   "metaCount": 10,
-  "hero": "img/san-marino/hero.webp"
+  "hero": "data/img/san-marino/hero.webp"
  },
  {
   "slug": "sao-tome-and-principe",
@@ -869,7 +869,7 @@
   "code": "ST",
   "continent": "Africa",
   "metaCount": 12,
-  "hero": "img/sao-tome-and-principe/hero.webp"
+  "hero": "data/img/sao-tome-and-principe/hero.webp"
  },
  {
   "slug": "senegal",
@@ -877,7 +877,7 @@
   "code": "SN",
   "continent": "Africa",
   "metaCount": 31,
-  "hero": "img/senegal/hero.webp"
+  "hero": "data/img/senegal/hero.webp"
  },
  {
   "slug": "serbia",
@@ -885,7 +885,7 @@
   "code": "RS",
   "continent": "Europe",
   "metaCount": 21,
-  "hero": "img/serbia/hero.webp"
+  "hero": "data/img/serbia/hero.webp"
  },
  {
   "slug": "singapore",
@@ -893,7 +893,7 @@
   "code": "SG",
   "continent": "Asia",
   "metaCount": 17,
-  "hero": "img/singapore/hero.webp"
+  "hero": "data/img/singapore/hero.webp"
  },
  {
   "slug": "slovakia",
@@ -901,7 +901,7 @@
   "code": "SK",
   "continent": "Europe",
   "metaCount": 53,
-  "hero": "img/slovakia/hero.webp"
+  "hero": "data/img/slovakia/hero.webp"
  },
  {
   "slug": "slovenia",
@@ -909,7 +909,7 @@
   "code": "SI",
   "continent": "Europe",
   "metaCount": 24,
-  "hero": "img/slovenia/hero.webp"
+  "hero": "data/img/slovenia/hero.webp"
  },
  {
   "slug": "south-africa",
@@ -917,7 +917,7 @@
   "code": "ZA",
   "continent": "Africa",
   "metaCount": 45,
-  "hero": "img/south-africa/hero.webp"
+  "hero": "data/img/south-africa/hero.webp"
  },
  {
   "slug": "south-georgia-sandwich-islands",
@@ -925,7 +925,7 @@
   "code": "GS",
   "continent": "South America",
   "metaCount": 6,
-  "hero": "img/south-georgia-sandwich-islands/hero.webp"
+  "hero": "data/img/south-georgia-sandwich-islands/hero.webp"
  },
  {
   "slug": "south-korea",
@@ -933,7 +933,7 @@
   "code": "KR",
   "continent": "Asia",
   "metaCount": 27,
-  "hero": "img/south-korea/hero.webp"
+  "hero": "data/img/south-korea/hero.webp"
  },
  {
   "slug": "spain",
@@ -941,7 +941,7 @@
   "code": "ES",
   "continent": "Europe",
   "metaCount": 120,
-  "hero": "img/spain/hero.webp"
+  "hero": "data/img/spain/hero.webp"
  },
  {
   "slug": "spillover-countries",
@@ -949,7 +949,7 @@
   "code": "XX-SPILLS",
   "continent": "General",
   "metaCount": 14,
-  "hero": "img/spillover-countries/hero.webp"
+  "hero": "data/img/spillover-countries/hero.webp"
  },
  {
   "slug": "sri-lanka",
@@ -957,7 +957,7 @@
   "code": "LK",
   "continent": "Asia",
   "metaCount": 25,
-  "hero": "img/sri-lanka/hero.webp"
+  "hero": "data/img/sri-lanka/hero.webp"
  },
  {
   "slug": "svalbard",
@@ -965,7 +965,7 @@
   "code": "SJ",
   "continent": "Europe",
   "metaCount": 14,
-  "hero": "img/svalbard/hero.webp"
+  "hero": "data/img/svalbard/hero.webp"
  },
  {
   "slug": "sweden",
@@ -973,7 +973,7 @@
   "code": "SE",
   "continent": "Europe",
   "metaCount": 121,
-  "hero": "img/sweden/hero.webp"
+  "hero": "data/img/sweden/hero.webp"
  },
  {
   "slug": "switzerland",
@@ -981,7 +981,7 @@
   "code": "CH",
   "continent": "Europe",
   "metaCount": 41,
-  "hero": "img/switzerland/hero.webp"
+  "hero": "data/img/switzerland/hero.webp"
  },
  {
   "slug": "taiwan",
@@ -989,7 +989,7 @@
   "code": "TW",
   "continent": "Asia",
   "metaCount": 56,
-  "hero": "img/taiwan/hero.webp"
+  "hero": "data/img/taiwan/hero.webp"
  },
  {
   "slug": "tanzania",
@@ -997,7 +997,7 @@
   "code": "TZ",
   "continent": "Africa",
   "metaCount": 8,
-  "hero": "img/tanzania/hero.webp"
+  "hero": "data/img/tanzania/hero.webp"
  },
  {
   "slug": "thailand",
@@ -1005,7 +1005,7 @@
   "code": "TH",
   "continent": "Asia",
   "metaCount": 84,
-  "hero": "img/thailand/hero.webp"
+  "hero": "data/img/thailand/hero.webp"
  },
  {
   "slug": "tunisia",
@@ -1013,7 +1013,7 @@
   "code": "TN",
   "continent": "Africa",
   "metaCount": 29,
-  "hero": "img/tunisia/hero.webp"
+  "hero": "data/img/tunisia/hero.webp"
  },
  {
   "slug": "turkey",
@@ -1021,7 +1021,7 @@
   "code": "TR",
   "continent": "Europe",
   "metaCount": 64,
-  "hero": "img/turkey/hero.webp"
+  "hero": "data/img/turkey/hero.webp"
  },
  {
   "slug": "uganda",
@@ -1029,7 +1029,7 @@
   "code": "UG",
   "continent": "Africa",
   "metaCount": 28,
-  "hero": "img/uganda/hero.webp"
+  "hero": "data/img/uganda/hero.webp"
  },
  {
   "slug": "ukraine",
@@ -1037,7 +1037,7 @@
   "code": "UA",
   "continent": "Europe",
   "metaCount": 44,
-  "hero": "img/ukraine/hero.webp"
+  "hero": "data/img/ukraine/hero.webp"
  },
  {
   "slug": "united-arab-emirates",
@@ -1045,7 +1045,7 @@
   "code": "AE",
   "continent": "Asia",
   "metaCount": 24,
-  "hero": "img/united-arab-emirates/hero.webp"
+  "hero": "data/img/united-arab-emirates/hero.webp"
  },
  {
   "slug": "united-kingdom",
@@ -1053,7 +1053,7 @@
   "code": "GB",
   "continent": "Europe",
   "metaCount": 53,
-  "hero": "img/united-kingdom/hero.webp"
+  "hero": "data/img/united-kingdom/hero.webp"
  },
  {
   "slug": "united-states",
@@ -1061,7 +1061,7 @@
   "code": "US",
   "continent": "North America",
   "metaCount": 177,
-  "hero": "img/united-states/hero.webp"
+  "hero": "data/img/united-states/hero.webp"
  },
  {
   "slug": "uruguay",
@@ -1069,7 +1069,7 @@
   "code": "UY",
   "continent": "South America",
   "metaCount": 31,
-  "hero": "img/uruguay/hero.webp"
+  "hero": "data/img/uruguay/hero.webp"
  },
  {
   "slug": "us-minor-outlying-islands",
@@ -1077,7 +1077,7 @@
   "code": "UM-MQ",
   "continent": "North America",
   "metaCount": 15,
-  "hero": "img/us-minor-outlying-islands/hero.webp"
+  "hero": "data/img/us-minor-outlying-islands/hero.webp"
  },
  {
   "slug": "us-virgin-islands",
@@ -1085,7 +1085,7 @@
   "code": "VI",
   "continent": "North America",
   "metaCount": 10,
-  "hero": "img/us-virgin-islands/hero.webp"
+  "hero": "data/img/us-virgin-islands/hero.webp"
  },
  {
   "slug": "vanuatu",
@@ -1093,7 +1093,7 @@
   "code": "VU",
   "continent": "Oceania",
   "metaCount": 11,
-  "hero": "img/vanuatu/hero.webp"
+  "hero": "data/img/vanuatu/hero.webp"
  },
  {
   "slug": "vietnam",
@@ -1101,6 +1101,6 @@
   "code": "VN",
   "continent": "Asia",
   "metaCount": 61,
-  "hero": "img/vietnam/hero.webp"
+  "hero": "data/img/vietnam/hero.webp"
  }
 ]

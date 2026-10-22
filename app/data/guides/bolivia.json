@@ -3,7 +3,7 @@
  "title": "Bolivia",
  "code": "BO",
  "continent": "South America",
- "hero": "img/bolivia/hero.webp",
+ "hero": "data/img/bolivia/hero.webp",
  "metaCount": 59,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "qrcc",
-     "image": "img/bolivia/qrcc.webp",
+     "image": "data/img/bolivia/qrcc.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "jgzQ",
-     "image": "img/bolivia/jgzQ.webp",
+     "image": "data/img/bolivia/jgzQ.webp",
      "mapsUrl": "https://goo.gl/maps/X9z2xwXd73tvwmSQ7",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "5Eqs",
-     "image": "img/bolivia/5Eqs.webp",
+     "image": "data/img/bolivia/5Eqs.webp",
      "mapsUrl": "https://goo.gl/maps/Mf5uxrCFCNQPEQWw5",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "wFBZ",
-     "image": "img/bolivia/wFBZ.webp",
+     "image": "data/img/bolivia/wFBZ.webp",
      "mapsUrl": "https://goo.gl/maps/cnqmpu75r6LhU9pz5",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "aQXK",
-     "image": "img/bolivia/aQXK.webp",
+     "image": "data/img/bolivia/aQXK.webp",
      "mapsUrl": "https://goo.gl/maps/VpSJ5NB675vWiC4VA",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "rTJh",
-     "image": "img/bolivia/rTJh.webp",
+     "image": "data/img/bolivia/rTJh.webp",
      "mapsUrl": "https://goo.gl/maps/qHWJvrAvTgmVTPaX8",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "IcXQ",
-     "image": "img/bolivia/IcXQ.webp",
+     "image": "data/img/bolivia/IcXQ.webp",
      "mapsUrl": "https://goo.gl/maps/qfL2gmq2qiVWiv8E6",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "8kIo",
-     "image": "img/bolivia/8kIo.webp",
+     "image": "data/img/bolivia/8kIo.webp",
      "mapsUrl": "https://goo.gl/maps/gHKUzNvXsCzv8jaJ6",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "eNja",
-     "image": "img/bolivia/eNja.webp",
+     "image": "data/img/bolivia/eNja.webp",
      "mapsUrl": "https://goo.gl/maps/4e96N5ehWsKUJnuWA",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "qTVY",
-     "image": "img/bolivia/qTVY.webp",
+     "image": "data/img/bolivia/qTVY.webp",
      "mapsUrl": "https://goo.gl/maps/CkCekdbSNXo6E1TF6",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "D81j",
-     "image": "img/bolivia/D81j.webp",
+     "image": "data/img/bolivia/D81j.webp",
      "mapsUrl": "https://goo.gl/maps/BaXvQMB5kT2ADpf77",
      "width": 0.5,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "4FCc",
-     "image": "img/bolivia/4FCc.webp",
+     "image": "data/img/bolivia/4FCc.webp",
      "mapsUrl": "https://goo.gl/maps/Nj9PrsNN3bsXP7ah8",
      "width": 0.5,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "dcL2",
-     "image": "img/bolivia/dcL2.webp",
+     "image": "data/img/bolivia/dcL2.webp",
      "mapsUrl": "https://goo.gl/maps/WNrao9dSkTZ7oSCw5",
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
     },
     {
      "id": "k1TC",
-     "image": "img/bolivia/k1TC.webp",
+     "image": "data/img/bolivia/k1TC.webp",
      "mapsUrl": "https://goo.gl/maps/wvp21xUpa1UHkHwf9",
      "width": 0.5,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "ltvb",
-     "image": "img/bolivia/ltvb.webp",
+     "image": "data/img/bolivia/ltvb.webp",
      "mapsUrl": "https://maps.app.goo.gl/hgvybMtF11nXFK4H6",
      "width": 0.5,
      "text": [
@@ -168,7 +168,7 @@
     },
     {
      "id": "EaWE",
-     "image": "img/bolivia/EaWE.webp",
+     "image": "data/img/bolivia/EaWE.webp",
      "mapsUrl": "https://goo.gl/maps/KgAzAFqvBLUqthLC9",
      "width": 0.5,
      "text": [
@@ -187,7 +187,7 @@
    "metas": [
     {
      "id": "TP1D",
-     "image": "img/bolivia/TP1D.webp",
+     "image": "data/img/bolivia/TP1D.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -198,7 +198,7 @@
     },
     {
      "id": "1ybL",
-     "image": "img/bolivia/1ybL.webp",
+     "image": "data/img/bolivia/1ybL.webp",
      "mapsUrl": "https://goo.gl/maps/H5fnKKWWQggFrZDK6",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "KhV3",
-     "image": "img/bolivia/KhV3.webp",
+     "image": "data/img/bolivia/KhV3.webp",
      "mapsUrl": "https://goo.gl/maps/rbrzceWKYh31VB6W7",
      "width": 0.573,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "Z8Ei",
-     "image": "img/bolivia/Z8Ei.webp",
+     "image": "data/img/bolivia/Z8Ei.webp",
      "mapsUrl": "https://goo.gl/maps/jdqEiFzvqpYhtoFD6",
      "width": 0.573,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "EPdA",
-     "image": "img/bolivia/EPdA.webp",
+     "image": "data/img/bolivia/EPdA.webp",
      "mapsUrl": "https://goo.gl/maps/bSKbaorRZJUb5kGq9",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "fO7D",
-     "image": "img/bolivia/fO7D.webp",
+     "image": "data/img/bolivia/fO7D.webp",
      "mapsUrl": "https://maps.app.goo.gl/BWxtZzqV5ovoocZn7",
      "width": 0.573,
      "text": [
@@ -250,7 +250,7 @@
     },
     {
      "id": "xLWH",
-     "image": "img/bolivia/xLWH.webp",
+     "image": "data/img/bolivia/xLWH.webp",
      "mapsUrl": "https://goo.gl/maps/Lc1iYM2x1EXLLZXp6",
      "width": 0.573,
      "text": [
@@ -259,7 +259,7 @@
     },
     {
      "id": "ImLA",
-     "image": "img/bolivia/ImLA.webp",
+     "image": "data/img/bolivia/ImLA.webp",
      "mapsUrl": "https://goo.gl/maps/kmYtQkCkTm4mEfcq6",
      "width": 0.573,
      "text": [
@@ -268,7 +268,7 @@
     },
     {
      "id": "ZO0c",
-     "image": "img/bolivia/ZO0c.webp",
+     "image": "data/img/bolivia/ZO0c.webp",
      "mapsUrl": "https://maps.app.goo.gl/nujoA76LzWnSh3d86",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
    "metas": [
     {
      "id": "RDmK",
-     "image": "img/bolivia/RDmK.webp",
+     "image": "data/img/bolivia/RDmK.webp",
      "mapsUrl": "https://maps.app.goo.gl/KXk8Vq7X3tVJXjBQ9",
      "width": 0.5,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "WzWu",
-     "image": "img/bolivia/WzWu.webp",
+     "image": "data/img/bolivia/WzWu.webp",
      "mapsUrl": "https://goo.gl/maps/EgxVH7E4xNBFb8H78",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "gP54",
-     "image": "img/bolivia/gP54.webp",
+     "image": "data/img/bolivia/gP54.webp",
      "mapsUrl": "https://goo.gl/maps/CSkdt4xvTtUfXXLY7",
      "width": 0.573,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "N4Rl",
-     "image": "img/bolivia/N4Rl.webp",
+     "image": "data/img/bolivia/N4Rl.webp",
      "mapsUrl": "https://goo.gl/maps/MJqNzn9jGtL9THyU6",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "K0y8",
-     "image": "img/bolivia/K0y8.webp",
+     "image": "data/img/bolivia/K0y8.webp",
      "mapsUrl": "https://goo.gl/maps/7JkbZai57cibdKPh7",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "JmzU",
-     "image": "img/bolivia/JmzU.webp",
+     "image": "data/img/bolivia/JmzU.webp",
      "mapsUrl": "https://goo.gl/maps/ay4tNhy2zJr9cnD36",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "RTyP",
-     "image": "img/bolivia/RTyP.webp",
+     "image": "data/img/bolivia/RTyP.webp",
      "mapsUrl": "https://goo.gl/maps/KXwqZiNaczHtnD9Y9",
      "width": 0.573,
      "text": [
@@ -366,7 +366,7 @@
     },
     {
      "id": "8Fju",
-     "image": "img/bolivia/8Fju.webp",
+     "image": "data/img/bolivia/8Fju.webp",
      "mapsUrl": "https://goo.gl/maps/TayPWDNTakpNQXPh9",
      "width": 0.573,
      "text": [
@@ -375,7 +375,7 @@
     },
     {
      "id": "Cx1O",
-     "image": "img/bolivia/Cx1O.webp",
+     "image": "data/img/bolivia/Cx1O.webp",
      "mapsUrl": "https://goo.gl/maps/o9P3aP3vYsitozpx9",
      "width": 0.573,
      "text": [
@@ -384,7 +384,7 @@
     },
     {
      "id": "EDdZ",
-     "image": "img/bolivia/EDdZ.webp",
+     "image": "data/img/bolivia/EDdZ.webp",
      "mapsUrl": "https://goo.gl/maps/GDBLxSUtQvJ7xJdy7",
      "width": 0.573,
      "text": [
@@ -395,7 +395,7 @@
     },
     {
      "id": "3bLQ",
-     "image": "img/bolivia/3bLQ.webp",
+     "image": "data/img/bolivia/3bLQ.webp",
      "mapsUrl": "https://goo.gl/maps/j5Lkwk9Hp8PgETGz8",
      "width": 0.573,
      "text": [
@@ -404,7 +404,7 @@
     },
     {
      "id": "tbQH",
-     "image": "img/bolivia/tbQH.webp",
+     "image": "data/img/bolivia/tbQH.webp",
      "mapsUrl": "https://goo.gl/maps/eAnC1SXTuPN8qLcx8",
      "width": 0.573,
      "text": [
@@ -413,7 +413,7 @@
     },
     {
      "id": "9yGO",
-     "image": "img/bolivia/9yGO.webp",
+     "image": "data/img/bolivia/9yGO.webp",
      "mapsUrl": "https://goo.gl/maps/W62YcsRKcmDm6Eaa9",
      "width": 0.573,
      "text": [
@@ -422,7 +422,7 @@
     },
     {
      "id": "hZLQ",
-     "image": "img/bolivia/hZLQ.webp",
+     "image": "data/img/bolivia/hZLQ.webp",
      "mapsUrl": "https://goo.gl/maps/F2MuVBvkGAHL2tXy7",
      "width": 0.573,
      "text": [
@@ -431,7 +431,7 @@
     },
     {
      "id": "8f7Q",
-     "image": "img/bolivia/8f7Q.webp",
+     "image": "data/img/bolivia/8f7Q.webp",
      "mapsUrl": "https://goo.gl/maps/NCnDbCuy3NsSr3yC6",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "zvmK",
-     "image": "img/bolivia/zvmK.webp",
+     "image": "data/img/bolivia/zvmK.webp",
      "mapsUrl": "https://goo.gl/maps/nVQpcJsz9QXVHpWU7",
      "width": 0.573,
      "text": [
@@ -452,7 +452,7 @@
     },
     {
      "id": "xCqp",
-     "image": "img/bolivia/xCqp.webp",
+     "image": "data/img/bolivia/xCqp.webp",
      "mapsUrl": "https://goo.gl/maps/WUos5kiFmmzZ52Jz5",
      "width": 0.573,
      "text": [
@@ -461,7 +461,7 @@
     },
     {
      "id": "IE29",
-     "image": "img/bolivia/IE29.webp",
+     "image": "data/img/bolivia/IE29.webp",
      "mapsUrl": "https://goo.gl/maps/1nnJbj2oembgAu6p8",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "ERwi",
-     "image": "img/bolivia/ERwi.webp",
+     "image": "data/img/bolivia/ERwi.webp",
      "mapsUrl": "https://goo.gl/maps/nJ1ZYqBqrzJ6sBJx5",
      "width": 0.573,
      "text": [
@@ -481,7 +481,7 @@
     },
     {
      "id": "DNvg",
-     "image": "img/bolivia/DNvg.webp",
+     "image": "data/img/bolivia/DNvg.webp",
      "mapsUrl": "https://maps.app.goo.gl/pvH8Acnf3QFpajRp9",
      "width": 0.573,
      "text": [
@@ -490,7 +490,7 @@
     },
     {
      "id": "UDKX",
-     "image": "img/bolivia/UDKX.webp",
+     "image": "data/img/bolivia/UDKX.webp",
      "mapsUrl": "https://goo.gl/maps/2YQKJiUNsTEqM2sh9",
      "width": 0.573,
      "text": [
@@ -501,7 +501,7 @@
     },
     {
      "id": "VfJf",
-     "image": "img/bolivia/VfJf.webp",
+     "image": "data/img/bolivia/VfJf.webp",
      "mapsUrl": "https://goo.gl/maps/CVmATVvvqpsKice97",
      "width": 0.573,
      "text": [
@@ -511,7 +511,7 @@
     },
     {
      "id": "sBx6",
-     "image": "img/bolivia/sBx6.webp",
+     "image": "data/img/bolivia/sBx6.webp",
      "mapsUrl": "https://goo.gl/maps/g2safddEZ7VrQbya7",
      "width": 0.573,
      "text": [
@@ -520,7 +520,7 @@
     },
     {
      "id": "JsPk",
-     "image": "img/bolivia/JsPk.webp",
+     "image": "data/img/bolivia/JsPk.webp",
      "mapsUrl": "https://goo.gl/maps/bFd3oQ2THYVMYxRw8",
      "width": 0.573,
      "text": [
@@ -529,7 +529,7 @@
     },
     {
      "id": "ykan",
-     "image": "img/bolivia/ykan.webp",
+     "image": "data/img/bolivia/ykan.webp",
      "mapsUrl": "https://goo.gl/maps/bEMgujAbmKz7JJrr8",
      "width": 0.573,
      "text": [
@@ -539,7 +539,7 @@
     },
     {
      "id": "a0MD",
-     "image": "img/bolivia/a0MD.webp",
+     "image": "data/img/bolivia/a0MD.webp",
      "mapsUrl": "https://goo.gl/maps/tRKDrsqLVPQovyt3A",
      "width": 0.573,
      "text": [
@@ -549,7 +549,7 @@
     },
     {
      "id": "mHkr",
-     "image": "img/bolivia/mHkr.webp",
+     "image": "data/img/bolivia/mHkr.webp",
      "mapsUrl": "https://goo.gl/maps/s9VkGCjDbssQaxvH7",
      "width": 0.573,
      "text": [
@@ -558,7 +558,7 @@
     },
     {
      "id": "sz3k",
-     "image": "img/bolivia/sz3k.webp",
+     "image": "data/img/bolivia/sz3k.webp",
      "mapsUrl": "https://goo.gl/maps/TKxpGLbdSzm74Rpd8",
      "width": 0.573,
      "text": [
@@ -567,7 +567,7 @@
     },
     {
      "id": "Q7C9",
-     "image": "img/bolivia/Q7C9.webp",
+     "image": "data/img/bolivia/Q7C9.webp",
      "mapsUrl": "https://maps.app.goo.gl/yKZ25NyYiRS8ecXe7",
      "width": 0.573,
      "text": [
@@ -576,7 +576,7 @@
     },
     {
      "id": "LUMw",
-     "image": "img/bolivia/LUMw.webp",
+     "image": "data/img/bolivia/LUMw.webp",
      "mapsUrl": "https://goo.gl/maps/vo4ZC5uEtidqqpjr5",
      "width": 0.573,
      "text": [
@@ -585,7 +585,7 @@
     },
     {
      "id": "blRX",
-     "image": "img/bolivia/blRX.webp",
+     "image": "data/img/bolivia/blRX.webp",
      "mapsUrl": "https://goo.gl/maps/FhzWLiRgEThYUfqp7",
      "width": 0.573,
      "text": [
@@ -596,7 +596,7 @@
     },
     {
      "id": "FZk4",
-     "image": "img/bolivia/FZk4.webp",
+     "image": "data/img/bolivia/FZk4.webp",
      "mapsUrl": "https://goo.gl/maps/URiWdT23X84Y61HS9",
      "width": 0.573,
      "text": [
@@ -605,7 +605,7 @@
     },
     {
      "id": "qsZg",
-     "image": "img/bolivia/qsZg.webp",
+     "image": "data/img/bolivia/qsZg.webp",
      "mapsUrl": "https://goo.gl/maps/8e9bmY6Fiih6gB5e9",
      "width": 0.573,
      "text": [
@@ -615,7 +615,7 @@
     },
     {
      "id": "caq9",
-     "image": "img/bolivia/caq9.webp",
+     "image": "data/img/bolivia/caq9.webp",
      "mapsUrl": "https://goo.gl/maps/ogDPXucBXBxhyHhG8",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Mexico",
  "code": "MX",
  "continent": "North America",
- "hero": "img/mexico/hero.webp",
+ "hero": "data/img/mexico/hero.webp",
  "metaCount": 97,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "5mCi",
-     "image": "img/mexico/5mCi.webp",
+     "image": "data/img/mexico/5mCi.webp",
      "mapsUrl": "https://goo.gl/maps/kpKmy54dU5U8GHT68",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "2urx",
-     "image": "img/mexico/2urx.webp",
+     "image": "data/img/mexico/2urx.webp",
      "mapsUrl": "https://goo.gl/maps/P3se454FAsG1wL627",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "gmje",
-     "image": "img/mexico/gmje.webp",
+     "image": "data/img/mexico/gmje.webp",
      "mapsUrl": "https://goo.gl/maps/pdBPetpke4XTrHZd9",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "fEc6",
-     "image": "img/mexico/fEc6.webp",
+     "image": "data/img/mexico/fEc6.webp",
      "mapsUrl": "https://goo.gl/maps/KhHGYom36sLoUwKv5",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "qDSL",
-     "image": "img/mexico/qDSL.webp",
+     "image": "data/img/mexico/qDSL.webp",
      "mapsUrl": "https://goo.gl/maps/pNcF4kHAFfqPzvZZ9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "hWCI",
-     "image": "img/mexico/hWCI.webp",
+     "image": "data/img/mexico/hWCI.webp",
      "mapsUrl": "https://goo.gl/maps/RQu2i5MEW6oDiyTPA",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "loiN",
-     "image": "img/mexico/loiN.webp",
+     "image": "data/img/mexico/loiN.webp",
      "mapsUrl": "https://goo.gl/maps/kdz5s51wJask1Vi58",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "cx4K",
-     "image": "img/mexico/cx4K.webp",
+     "image": "data/img/mexico/cx4K.webp",
      "mapsUrl": "https://goo.gl/maps/EWB6iUQ7GYnDzLa57",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "ctfG",
-     "image": "img/mexico/ctfG.webp",
+     "image": "data/img/mexico/ctfG.webp",
      "mapsUrl": "https://goo.gl/maps/rSjYzhXbWgrhjA2dA",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "LWLO",
-     "image": "img/mexico/LWLO.webp",
+     "image": "data/img/mexico/LWLO.webp",
      "mapsUrl": "https://goo.gl/maps/JeXWbEdyJst8diRh6",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "WhQo",
-     "image": "img/mexico/WhQo.webp",
+     "image": "data/img/mexico/WhQo.webp",
      "mapsUrl": "https://goo.gl/maps/sCAekuAL7j5niBM8A",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "UPKI",
-     "image": "img/mexico/UPKI.webp",
+     "image": "data/img/mexico/UPKI.webp",
      "mapsUrl": "https://goo.gl/maps/7LjRWpcvW4jHBkmB9",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "LMob",
-     "image": "img/mexico/LMob.webp",
+     "image": "data/img/mexico/LMob.webp",
      "mapsUrl": "https://goo.gl/maps/zRUiMrqgaYkDDNuFA",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "VvCA",
-     "image": "img/mexico/VvCA.webp",
+     "image": "data/img/mexico/VvCA.webp",
      "mapsUrl": "https://goo.gl/maps/d5ha7Vsp3zsYPDVz7",
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "MkKr",
-     "image": "img/mexico/MkKr.webp",
+     "image": "data/img/mexico/MkKr.webp",
      "mapsUrl": "https://goo.gl/maps/JNiHkfHBfje1yGRe8",
      "width": 0.5,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "htqU",
-     "image": "img/mexico/htqU.webp",
+     "image": "data/img/mexico/htqU.webp",
      "mapsUrl": "https://goo.gl/maps/RpDyz3Ya1RRmMAk56",
      "width": 0.5,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "lXCZ",
-     "image": "img/mexico/lXCZ.webp",
+     "image": "data/img/mexico/lXCZ.webp",
      "mapsUrl": "https://goo.gl/maps/P5zUcpVycv8rnRnj8",
      "width": 0.5,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "SUto",
-     "image": "img/mexico/SUto.webp",
+     "image": "data/img/mexico/SUto.webp",
      "mapsUrl": "https://goo.gl/maps/CTGk6hsrdmPc8Mrg6",
      "width": 0.5,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "l7RV",
-     "image": "img/mexico/l7RV.webp",
+     "image": "data/img/mexico/l7RV.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -230,7 +230,7 @@
    "metas": [
     {
      "id": "gtmC",
-     "image": "img/mexico/gtmC.webp",
+     "image": "data/img/mexico/gtmC.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "sf65",
-     "image": "img/mexico/sf65.webp",
+     "image": "data/img/mexico/sf65.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "ah2z",
-     "image": "img/mexico/ah2z.webp",
+     "image": "data/img/mexico/ah2z.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "QJWC",
-     "image": "img/mexico/QJWC.webp",
+     "image": "data/img/mexico/QJWC.webp",
      "mapsUrl": "https://www.google.com/maps/@20.0493174,-99.0107792,3a,56.8y,272.7h,93.27t,0.35r/data=!3m6!1e1!3m4!1s_Fs2LO1LEepCqlWqsHaO2Q!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "X6cJ",
-     "image": "img/mexico/X6cJ.webp",
+     "image": "data/img/mexico/X6cJ.webp",
      "mapsUrl": "https://goo.gl/maps/eESXKSV8dxt54UNL8",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "ORWw",
-     "image": "img/mexico/ORWw.webp",
+     "image": "data/img/mexico/ORWw.webp",
      "mapsUrl": "https://www.google.com/maps/@20.8753454,-103.7311886,3a,90y,101.01h,87.56t/data=!3m6!1e1!3m4!1s4xdYQ4A6doHYwdLgqVL3Qg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "Rr0V",
-     "image": "img/mexico/Rr0V.webp",
+     "image": "data/img/mexico/Rr0V.webp",
      "mapsUrl": "https://goo.gl/maps/j9E1p4WQtykwYAeT6",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "u1UV",
-     "image": "img/mexico/u1UV.webp",
+     "image": "data/img/mexico/u1UV.webp",
      "mapsUrl": "https://goo.gl/maps/U2pgMhGoUJopPGgs6",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "3nP6",
-     "image": "img/mexico/3nP6.webp",
+     "image": "data/img/mexico/3nP6.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=F9TxZXH5v35cO354YEawHw&viewpoint=31.757994,-112.870238&heading=263.5458556766323&pitch=2.5053923868921117&fov=17.839695441002988&shorturl=1#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "gyjK",
-     "image": "img/mexico/gyjK.webp",
+     "image": "data/img/mexico/gyjK.webp",
      "mapsUrl": "https://goo.gl/maps/zBZ7EhGGYqZcdHYu9",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "1Otq",
-     "image": "img/mexico/1Otq.webp",
+     "image": "data/img/mexico/1Otq.webp",
      "mapsUrl": "https://www.google.com/maps/@20.7071168,-100.7817116,3a,43.8y,348.83h,94.28t,1.4r/data=!3m6!1e1!3m4!1s0EhedSJ_t2vTNRVEUTFw_w!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -329,7 +329,7 @@
     },
     {
      "id": "8Ipc",
-     "image": "img/mexico/8Ipc.webp",
+     "image": "data/img/mexico/8Ipc.webp",
      "mapsUrl": "https://www.google.com/maps/@22.1823547,-99.2254701,3a,75.6y,99.52h,87.1t,2.59r/data=!3m6!1e1!3m4!1s589n3ZLFIq6j9yZ64_Pecg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "jCer",
-     "image": "img/mexico/jCer.webp",
+     "image": "data/img/mexico/jCer.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&map_action=pano&pano=hXqBjOCPbTjY6oYGJwHwzg&viewpoint=18.949149,-104.123361&heading=332.03729498683276&pitch=7.964087451297019&fov=25.973071648944725&shorturl=1",
      "width": 0.573,
      "text": [
@@ -347,7 +347,7 @@
     },
     {
      "id": "Ok3w",
-     "image": "img/mexico/Ok3w.webp",
+     "image": "data/img/mexico/Ok3w.webp",
      "mapsUrl": "https://www.google.com/maps/@22.2483121,-105.2673387,3a,24.7y,231.1h,95.1t,0.55r/data=!3m6!1e1!3m4!1sfFlVUMFSHorwh8PjKcf52Q!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -356,7 +356,7 @@
     },
     {
      "id": "7E67",
-     "image": "img/mexico/7E67.webp",
+     "image": "data/img/mexico/7E67.webp",
      "mapsUrl": "https://goo.gl/maps/86E641kokWtYN5NX6",
      "width": 0.573,
      "text": [
@@ -365,7 +365,7 @@
     },
     {
      "id": "AkFp",
-     "image": "img/mexico/AkFp.webp",
+     "image": "data/img/mexico/AkFp.webp",
      "mapsUrl": "https://www.google.com/maps/@17.6968982,-92.2806729,3a,75y,352.6h,84.86t/data=!3m7!1e1!3m5!1s11lQZwsDCvfykm1S4tql2Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D11lQZwsDCvfykm1S4tql2Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D77.96164%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -374,7 +374,7 @@
     },
     {
      "id": "Cits",
-     "image": "img/mexico/Cits.webp",
+     "image": "data/img/mexico/Cits.webp",
      "mapsUrl": "https://www.google.com/maps/@30.0582843,-115.3339231,3a,21.9y,138.83h,103.69t/data=!3m6!1e1!3m4!1sjQxWhh9epjKO7Ze2KpTplw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -383,7 +383,7 @@
     },
     {
      "id": "9nVQ",
-     "image": "img/mexico/9nVQ.webp",
+     "image": "data/img/mexico/9nVQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/upX4KjV2JhraLmsw6",
      "width": 0.573,
      "text": [
@@ -392,7 +392,7 @@
     },
     {
      "id": "cAuJ",
-     "image": "img/mexico/cAuJ.webp",
+     "image": "data/img/mexico/cAuJ.webp",
      "mapsUrl": "https://www.google.com/maps/@19.6446686,-88.5994485,3a,45.1y,194.5h,97.43t/data=!3m6!1e1!3m4!1sB_stle2_Fal_jhAMboX2nw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -401,7 +401,7 @@
     },
     {
      "id": "hlxm",
-     "image": "img/mexico/hlxm.webp",
+     "image": "data/img/mexico/hlxm.webp",
      "mapsUrl": "https://goo.gl/maps/kMghJ7zmTaMFM85t9",
      "width": 0.573,
      "text": [
@@ -410,7 +410,7 @@
     },
     {
      "id": "vZJe",
-     "image": "img/mexico/vZJe.webp",
+     "image": "data/img/mexico/vZJe.webp",
      "mapsUrl": "https://goo.gl/maps/HqCNnDAhY6UJzUSr8",
      "width": 0.573,
      "text": [
@@ -419,7 +419,7 @@
     },
     {
      "id": "cxcn",
-     "image": "img/mexico/cxcn.webp",
+     "image": "data/img/mexico/cxcn.webp",
      "mapsUrl": "https://goo.gl/maps/rQYm3miw7JatszdW6",
      "width": 0.573,
      "text": [
@@ -428,7 +428,7 @@
     },
     {
      "id": "l5bZ",
-     "image": "img/mexico/l5bZ.webp",
+     "image": "data/img/mexico/l5bZ.webp",
      "mapsUrl": "https://goo.gl/maps/7Bh1qNJ77XSgQcju7",
      "width": 0.573,
      "text": [
@@ -437,7 +437,7 @@
     },
     {
      "id": "CdsA",
-     "image": "img/mexico/CdsA.webp",
+     "image": "data/img/mexico/CdsA.webp",
      "mapsUrl": "https://goo.gl/maps/hmtV3uhgYJ3TKxb27",
      "width": 0.573,
      "text": [
@@ -446,7 +446,7 @@
     },
     {
      "id": "3pdP",
-     "image": "img/mexico/3pdP.webp",
+     "image": "data/img/mexico/3pdP.webp",
      "mapsUrl": "https://www.google.com/maps/@20.6407472,-101.4633552,3a,68.3y,9.86h,83.47t,1.68r/data=!3m6!1e1!3m4!1s39n40IFSrD5dgb4EFxTJBw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -455,7 +455,7 @@
     },
     {
      "id": "Yn3G",
-     "image": "img/mexico/Yn3G.webp",
+     "image": "data/img/mexico/Yn3G.webp",
      "mapsUrl": "https://goo.gl/maps/38GATidM5TLUZAqMA",
      "width": 0.573,
      "text": [
@@ -464,7 +464,7 @@
     },
     {
      "id": "8Vzg",
-     "image": "img/mexico/8Vzg.webp",
+     "image": "data/img/mexico/8Vzg.webp",
      "mapsUrl": "https://www.google.com/maps/@19.362134,-88.9422351,3a,69.8y,257.2h,70.1t,1.27r/data=!3m6!1e1!3m4!1srCTt4rkxctIIZxa31rDm9A!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -474,7 +474,7 @@
     },
     {
      "id": "eOQI",
-     "image": "img/mexico/eOQI.webp",
+     "image": "data/img/mexico/eOQI.webp",
      "mapsUrl": "https://goo.gl/maps/Q2WkYKstD146TXjy9",
      "width": 0.573,
      "text": [
@@ -483,7 +483,7 @@
     },
     {
      "id": "N0AG",
-     "image": "img/mexico/N0AG.webp",
+     "image": "data/img/mexico/N0AG.webp",
      "mapsUrl": "https://goo.gl/maps/GZJE1MZpqxTRarqQ8",
      "width": 0.573,
      "text": [
@@ -492,7 +492,7 @@
     },
     {
      "id": "Hv5a",
-     "image": "img/mexico/Hv5a.webp",
+     "image": "data/img/mexico/Hv5a.webp",
      "mapsUrl": "https://goo.gl/maps/PdoQRtuWFJr6DV4i7",
      "width": 0.573,
      "text": [
@@ -501,7 +501,7 @@
     },
     {
      "id": "GyUQ",
-     "image": "img/mexico/GyUQ.webp",
+     "image": "data/img/mexico/GyUQ.webp",
      "mapsUrl": "https://goo.gl/maps/ZvQrEzzGVoLuV9xM8",
      "width": 0.573,
      "text": [
@@ -510,7 +510,7 @@
     },
     {
      "id": "yUfA",
-     "image": "img/mexico/yUfA.webp",
+     "image": "data/img/mexico/yUfA.webp",
      "mapsUrl": "https://goo.gl/maps/HmbhoDg17PFT3XUA7",
      "width": 0.573,
      "text": [
@@ -519,7 +519,7 @@
     },
     {
      "id": "8Yrh",
-     "image": "img/mexico/8Yrh.webp",
+     "image": "data/img/mexico/8Yrh.webp",
      "mapsUrl": "https://maps.app.goo.gl/x1bgEPqzNYHHyVZPA",
      "width": 0.573,
      "text": [
@@ -528,7 +528,7 @@
     },
     {
      "id": "FGDc",
-     "image": "img/mexico/FGDc.webp",
+     "image": "data/img/mexico/FGDc.webp",
      "mapsUrl": "https://goo.gl/maps/KchYSZZ2LaetmrHs9",
      "width": 0.573,
      "text": [
@@ -537,7 +537,7 @@
     },
     {
      "id": "baRr",
-     "image": "img/mexico/baRr.webp",
+     "image": "data/img/mexico/baRr.webp",
      "mapsUrl": "https://goo.gl/maps/Xzc72AMpvXw7C5zAA",
      "width": 0.573,
      "text": [
@@ -546,7 +546,7 @@
     },
     {
      "id": "PNuD",
-     "image": "img/mexico/PNuD.webp",
+     "image": "data/img/mexico/PNuD.webp",
      "mapsUrl": "https://goo.gl/maps/YLJa6XxeD4afNhmb6",
      "width": 0.573,
      "text": [
@@ -555,7 +555,7 @@
     },
     {
      "id": "83dD",
-     "image": "img/mexico/83dD.webp",
+     "image": "data/img/mexico/83dD.webp",
      "mapsUrl": "https://goo.gl/maps/f3SygmWwo5HUfFkN8",
      "width": 0.573,
      "text": [
@@ -564,7 +564,7 @@
     },
     {
      "id": "jhvW",
-     "image": "img/mexico/jhvW.webp",
+     "image": "data/img/mexico/jhvW.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -573,7 +573,7 @@
     },
     {
      "id": "iMLc",
-     "image": "img/mexico/iMLc.webp",
+     "image": "data/img/mexico/iMLc.webp",
      "mapsUrl": "https://goo.gl/maps/1UcPNupGtVZJb7VG9",
      "width": 0.573,
      "text": [
@@ -582,7 +582,7 @@
     },
     {
      "id": "RrIm",
-     "image": "img/mexico/RrIm.webp",
+     "image": "data/img/mexico/RrIm.webp",
      "mapsUrl": "https://goo.gl/maps/bAnLnCP38Ht29cVV7",
      "width": 0.573,
      "text": [
@@ -591,7 +591,7 @@
     },
     {
      "id": "hFJl",
-     "image": "img/mexico/hFJl.webp",
+     "image": "data/img/mexico/hFJl.webp",
      "mapsUrl": "https://goo.gl/maps/HgVE2AHqrxEZNYkXA",
      "width": 0.573,
      "text": [
@@ -600,7 +600,7 @@
     },
     {
      "id": "Ryu4",
-     "image": "img/mexico/Ryu4.webp",
+     "image": "data/img/mexico/Ryu4.webp",
      "mapsUrl": "https://goo.gl/maps/XGkAQS8FKC3GoDQU7",
      "width": 0.573,
      "text": [
@@ -609,7 +609,7 @@
     },
     {
      "id": "IdEs",
-     "image": "img/mexico/IdEs.webp",
+     "image": "data/img/mexico/IdEs.webp",
      "mapsUrl": "https://goo.gl/maps/Qjo483zUY68QJ6UBA",
      "width": 0.573,
      "text": [
@@ -618,7 +618,7 @@
     },
     {
      "id": "lwNA",
-     "image": "img/mexico/lwNA.webp",
+     "image": "data/img/mexico/lwNA.webp",
      "mapsUrl": "https://www.google.com/maps/@21.8385263,-100.9159054,3a,50.1y,82.64h,101.74t/data=!3m6!1e1!3m4!1sfgrFLxJCgUrvB28Z3w1SQw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -627,7 +627,7 @@
     },
     {
      "id": "YJOx",
-     "image": "img/mexico/YJOx.webp",
+     "image": "data/img/mexico/YJOx.webp",
      "mapsUrl": "https://goo.gl/maps/tEL5f7GE4BA2UNp86",
      "width": 0.573,
      "text": [
@@ -636,7 +636,7 @@
     },
     {
      "id": "caRa",
-     "image": "img/mexico/caRa.webp",
+     "image": "data/img/mexico/caRa.webp",
      "mapsUrl": "https://goo.gl/maps/Be6FBU236REnZ3No9",
      "width": 0.573,
      "text": [
@@ -646,7 +646,7 @@
     },
     {
      "id": "gENZ",
-     "image": "img/mexico/gENZ.webp",
+     "image": "data/img/mexico/gENZ.webp",
      "mapsUrl": "https://www.google.com/maps/@24.7770873,-103.634008,3a,39.3y,336.07h,71.03t/data=!3m6!1e1!3m4!1sGxYsoGoT29w3TZn2boCHVA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -656,7 +656,7 @@
     },
     {
      "id": "RddA",
-     "image": "img/mexico/RddA.webp",
+     "image": "data/img/mexico/RddA.webp",
      "mapsUrl": "https://goo.gl/maps/EQzJ8Xnwu45oRAnB7",
      "width": 0.573,
      "text": [
@@ -666,7 +666,7 @@
     },
     {
      "id": "Mziq",
-     "image": "img/mexico/Mziq.webp",
+     "image": "data/img/mexico/Mziq.webp",
      "mapsUrl": "https://goo.gl/maps/vPfkMSqKsZdmnruU8",
      "width": 0.573,
      "text": [
@@ -675,7 +675,7 @@
     },
     {
      "id": "M4Ya",
-     "image": "img/mexico/M4Ya.webp",
+     "image": "data/img/mexico/M4Ya.webp",
      "mapsUrl": "https://goo.gl/maps/D86HoNCxFCWcn4Ri7",
      "width": 0.573,
      "text": [
@@ -684,7 +684,7 @@
     },
     {
      "id": "RbcF",
-     "image": "img/mexico/RbcF.webp",
+     "image": "data/img/mexico/RbcF.webp",
      "mapsUrl": "https://goo.gl/maps/YRCQVsJzgDmTrgrp6",
      "width": 0.573,
      "text": [
@@ -693,7 +693,7 @@
     },
     {
      "id": "MIKv",
-     "image": "img/mexico/MIKv.webp",
+     "image": "data/img/mexico/MIKv.webp",
      "mapsUrl": "https://goo.gl/maps/WDN13v76j41pCMsM7",
      "width": 0.573,
      "text": [
@@ -711,7 +711,7 @@
    "metas": [
     {
      "id": "or0C",
-     "image": "img/mexico/or0C.webp",
+     "image": "data/img/mexico/or0C.webp",
      "mapsUrl": "https://goo.gl/maps/ZgUza1DK5fP8FB828",
      "width": 0.573,
      "text": [
@@ -720,7 +720,7 @@
     },
     {
      "id": "EuEs",
-     "image": "img/mexico/EuEs.webp",
+     "image": "data/img/mexico/EuEs.webp",
      "mapsUrl": "https://goo.gl/maps/SauarFbZNgn3gtjt5",
      "width": 0.573,
      "text": [
@@ -729,7 +729,7 @@
     },
     {
      "id": "zF4Y",
-     "image": "img/mexico/zF4Y.webp",
+     "image": "data/img/mexico/zF4Y.webp",
      "mapsUrl": "https://goo.gl/maps/FfZbnMLXubMnGAe26",
      "width": 0.573,
      "text": [
@@ -738,7 +738,7 @@
     },
     {
      "id": "q149",
-     "image": "img/mexico/q149.webp",
+     "image": "data/img/mexico/q149.webp",
      "mapsUrl": "https://www.google.com/maps/@19.0752039,-98.7925,3a,49.3y,83.77h,94.56t/data=!3m6!1e1!3m4!1sNzXT96SWntP3juhVhmTIYw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -747,7 +747,7 @@
     },
     {
      "id": "vOyN",
-     "image": "img/mexico/vOyN.webp",
+     "image": "data/img/mexico/vOyN.webp",
      "mapsUrl": "https://goo.gl/maps/dyhptXhwihUA4BF78",
      "width": 0.573,
      "text": [
@@ -756,7 +756,7 @@
     },
     {
      "id": "K8qz",
-     "image": "img/mexico/K8qz.webp",
+     "image": "data/img/mexico/K8qz.webp",
      "mapsUrl": "https://goo.gl/maps/9URq6JATzzPEEZLo9",
      "width": 0.573,
      "text": [
@@ -765,7 +765,7 @@
     },
     {
      "id": "XsTl",
-     "image": "img/mexico/XsTl.webp",
+     "image": "data/img/mexico/XsTl.webp",
      "mapsUrl": "https://goo.gl/maps/fAyWYykitQzwJTZ27",
      "width": 0.573,
      "text": [
@@ -775,7 +775,7 @@
     },
     {
      "id": "O9Bd",
-     "image": "img/mexico/O9Bd.webp",
+     "image": "data/img/mexico/O9Bd.webp",
      "mapsUrl": "https://www.google.com/maps/@31.543849,-106.5117097,3a,90y,352.18h,92.14t/data=!3m6!1e1!3m4!1sIrrDAY7r24Dnlp19oqKV4A!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -784,7 +784,7 @@
     },
     {
      "id": "p6Xz",
-     "image": "img/mexico/p6Xz.webp",
+     "image": "data/img/mexico/p6Xz.webp",
      "mapsUrl": "https://www.google.com/maps/@17.6210362,-97.3792943,3a,90y,248.33h,93.09t/data=!3m6!1e1!3m4!1sfGHMkVZzVonG-3vejsTGNA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -793,7 +793,7 @@
     },
     {
      "id": "duJ1",
-     "image": "img/mexico/duJ1.webp",
+     "image": "data/img/mexico/duJ1.webp",
      "mapsUrl": "https://goo.gl/maps/cEf7qFKQ47p7N8nAA",
      "width": 0.573,
      "text": [
@@ -802,7 +802,7 @@
     },
     {
      "id": "md8U",
-     "image": "img/mexico/md8U.webp",
+     "image": "data/img/mexico/md8U.webp",
      "mapsUrl": "https://goo.gl/maps/g1brv2ksYhUaeryy7",
      "width": 0.573,
      "text": [
@@ -811,7 +811,7 @@
     },
     {
      "id": "KwCu",
-     "image": "img/mexico/KwCu.webp",
+     "image": "data/img/mexico/KwCu.webp",
      "mapsUrl": "https://www.google.com/maps/@23.7297003,-101.8587715,3a,90y,61.88h,92.46t/data=!3m6!1e1!3m4!1sD7yTNt_m3HafD7awIHrkiw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -820,7 +820,7 @@
     },
     {
      "id": "Lc0Z",
-     "image": "img/mexico/Lc0Z.webp",
+     "image": "data/img/mexico/Lc0Z.webp",
      "mapsUrl": "https://goo.gl/maps/ne4Ak8ZWUBZokKfC8",
      "width": 0.573,
      "text": [
@@ -829,7 +829,7 @@
     },
     {
      "id": "Z8y6",
-     "image": "img/mexico/Z8y6.webp",
+     "image": "data/img/mexico/Z8y6.webp",
      "mapsUrl": "https://goo.gl/maps/ytU4jhGEMJNAEyJp9",
      "width": 0.573,
      "text": [
@@ -838,7 +838,7 @@
     },
     {
      "id": "aRyM",
-     "image": "img/mexico/aRyM.webp",
+     "image": "data/img/mexico/aRyM.webp",
      "mapsUrl": "https://goo.gl/maps/n2C8v7axgihTXxEH7",
      "width": 0.573,
      "text": [
@@ -847,7 +847,7 @@
     },
     {
      "id": "xzN2",
-     "image": "img/mexico/xzN2.webp",
+     "image": "data/img/mexico/xzN2.webp",
      "mapsUrl": "https://goo.gl/maps/zCHUgsRQHFMSqDCf7",
      "width": 0.573,
      "text": [
@@ -857,7 +857,7 @@
     },
     {
      "id": "vK3L",
-     "image": "img/mexico/vK3L.webp",
+     "image": "data/img/mexico/vK3L.webp",
      "mapsUrl": "https://goo.gl/maps/NUMqrHa8EygE2AcJ6",
      "width": 0.573,
      "text": [
@@ -866,7 +866,7 @@
     },
     {
      "id": "7cgL",
-     "image": "img/mexico/7cgL.webp",
+     "image": "data/img/mexico/7cgL.webp",
      "mapsUrl": "https://goo.gl/maps/h21ok4dySUXkqWVk8",
      "width": 0.573,
      "text": [
@@ -875,7 +875,7 @@
     },
     {
      "id": "pAC6",
-     "image": "img/mexico/pAC6.webp",
+     "image": "data/img/mexico/pAC6.webp",
      "mapsUrl": "https://goo.gl/maps/MQLpUCqKccy3HpfJA",
      "width": 0.573,
      "text": [
@@ -884,7 +884,7 @@
     },
     {
      "id": "MIDc",
-     "image": "img/mexico/MIDc.webp",
+     "image": "data/img/mexico/MIDc.webp",
      "mapsUrl": "https://goo.gl/maps/EFqBhvX12UT4pqRF8",
      "width": 0.573,
      "text": [
@@ -893,7 +893,7 @@
     },
     {
      "id": "2quT",
-     "image": "img/mexico/2quT.webp",
+     "image": "data/img/mexico/2quT.webp",
      "mapsUrl": "https://goo.gl/maps/q9NXWaDuqsjSGonYA",
      "width": 0.573,
      "text": [
@@ -902,7 +902,7 @@
     },
     {
      "id": "Rttz",
-     "image": "img/mexico/Rttz.webp",
+     "image": "data/img/mexico/Rttz.webp",
      "mapsUrl": "https://goo.gl/maps/U334CG4baEuLWpeX8",
      "width": 0.573,
      "text": [
@@ -912,7 +912,7 @@
     },
     {
      "id": "MwVY",
-     "image": "img/mexico/MwVY.webp",
+     "image": "data/img/mexico/MwVY.webp",
      "mapsUrl": "https://goo.gl/maps/69rSVB5bnrT5vrrt8",
      "width": 0.573,
      "text": [
@@ -921,7 +921,7 @@
     },
     {
      "id": "I66z",
-     "image": "img/mexico/I66z.webp",
+     "image": "data/img/mexico/I66z.webp",
      "mapsUrl": "https://goo.gl/maps/XtUGG2rA1LXx7Sz56",
      "width": 0.573,
      "text": [
@@ -930,7 +930,7 @@
     },
     {
      "id": "8VA3",
-     "image": "img/mexico/8VA3.webp",
+     "image": "data/img/mexico/8VA3.webp",
      "mapsUrl": "https://goo.gl/maps/k1UHPYNV5ed8HQK3A",
      "width": 0.573,
      "text": [
@@ -939,7 +939,7 @@
     },
     {
      "id": "gFf9",
-     "image": "img/mexico/gFf9.webp",
+     "image": "data/img/mexico/gFf9.webp",
      "mapsUrl": "https://goo.gl/maps/VZYPyGzKtz3khqAB6",
      "width": 0.573,
      "text": [

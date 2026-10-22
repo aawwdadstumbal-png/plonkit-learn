@@ -3,7 +3,7 @@
  "title": "Svalbard",
  "code": "SJ",
  "continent": "Europe",
- "hero": "img/svalbard/hero.webp",
+ "hero": "data/img/svalbard/hero.webp",
  "metaCount": 14,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "TJmr",
-     "image": "img/svalbard/TJmr.webp",
+     "image": "data/img/svalbard/TJmr.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Svalbard_in_Europe_%28-mini_map_-rivers%29.svg/1947px-Svalbard_in_Europe_%28-mini_map_-rivers%29.svg.png",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "V6YU",
-     "image": "img/svalbard/V6YU.webp",
+     "image": "data/img/svalbard/V6YU.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "pmRN",
-     "image": "img/svalbard/pmRN.webp",
+     "image": "data/img/svalbard/pmRN.webp",
      "mapsUrl": "https://goo.gl/maps/ZNCur2AKSqRa6fX79",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "Hxz3",
-     "image": "img/svalbard/Hxz3.webp",
+     "image": "data/img/svalbard/Hxz3.webp",
      "mapsUrl": "https://www.google.co.uk/maps/@78.0652745,14.209516,3a,20.3y,279.31h,93.68t/data=!3m7!1e1!3m5!1sv7UE4xPKZmEqDVm4ZtNTjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dv7UE4xPKZmEqDVm4ZtNTjw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D190.49907%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
    "metas": [
     {
      "id": "igav",
-     "image": "img/svalbard/igav.webp",
+     "image": "data/img/svalbard/igav.webp",
      "mapsUrl": "https://goo.gl/maps/7w1UJdYJ3d9L5Cgr8",
      "width": 0.573,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "ywbM",
-     "image": "img/svalbard/ywbM.webp",
+     "image": "data/img/svalbard/ywbM.webp",
      "mapsUrl": "https://goo.gl/maps/sSvva4XqadVvQpYH8",
      "width": 0.573,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "pqGg",
-     "image": "img/svalbard/pqGg.webp",
+     "image": "data/img/svalbard/pqGg.webp",
      "mapsUrl": "https://goo.gl/maps/kEVChpQ91ctSeeu46",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
    "metas": [
     {
      "id": "B7RJ",
-     "image": "img/svalbard/B7RJ.webp",
+     "image": "data/img/svalbard/B7RJ.webp",
      "mapsUrl": "https://goo.gl/maps/SEo84AgAu4EjP62a7",
      "width": 0.573,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "ZiYY",
-     "image": "img/svalbard/ZiYY.webp",
+     "image": "data/img/svalbard/ZiYY.webp",
      "mapsUrl": "https://goo.gl/maps/UvnMUBrC7f39A1nK8",
      "width": 0.573,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "ujEh",
-     "image": "img/svalbard/ujEh.webp",
+     "image": "data/img/svalbard/ujEh.webp",
      "mapsUrl": "https://goo.gl/maps/fQbd5vYDLottV77H6",
      "width": 0.573,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "0LmF",
-     "image": "img/svalbard/0LmF.webp",
+     "image": "data/img/svalbard/0LmF.webp",
      "mapsUrl": "https://goo.gl/maps/ZpJw9Vg35N1SMnrGA",
      "width": 0.573,
      "text": [
@@ -137,7 +137,7 @@
     },
     {
      "id": "76Dm",
-     "image": "img/svalbard/76Dm.webp",
+     "image": "data/img/svalbard/76Dm.webp",
      "mapsUrl": "https://goo.gl/maps/5WtkE4KeG5oMdAri7",
      "width": 0.573,
      "text": [
@@ -146,7 +146,7 @@
     },
     {
      "id": "OD81",
-     "image": "img/svalbard/OD81.webp",
+     "image": "data/img/svalbard/OD81.webp",
      "mapsUrl": "https://goo.gl/maps/1vWX9vQ7i6g1Fknt7",
      "width": 0.573,
      "text": [
@@ -155,7 +155,7 @@
     },
     {
      "id": "oo8W",
-     "image": "img/svalbard/oo8W.webp",
+     "image": "data/img/svalbard/oo8W.webp",
      "mapsUrl": "https://goo.gl/maps/H9NyBnHKgLSPoQQDA",
      "width": 0.573,
      "text": [

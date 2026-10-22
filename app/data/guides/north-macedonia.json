@@ -3,7 +3,7 @@
  "title": "North Macedonia",
  "code": "MK",
  "continent": "Europe",
- "hero": "img/north-macedonia/hero.webp",
+ "hero": "data/img/north-macedonia/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "VYOQ",
-     "image": "img/north-macedonia/VYOQ.webp",
+     "image": "data/img/north-macedonia/VYOQ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "lNYT",
-     "image": "img/north-macedonia/lNYT.webp",
+     "image": "data/img/north-macedonia/lNYT.webp",
      "mapsUrl": "https://maps.app.goo.gl/4cnPk5dAnrzTpKxK8",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "jQXp",
-     "image": "img/north-macedonia/jQXp.webp",
+     "image": "data/img/north-macedonia/jQXp.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=17.531467769923246&heading=156.27689367601636&map_action=pano&pano=uIVV6bxpOR7-gxEbGxXrIw&pitch=-13.367175877123586&viewpoint=41.376813%2C22.405482#extra%5BloadMode%5D=latLng",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "dKOW",
-     "image": "img/north-macedonia/dKOW.webp",
+     "image": "data/img/north-macedonia/dKOW.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=37.67793187793628&heading=155.01585822565357&map_action=pano&pano=yKiPBi8KOVnnTJHSjZCbCg&pitch=-16.065180572385387&viewpoint=41.994641%2C20.979924#extra%5BloadMode%5D=latLng",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "Gary",
-     "image": "img/north-macedonia/Gary.webp",
+     "image": "data/img/north-macedonia/Gary.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=23.09586801158694&heading=133.50243610238593&map_action=pano&pano=tnZKSXUnEuE-vnjQMQhxLA&pitch=-6.47976178606568&viewpoint=41.91066%2C22.473263#extra%5BloadMode%5D=latLng",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "k3sg",
-     "image": "img/north-macedonia/k3sg.webp",
+     "image": "data/img/north-macedonia/k3sg.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "lY5z",
-     "image": "img/north-macedonia/lY5z.webp",
+     "image": "data/img/north-macedonia/lY5z.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=223.338540377321&map_action=pano&pano=KE3CO8T-svuWdIJ3ec4sCg&pitch=-46.43877284001876&viewpoint=41.78939%2C22.195939#extra%5BloadMode%5D=latLng",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "NOTA",
-     "image": "img/north-macedonia/NOTA.webp",
+     "image": "data/img/north-macedonia/NOTA.webp",
      "mapsUrl": "https://www.google.com/maps/@41.9702766,21.9312912,3a,63y,217.27h,87.05t/data=!3m6!1e1!3m4!1s3iikJG-Scs2qie7wlbTO6g!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "FsbE",
-     "image": "img/north-macedonia/FsbE.webp",
+     "image": "data/img/north-macedonia/FsbE.webp",
      "mapsUrl": "https://www.google.com/maps/@41.0299962,21.3274281,3a,26.3y,154.39h,135.54t/data=!3m6!1e1!3m4!1sU2VaxXf6zLbEjBwWs3ffLQ!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "wBz4",
-     "image": "img/north-macedonia/wBz4.webp",
+     "image": "data/img/north-macedonia/wBz4.webp",
      "mapsUrl": "https://www.google.com/maps/@42.1559312,21.7120628,3a,16.3y,304.79h,89.78t,1.11r/data=!3m6!1e1!3m4!1sN5navLp4tt38NLK68Ut6EQ!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
    "metas": [
     {
      "id": "F1TE",
-     "image": "img/north-macedonia/F1TE.webp",
+     "image": "data/img/north-macedonia/F1TE.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "3Unt",
-     "image": "img/north-macedonia/3Unt.webp",
+     "image": "data/img/north-macedonia/3Unt.webp",
      "mapsUrl": "https://www.google.com/maps/@41.9989427,21.4294228,3a,75y,243.89h,96.03t/data=!3m6!1e1!3m4!1swQhCtrBjourV9dckRYj3Lg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -157,7 +157,7 @@
    "metas": [
     {
      "id": "IeVN",
-     "image": "img/north-macedonia/IeVN.webp",
+     "image": "data/img/north-macedonia/IeVN.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "BqvX",
-     "image": "img/north-macedonia/BqvX.webp",
+     "image": "data/img/north-macedonia/BqvX.webp",
      "mapsUrl": "https://www.google.com/maps/@42.1270041,21.716013,3a,15y,255.93h,80.87t,358.81r/data=!3m6!1e1!3m4!1sKzz7r42EQF1g-Kh4xuOfEA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "RmZb",
-     "image": "img/north-macedonia/RmZb.webp",
+     "image": "data/img/north-macedonia/RmZb.webp",
      "mapsUrl": "https://www.google.com/maps/@41.0313567,21.3402338,3a,15y,159.86h,76.31t/data=!3m6!1e1!3m4!1sjrPwI7nPuyhPPJzTiGj7cw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -185,7 +185,7 @@
     },
     {
      "id": "GLwG",
-     "image": "img/north-macedonia/GLwG.webp",
+     "image": "data/img/north-macedonia/GLwG.webp",
      "mapsUrl": "https://www.google.com/maps/@41.1193819,20.8086791,3a,19.6y,146.42h,79.48t/data=!3m6!1e1!3m4!1s_E96vhATer0szA4tktVPGw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "f8ti",
-     "image": "img/north-macedonia/f8ti.webp",
+     "image": "data/img/north-macedonia/f8ti.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=17.531467769923246&heading=15.239010551772239&map_action=pano&pano=IBqTzagp90PXCqsPXth_iw&pitch=-13.541064701087365&viewpoint=41.43488%2C22.639936#extra%5Btags%5D=stickers&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "CyWV",
-     "image": "img/north-macedonia/CyWV.webp",
+     "image": "data/img/north-macedonia/CyWV.webp",
      "mapsUrl": "https://www.google.com/maps/@41.7161871,21.7667479,3a,22.8y,25.61h,79.57t/data=!3m6!1e1!3m4!1sLAQXAuL5a2VxE2Si7DhoGA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "v0r9",
-     "image": "img/north-macedonia/v0r9.webp",
+     "image": "data/img/north-macedonia/v0r9.webp",
      "mapsUrl": "https://www.google.com/maps/@41.3478206,21.5537552,3a,37.5y,88.8h,66.66t/data=!3m6!1e1!3m4!1sAqV05Bws8CsZ_nqnIMhKtA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "F1Jf",
-     "image": "img/north-macedonia/F1Jf.webp",
+     "image": "data/img/north-macedonia/F1Jf.webp",
      "mapsUrl": "https://www.google.com/maps/@42.0056618,20.9763845,3a,19.4y,150.33h,78.59t/data=!3m6!1e1!3m4!1sDeiYnceBmcBCDs13-25K0w!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
    "metas": [
     {
      "id": "HFWt",
-     "image": "img/north-macedonia/HFWt.webp",
+     "image": "data/img/north-macedonia/HFWt.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=46.11745086428941&heading=308.73308169262936&map_action=pano&pano=ZjAOq8U1PDatlxvIKrd2AQ&pitch=-15.079903519729157&viewpoint=41.438269%2C22.640426#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "Tm7m",
-     "image": "img/north-macedonia/Tm7m.webp",
+     "image": "data/img/north-macedonia/Tm7m.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.04964979838056&heading=204.629251347448&map_action=pano&pano=i_O_8OB5KSPMdzpOzSptVg&pitch=7.64714594886&viewpoint=41.112122%2C20.79874",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "BJh9",
-     "image": "img/north-macedonia/BJh9.webp",
+     "image": "data/img/north-macedonia/BJh9.webp",
      "mapsUrl": "https://www.google.com/maps/@41.3460647,21.5467876,3a,46.8y,24.77h,114.15t,0.88r/data=!3m6!1e1!3m4!1suUqrFVwXOBLMwU0YdSnVwQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "kkO5",
-     "image": "img/north-macedonia/kkO5.webp",
+     "image": "data/img/north-macedonia/kkO5.webp",
      "mapsUrl": "https://www.google.com/maps/@41.3557891,21.5464419,3a,58.9y,317.67h,102.73t/data=!3m6!1e1!3m4!1sLzse2fEW1cNkBajeiuOgDg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "oHPQ",
-     "image": "img/north-macedonia/oHPQ.webp",
+     "image": "data/img/north-macedonia/oHPQ.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=92.07275318052157&heading=234.38047157144842&map_action=pano&pano=TxzzynVgllJzexefao-Qyg&pitch=-5.3870698603167&viewpoint=41.492533%2C20.940928#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [

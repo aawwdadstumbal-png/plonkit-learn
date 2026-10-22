@@ -3,7 +3,7 @@
  "title": "Antarctica",
  "code": "AQ",
  "continent": "Antarctica",
- "hero": "img/antarctica/hero.webp",
+ "hero": "data/img/antarctica/hero.webp",
  "metaCount": 20,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "sUvL",
-     "image": "img/antarctica/sUvL.webp",
+     "image": "data/img/antarctica/sUvL.webp",
      "mapsUrl": "https://goo.gl/maps/WdvUjKikrvCAbKnTA",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "cZIY",
-     "image": "img/antarctica/cZIY.webp",
+     "image": "data/img/antarctica/cZIY.webp",
      "mapsUrl": "https://goo.gl/maps/rX871TMMebN15wqg9",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "MJ6N",
-     "image": "img/antarctica/MJ6N.webp",
+     "image": "data/img/antarctica/MJ6N.webp",
      "mapsUrl": "https://goo.gl/maps/aAvFMEQ8jfkek3M88",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
    "metas": [
     {
      "id": "M09G",
-     "image": "img/antarctica/M09G.webp",
+     "image": "data/img/antarctica/M09G.webp",
      "mapsUrl": "https://goo.gl/maps/FSAzovZcXiTLsyHL6",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "5eul",
-     "image": "img/antarctica/5eul.webp",
+     "image": "data/img/antarctica/5eul.webp",
      "mapsUrl": "https://goo.gl/maps/Gj7cPhS9x5U15ugp6",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "LHa5",
-     "image": "img/antarctica/LHa5.webp",
+     "image": "data/img/antarctica/LHa5.webp",
      "mapsUrl": "https://goo.gl/maps/swvB96kQYetBxFwy8",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "H2qs",
-     "image": "img/antarctica/H2qs.webp",
+     "image": "data/img/antarctica/H2qs.webp",
      "mapsUrl": "https://goo.gl/maps/sqvn11NCvto2voh6A",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "z5y4",
-     "image": "img/antarctica/z5y4.webp",
+     "image": "data/img/antarctica/z5y4.webp",
      "mapsUrl": "https://goo.gl/maps/MM4jjEUWScfLfeaRA",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "Xp1t",
-     "image": "img/antarctica/Xp1t.webp",
+     "image": "data/img/antarctica/Xp1t.webp",
      "mapsUrl": "https://goo.gl/maps/gBuhotZS2bQfrf3K7",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "DonF",
-     "image": "img/antarctica/DonF.webp",
+     "image": "data/img/antarctica/DonF.webp",
      "mapsUrl": "https://goo.gl/maps/WUnCLoJWf27e4EUv8",
      "width": 0.5,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "267M",
-     "image": "img/antarctica/267M.webp",
+     "image": "data/img/antarctica/267M.webp",
      "mapsUrl": "https://goo.gl/maps/q1ELtwJAtkANiymK8",
      "width": 0.5,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "xy6q",
-     "image": "img/antarctica/xy6q.webp",
+     "image": "data/img/antarctica/xy6q.webp",
      "mapsUrl": "https://goo.gl/maps/uPXAtuGAxSUEUy9k6",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "H9Ii",
-     "image": "img/antarctica/H9Ii.webp",
+     "image": "data/img/antarctica/H9Ii.webp",
      "mapsUrl": "https://goo.gl/maps/v1NYrq3KVTwiQoSH6",
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "zOhv",
-     "image": "img/antarctica/zOhv.webp",
+     "image": "data/img/antarctica/zOhv.webp",
      "mapsUrl": "https://goo.gl/maps/HcARGup685XbAc4FA",
      "width": 0.5,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "WeDn",
-     "image": "img/antarctica/WeDn.webp",
+     "image": "data/img/antarctica/WeDn.webp",
      "mapsUrl": "https://goo.gl/maps/NizvjKX7WiCXrc2VA",
      "width": 0.5,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "6UVj",
-     "image": "img/antarctica/6UVj.webp",
+     "image": "data/img/antarctica/6UVj.webp",
      "mapsUrl": "https://goo.gl/maps/hTguZarvbp4eNazB7",
      "width": 0.5,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "ppwM",
-     "image": "img/antarctica/ppwM.webp",
+     "image": "data/img/antarctica/ppwM.webp",
      "mapsUrl": "https://goo.gl/maps/p1n1tgcGbNEa3J5fA",
      "width": 0.5,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "Vkbp",
-     "image": "img/antarctica/Vkbp.webp",
+     "image": "data/img/antarctica/Vkbp.webp",
      "mapsUrl": "https://goo.gl/maps/3w5rtf8c1hvmRAZo9",
      "width": 0.5,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "gvxD",
-     "image": "img/antarctica/gvxD.webp",
+     "image": "data/img/antarctica/gvxD.webp",
      "mapsUrl": "https://goo.gl/maps/bPnDUuJDiiSAtmoY6",
      "width": 0.5,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "J7ki",
-     "image": "img/antarctica/J7ki.webp",
+     "image": "data/img/antarctica/J7ki.webp",
      "mapsUrl": "https://goo.gl/maps/tubFheZLxov1FxXz9",
      "width": 0.5,
      "text": [

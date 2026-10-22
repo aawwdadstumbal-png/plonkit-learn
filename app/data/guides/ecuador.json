@@ -3,7 +3,7 @@
  "title": "Ecuador",
  "code": "EC",
  "continent": "South America",
- "hero": "img/ecuador/hero.webp",
+ "hero": "data/img/ecuador/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "8Xg1",
-     "image": "img/ecuador/8Xg1.webp",
+     "image": "data/img/ecuador/8Xg1.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "HsDH",
-     "image": "img/ecuador/HsDH.webp",
+     "image": "data/img/ecuador/HsDH.webp",
      "mapsUrl": "https://www.google.com/maps/@0.1019994,-79.4099157,3a,90y,29.22h,58.03t/data=!3m6!1e1!3m4!1s3_CIeWewLcTuUGwEej1YNQ!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
     },
     {
      "id": "8VeO",
-     "image": "img/ecuador/8VeO.webp",
+     "image": "data/img/ecuador/8VeO.webp",
      "mapsUrl": "https://maps.app.goo.gl/dSweUPGTkgTasq9B7",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "CduU",
-     "image": "img/ecuador/CduU.webp",
+     "image": "data/img/ecuador/CduU.webp",
      "mapsUrl": "https://goo.gl/maps/xpaFEvbpzmVvxM9v7",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "cF1l",
-     "image": "img/ecuador/cF1l.webp",
+     "image": "data/img/ecuador/cF1l.webp",
      "mapsUrl": "https://www.google.com/maps/@-1.4132395,-78.2223691,3a,15y,145.08h,74.78t,0.07r/data=!3m6!1e1!3m4!1sE_RrpRP503-vojNBqHhIug!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "ki46",
-     "image": "img/ecuador/ki46.webp",
+     "image": "data/img/ecuador/ki46.webp",
      "mapsUrl": "https://goo.gl/maps/XEkfYHGFZmpjUbc96",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "8XgY",
-     "image": "img/ecuador/8XgY.webp",
+     "image": "data/img/ecuador/8XgY.webp",
      "mapsUrl": "https://goo.gl/maps/JfaPmUbQXqLNpwB47",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "3DE7",
-     "image": "img/ecuador/3DE7.webp",
+     "image": "data/img/ecuador/3DE7.webp",
      "mapsUrl": "https://goo.gl/maps/eUXqYbNBsWoxBnHx7",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "ynOS",
-     "image": "img/ecuador/ynOS.webp",
+     "image": "data/img/ecuador/ynOS.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.4429701,-78.6682276,3a,75y,35.15h,86.03t/data=!3m6!1e1!3m4!1sfQ0OiqKOYexCpAWVvN9tXQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -115,7 +115,7 @@
     },
     {
      "id": "LwpU",
-     "image": "img/ecuador/LwpU.webp",
+     "image": "data/img/ecuador/LwpU.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.2163771,-78.4394411,3a,27y,156.34h,85.99t/data=!3m6!1e1!3m4!1sWoiil1fZguezyfrqklEyzw!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "4F5m",
-     "image": "img/ecuador/4F5m.webp",
+     "image": "data/img/ecuador/4F5m.webp",
      "mapsUrl": "https://goo.gl/maps/KsnTKwozabVXvhor8",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "rhiO",
-     "image": "img/ecuador/rhiO.webp",
+     "image": "data/img/ecuador/rhiO.webp",
      "mapsUrl": "https://goo.gl/maps/BASJbhfM78BVw2Xw9",
      "width": 0.5,
      "text": [
@@ -143,7 +143,7 @@
     },
     {
      "id": "F7Tj",
-     "image": "img/ecuador/F7Tj.webp",
+     "image": "data/img/ecuador/F7Tj.webp",
      "mapsUrl": "https://maps.app.goo.gl/m1X7XcCSTwB1w2R27",
      "width": 0.5,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "r9a6",
-     "image": "img/ecuador/r9a6.webp",
+     "image": "data/img/ecuador/r9a6.webp",
      "mapsUrl": "https://www.google.com/maps/@-1.0272779,-79.4660966,3a,73.1y,228.12h,106.91t/data=!3m6!1e1!3m4!1s-YVgovOk736N3k8NxShc_Q!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "ifrx",
-     "image": "img/ecuador/ifrx.webp",
+     "image": "data/img/ecuador/ifrx.webp",
      "mapsUrl": "https://goo.gl/maps/AZYnr7vTirBW8W1K8",
      "width": 0.5,
      "text": [
@@ -190,7 +190,7 @@
    "metas": [
     {
      "id": "7ek9",
-     "image": "img/ecuador/7ek9.webp",
+     "image": "data/img/ecuador/7ek9.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "vWms",
-     "image": "img/ecuador/vWms.webp",
+     "image": "data/img/ecuador/vWms.webp",
      "mapsUrl": "https://maps.app.goo.gl/9v7BgE3XY62FwE8m8",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "g9O5",
-     "image": "img/ecuador/g9O5.webp",
+     "image": "data/img/ecuador/g9O5.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "g3pY",
-     "image": "img/ecuador/g3pY.webp",
+     "image": "data/img/ecuador/g3pY.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "4Cwf",
-     "image": "img/ecuador/4Cwf.webp",
+     "image": "data/img/ecuador/4Cwf.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=24.576100606312806&heading=160.0918982330583&map_action=pano&pano=Mj_Onxuy669fV6MDtr5yvA&pitch=2.433240858297893&viewpoint=-3.397101%2C-79.939259#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "ohfM",
-     "image": "img/ecuador/ohfM.webp",
+     "image": "data/img/ecuador/ohfM.webp",
      "mapsUrl": "https://www.google.com/maps/@-2.2921257,-80.75081,3a,35.6y,316.48h,81.18t/data=!3m7!1e1!3m5!1sb8BZwlyx2Jn97h5V-ys_Qw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Db8BZwlyx2Jn97h5V-ys_Qw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D331.32913%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "dewU",
-     "image": "img/ecuador/dewU.webp",
+     "image": "data/img/ecuador/dewU.webp",
      "mapsUrl": "https://www.google.com/maps/@-2.3393014,-79.635075,3a,90y,317.73h,97.87t/data=!3m6!1e1!3m4!1s7gNj0DBNsq092c8zyxNlsg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "iFnv",
-     "image": "img/ecuador/iFnv.webp",
+     "image": "data/img/ecuador/iFnv.webp",
      "mapsUrl": "https://www.google.com/maps/@0.0322669,-76.8289885,3a,75y,156.25h,95.71t/data=!3m6!1e1!3m4!1stEUmQuLLcJOXIkOtFWz-sQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -268,7 +268,7 @@
     },
     {
      "id": "T07k",
-     "image": "img/ecuador/T07k.webp",
+     "image": "data/img/ecuador/T07k.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16471841550288&heading=338.02316&map_action=pano&pano=AxWr7Y00oUBQMIBAaVG2Iw&pitch=0&viewpoint=1.014914%2C-78.603178#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "iKkh",
-     "image": "img/ecuador/iKkh.webp",
+     "image": "data/img/ecuador/iKkh.webp",
      "mapsUrl": "https://www.google.com/maps/@-3.9031677,-79.4199892,3a,90y,92.88h,83.09t/data=!3m6!1e1!3m4!1s-7SAL2OL4mKJiW3aJtdUXw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "blv0",
-     "image": "img/ecuador/blv0.webp",
+     "image": "data/img/ecuador/blv0.webp",
      "mapsUrl": "https://www.google.com/maps/@-2.0294382,-78.7350932,3a,23.2y,173.85h,88.9t/data=!3m6!1e1!3m4!1s17BFRc_XjY3mX_3Rsv73jQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "H10J",
-     "image": "img/ecuador/H10J.webp",
+     "image": "data/img/ecuador/H10J.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "QajZ",
-     "image": "img/ecuador/QajZ.webp",
+     "image": "data/img/ecuador/QajZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/Kos4Ag9MJ8uJQDhB9",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "6GsD",
-     "image": "img/ecuador/6GsD.webp",
+     "image": "data/img/ecuador/6GsD.webp",
      "mapsUrl": "https://maps.app.goo.gl/EtV7175XMAUbKsd68",
      "width": 0.573,
      "text": [
@@ -333,7 +333,7 @@
    "metas": [
     {
      "id": "7DsW",
-     "image": "img/ecuador/7DsW.webp",
+     "image": "data/img/ecuador/7DsW.webp",
      "mapsUrl": "https://www.google.com/maps/@-2.3317494,-80.5344307,3a,75y,122.79h,88.27t/data=!3m7!1e1!3m5!1spguUSc9LMqbzL5AVmLN8nw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DpguUSc9LMqbzL5AVmLN8nw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D218.58627%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -342,7 +342,7 @@
     },
     {
      "id": "Z3gQ",
-     "image": "img/ecuador/Z3gQ.webp",
+     "image": "data/img/ecuador/Z3gQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/TLbEzgB9ESTfFBF59",
      "width": 0.573,
      "text": [
@@ -351,7 +351,7 @@
     },
     {
      "id": "N2lV",
-     "image": "img/ecuador/N2lV.webp",
+     "image": "data/img/ecuador/N2lV.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.4524949,-91.0996851,2a,75y,300.89h,86.43t,359.98r/data=!3m6!1e1!3m4!1sS6R4L0HYPxJAjocOVNL_qw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [

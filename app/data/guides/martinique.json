@@ -3,7 +3,7 @@
  "title": "Martinique",
  "code": "MQ",
  "continent": "North America",
- "hero": "img/martinique/hero.webp",
+ "hero": "data/img/martinique/hero.webp",
  "metaCount": 4,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "gRbW",
-     "image": "img/martinique/gRbW.webp",
+     "image": "data/img/martinique/gRbW.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Martinique_in_France_2016.svg/1920px-Martinique_in_France_2016.svg.png",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
    "metas": [
     {
      "id": "BEOL",
-     "image": "img/martinique/BEOL.webp",
+     "image": "data/img/martinique/BEOL.webp",
      "mapsUrl": "https://goo.gl/maps/zSrUUsk3JPYyyP8YA",
      "width": 0.573,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "vcqO",
-     "image": "img/martinique/vcqO.webp",
+     "image": "data/img/martinique/vcqO.webp",
      "mapsUrl": "https://goo.gl/maps/pApNFF5yFbPfWrry5",
      "width": 0.573,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "4AF8",
-     "image": "img/martinique/4AF8.webp",
+     "image": "data/img/martinique/4AF8.webp",
      "mapsUrl": "https://goo.gl/maps/kmvFzPJvGuvtoBtj6",
      "width": 0.573,
      "text": [

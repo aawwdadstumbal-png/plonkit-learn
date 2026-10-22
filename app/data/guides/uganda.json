@@ -3,7 +3,7 @@
  "title": "Uganda",
  "code": "UG",
  "continent": "Africa",
- "hero": "img/uganda/hero.webp",
+ "hero": "data/img/uganda/hero.webp",
  "metaCount": 28,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "kNBu",
-     "image": "img/uganda/kNBu.webp",
+     "image": "data/img/uganda/kNBu.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "KblI",
-     "image": "img/uganda/KblI.webp",
+     "image": "data/img/uganda/KblI.webp",
      "mapsUrl": "https://goo.gl/maps/wqNR69aJPAuCozGF6",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "kguf",
-     "image": "img/uganda/kguf.webp",
+     "image": "data/img/uganda/kguf.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
    "metas": [
     {
      "id": "Pesx",
-     "image": "img/uganda/Pesx.webp",
+     "image": "data/img/uganda/Pesx.webp",
      "mapsUrl": "https://www.google.com/maps/@0.3498996,32.5710695,3a,75y,195.77h,54.94t/data=!3m7!1e1!3m5!1s-4VBJRsL2rRxstp5SXmUJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D-4VBJRsL2rRxstp5SXmUJg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D254.88336%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "x1Nk",
-     "image": "img/uganda/x1Nk.webp",
+     "image": "data/img/uganda/x1Nk.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "WIAR",
-     "image": "img/uganda/WIAR.webp",
+     "image": "data/img/uganda/WIAR.webp",
      "mapsUrl": "https://www.google.com/maps/@0.1468879,32.5297128,3a,75y,338.81h,65t/data=!3m6!1e1!3m4!1sqMAl7D1hZ8dN1vFCwCPzXQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "ugDY",
-     "image": "img/uganda/ugDY.webp",
+     "image": "data/img/uganda/ugDY.webp",
      "mapsUrl": "https://www.google.se/maps/@0.2428246,32.5355652,3a,76.9y,106.63h,81.39t/data=!3m6!1e1!3m4!1sQFrzMt6TQf_biWCplYQGIg!2e0!7i13312!8i6656!5m1!1e4",
      "width": 0.573,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "Aj2o",
-     "image": "img/uganda/Aj2o.webp",
+     "image": "data/img/uganda/Aj2o.webp",
      "mapsUrl": "https://goo.gl/maps/hHeruNjdepMCeDrr5",
      "width": 0.573,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "xDul",
-     "image": "img/uganda/xDul.webp",
+     "image": "data/img/uganda/xDul.webp",
      "mapsUrl": "https://goo.gl/maps/18yH3t8dKF8ZR1JC8",
      "width": 0.573,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "xDJj",
-     "image": "img/uganda/xDJj.webp",
+     "image": "data/img/uganda/xDJj.webp",
      "mapsUrl": "https://www.google.se/maps/@0.0697961,32.456586,3a,75y,51.83h,89.9t/data=!3m6!1e1!3m4!1ssn4GnJoAp4ZPKw6tD7Lerg!2e0!7i13312!8i6656!5m1!1e4",
      "width": 0.573,
      "text": [
@@ -161,7 +161,7 @@
    "metas": [
     {
      "id": "bk8D",
-     "image": "img/uganda/bk8D.webp",
+     "image": "data/img/uganda/bk8D.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.142312,29.9099473,2a,49y,94.87h,57.14t/data=!3m7!1e1!3m5!1smg06gH9Aq50PGuMbTnjeew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dmg06gH9Aq50PGuMbTnjeew%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D200%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "TAm5",
-     "image": "img/uganda/TAm5.webp",
+     "image": "data/img/uganda/TAm5.webp",
      "mapsUrl": "https://www.google.se/maps/@3.6992646,33.7449487,2a,75y,328.42h,84.83t/data=!3m7!1e1!3m5!1sTFCYaDTLxPXPWVwyPOpy3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DTFCYaDTLxPXPWVwyPOpy3Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D140%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "9T7E",
-     "image": "img/uganda/9T7E.webp",
+     "image": "data/img/uganda/9T7E.webp",
      "mapsUrl": "https://www.google.com/maps/@3.8103403,33.7022159,2a,90y,318.9h,95.62t/data=!3m6!1e1!3m4!1s-7WJKDDgJ3jSGLcyjgQ8Iw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "sbJw",
-     "image": "img/uganda/sbJw.webp",
+     "image": "data/img/uganda/sbJw.webp",
      "mapsUrl": "https://www.google.com/maps/@3.9240715,33.7007798,2a,75y,27.38h,88.57t/data=!3m7!1e1!3m5!1sOc9XwgplDXlvkyBSJaWWVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOc9XwgplDXlvkyBSJaWWVg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D200%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "ceiz",
-     "image": "img/uganda/ceiz.webp",
+     "image": "data/img/uganda/ceiz.webp",
      "mapsUrl": "https://www.google.com/maps/@2.2692476,31.4238286,2a,75y,66.01h,84.18t/data=!3m7!1e1!3m5!1sIZ-FMmnaAVuiJ-DYZ7YNUQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DIZ-FMmnaAVuiJ-DYZ7YNUQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D300%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "dZPP",
-     "image": "img/uganda/dZPP.webp",
+     "image": "data/img/uganda/dZPP.webp",
      "mapsUrl": "https://www.google.com/maps/@2.3703472,31.5470799,2a,55.4y,81.53h,103.1t/data=!3m6!1e1!3m4!1sDmtEkqQ1BBcP9Q52oWchGg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "a937",
-     "image": "img/uganda/a937.webp",
+     "image": "data/img/uganda/a937.webp",
      "mapsUrl": "https://www.google.se/maps/@0.4726127,30.3663349,2a,75y,339.27h,89.61t/data=!3m7!1e1!3m5!1sh9Lhm5ZmuHrLGDrTuXa6pA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dh9Lhm5ZmuHrLGDrTuXa6pA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D120%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -224,7 +224,7 @@
     },
     {
      "id": "Ipy7",
-     "image": "img/uganda/Ipy7.webp",
+     "image": "data/img/uganda/Ipy7.webp",
      "mapsUrl": "https://www.google.com/maps/@0.4746137,30.4322873,2a,75y,28.76h,82.9t/data=!3m7!1e1!3m5!1shFjA4GnvmpAv9rRqyvttxw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DhFjA4GnvmpAv9rRqyvttxw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D340%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -233,7 +233,7 @@
     },
     {
      "id": "UyIE",
-     "image": "img/uganda/UyIE.webp",
+     "image": "data/img/uganda/UyIE.webp",
      "mapsUrl": "https://www.google.se/maps/@0.4384565,30.3985362,2a,75y,223.03h,95.52t,359.99r/data=!3m6!1e1!3m4!1skGODPHxsDHAEcgk2FvOv2w!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -242,7 +242,7 @@
     },
     {
      "id": "R56r",
-     "image": "img/uganda/R56r.webp",
+     "image": "data/img/uganda/R56r.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.6040777,30.9634427,2a,90y,115.89h,95.73t/data=!3m6!1e1!3m4!1sSRk2LeNW1plkkubARAm4jw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -251,7 +251,7 @@
     },
     {
      "id": "WEUz",
-     "image": "img/uganda/WEUz.webp",
+     "image": "data/img/uganda/WEUz.webp",
      "mapsUrl": "https://www.google.com/maps/@0.8534425,30.1477759,2a,80.9y,34.65h,118.17t,-4.83r/data=!3m7!1e1!3m5!1sV2R8NQsCZPYjVGqmCdh81A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DV2R8NQsCZPYjVGqmCdh81A%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D260%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -260,7 +260,7 @@
     },
     {
      "id": "fGj2",
-     "image": "img/uganda/fGj2.webp",
+     "image": "data/img/uganda/fGj2.webp",
      "mapsUrl": "https://www.google.se/maps/@1.1700367,34.4126182,2a,90y,61.41h,107.49t/data=!3m7!1e1!3m5!1s3tLH-0iWGRqWQc7VxgowTQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3tLH-0iWGRqWQc7VxgowTQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D280%26pitch%3D-10%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "YMfL",
-     "image": "img/uganda/YMfL.webp",
+     "image": "data/img/uganda/YMfL.webp",
      "mapsUrl": "https://www.google.se/maps/@1.1456799,34.5164884,2a,90y,49.39h,86.83t,360r/data=!3m6!1e1!3m4!1sTJuSuufltD3ApsiTiYdVxQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -278,7 +278,7 @@
     },
     {
      "id": "3c01",
-     "image": "img/uganda/3c01.webp",
+     "image": "data/img/uganda/3c01.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.0816028,29.9616451,2a,90y,57.35h,88.95t/data=!3m7!1e1!3m5!1sWd4mGA1RXVPs6RYm9F5kYQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DWd4mGA1RXVPs6RYm9F5kYQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D300%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "bGih",
-     "image": "img/uganda/bGih.webp",
+     "image": "data/img/uganda/bGih.webp",
      "mapsUrl": "https://www.google.se/maps/@-0.0313222,30.0595702,2a,72.3y,270.47h,92.22t/data=!3m6!1e1!3m4!1sa6Qwr2gzdXys31BZrUBX6w!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "bT3U",
-     "image": "img/uganda/bT3U.webp",
+     "image": "data/img/uganda/bT3U.webp",
      "mapsUrl": "https://www.google.se/maps/@-0.060369,29.981598,2a,75y,243.71h,83.45t/data=!3m7!1e1!3m5!1swr4vLqO_s8n2kmJgL2m1KQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dwr4vLqO_s8n2kmJgL2m1KQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D260%26pitch%3D-20%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "9lkl",
-     "image": "img/uganda/9lkl.webp",
+     "image": "data/img/uganda/9lkl.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.0554624,30.0180458,2a,90y,337.45h,86.6t/data=!3m6!1e1!3m4!1sCYe8KvXC21kr3jgAFpL5bg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "7J7B",
-     "image": "img/uganda/7J7B.webp",
+     "image": "data/img/uganda/7J7B.webp",
      "mapsUrl": "https://www.google.com/maps/@-0.1439778,29.8856274,2a,75y,97.44h,88.41t/data=!3m6!1e1!3m4!1sb-qMxSOPmJTrare-4FKh0Q!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [

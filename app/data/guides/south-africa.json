@@ -3,7 +3,7 @@
  "title": "South Africa",
  "code": "ZA",
  "continent": "Africa",
- "hero": "img/south-africa/hero.webp",
+ "hero": "data/img/south-africa/hero.webp",
  "metaCount": 45,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "nLmo",
-     "image": "img/south-africa/nLmo.webp",
+     "image": "data/img/south-africa/nLmo.webp",
      "mapsUrl": "https://goo.gl/maps/y6p5aJHV4PbdJuC96",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "Btnv",
-     "image": "img/south-africa/Btnv.webp",
+     "image": "data/img/south-africa/Btnv.webp",
      "mapsUrl": "https://goo.gl/maps/PZEPspfKq7MzcU5e6",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "2WI6",
-     "image": "img/south-africa/2WI6.webp",
+     "image": "data/img/south-africa/2WI6.webp",
      "mapsUrl": "https://goo.gl/maps/fRFunLCiewnC2WRu9",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "bF5N",
-     "image": "img/south-africa/bF5N.webp",
+     "image": "data/img/south-africa/bF5N.webp",
      "mapsUrl": "https://goo.gl/maps/XqWT42XwZiJEuyMo8",
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "LxHT",
-     "image": "img/south-africa/LxHT.webp",
+     "image": "data/img/south-africa/LxHT.webp",
      "mapsUrl": "https://goo.gl/maps/8NC2RPaLNrtFU6KG9",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "riHx",
-     "image": "img/south-africa/riHx.webp",
+     "image": "data/img/south-africa/riHx.webp",
      "mapsUrl": "https://goo.gl/maps/YQM6WCLhGe9JSFjF6",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "x5Nk",
-     "image": "img/south-africa/x5Nk.webp",
+     "image": "data/img/south-africa/x5Nk.webp",
      "mapsUrl": "https://goo.gl/maps/yPsAPQtb2NMuCNUn8",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "Hx3k",
-     "image": "img/south-africa/Hx3k.webp",
+     "image": "data/img/south-africa/Hx3k.webp",
      "mapsUrl": "https://goo.gl/maps/B7vRADKR5v46k1eP9",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "Ud2I",
-     "image": "img/south-africa/Ud2I.webp",
+     "image": "data/img/south-africa/Ud2I.webp",
      "mapsUrl": "https://www.google.com/maps/@-27.6459683,29.9637312,3a,23.6y,269.72h,92.5t/data=!3m6!1e1!3m4!1sqCbWO9PZqF6bTC1Dote2dA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "ShVC",
-     "image": "img/south-africa/ShVC.webp",
+     "image": "data/img/south-africa/ShVC.webp",
      "mapsUrl": "https://goo.gl/maps/NQ85iFE8dDyfCu9N8",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "ulWW",
-     "image": "img/south-africa/ulWW.webp",
+     "image": "data/img/south-africa/ulWW.webp",
      "mapsUrl": "https://maps.app.goo.gl/sBHArMggFytawrkg9",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "jfTY",
-     "image": "img/south-africa/jfTY.webp",
+     "image": "data/img/south-africa/jfTY.webp",
      "mapsUrl": "https://maps.app.goo.gl/b4CkMe1HGYo6WBX1A",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
    "metas": [
     {
      "id": "iZzK",
-     "image": "img/south-africa/iZzK.webp",
+     "image": "data/img/south-africa/iZzK.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "pE0c",
-     "image": "img/south-africa/pE0c.webp",
+     "image": "data/img/south-africa/pE0c.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "OmMx",
-     "image": "img/south-africa/OmMx.webp",
+     "image": "data/img/south-africa/OmMx.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "pn0o",
-     "image": "img/south-africa/pn0o.webp",
+     "image": "data/img/south-africa/pn0o.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "UxL1",
-     "image": "img/south-africa/UxL1.webp",
+     "image": "data/img/south-africa/UxL1.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=22.73829921101389&heading=332.5033709376211&map_action=pano&pano=mY8M7wVWWThD2uA690qV9A&pitch=15.910918567816381&viewpoint=-33.637241%2C18.774357#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "Prjw",
-     "image": "img/south-africa/Prjw.webp",
+     "image": "data/img/south-africa/Prjw.webp",
      "mapsUrl": "https://maps.app.goo.gl/wj6SYoDE6XeRPPUx5",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "RWlO",
-     "image": "img/south-africa/RWlO.webp",
+     "image": "data/img/south-africa/RWlO.webp",
      "mapsUrl": "https://maps.app.goo.gl/PWvuMSk6zdEQ5nZC8",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "KDMw",
-     "image": "img/south-africa/KDMw.webp",
+     "image": "data/img/south-africa/KDMw.webp",
      "mapsUrl": "https://www.google.com/maps/@-25.6378661,27.0436712,3a,40.2y,324.54h,97.11t/data=!3m7!1e1!3m5!1sZxwM5-tf3aj_8yPwiKUPuQ!2e0!5s20220101T000000!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "Fho0",
-     "image": "img/south-africa/Fho0.webp",
+     "image": "data/img/south-africa/Fho0.webp",
      "mapsUrl": "https://www.google.com/maps/@-26.0679359,30.286386,3a,42.6y,115.87h,91.81t/data=!3m6!1e1!3m4!1sx8pfEaFHq02KTijL1x6LXw!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "D9sE",
-     "image": "img/south-africa/D9sE.webp",
+     "image": "data/img/south-africa/D9sE.webp",
      "mapsUrl": "https://goo.gl/maps/3UW4CRFH8pPDD6nw5",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "u08Z",
-     "image": "img/south-africa/u08Z.webp",
+     "image": "data/img/south-africa/u08Z.webp",
      "mapsUrl": "https://maps.app.goo.gl/XpxZ2MQvDx3WVtoZ8",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "eJUt",
-     "image": "img/south-africa/eJUt.webp",
+     "image": "data/img/south-africa/eJUt.webp",
      "mapsUrl": "https://maps.app.goo.gl/59467Xk9Nx2sNES47",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "0BuS",
-     "image": "img/south-africa/0BuS.webp",
+     "image": "data/img/south-africa/0BuS.webp",
      "mapsUrl": "https://maps.app.goo.gl/BK8dZY2oDg5eKJeQ9",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "Oy3D",
-     "image": "img/south-africa/Oy3D.webp",
+     "image": "data/img/south-africa/Oy3D.webp",
      "mapsUrl": "https://maps.app.goo.gl/8X1wdjUvpif6zAmZA",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "iJbI",
-     "image": "img/south-africa/iJbI.webp",
+     "image": "data/img/south-africa/iJbI.webp",
      "mapsUrl": "https://maps.app.goo.gl/GCqofiNoqSbKUyTQ9",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "GgUS",
-     "image": "img/south-africa/GgUS.webp",
+     "image": "data/img/south-africa/GgUS.webp",
      "mapsUrl": "https://www.google.com/maps/@-24.2702596,29.5504879,3a,75y,69.54h,88.17t/data=!3m6!1e1!3m4!1sz-Kl67SRWKngSrNBRuV0pA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -321,7 +321,7 @@
     },
     {
      "id": "UBPX",
-     "image": "img/south-africa/UBPX.webp",
+     "image": "data/img/south-africa/UBPX.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=64.97781551109878&heading=289.0628013397157&map_action=pano&pano=s9KVHtMkU_ta5Jg-znPVyg&pitch=8.033117502464137&viewpoint=-33.699448%2C19.209159#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -331,7 +331,7 @@
     },
     {
      "id": "nSzl",
-     "image": "img/south-africa/nSzl.webp",
+     "image": "data/img/south-africa/nSzl.webp",
      "mapsUrl": "https://goo.gl/maps/PKwtG8AJA5orUS7G8",
      "width": 0.573,
      "text": [
@@ -340,7 +340,7 @@
     },
     {
      "id": "Q1UD",
-     "image": "img/south-africa/Q1UD.webp",
+     "image": "data/img/south-africa/Q1UD.webp",
      "mapsUrl": "https://goo.gl/maps/67Rk6J45AvyRhTjd6",
      "width": 0.573,
      "text": [
@@ -350,7 +350,7 @@
     },
     {
      "id": "58eY",
-     "image": "img/south-africa/58eY.webp",
+     "image": "data/img/south-africa/58eY.webp",
      "mapsUrl": "https://goo.gl/maps/dhKN1dPE7cHoW25b7",
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "EW6K",
-     "image": "img/south-africa/EW6K.webp",
+     "image": "data/img/south-africa/EW6K.webp",
      "mapsUrl": "https://www.google.com/maps/@-29.8378303,30.9537532,3a,90y,240.87h,105.19t/data=!3m6!1e1!3m4!1sHVr9PQ9_2vfvOlumeAPVYw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -369,7 +369,7 @@
     },
     {
      "id": "mWX6",
-     "image": "img/south-africa/mWX6.webp",
+     "image": "data/img/south-africa/mWX6.webp",
      "mapsUrl": "https://goo.gl/maps/CW7M148hyUdpk2Rf6",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
     },
     {
      "id": "wMNA",
-     "image": "img/south-africa/wMNA.webp",
+     "image": "data/img/south-africa/wMNA.webp",
      "mapsUrl": "https://goo.gl/maps/368voobAtdJGPF7Y9",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "p5p1",
-     "image": "img/south-africa/p5p1.webp",
+     "image": "data/img/south-africa/p5p1.webp",
      "mapsUrl": "https://goo.gl/maps/n3H8Qu5es73GTxzA7",
      "width": 0.573,
      "text": [
@@ -397,7 +397,7 @@
     },
     {
      "id": "Z6GT",
-     "image": "img/south-africa/Z6GT.webp",
+     "image": "data/img/south-africa/Z6GT.webp",
      "mapsUrl": "https://goo.gl/maps/RJSCwLwTGv5Y6C5K8",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "EHXL",
-     "image": "img/south-africa/EHXL.webp",
+     "image": "data/img/south-africa/EHXL.webp",
      "mapsUrl": "https://goo.gl/maps/jEszFugxz6w3Qmwq5",
      "width": 0.573,
      "text": [
@@ -427,7 +427,7 @@
    "metas": [
     {
      "id": "IPzM",
-     "image": "img/south-africa/IPzM.webp",
+     "image": "data/img/south-africa/IPzM.webp",
      "mapsUrl": "https://goo.gl/maps/ZfbwsNaUjonKnoAY9",
      "width": 0.573,
      "text": [
@@ -437,7 +437,7 @@
     },
     {
      "id": "ISiU",
-     "image": "img/south-africa/ISiU.webp",
+     "image": "data/img/south-africa/ISiU.webp",
      "mapsUrl": "https://goo.gl/maps/kwCwmUU86y81Cm3bA",
      "width": 0.573,
      "text": [
@@ -446,7 +446,7 @@
     },
     {
      "id": "VsjT",
-     "image": "img/south-africa/VsjT.webp",
+     "image": "data/img/south-africa/VsjT.webp",
      "mapsUrl": "https://goo.gl/maps/RYcGypBva4v5GijT6",
      "width": 0.573,
      "text": [
@@ -455,7 +455,7 @@
     },
     {
      "id": "7cr3",
-     "image": "img/south-africa/7cr3.webp",
+     "image": "data/img/south-africa/7cr3.webp",
      "mapsUrl": "https://goo.gl/maps/XotFHYA8aVCsVsaYA",
      "width": 0.573,
      "text": [
@@ -464,7 +464,7 @@
     },
     {
      "id": "OMTa",
-     "image": "img/south-africa/OMTa.webp",
+     "image": "data/img/south-africa/OMTa.webp",
      "mapsUrl": "https://goo.gl/maps/bxSKj32eNuSWk8kz6",
      "width": 0.573,
      "text": [
@@ -474,7 +474,7 @@
     },
     {
      "id": "t7mv",
-     "image": "img/south-africa/t7mv.webp",
+     "image": "data/img/south-africa/t7mv.webp",
      "mapsUrl": "https://goo.gl/maps/rQt5tssC6Q5oPSbDA",
      "width": 0.573,
      "text": [
@@ -483,7 +483,7 @@
     },
     {
      "id": "G6kZ",
-     "image": "img/south-africa/G6kZ.webp",
+     "image": "data/img/south-africa/G6kZ.webp",
      "mapsUrl": "https://goo.gl/maps/vsrz6WGh5qVqPGcZ9",
      "width": 0.573,
      "text": [

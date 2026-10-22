@@ -128,7 +128,9 @@ def _meta_from_item(item, slug, seen_ids):
 
     return {
         "id": meta_id,
-        "image": f"img/{slug}/{meta_id}.webp" if image_url else None,
+        # The path is relative to the app root, so the browser and the
+        # service worker both resolve it the same way.
+        "image": f"data/img/{slug}/{meta_id}.webp" if image_url else None,
         "mapsUrl": link if link and link != image_url else None,
         "width": image.get("width") if "width" in image else None,
         "text": list(data.get("text") or []),
@@ -183,7 +185,7 @@ def reshape(public):
         "title": public.get("title") or "",
         "code": public.get("code") or "",
         "continent": _continent(public),
-        "hero": f"img/{slug}/hero.webp" if hero_image else None,
+        "hero": f"data/img/{slug}/hero.webp" if hero_image else None,
         "metaCount": meta_count,
         "sections": sections,
     }

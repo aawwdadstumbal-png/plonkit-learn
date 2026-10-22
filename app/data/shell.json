@@ -1,0 +1,21 @@
+[
+  "./",
+  "index.html",
+  "styles.css",
+  "app.js",
+  "manifest.webmanifest",
+  "js/dom.js",
+  "js/router.js",
+  "js/prefs.js",
+  "js/screens.js",
+  "js/data.js",
+  "js/store.js",
+  "js/md.js",
+  "js/quiz.js",
+  "js/srs.js",
+  "js/stats.js",
+  "icons/icon-192.png",
+  "icons/icon-512.png",
+  "icons/icon-maskable-512.png",
+  "data/index.json"
+]

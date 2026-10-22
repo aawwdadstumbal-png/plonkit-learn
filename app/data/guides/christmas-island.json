@@ -3,7 +3,7 @@
  "title": "Christmas Island",
  "code": "CX",
  "continent": "Oceania",
- "hero": "img/christmas-island/hero.webp",
+ "hero": "data/img/christmas-island/hero.webp",
  "metaCount": 13,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "bapH",
-     "image": "img/christmas-island/bapH.webp",
+     "image": "data/img/christmas-island/bapH.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "fsLu",
-     "image": "img/christmas-island/fsLu.webp",
+     "image": "data/img/christmas-island/fsLu.webp",
      "mapsUrl": "https://goo.gl/maps/ZE5rKdbucuL7C57LA",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "p6bw",
-     "image": "img/christmas-island/p6bw.webp",
+     "image": "data/img/christmas-island/p6bw.webp",
      "mapsUrl": "https://goo.gl/maps/W254cWGU8jD1iHZw7",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "XuYJ",
-     "image": "img/christmas-island/XuYJ.webp",
+     "image": "data/img/christmas-island/XuYJ.webp",
      "mapsUrl": "https://goo.gl/maps/pYjhx7GagCKCJKMM7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "SxJI",
-     "image": "img/christmas-island/SxJI.webp",
+     "image": "data/img/christmas-island/SxJI.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "t2i9",
-     "image": "img/christmas-island/t2i9.webp",
+     "image": "data/img/christmas-island/t2i9.webp",
      "mapsUrl": "https://goo.gl/maps/rELwvrHpUnRPJBLy7",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
    "metas": [
     {
      "id": "n2Na",
-     "image": "img/christmas-island/n2Na.webp",
+     "image": "data/img/christmas-island/n2Na.webp",
      "mapsUrl": "https://goo.gl/maps/T9vCR8AVcYJZTFTJ9",
      "width": 0.573,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "lGDi",
-     "image": "img/christmas-island/lGDi.webp",
+     "image": "data/img/christmas-island/lGDi.webp",
      "mapsUrl": "https://goo.gl/maps/F9Mw5wAJV8oJCM76A",
      "width": 0.573,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "Wzpv",
-     "image": "img/christmas-island/Wzpv.webp",
+     "image": "data/img/christmas-island/Wzpv.webp",
      "mapsUrl": "https://goo.gl/maps/3kXgsWxbV3rY6FCT9",
      "width": 0.573,
      "text": [
@@ -123,7 +123,7 @@
    "metas": [
     {
      "id": "iIEF",
-     "image": "img/christmas-island/iIEF.webp",
+     "image": "data/img/christmas-island/iIEF.webp",
      "mapsUrl": "https://goo.gl/maps/hiEA1Xs2r28wDxTz5",
      "width": 0.573,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "xSfX",
-     "image": "img/christmas-island/xSfX.webp",
+     "image": "data/img/christmas-island/xSfX.webp",
      "mapsUrl": "https://goo.gl/maps/jjT34gD15Pvxw6c4A",
      "width": 0.573,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "DIBi",
-     "image": "img/christmas-island/DIBi.webp",
+     "image": "data/img/christmas-island/DIBi.webp",
      "mapsUrl": "https://goo.gl/maps/Z24nZ8a3rHKwEQMC6",
      "width": 0.573,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "p88a",
-     "image": "img/christmas-island/p88a.webp",
+     "image": "data/img/christmas-island/p88a.webp",
      "mapsUrl": "https://goo.gl/maps/mtw9YbvqXt3znhfz8",
      "width": 0.573,
      "text": [

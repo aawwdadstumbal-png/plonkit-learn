@@ -3,7 +3,7 @@
  "title": "Iraq",
  "code": "IQ",
  "continent": "Asia",
- "hero": "img/iraq/hero.webp",
+ "hero": "data/img/iraq/hero.webp",
  "metaCount": 5,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "8Q3g",
-     "image": "img/iraq/8Q3g.webp",
+     "image": "data/img/iraq/8Q3g.webp",
      "mapsUrl": "https://goo.gl/maps/tHuevnuaPPyfP3ST8",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "ZqvN",
-     "image": "img/iraq/ZqvN.webp",
+     "image": "data/img/iraq/ZqvN.webp",
      "mapsUrl": "https://goo.gl/maps/TYRcoYXiDN18npct5",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "GRAo",
-     "image": "img/iraq/GRAo.webp",
+     "image": "data/img/iraq/GRAo.webp",
      "mapsUrl": "https://goo.gl/maps/2yv4UYpvhiUn7LwcA",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "sXI8",
-     "image": "img/iraq/sXI8.webp",
+     "image": "data/img/iraq/sXI8.webp",
      "mapsUrl": "https://goo.gl/maps/MHY3BKixH2BKhx3p6",
      "width": 1,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "gZMi",
-     "image": "img/iraq/gZMi.webp",
+     "image": "data/img/iraq/gZMi.webp",
      "mapsUrl": "https://goo.gl/maps/uN2uxkfFMPMU76np9",
      "width": 0.5,
      "text": [

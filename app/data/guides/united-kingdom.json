@@ -3,7 +3,7 @@
  "title": "United Kingdom",
  "code": "GB",
  "continent": "Europe",
- "hero": "img/united-kingdom/hero.webp",
+ "hero": "data/img/united-kingdom/hero.webp",
  "metaCount": 53,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "B2JD",
-     "image": "img/united-kingdom/B2JD.webp",
+     "image": "data/img/united-kingdom/B2JD.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "uMg6",
-     "image": "img/united-kingdom/uMg6.webp",
+     "image": "data/img/united-kingdom/uMg6.webp",
      "mapsUrl": "https://goo.gl/maps/Gccxeko9wLXuYSYC9",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "0Ton",
-     "image": "img/united-kingdom/0Ton.webp",
+     "image": "data/img/united-kingdom/0Ton.webp",
      "mapsUrl": "https://goo.gl/maps/8SH8Vzht91eejoMM9",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "REyn",
-     "image": "img/united-kingdom/REyn.webp",
+     "image": "data/img/united-kingdom/REyn.webp",
      "mapsUrl": "https://goo.gl/maps/N3aYofvXf4G7kZKfA",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "ecrT",
-     "image": "img/united-kingdom/ecrT.webp",
+     "image": "data/img/united-kingdom/ecrT.webp",
      "mapsUrl": "https://goo.gl/maps/dJrsXLPfTEK1pXEf6",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "WwjT",
-     "image": "img/united-kingdom/WwjT.webp",
+     "image": "data/img/united-kingdom/WwjT.webp",
      "mapsUrl": "https://goo.gl/maps/ei7Xvzo4m7qGBYqJA",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "DOaW",
-     "image": "img/united-kingdom/DOaW.webp",
+     "image": "data/img/united-kingdom/DOaW.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "zRI4",
-     "image": "img/united-kingdom/zRI4.webp",
+     "image": "data/img/united-kingdom/zRI4.webp",
      "mapsUrl": "https://goo.gl/maps/hM6Y1SzkSmrDvReE6",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "MQvy",
-     "image": "img/united-kingdom/MQvy.webp",
+     "image": "data/img/united-kingdom/MQvy.webp",
      "mapsUrl": "https://goo.gl/maps/vXPn97TyMh8JAsEC7",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "Vq5E",
-     "image": "img/united-kingdom/Vq5E.webp",
+     "image": "data/img/united-kingdom/Vq5E.webp",
      "mapsUrl": "https://goo.gl/maps/eNqyhHNsa3KKMyoi7",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "WwWL",
-     "image": "img/united-kingdom/WwWL.webp",
+     "image": "data/img/united-kingdom/WwWL.webp",
      "mapsUrl": "https://goo.gl/maps/rdq7vq8M8YWWZpbj8",
      "width": 0.5,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "Bhjy",
-     "image": "img/united-kingdom/Bhjy.webp",
+     "image": "data/img/united-kingdom/Bhjy.webp",
      "mapsUrl": "https://goo.gl/maps/p1e6r5Uv5k8iesKs9",
      "width": 0.5,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "UeRJ",
-     "image": "img/united-kingdom/UeRJ.webp",
+     "image": "data/img/united-kingdom/UeRJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/iPNJxXHC8SzLCwvQA",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "Qaei",
-     "image": "img/united-kingdom/Qaei.webp",
+     "image": "data/img/united-kingdom/Qaei.webp",
      "mapsUrl": "https://goo.gl/maps/qJn6XvfbK4TT3VV77",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
     },
     {
      "id": "IJy2",
-     "image": "img/united-kingdom/IJy2.webp",
+     "image": "data/img/united-kingdom/IJy2.webp",
      "mapsUrl": "https://goo.gl/maps/ANpoxT34s8tZXBRy7",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "QKVV",
-     "image": "img/united-kingdom/QKVV.webp",
+     "image": "data/img/united-kingdom/QKVV.webp",
      "mapsUrl": "https://goo.gl/maps/2ZVv7S5ptae1sxbU9",
      "width": 0.5,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "vY5y",
-     "image": "img/united-kingdom/vY5y.webp",
+     "image": "data/img/united-kingdom/vY5y.webp",
      "mapsUrl": "https://goo.gl/maps/3R3cVqVhwSQXSm6J8",
      "width": 0.5,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "aUlL",
-     "image": "img/united-kingdom/aUlL.webp",
+     "image": "data/img/united-kingdom/aUlL.webp",
      "mapsUrl": "https://goo.gl/maps/fGbNM3UW12gFUkad8",
      "width": 0.5,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "78cN",
-     "image": "img/united-kingdom/78cN.webp",
+     "image": "data/img/united-kingdom/78cN.webp",
      "mapsUrl": "https://goo.gl/maps/jXfh67G4nm46cam59",
      "width": 0.5,
      "text": [
@@ -209,7 +209,7 @@
     },
     {
      "id": "rwuG",
-     "image": "img/united-kingdom/rwuG.webp",
+     "image": "data/img/united-kingdom/rwuG.webp",
      "mapsUrl": "https://goo.gl/maps/zgTdgEDNA1ihLcQ1A",
      "width": 0.5,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "UmZq",
-     "image": "img/united-kingdom/UmZq.webp",
+     "image": "data/img/united-kingdom/UmZq.webp",
      "mapsUrl": "https://goo.gl/maps/i7AHCCdEvbF13TxS7",
      "width": 0.5,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "wdhk",
-     "image": "img/united-kingdom/wdhk.webp",
+     "image": "data/img/united-kingdom/wdhk.webp",
      "mapsUrl": "https://goo.gl/maps/6PriwBUVY8pGAg6u8",
      "width": 0.5,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "vT4m",
-     "image": "img/united-kingdom/vT4m.webp",
+     "image": "data/img/united-kingdom/vT4m.webp",
      "mapsUrl": "https://maps.app.goo.gl/7vGWhFM1rJLBtpSN7",
      "width": 0.5,
      "text": [
@@ -255,7 +255,7 @@
    "metas": [
     {
      "id": "RDtH",
-     "image": "img/united-kingdom/RDtH.webp",
+     "image": "data/img/united-kingdom/RDtH.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "QHOv",
-     "image": "img/united-kingdom/QHOv.webp",
+     "image": "data/img/united-kingdom/QHOv.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -274,7 +274,7 @@
     },
     {
      "id": "yII8",
-     "image": "img/united-kingdom/yII8.webp",
+     "image": "data/img/united-kingdom/yII8.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -285,7 +285,7 @@
     },
     {
      "id": "xFi3",
-     "image": "img/united-kingdom/xFi3.webp",
+     "image": "data/img/united-kingdom/xFi3.webp",
      "mapsUrl": "https://www.google.com/maps/@53.7698752,-2.6976773,3a,30y,63.12h,66.73t/data=!3m6!1e1!3m4!1sVBpGAesBWH6DDlccPdQQOA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "rm9B",
-     "image": "img/united-kingdom/rm9B.webp",
+     "image": "data/img/united-kingdom/rm9B.webp",
      "mapsUrl": "https://goo.gl/maps/HN219PYybRqWFbVs7",
      "width": 0.573,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "RtMf",
-     "image": "img/united-kingdom/RtMf.webp",
+     "image": "data/img/united-kingdom/RtMf.webp",
      "mapsUrl": "https://goo.gl/maps/U18YqbaKVGLT6miN9",
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
     },
     {
      "id": "Jiou",
-     "image": "img/united-kingdom/Jiou.webp",
+     "image": "data/img/united-kingdom/Jiou.webp",
      "mapsUrl": "https://goo.gl/maps/QwrpxXYDSNR4qpv87",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "qc5P",
-     "image": "img/united-kingdom/qc5P.webp",
+     "image": "data/img/united-kingdom/qc5P.webp",
      "mapsUrl": "https://goo.gl/maps/VkZKVo4hmB1JwbXN6",
      "width": 0.573,
      "text": [
@@ -336,7 +336,7 @@
     },
     {
      "id": "ZTWS",
-     "image": "img/united-kingdom/ZTWS.webp",
+     "image": "data/img/united-kingdom/ZTWS.webp",
      "mapsUrl": "https://goo.gl/maps/cRHYBQe1gPL9GjFq7",
      "width": 0.573,
      "text": [
@@ -346,7 +346,7 @@
     },
     {
      "id": "YFrb",
-     "image": "img/united-kingdom/YFrb.webp",
+     "image": "data/img/united-kingdom/YFrb.webp",
      "mapsUrl": "https://goo.gl/maps/3a8nkmDxmZdridPT7",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "zdZe",
-     "image": "img/united-kingdom/zdZe.webp",
+     "image": "data/img/united-kingdom/zdZe.webp",
      "mapsUrl": "https://goo.gl/maps/hrK6fUDuVCJUsKqQ9",
      "width": 0.573,
      "text": [
@@ -366,7 +366,7 @@
     },
     {
      "id": "7Dwu",
-     "image": "img/united-kingdom/7Dwu.webp",
+     "image": "data/img/united-kingdom/7Dwu.webp",
      "mapsUrl": "https://goo.gl/maps/GMhAzppDdTE8mhoXA",
      "width": 0.573,
      "text": [
@@ -375,7 +375,7 @@
     },
     {
      "id": "C4hI",
-     "image": "img/united-kingdom/C4hI.webp",
+     "image": "data/img/united-kingdom/C4hI.webp",
      "mapsUrl": "https://goo.gl/maps/PMHga7uwKB3Ti47M7",
      "width": 0.573,
      "text": [
@@ -384,7 +384,7 @@
     },
     {
      "id": "lkL1",
-     "image": "img/united-kingdom/lkL1.webp",
+     "image": "data/img/united-kingdom/lkL1.webp",
      "mapsUrl": "https://maps.app.goo.gl/qiqKkxKDHCQ879fo8",
      "width": 0.573,
      "text": [
@@ -393,7 +393,7 @@
     },
     {
      "id": "lJbW",
-     "image": "img/united-kingdom/lJbW.webp",
+     "image": "data/img/united-kingdom/lJbW.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -403,7 +403,7 @@
     },
     {
      "id": "V5YP",
-     "image": "img/united-kingdom/V5YP.webp",
+     "image": "data/img/united-kingdom/V5YP.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -413,7 +413,7 @@
     },
     {
      "id": "j4to",
-     "image": "img/united-kingdom/j4to.webp",
+     "image": "data/img/united-kingdom/j4to.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "5Q6L",
-     "image": "img/united-kingdom/5Q6L.webp",
+     "image": "data/img/united-kingdom/5Q6L.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bermuda_in_United_Kingdom.svg/2560px-Bermuda_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -433,7 +433,7 @@
     },
     {
      "id": "giuq",
-     "image": "img/united-kingdom/giuq.webp",
+     "image": "data/img/united-kingdom/giuq.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Location_map_of_the_Falklands_%E2%80%93_Alternative_version_4.svg/2560px-Location_map_of_the_Falklands_%E2%80%93_Alternative_version_4.svg.png",
      "width": 0.5,
      "text": [
@@ -443,7 +443,7 @@
     },
     {
      "id": "wqNg",
-     "image": "img/united-kingdom/wqNg.webp",
+     "image": "data/img/united-kingdom/wqNg.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg/1900px-South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -453,7 +453,7 @@
     },
     {
      "id": "MrGx",
-     "image": "img/united-kingdom/MrGx.webp",
+     "image": "data/img/united-kingdom/MrGx.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pitcairn_Islands_in_United_Kingdom.svg/2560px-Pitcairn_Islands_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -463,7 +463,7 @@
     },
     {
      "id": "7RAB",
-     "image": "img/united-kingdom/7RAB.webp",
+     "image": "data/img/united-kingdom/7RAB.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/British_Indian_Ocean_Territory_in_United_Kingdom.svg/2560px-British_Indian_Ocean_Territory_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -482,7 +482,7 @@
    "metas": [
     {
      "id": "JAl0",
-     "image": "img/united-kingdom/JAl0.webp",
+     "image": "data/img/united-kingdom/JAl0.webp",
      "mapsUrl": "https://goo.gl/maps/rMikp5KAujGQQr8L6",
      "width": 0.573,
      "text": [
@@ -491,7 +491,7 @@
     },
     {
      "id": "iLwq",
-     "image": "img/united-kingdom/iLwq.webp",
+     "image": "data/img/united-kingdom/iLwq.webp",
      "mapsUrl": "https://goo.gl/maps/n4NFGyuEbMd3eZ5o9",
      "width": 0.573,
      "text": [
@@ -500,7 +500,7 @@
     },
     {
      "id": "5w6L",
-     "image": "img/united-kingdom/5w6L.webp",
+     "image": "data/img/united-kingdom/5w6L.webp",
      "mapsUrl": "https://maps.app.goo.gl/AKmEr2Curi7fNaTQ9",
      "width": 0.573,
      "text": [
@@ -510,7 +510,7 @@
     },
     {
      "id": "36tt",
-     "image": "img/united-kingdom/36tt.webp",
+     "image": "data/img/united-kingdom/36tt.webp",
      "mapsUrl": "https://maps.app.goo.gl/py3Hxbdbeu1GJt876",
      "width": 0.573,
      "text": [
@@ -520,7 +520,7 @@
     },
     {
      "id": "X0Ns",
-     "image": "img/united-kingdom/X0Ns.webp",
+     "image": "data/img/united-kingdom/X0Ns.webp",
      "mapsUrl": "https://maps.app.goo.gl/pCSNLyfyd5wobd7m9",
      "width": 0.573,
      "text": [
@@ -529,7 +529,7 @@
     },
     {
      "id": "1NDu",
-     "image": "img/united-kingdom/1NDu.webp",
+     "image": "data/img/united-kingdom/1NDu.webp",
      "mapsUrl": "https://goo.gl/maps/fYh1ippFVPjHgUGi9",
      "width": 0.573,
      "text": [
@@ -539,7 +539,7 @@
     },
     {
      "id": "XahW",
-     "image": "img/united-kingdom/XahW.webp",
+     "image": "data/img/united-kingdom/XahW.webp",
      "mapsUrl": "https://goo.gl/maps/tqnE1u1nvuVmJBFM6",
      "width": 0.573,
      "text": [
@@ -548,7 +548,7 @@
     },
     {
      "id": "93V0",
-     "image": "img/united-kingdom/93V0.webp",
+     "image": "data/img/united-kingdom/93V0.webp",
      "mapsUrl": "https://goo.gl/maps/hy8fs9hok8SKFGNx9",
      "width": 0.573,
      "text": [

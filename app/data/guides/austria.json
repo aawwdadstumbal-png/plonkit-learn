@@ -3,7 +3,7 @@
  "title": "Austria",
  "code": "AT",
  "continent": "Europe",
- "hero": "img/austria/hero.webp",
+ "hero": "data/img/austria/hero.webp",
  "metaCount": 39,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "NQvW",
-     "image": "img/austria/NQvW.webp",
+     "image": "data/img/austria/NQvW.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "Z6SF",
-     "image": "img/austria/Z6SF.webp",
+     "image": "data/img/austria/Z6SF.webp",
      "mapsUrl": "https://goo.gl/maps/tosg1wLeAYBHX6B96",
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
     },
     {
      "id": "0Ecv",
-     "image": "img/austria/0Ecv.webp",
+     "image": "data/img/austria/0Ecv.webp",
      "mapsUrl": "https://goo.gl/maps/pFCg2KPnDvejzAiM7",
      "width": 0.5,
      "text": [
@@ -54,7 +54,7 @@
     },
     {
      "id": "XNJA",
-     "image": "img/austria/XNJA.webp",
+     "image": "data/img/austria/XNJA.webp",
      "mapsUrl": "https://goo.gl/maps/oDFKP2MnFYQX4uCn9",
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "3ouy",
-     "image": "img/austria/3ouy.webp",
+     "image": "data/img/austria/3ouy.webp",
      "mapsUrl": "https://goo.gl/maps/x6nRVi6b7ykzJGZE9",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "zryZ",
-     "image": "img/austria/zryZ.webp",
+     "image": "data/img/austria/zryZ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -82,7 +82,7 @@
     },
     {
      "id": "PGTR",
-     "image": "img/austria/PGTR.webp",
+     "image": "data/img/austria/PGTR.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "N5fI",
-     "image": "img/austria/N5fI.webp",
+     "image": "data/img/austria/N5fI.webp",
      "mapsUrl": "https://maps.app.goo.gl/JfqVTqhkVFV627Mb9",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "jtGs",
-     "image": "img/austria/jtGs.webp",
+     "image": "data/img/austria/jtGs.webp",
      "mapsUrl": "https://maps.app.goo.gl/rBAccQcXmU4TRHL9A",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "W0XX",
-     "image": "img/austria/W0XX.webp",
+     "image": "data/img/austria/W0XX.webp",
      "mapsUrl": "https://goo.gl/maps/m73UhLyaiyCod96m8",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "xfLD",
-     "image": "img/austria/xfLD.webp",
+     "image": "data/img/austria/xfLD.webp",
      "mapsUrl": "https://goo.gl/maps/7kUuwDenHKPveDyeA",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "jkM9",
-     "image": "img/austria/jkM9.webp",
+     "image": "data/img/austria/jkM9.webp",
      "mapsUrl": "https://goo.gl/maps/dMrfFMLy3E2qFgWy6",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "aurF",
-     "image": "img/austria/aurF.webp",
+     "image": "data/img/austria/aurF.webp",
      "mapsUrl": "https://goo.gl/maps/KD8s2FCpf4FNeNmZ7",
      "width": 0.5,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "KsHC",
-     "image": "img/austria/KsHC.webp",
+     "image": "data/img/austria/KsHC.webp",
      "mapsUrl": "https://maps.app.goo.gl/fbC5ZPmR3bg1RJ3v7",
      "width": 0.5,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "zEpW",
-     "image": "img/austria/zEpW.webp",
+     "image": "data/img/austria/zEpW.webp",
      "mapsUrl": "https://goo.gl/maps/rYFqVXHgxeNhhRa26",
      "width": 0.5,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "nkbT",
-     "image": "img/austria/nkbT.webp",
+     "image": "data/img/austria/nkbT.webp",
      "mapsUrl": "https://goo.gl/maps/zNeTc1aHj9j2EXZp9",
      "width": 0.5,
      "text": [
@@ -181,7 +181,7 @@
     },
     {
      "id": "wkwt",
-     "image": "img/austria/wkwt.webp",
+     "image": "data/img/austria/wkwt.webp",
      "mapsUrl": "https://goo.gl/maps/CsaBeR6SbvTfy5FT6",
      "width": 0.5,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "Aj8O",
-     "image": "img/austria/Aj8O.webp",
+     "image": "data/img/austria/Aj8O.webp",
      "mapsUrl": "https://goo.gl/maps/g3SY4BSFbGSHmLnj7",
      "width": 0.5,
      "text": [
@@ -200,7 +200,7 @@
     },
     {
      "id": "Lxtx",
-     "image": "img/austria/Lxtx.webp",
+     "image": "data/img/austria/Lxtx.webp",
      "mapsUrl": "https://maps.app.goo.gl/E3YxWZE2GyiVDy1PA",
      "width": 0.5,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "qDvc",
-     "image": "img/austria/qDvc.webp",
+     "image": "data/img/austria/qDvc.webp",
      "mapsUrl": "https://goo.gl/maps/rJYmXFH4Fz948Xp56",
      "width": 0.5,
      "text": [
@@ -229,7 +229,7 @@
    "metas": [
     {
      "id": "wOk9",
-     "image": "img/austria/wOk9.webp",
+     "image": "data/img/austria/wOk9.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "9j96",
-     "image": "img/austria/9j96.webp",
+     "image": "data/img/austria/9j96.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "pdDS",
-     "image": "img/austria/pdDS.webp",
+     "image": "data/img/austria/pdDS.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -260,7 +260,7 @@
     },
     {
      "id": "brez",
-     "image": "img/austria/brez.webp",
+     "image": "data/img/austria/brez.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -270,7 +270,7 @@
     },
     {
      "id": "3bP3",
-     "image": "img/austria/3bP3.webp",
+     "image": "data/img/austria/3bP3.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -280,7 +280,7 @@
     },
     {
      "id": "mNtb",
-     "image": "img/austria/mNtb.webp",
+     "image": "data/img/austria/mNtb.webp",
      "mapsUrl": "https://maps.app.goo.gl/7hW8gUuYARzPgGSSA",
      "width": 0.573,
      "text": [
@@ -289,7 +289,7 @@
     },
     {
      "id": "6K4Z",
-     "image": "img/austria/6K4Z.webp",
+     "image": "data/img/austria/6K4Z.webp",
      "mapsUrl": "https://maps.app.goo.gl/46k2n6YTjkFqQitR9",
      "width": 0.573,
      "text": [
@@ -298,7 +298,7 @@
     },
     {
      "id": "Wz4z",
-     "image": "img/austria/Wz4z.webp",
+     "image": "data/img/austria/Wz4z.webp",
      "mapsUrl": "https://maps.app.goo.gl/C537ymsPULLzuFey7",
      "width": 0.573,
      "text": [
@@ -307,7 +307,7 @@
     },
     {
      "id": "UnOK",
-     "image": "img/austria/UnOK.webp",
+     "image": "data/img/austria/UnOK.webp",
      "mapsUrl": "https://maps.app.goo.gl/9YntyyukwPAwBYHH6",
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
     },
     {
      "id": "yHR2",
-     "image": "img/austria/yHR2.webp",
+     "image": "data/img/austria/yHR2.webp",
      "mapsUrl": "https://maps.app.goo.gl/zS8GnYLdfq9EFs7B8",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "FhCj",
-     "image": "img/austria/FhCj.webp",
+     "image": "data/img/austria/FhCj.webp",
      "mapsUrl": "https://maps.app.goo.gl/GVXNrkTbJRPwFZrK8",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "byhm",
-     "image": "img/austria/byhm.webp",
+     "image": "data/img/austria/byhm.webp",
      "mapsUrl": "https://maps.app.goo.gl/jC96hyUxaEYcPeDK9",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "scuj",
-     "image": "img/austria/scuj.webp",
+     "image": "data/img/austria/scuj.webp",
      "mapsUrl": "https://goo.gl/maps/NQ6D2kAEztmTmDV26",
      "width": 0.573,
      "text": [
@@ -353,7 +353,7 @@
     },
     {
      "id": "ctpi",
-     "image": "img/austria/ctpi.webp",
+     "image": "data/img/austria/ctpi.webp",
      "mapsUrl": "https://goo.gl/maps/ym5eMj4JRKckM6Ws9",
      "width": 0.573,
      "text": [
@@ -363,7 +363,7 @@
     },
     {
      "id": "0jT0",
-     "image": "img/austria/0jT0.webp",
+     "image": "data/img/austria/0jT0.webp",
      "mapsUrl": "https://goo.gl/maps/K7fb6xikV5EWCPSr9",
      "width": 0.573,
      "text": [
@@ -382,7 +382,7 @@
    "metas": [
     {
      "id": "auEK",
-     "image": "img/austria/auEK.webp",
+     "image": "data/img/austria/auEK.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -392,7 +392,7 @@
     },
     {
      "id": "whoL",
-     "image": "img/austria/whoL.webp",
+     "image": "data/img/austria/whoL.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "AH8p",
-     "image": "img/austria/AH8p.webp",
+     "image": "data/img/austria/AH8p.webp",
      "mapsUrl": "https://goo.gl/maps/dVqJ2FdTGpoCauBg7",
      "width": 0.573,
      "text": [
@@ -416,7 +416,7 @@
     },
     {
      "id": "pHCf",
-     "image": "img/austria/pHCf.webp",
+     "image": "data/img/austria/pHCf.webp",
      "mapsUrl": "https://goo.gl/maps/kpSctXNSdg4ognN18",
      "width": 0.573,
      "text": [

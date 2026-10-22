@@ -3,7 +3,7 @@
  "title": "Jersey",
  "code": "JE",
  "continent": "Europe",
- "hero": "img/jersey/hero.webp",
+ "hero": "data/img/jersey/hero.webp",
  "metaCount": 19,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "r1L7",
-     "image": "img/jersey/r1L7.webp",
+     "image": "data/img/jersey/r1L7.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "WJRF",
-     "image": "img/jersey/WJRF.webp",
+     "image": "data/img/jersey/WJRF.webp",
      "mapsUrl": "https://goo.gl/maps/UwLv9bL7SsuJYZF16",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "QfN6",
-     "image": "img/jersey/QfN6.webp",
+     "image": "data/img/jersey/QfN6.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "Y2Eu",
-     "image": "img/jersey/Y2Eu.webp",
+     "image": "data/img/jersey/Y2Eu.webp",
      "mapsUrl": "https://goo.gl/maps/kNsowiMi9Dd68QKt5",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "gRdF",
-     "image": "img/jersey/gRdF.webp",
+     "image": "data/img/jersey/gRdF.webp",
      "mapsUrl": "https://goo.gl/maps/hiy6f3idNfjqVX4k9",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "19gE",
-     "image": "img/jersey/19gE.webp",
+     "image": "data/img/jersey/19gE.webp",
      "mapsUrl": "https://goo.gl/maps/LcvutL9CdwxfhHj99",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "s918",
-     "image": "img/jersey/s918.webp",
+     "image": "data/img/jersey/s918.webp",
      "mapsUrl": "https://goo.gl/maps/DnEYBXMfM4c1Ujtp9",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "zYT6",
-     "image": "img/jersey/zYT6.webp",
+     "image": "data/img/jersey/zYT6.webp",
      "mapsUrl": "https://goo.gl/maps/iFPqaRvG8CRTceZS8",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "DwPv",
-     "image": "img/jersey/DwPv.webp",
+     "image": "data/img/jersey/DwPv.webp",
      "mapsUrl": "https://goo.gl/maps/jQ4YQqArA5RTUqc58",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "2Pw0",
-     "image": "img/jersey/2Pw0.webp",
+     "image": "data/img/jersey/2Pw0.webp",
      "mapsUrl": "https://goo.gl/maps/vnVHzTAacVepY9Rq9",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "mfYy",
-     "image": "img/jersey/mfYy.webp",
+     "image": "data/img/jersey/mfYy.webp",
      "mapsUrl": "https://goo.gl/maps/t9MpARHDYuihRv8d9",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "1Tin",
-     "image": "img/jersey/1Tin.webp",
+     "image": "data/img/jersey/1Tin.webp",
      "mapsUrl": "https://goo.gl/maps/rbihnHPMsp1vnZ6fA",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
    "metas": [
     {
      "id": "VFkp",
-     "image": "img/jersey/VFkp.webp",
+     "image": "data/img/jersey/VFkp.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "VJhc",
-     "image": "img/jersey/VJhc.webp",
+     "image": "data/img/jersey/VJhc.webp",
      "mapsUrl": "https://goo.gl/maps/BxaLSkap2xWNcBXy5",
      "width": 0.573,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "SnbW",
-     "image": "img/jersey/SnbW.webp",
+     "image": "data/img/jersey/SnbW.webp",
      "mapsUrl": "https://goo.gl/maps/bp9FhjHHZ49obVyD9",
      "width": 0.573,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "4uA3",
-     "image": "img/jersey/4uA3.webp",
+     "image": "data/img/jersey/4uA3.webp",
      "mapsUrl": "https://goo.gl/maps/6Tp99zJtzia6R1U99",
      "width": 0.573,
      "text": [
@@ -190,7 +190,7 @@
    "metas": [
     {
      "id": "4QYR",
-     "image": "img/jersey/4QYR.webp",
+     "image": "data/img/jersey/4QYR.webp",
      "mapsUrl": "https://goo.gl/maps/uQCNqkpeyDq3qMdS6",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "PTyL",
-     "image": "img/jersey/PTyL.webp",
+     "image": "data/img/jersey/PTyL.webp",
      "mapsUrl": "https://goo.gl/maps/WeysZYdgsLZUX7ED8",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "Vpg7",
-     "image": "img/jersey/Vpg7.webp",
+     "image": "data/img/jersey/Vpg7.webp",
      "mapsUrl": "https://goo.gl/maps/NJVoAHhYBzHgVNGw7",
      "width": 0.573,
      "text": [

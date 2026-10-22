@@ -3,7 +3,7 @@
  "title": "Oman",
  "code": "OM",
  "continent": "Asia",
- "hero": "img/oman/hero.webp",
+ "hero": "data/img/oman/hero.webp",
  "metaCount": 70,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "EFME",
-     "image": "img/oman/EFME.webp",
+     "image": "data/img/oman/EFME.webp",
      "mapsUrl": "https://maps.app.goo.gl/QsacAzjhyZ1tvvoV6",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "FKcd",
-     "image": "img/oman/FKcd.webp",
+     "image": "data/img/oman/FKcd.webp",
      "mapsUrl": "https://maps.app.goo.gl/PbJGJawgobwYduaN8",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "n8zU",
-     "image": "img/oman/n8zU.webp",
+     "image": "data/img/oman/n8zU.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "qr8t",
-     "image": "img/oman/qr8t.webp",
+     "image": "data/img/oman/qr8t.webp",
      "mapsUrl": "https://maps.app.goo.gl/EWGzrD16Ew1PasxS9",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "5QM5",
-     "image": "img/oman/5QM5.webp",
+     "image": "data/img/oman/5QM5.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "vDCC",
-     "image": "img/oman/vDCC.webp",
+     "image": "data/img/oman/vDCC.webp",
      "mapsUrl": "https://maps.app.goo.gl/D8WcCeZV4WDxpm8s8",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "ZG0K",
-     "image": "img/oman/ZG0K.webp",
+     "image": "data/img/oman/ZG0K.webp",
      "mapsUrl": "https://maps.app.goo.gl/LX3vwzB1smFzpaLD6",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "eWEb",
-     "image": "img/oman/eWEb.webp",
+     "image": "data/img/oman/eWEb.webp",
      "mapsUrl": "https://maps.app.goo.gl/EAXcemN3tQxv4ZJb6",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "WjNO",
-     "image": "img/oman/WjNO.webp",
+     "image": "data/img/oman/WjNO.webp",
      "mapsUrl": "https://maps.app.goo.gl/eX6WDZ3P6mFCGERw5",
      "width": 0.5,
      "text": [
@@ -106,7 +106,7 @@
     },
     {
      "id": "hxXh",
-     "image": "img/oman/hxXh.webp",
+     "image": "data/img/oman/hxXh.webp",
      "mapsUrl": "https://maps.app.goo.gl/yTZLdAuXBERbfqUJ9",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "zoUC",
-     "image": "img/oman/zoUC.webp",
+     "image": "data/img/oman/zoUC.webp",
      "mapsUrl": "https://maps.app.goo.gl/oGiMBDMdsjyYF3mz6",
      "width": 0.5,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "80ME",
-     "image": "img/oman/80ME.webp",
+     "image": "data/img/oman/80ME.webp",
      "mapsUrl": "https://maps.app.goo.gl/7mMFSN9vxF6LxDnR8",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "Bmam",
-     "image": "img/oman/Bmam.webp",
+     "image": "data/img/oman/Bmam.webp",
      "mapsUrl": "https://maps.app.goo.gl/F2VqiFzwgyEAUqUZ8",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "DD2W",
-     "image": "img/oman/DD2W.webp",
+     "image": "data/img/oman/DD2W.webp",
      "mapsUrl": "https://maps.app.goo.gl/8uMkASkjiUESC6EC6",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "wuX6",
-     "image": "img/oman/wuX6.webp",
+     "image": "data/img/oman/wuX6.webp",
      "mapsUrl": "https://maps.app.goo.gl/FgLbXQ3pxRpBvzSP9",
      "width": 0.5,
      "text": [
@@ -187,7 +187,7 @@
    "metas": [
     {
      "id": "cWlW",
-     "image": "img/oman/cWlW.webp",
+     "image": "data/img/oman/cWlW.webp",
      "mapsUrl": "https://maps.app.goo.gl/LzShg7UNPqEYrAeZA",
      "width": 0.573,
      "text": [
@@ -196,7 +196,7 @@
     },
     {
      "id": "v23h",
-     "image": "img/oman/v23h.webp",
+     "image": "data/img/oman/v23h.webp",
      "mapsUrl": "https://maps.app.goo.gl/9zXN8iVTbRgHNv3AA",
      "width": 0.573,
      "text": [
@@ -205,7 +205,7 @@
     },
     {
      "id": "ROkr",
-     "image": "img/oman/ROkr.webp",
+     "image": "data/img/oman/ROkr.webp",
      "mapsUrl": "https://maps.app.goo.gl/diDSqi9NHkp1bLb28",
      "width": 0.573,
      "text": [
@@ -214,7 +214,7 @@
     },
     {
      "id": "vKos",
-     "image": "img/oman/vKos.webp",
+     "image": "data/img/oman/vKos.webp",
      "mapsUrl": "https://maps.app.goo.gl/afVocFToyoPKZ6b68",
      "width": 0.573,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "5ml1",
-     "image": "img/oman/5ml1.webp",
+     "image": "data/img/oman/5ml1.webp",
      "mapsUrl": "https://maps.app.goo.gl/iLFgAHpkpyoiaSmBA",
      "width": 0.573,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "JOck",
-     "image": "img/oman/JOck.webp",
+     "image": "data/img/oman/JOck.webp",
      "mapsUrl": "https://maps.app.goo.gl/sJ547581EnT7b5aJA",
      "width": 0.573,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "kcH3",
-     "image": "img/oman/kcH3.webp",
+     "image": "data/img/oman/kcH3.webp",
      "mapsUrl": "https://maps.app.goo.gl/rttPwmQK3eZJyXvC8",
      "width": 0.573,
      "text": [
@@ -250,7 +250,7 @@
     },
     {
      "id": "HEHv",
-     "image": "img/oman/HEHv.webp",
+     "image": "data/img/oman/HEHv.webp",
      "mapsUrl": "https://maps.app.goo.gl/QqTxNHGpPv8bs72y8",
      "width": 0.573,
      "text": [
@@ -259,7 +259,7 @@
     },
     {
      "id": "t06U",
-     "image": "img/oman/t06U.webp",
+     "image": "data/img/oman/t06U.webp",
      "mapsUrl": "https://maps.app.goo.gl/YojG6qt8SHf5AUBz5",
      "width": 0.573,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "6sjg",
-     "image": "img/oman/6sjg.webp",
+     "image": "data/img/oman/6sjg.webp",
      "mapsUrl": "https://maps.app.goo.gl/xpeEQvinksB7u6gL6",
      "width": 0.573,
      "text": [
@@ -278,7 +278,7 @@
     },
     {
      "id": "3yxy",
-     "image": "img/oman/3yxy.webp",
+     "image": "data/img/oman/3yxy.webp",
      "mapsUrl": "https://maps.app.goo.gl/KEDhYjtxqPibZTzJ8",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "WJdu",
-     "image": "img/oman/WJdu.webp",
+     "image": "data/img/oman/WJdu.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "rqum",
-     "image": "img/oman/rqum.webp",
+     "image": "data/img/oman/rqum.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "mBfi",
-     "image": "img/oman/mBfi.webp",
+     "image": "data/img/oman/mBfi.webp",
      "mapsUrl": "https://maps.app.goo.gl/UnHTERzHUNMn8hSVA",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
     },
     {
      "id": "O076",
-     "image": "img/oman/O076.webp",
+     "image": "data/img/oman/O076.webp",
      "mapsUrl": "https://maps.app.goo.gl/B24PPPvPfoa9Dt63A",
      "width": 0.573,
      "text": [
@@ -326,7 +326,7 @@
     },
     {
      "id": "JI8b",
-     "image": "img/oman/JI8b.webp",
+     "image": "data/img/oman/JI8b.webp",
      "mapsUrl": "https://maps.app.goo.gl/DojkvJgngsgEjCMZ8",
      "width": 0.573,
      "text": [
@@ -335,7 +335,7 @@
     },
     {
      "id": "muqQ",
-     "image": "img/oman/muqQ.webp",
+     "image": "data/img/oman/muqQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZWFmrCwsN2C8ryjM9",
      "width": 0.573,
      "text": [
@@ -344,7 +344,7 @@
     },
     {
      "id": "2Xid",
-     "image": "img/oman/2Xid.webp",
+     "image": "data/img/oman/2Xid.webp",
      "mapsUrl": "https://maps.app.goo.gl/784f7ZbRJBBStPN17",
      "width": 0.573,
      "text": [
@@ -354,7 +354,7 @@
     },
     {
      "id": "HDvc",
-     "image": "img/oman/HDvc.webp",
+     "image": "data/img/oman/HDvc.webp",
      "mapsUrl": "https://maps.app.goo.gl/onnYRbcJ3Fpxi7ps7",
      "width": 0.573,
      "text": [
@@ -364,7 +364,7 @@
     },
     {
      "id": "SjQ3",
-     "image": "img/oman/SjQ3.webp",
+     "image": "data/img/oman/SjQ3.webp",
      "mapsUrl": "https://maps.app.goo.gl/A3snXzYEcCVzxiBR7",
      "width": 0.573,
      "text": [
@@ -373,7 +373,7 @@
     },
     {
      "id": "XuIA",
-     "image": "img/oman/XuIA.webp",
+     "image": "data/img/oman/XuIA.webp",
      "mapsUrl": "https://maps.app.goo.gl/zpk85yrYVeM7FQjM6",
      "width": 0.573,
      "text": [
@@ -382,7 +382,7 @@
     },
     {
      "id": "nfDe",
-     "image": "img/oman/nfDe.webp",
+     "image": "data/img/oman/nfDe.webp",
      "mapsUrl": "https://maps.app.goo.gl/zbe7o1FF79YbwxyRA",
      "width": 0.573,
      "text": [
@@ -391,7 +391,7 @@
     },
     {
      "id": "zeu8",
-     "image": "img/oman/zeu8.webp",
+     "image": "data/img/oman/zeu8.webp",
      "mapsUrl": "https://maps.app.goo.gl/UEfLNug5qmotxRZa7",
      "width": 0.573,
      "text": [
@@ -400,7 +400,7 @@
     },
     {
      "id": "iwBJ",
-     "image": "img/oman/iwBJ.webp",
+     "image": "data/img/oman/iwBJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/6b5LtK2eb4Jv2GEi7",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
    "metas": [
     {
      "id": "I0iI",
-     "image": "img/oman/I0iI.webp",
+     "image": "data/img/oman/I0iI.webp",
      "mapsUrl": "https://maps.app.goo.gl/wLk7AwvfdM8oUWbB9",
      "width": 0.573,
      "text": [
@@ -432,7 +432,7 @@
     },
     {
      "id": "hang",
-     "image": "img/oman/hang.webp",
+     "image": "data/img/oman/hang.webp",
      "mapsUrl": "https://maps.app.goo.gl/u9W8zj5CSWSsETtW9",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "WvdB",
-     "image": "img/oman/WvdB.webp",
+     "image": "data/img/oman/WvdB.webp",
      "mapsUrl": "https://maps.app.goo.gl/jk5q1jJ26qntSpEaA",
      "width": 0.573,
      "text": [
@@ -450,7 +450,7 @@
     },
     {
      "id": "NCuJ",
-     "image": "img/oman/NCuJ.webp",
+     "image": "data/img/oman/NCuJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/jMWHQNEkenbSdvL4A",
      "width": 0.573,
      "text": [
@@ -459,7 +459,7 @@
     },
     {
      "id": "tnDu",
-     "image": "img/oman/tnDu.webp",
+     "image": "data/img/oman/tnDu.webp",
      "mapsUrl": "https://maps.app.goo.gl/vt14zhr4J1SWDWsC6",
      "width": 0.573,
      "text": [
@@ -468,7 +468,7 @@
     },
     {
      "id": "UPn7",
-     "image": "img/oman/UPn7.webp",
+     "image": "data/img/oman/UPn7.webp",
      "mapsUrl": "https://maps.app.goo.gl/8K4uqtxaMzdZib2d9",
      "width": 0.573,
      "text": [
@@ -477,7 +477,7 @@
     },
     {
      "id": "VaWE",
-     "image": "img/oman/VaWE.webp",
+     "image": "data/img/oman/VaWE.webp",
      "mapsUrl": "https://maps.app.goo.gl/FuRjezjsC15Tzcon9",
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "5EZS",
-     "image": "img/oman/5EZS.webp",
+     "image": "data/img/oman/5EZS.webp",
      "mapsUrl": "https://maps.app.goo.gl/jGgTA2QRwzSiF4C28",
      "width": 0.573,
      "text": [
@@ -495,7 +495,7 @@
     },
     {
      "id": "gjTm",
-     "image": "img/oman/gjTm.webp",
+     "image": "data/img/oman/gjTm.webp",
      "mapsUrl": "https://maps.app.goo.gl/vY4Use6icQYYLXKS9",
      "width": 0.573,
      "text": [
@@ -505,7 +505,7 @@
     },
     {
      "id": "tSZ6",
-     "image": "img/oman/tSZ6.webp",
+     "image": "data/img/oman/tSZ6.webp",
      "mapsUrl": "https://maps.app.goo.gl/vpdQJYMn7TGwhSM27",
      "width": 0.573,
      "text": [
@@ -514,7 +514,7 @@
     },
     {
      "id": "SviY",
-     "image": "img/oman/SviY.webp",
+     "image": "data/img/oman/SviY.webp",
      "mapsUrl": "https://maps.app.goo.gl/VDpBACLAgstbydF46",
      "width": 0.573,
      "text": [
@@ -523,7 +523,7 @@
     },
     {
      "id": "KQ3f",
-     "image": "img/oman/KQ3f.webp",
+     "image": "data/img/oman/KQ3f.webp",
      "mapsUrl": "https://maps.app.goo.gl/hNANZpsk1YG4FmHU9",
      "width": 0.573,
      "text": [
@@ -532,7 +532,7 @@
     },
     {
      "id": "l5p8",
-     "image": "img/oman/l5p8.webp",
+     "image": "data/img/oman/l5p8.webp",
      "mapsUrl": "https://maps.app.goo.gl/52uqxRdhrg1dcVwk7",
      "width": 0.573,
      "text": [
@@ -541,7 +541,7 @@
     },
     {
      "id": "hirx",
-     "image": "img/oman/hirx.webp",
+     "image": "data/img/oman/hirx.webp",
      "mapsUrl": "https://maps.app.goo.gl/bSrnMLB5yTuYkFaD8",
      "width": 0.573,
      "text": [
@@ -550,7 +550,7 @@
     },
     {
      "id": "W4Kz",
-     "image": "img/oman/W4Kz.webp",
+     "image": "data/img/oman/W4Kz.webp",
      "mapsUrl": "https://maps.app.goo.gl/GixoLGrCBFWbfoq98",
      "width": 0.573,
      "text": [
@@ -559,7 +559,7 @@
     },
     {
      "id": "5P9r",
-     "image": "img/oman/5P9r.webp",
+     "image": "data/img/oman/5P9r.webp",
      "mapsUrl": "https://maps.app.goo.gl/tDYj39vGPmejb2Wm6",
      "width": 0.573,
      "text": [
@@ -568,7 +568,7 @@
     },
     {
      "id": "BH5p",
-     "image": "img/oman/BH5p.webp",
+     "image": "data/img/oman/BH5p.webp",
      "mapsUrl": "https://maps.app.goo.gl/7dSo1DQTVQVnrZRt9",
      "width": 0.573,
      "text": [
@@ -577,7 +577,7 @@
     },
     {
      "id": "3ymS",
-     "image": "img/oman/3ymS.webp",
+     "image": "data/img/oman/3ymS.webp",
      "mapsUrl": "https://maps.app.goo.gl/w8piGiii6AxjKxkV9",
      "width": 0.573,
      "text": [
@@ -586,7 +586,7 @@
     },
     {
      "id": "m9r7",
-     "image": "img/oman/m9r7.webp",
+     "image": "data/img/oman/m9r7.webp",
      "mapsUrl": "https://maps.app.goo.gl/2dH4PYrjFWbbTXpKA",
      "width": 0.573,
      "text": [
@@ -595,7 +595,7 @@
     },
     {
      "id": "t0HH",
-     "image": "img/oman/t0HH.webp",
+     "image": "data/img/oman/t0HH.webp",
      "mapsUrl": "https://maps.app.goo.gl/t37m4WKcagMdqeFR8",
      "width": 0.573,
      "text": [
@@ -604,7 +604,7 @@
     },
     {
      "id": "4S9b",
-     "image": "img/oman/4S9b.webp",
+     "image": "data/img/oman/4S9b.webp",
      "mapsUrl": "https://maps.app.goo.gl/8Zrx6pdbNUsf9fL88",
      "width": 0.573,
      "text": [
@@ -613,7 +613,7 @@
     },
     {
      "id": "LudA",
-     "image": "img/oman/LudA.webp",
+     "image": "data/img/oman/LudA.webp",
      "mapsUrl": "https://maps.app.goo.gl/Tc9BgSCESSpdfSPQ9",
      "width": 0.573,
      "text": [
@@ -622,7 +622,7 @@
     },
     {
      "id": "0Tbz",
-     "image": "img/oman/0Tbz.webp",
+     "image": "data/img/oman/0Tbz.webp",
      "mapsUrl": "https://maps.app.goo.gl/D7ybcEuDuzcB4c8A6",
      "width": 0.573,
      "text": [
@@ -631,7 +631,7 @@
     },
     {
      "id": "GuYj",
-     "image": "img/oman/GuYj.webp",
+     "image": "data/img/oman/GuYj.webp",
      "mapsUrl": "https://maps.app.goo.gl/XmnuTctbjTSoq2oK8",
      "width": 0.573,
      "text": [
@@ -640,7 +640,7 @@
     },
     {
      "id": "KCpU",
-     "image": "img/oman/KCpU.webp",
+     "image": "data/img/oman/KCpU.webp",
      "mapsUrl": "https://maps.app.goo.gl/b9XfKn8WGKmUXsNZ9",
      "width": 0.573,
      "text": [
@@ -649,7 +649,7 @@
     },
     {
      "id": "Y1wA",
-     "image": "img/oman/Y1wA.webp",
+     "image": "data/img/oman/Y1wA.webp",
      "mapsUrl": "https://maps.app.goo.gl/y45y4KcrnMR4B8Ze9",
      "width": 0.573,
      "text": [
@@ -658,7 +658,7 @@
     },
     {
      "id": "HxCO",
-     "image": "img/oman/HxCO.webp",
+     "image": "data/img/oman/HxCO.webp",
      "mapsUrl": "https://maps.app.goo.gl/GSnavuMUaRBY69qU6",
      "width": 0.573,
      "text": [
@@ -668,7 +668,7 @@
     },
     {
      "id": "IhpD",
-     "image": "img/oman/IhpD.webp",
+     "image": "data/img/oman/IhpD.webp",
      "mapsUrl": "https://maps.app.goo.gl/HrNoEUv5tZFfq3JL6",
      "width": 0.573,
      "text": [
@@ -677,7 +677,7 @@
     },
     {
      "id": "VDcS",
-     "image": "img/oman/VDcS.webp",
+     "image": "data/img/oman/VDcS.webp",
      "mapsUrl": "https://maps.app.goo.gl/9sCTDk315PzqYnXu5",
      "width": 0.573,
      "text": [
@@ -686,7 +686,7 @@
     },
     {
      "id": "6oTi",
-     "image": "img/oman/6oTi.webp",
+     "image": "data/img/oman/6oTi.webp",
      "mapsUrl": "https://maps.app.goo.gl/r3UoEvW9cE72v6Cs8",
      "width": 0.573,
      "text": [
@@ -695,7 +695,7 @@
     },
     {
      "id": "qxO7",
-     "image": "img/oman/qxO7.webp",
+     "image": "data/img/oman/qxO7.webp",
      "mapsUrl": "https://maps.app.goo.gl/zFKhtsZSDajkKUwP6",
      "width": 0.573,
      "text": [

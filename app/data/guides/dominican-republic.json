@@ -3,7 +3,7 @@
  "title": "Dominican Republic",
  "code": "DO",
  "continent": "North America",
- "hero": "img/dominican-republic/hero.webp",
+ "hero": "data/img/dominican-republic/hero.webp",
  "metaCount": 13,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "isVx",
-     "image": "img/dominican-republic/isVx.webp",
+     "image": "data/img/dominican-republic/isVx.webp",
      "mapsUrl": "https://goo.gl/maps/Hjv6G6xFYJm1F38i6",
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "CWXA",
-     "image": "img/dominican-republic/CWXA.webp",
+     "image": "data/img/dominican-republic/CWXA.webp",
      "mapsUrl": "https://goo.gl/maps/SQEAakBLur4gNuZZ7",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "FOlT",
-     "image": "img/dominican-republic/FOlT.webp",
+     "image": "data/img/dominican-republic/FOlT.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "bzLa",
-     "image": "img/dominican-republic/bzLa.webp",
+     "image": "data/img/dominican-republic/bzLa.webp",
      "mapsUrl": "https://goo.gl/maps/txni2UJ7bVuCJctr5",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "jcOp",
-     "image": "img/dominican-republic/jcOp.webp",
+     "image": "data/img/dominican-republic/jcOp.webp",
      "mapsUrl": "https://goo.gl/maps/KVQoyruq4fBBNfW38",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
    "metas": [
     {
      "id": "DC2k",
-     "image": "img/dominican-republic/DC2k.webp",
+     "image": "data/img/dominican-republic/DC2k.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "pfJU",
-     "image": "img/dominican-republic/pfJU.webp",
+     "image": "data/img/dominican-republic/pfJU.webp",
      "mapsUrl": "https://goo.gl/maps/ZDTemdpYaKZamUuT8",
      "width": 0.573,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "EOjT",
-     "image": "img/dominican-republic/EOjT.webp",
+     "image": "data/img/dominican-republic/EOjT.webp",
      "mapsUrl": "https://goo.gl/maps/WWsdZLcU1gcUNKVp8",
      "width": 0.573,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "6BE0",
-     "image": "img/dominican-republic/6BE0.webp",
+     "image": "data/img/dominican-republic/6BE0.webp",
      "mapsUrl": "https://goo.gl/maps/Xhw5DminYNufNY5D9",
      "width": 0.573,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "jtB1",
-     "image": "img/dominican-republic/jtB1.webp",
+     "image": "data/img/dominican-republic/jtB1.webp",
      "mapsUrl": "https://goo.gl/maps/4z9My5JuKB6Gmej58",
      "width": 0.573,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "ftK6",
-     "image": "img/dominican-republic/ftK6.webp",
+     "image": "data/img/dominican-republic/ftK6.webp",
      "mapsUrl": "https://goo.gl/maps/sAnUmdxxFtji8Yss5",
      "width": 0.573,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "npXt",
-     "image": "img/dominican-republic/npXt.webp",
+     "image": "data/img/dominican-republic/npXt.webp",
      "mapsUrl": "https://goo.gl/maps/ZceTAoDBd4PGPf5g8",
      "width": 0.573,
      "text": [
@@ -153,7 +153,7 @@
    "metas": [
     {
      "id": "2Vae",
-     "image": "img/dominican-republic/2Vae.webp",
+     "image": "data/img/dominican-republic/2Vae.webp",
      "mapsUrl": "https://goo.gl/maps/4yninj7pG32kGhHF8",
      "width": 0.573,
      "text": [

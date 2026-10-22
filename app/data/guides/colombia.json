@@ -3,7 +3,7 @@
  "title": "Colombia",
  "code": "CO",
  "continent": "South America",
- "hero": "img/colombia/hero.webp",
+ "hero": "data/img/colombia/hero.webp",
  "metaCount": 23,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "ay1W",
-     "image": "img/colombia/ay1W.webp",
+     "image": "data/img/colombia/ay1W.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "rkhV",
-     "image": "img/colombia/rkhV.webp",
+     "image": "data/img/colombia/rkhV.webp",
      "mapsUrl": "https://goo.gl/maps/6vxG5xjQgxQTJWB5A",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "JMPO",
-     "image": "img/colombia/JMPO.webp",
+     "image": "data/img/colombia/JMPO.webp",
      "mapsUrl": "https://goo.gl/maps/quL1ix9Bbcre16s58",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "45F4",
-     "image": "img/colombia/45F4.webp",
+     "image": "data/img/colombia/45F4.webp",
      "mapsUrl": "https://goo.gl/maps/qy6TRUfGXfBRfb3v8",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "cSUD",
-     "image": "img/colombia/cSUD.webp",
+     "image": "data/img/colombia/cSUD.webp",
      "mapsUrl": "https://goo.gl/maps/f6xU7TE71fKNnjMG6",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "uYGd",
-     "image": "img/colombia/uYGd.webp",
+     "image": "data/img/colombia/uYGd.webp",
      "mapsUrl": "https://goo.gl/maps/oB9sZXHmJhqyHGXh6",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "wre8",
-     "image": "img/colombia/wre8.webp",
+     "image": "data/img/colombia/wre8.webp",
      "mapsUrl": "https://goo.gl/maps/TiauQC83drNVz6e97",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "OUrh",
-     "image": "img/colombia/OUrh.webp",
+     "image": "data/img/colombia/OUrh.webp",
      "mapsUrl": "https://goo.gl/maps/EzxRLX3tdcESYNa68",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "2901",
-     "image": "img/colombia/2901.webp",
+     "image": "data/img/colombia/2901.webp",
      "mapsUrl": "https://goo.gl/maps/UbRQP5x6anqz9cTH8",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
    "metas": [
     {
      "id": "oKQt",
-     "image": "img/colombia/oKQt.webp",
+     "image": "data/img/colombia/oKQt.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "A1PS",
-     "image": "img/colombia/A1PS.webp",
+     "image": "data/img/colombia/A1PS.webp",
      "mapsUrl": "https://goo.gl/maps/ZnfrcBF2E66y58aR7",
      "width": 0.573,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "mZY9",
-     "image": "img/colombia/mZY9.webp",
+     "image": "data/img/colombia/mZY9.webp",
      "mapsUrl": "https://goo.gl/maps/uRahVTtZu8QSFaGD6",
      "width": 0.573,
      "text": [
@@ -145,7 +145,7 @@
     },
     {
      "id": "fexW",
-     "image": "img/colombia/fexW.webp",
+     "image": "data/img/colombia/fexW.webp",
      "mapsUrl": "https://goo.gl/maps/uDrKpM9a6hvCh1P16",
      "width": 0.573,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "D97d",
-     "image": "img/colombia/D97d.webp",
+     "image": "data/img/colombia/D97d.webp",
      "mapsUrl": "https://goo.gl/maps/YNArY332vexcW8716",
      "width": 0.573,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "AsK1",
-     "image": "img/colombia/AsK1.webp",
+     "image": "data/img/colombia/AsK1.webp",
      "mapsUrl": "https://maps.app.goo.gl/WdbFcDVhUMcDvxFx9",
      "width": 0.573,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "qLYa",
-     "image": "img/colombia/qLYa.webp",
+     "image": "data/img/colombia/qLYa.webp",
      "mapsUrl": "https://maps.app.goo.gl/yJouPrSBhM5cUgTq7",
      "width": 0.573,
      "text": [
@@ -190,7 +190,7 @@
    "metas": [
     {
      "id": "44Li",
-     "image": "img/colombia/44Li.webp",
+     "image": "data/img/colombia/44Li.webp",
      "mapsUrl": "https://maps.app.goo.gl/vTWUmbH89gmEQna18",
      "width": 0.573,
      "text": [
@@ -200,7 +200,7 @@
     },
     {
      "id": "4oTi",
-     "image": "img/colombia/4oTi.webp",
+     "image": "data/img/colombia/4oTi.webp",
      "mapsUrl": "https://goo.gl/maps/UCDNjoJVb5r8dSBr8",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "kWTr",
-     "image": "img/colombia/kWTr.webp",
+     "image": "data/img/colombia/kWTr.webp",
      "mapsUrl": "https://maps.app.goo.gl/rhgLD3G3sRApoxXQ9",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "5AfA",
-     "image": "img/colombia/5AfA.webp",
+     "image": "data/img/colombia/5AfA.webp",
      "mapsUrl": "https://goo.gl/maps/YRyoyZuYYSkPSM1K7",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "AbNO",
-     "image": "img/colombia/AbNO.webp",
+     "image": "data/img/colombia/AbNO.webp",
      "mapsUrl": "https://goo.gl/maps/1Zj8q8mWVAbXjGC2A",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "FhGC",
-     "image": "img/colombia/FhGC.webp",
+     "image": "data/img/colombia/FhGC.webp",
      "mapsUrl": "https://goo.gl/maps/x9FEssa7TdBLDzeW8",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "PQZi",
-     "image": "img/colombia/PQZi.webp",
+     "image": "data/img/colombia/PQZi.webp",
      "mapsUrl": "https://goo.gl/maps/wv3unAHT6pYzKioz5",
      "width": 0.573,
      "text": [

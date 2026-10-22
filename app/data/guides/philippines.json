@@ -3,7 +3,7 @@
  "title": "Philippines",
  "code": "PH",
  "continent": "Asia",
- "hero": "img/philippines/hero.webp",
+ "hero": "data/img/philippines/hero.webp",
  "metaCount": 47,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "qKJU",
-     "image": "img/philippines/qKJU.webp",
+     "image": "data/img/philippines/qKJU.webp",
      "mapsUrl": "https://goo.gl/maps/FgRvzDJXeHmsLgXf7",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "paH1",
-     "image": "img/philippines/paH1.webp",
+     "image": "data/img/philippines/paH1.webp",
      "mapsUrl": "https://goo.gl/maps/E27xRSUNjbRxz2fm8",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "SJtk",
-     "image": "img/philippines/SJtk.webp",
+     "image": "data/img/philippines/SJtk.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "2hW1",
-     "image": "img/philippines/2hW1.webp",
+     "image": "data/img/philippines/2hW1.webp",
      "mapsUrl": "https://goo.gl/maps/HpjZEr6E6bi1PLGh8",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "leAL",
-     "image": "img/philippines/leAL.webp",
+     "image": "data/img/philippines/leAL.webp",
      "mapsUrl": "https://goo.gl/maps/YkWnBEsJAoJSsvEA6",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "IPDO",
-     "image": "img/philippines/IPDO.webp",
+     "image": "data/img/philippines/IPDO.webp",
      "mapsUrl": "https://goo.gl/maps/Q2AZ1fJ3kvxmveGs6",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "uStw",
-     "image": "img/philippines/uStw.webp",
+     "image": "data/img/philippines/uStw.webp",
      "mapsUrl": "https://goo.gl/maps/zLRpTBMnNcuWgtmT8",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "DIih",
-     "image": "img/philippines/DIih.webp",
+     "image": "data/img/philippines/DIih.webp",
      "mapsUrl": "https://goo.gl/maps/DtWn7Bz1QRuvUAXd7",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "aUOw",
-     "image": "img/philippines/aUOw.webp",
+     "image": "data/img/philippines/aUOw.webp",
      "mapsUrl": "https://goo.gl/maps/RDvAhT5frZQnwcEU9",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "cmeG",
-     "image": "img/philippines/cmeG.webp",
+     "image": "data/img/philippines/cmeG.webp",
      "mapsUrl": "https://goo.gl/maps/UPic5escJYYpYpJFA",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "NKYi",
-     "image": "img/philippines/NKYi.webp",
+     "image": "data/img/philippines/NKYi.webp",
      "mapsUrl": "https://goo.gl/maps/SiEkvm5AzDbXX41N6",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "Qhbg",
-     "image": "img/philippines/Qhbg.webp",
+     "image": "data/img/philippines/Qhbg.webp",
      "mapsUrl": "https://goo.gl/maps/5H3wM64Jz4eg8WaT6",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "yIwj",
-     "image": "img/philippines/yIwj.webp",
+     "image": "data/img/philippines/yIwj.webp",
      "mapsUrl": "https://goo.gl/maps/C8N4azDdLd2FePXX8",
      "width": 0.5,
      "text": [
@@ -152,7 +152,7 @@
    "metas": [
     {
      "id": "QPqh",
-     "image": "img/philippines/QPqh.webp",
+     "image": "data/img/philippines/QPqh.webp",
      "mapsUrl": "https://goo.gl/maps/2eaEm2sVPfvbdSXW8",
      "width": 0.5,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "fCvm",
-     "image": "img/philippines/fCvm.webp",
+     "image": "data/img/philippines/fCvm.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "KVEg",
-     "image": "img/philippines/KVEg.webp",
+     "image": "data/img/philippines/KVEg.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "f897",
-     "image": "img/philippines/f897.webp",
+     "image": "data/img/philippines/f897.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "3TK5",
-     "image": "img/philippines/3TK5.webp",
+     "image": "data/img/philippines/3TK5.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "40U4",
-     "image": "img/philippines/40U4.webp",
+     "image": "data/img/philippines/40U4.webp",
      "mapsUrl": "https://goo.gl/maps/mZPXSCNt1RuBdi8f6",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "9hUv",
-     "image": "img/philippines/9hUv.webp",
+     "image": "data/img/philippines/9hUv.webp",
      "mapsUrl": "https://maps.app.goo.gl/9eUeqb9dHZadMfWn9",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "2ctB",
-     "image": "img/philippines/2ctB.webp",
+     "image": "data/img/philippines/2ctB.webp",
      "mapsUrl": "https://goo.gl/maps/GXZDvjtk4sHYGHRP7",
      "width": 0.573,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "GaHP",
-     "image": "img/philippines/GaHP.webp",
+     "image": "data/img/philippines/GaHP.webp",
      "mapsUrl": "https://goo.gl/maps/W47zcsTCUBzoqtDb6",
      "width": 0.573,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "lS7l",
-     "image": "img/philippines/lS7l.webp",
+     "image": "data/img/philippines/lS7l.webp",
      "mapsUrl": "https://maps.app.goo.gl/Kxhx2xjx95cWvqC56",
      "width": 0.573,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "2cMP",
-     "image": "img/philippines/2cMP.webp",
+     "image": "data/img/philippines/2cMP.webp",
      "mapsUrl": "https://maps.app.goo.gl/np21VcRX7hLuSHdd9",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "YkcX",
-     "image": "img/philippines/YkcX.webp",
+     "image": "data/img/philippines/YkcX.webp",
      "mapsUrl": "https://maps.app.goo.gl/5YFYGtojcTspDdQj9",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "ZiXa",
-     "image": "img/philippines/ZiXa.webp",
+     "image": "data/img/philippines/ZiXa.webp",
      "mapsUrl": "https://goo.gl/maps/vSv1Gi8195d1HqBc8",
      "width": 0.573,
      "text": [
@@ -274,7 +274,7 @@
     },
     {
      "id": "XOvY",
-     "image": "img/philippines/XOvY.webp",
+     "image": "data/img/philippines/XOvY.webp",
      "mapsUrl": "https://maps.app.goo.gl/FuUUoEs8Ljfd6QCSA",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
     },
     {
      "id": "qoLR",
-     "image": "img/philippines/qoLR.webp",
+     "image": "data/img/philippines/qoLR.webp",
      "mapsUrl": "https://goo.gl/maps/kqVLEQ54141uZrGi8",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "yYbQ",
-     "image": "img/philippines/yYbQ.webp",
+     "image": "data/img/philippines/yYbQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/WHUsCdk1s9xB1bgY6",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "OkTN",
-     "image": "img/philippines/OkTN.webp",
+     "image": "data/img/philippines/OkTN.webp",
      "mapsUrl": "https://maps.app.goo.gl/Lvo39xWMktPZ1cyJ9",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "vjQB",
-     "image": "img/philippines/vjQB.webp",
+     "image": "data/img/philippines/vjQB.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZuKcaLnDmJwRezRE6",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "xdvo",
-     "image": "img/philippines/xdvo.webp",
+     "image": "data/img/philippines/xdvo.webp",
      "mapsUrl": "https://maps.app.goo.gl/VG5pgvu2jQDB9Q3SA",
      "width": 0.573,
      "text": [
@@ -330,7 +330,7 @@
     },
     {
      "id": "H99u",
-     "image": "img/philippines/H99u.webp",
+     "image": "data/img/philippines/H99u.webp",
      "mapsUrl": "https://maps.app.goo.gl/JFPibwYLuMFLbgDJ6",
      "width": 0.573,
      "text": [
@@ -339,7 +339,7 @@
     },
     {
      "id": "yzp6",
-     "image": "img/philippines/yzp6.webp",
+     "image": "data/img/philippines/yzp6.webp",
      "mapsUrl": "https://maps.app.goo.gl/xfPMbC2swXDqC38R7",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "dWWI",
-     "image": "img/philippines/dWWI.webp",
+     "image": "data/img/philippines/dWWI.webp",
      "mapsUrl": "https://maps.app.goo.gl/D2zwmozfRyoSW9Pw5",
      "width": 0.573,
      "text": [
@@ -366,7 +366,7 @@
    "metas": [
     {
      "id": "S1IY",
-     "image": "img/philippines/S1IY.webp",
+     "image": "data/img/philippines/S1IY.webp",
      "mapsUrl": "https://goo.gl/maps/fXkn35BfsZKgXVFR8",
      "width": 0.573,
      "text": [
@@ -375,7 +375,7 @@
     },
     {
      "id": "AvQg",
-     "image": "img/philippines/AvQg.webp",
+     "image": "data/img/philippines/AvQg.webp",
      "mapsUrl": "https://maps.app.goo.gl/n9iyjLZbKrq1ioq87",
      "width": 0.573,
      "text": [
@@ -384,7 +384,7 @@
     },
     {
      "id": "oQjn",
-     "image": "img/philippines/oQjn.webp",
+     "image": "data/img/philippines/oQjn.webp",
      "mapsUrl": "https://goo.gl/maps/vXtbDF5GRaBAQRKN9",
      "width": 0.573,
      "text": [
@@ -393,7 +393,7 @@
     },
     {
      "id": "Js5k",
-     "image": "img/philippines/Js5k.webp",
+     "image": "data/img/philippines/Js5k.webp",
      "mapsUrl": "https://goo.gl/maps/nKdeGFcNawNyHocf6",
      "width": 0.573,
      "text": [
@@ -402,7 +402,7 @@
     },
     {
      "id": "LrWc",
-     "image": "img/philippines/LrWc.webp",
+     "image": "data/img/philippines/LrWc.webp",
      "mapsUrl": "https://maps.app.goo.gl/5nQ6XvzkeWU8aeKc6",
      "width": 0.573,
      "text": [
@@ -412,7 +412,7 @@
     },
     {
      "id": "2IcS",
-     "image": "img/philippines/2IcS.webp",
+     "image": "data/img/philippines/2IcS.webp",
      "mapsUrl": "https://maps.app.goo.gl/bz6ZtHxMvTtEEWvK8",
      "width": 0.573,
      "text": [
@@ -422,7 +422,7 @@
     },
     {
      "id": "lYvE",
-     "image": "img/philippines/lYvE.webp",
+     "image": "data/img/philippines/lYvE.webp",
      "mapsUrl": "https://maps.app.goo.gl/yAyR3bv3gpcFmtV67",
      "width": 0.573,
      "text": [
@@ -431,7 +431,7 @@
     },
     {
      "id": "A2hm",
-     "image": "img/philippines/A2hm.webp",
+     "image": "data/img/philippines/A2hm.webp",
      "mapsUrl": "https://maps.app.goo.gl/N6vitTTfZiH97ioq6",
      "width": 0.573,
      "text": [
@@ -440,7 +440,7 @@
     },
     {
      "id": "9xJp",
-     "image": "img/philippines/9xJp.webp",
+     "image": "data/img/philippines/9xJp.webp",
      "mapsUrl": "https://goo.gl/maps/LMCfR3NPt5Qh33KD6",
      "width": 0.573,
      "text": [
@@ -449,7 +449,7 @@
     },
     {
      "id": "xgaV",
-     "image": "img/philippines/xgaV.webp",
+     "image": "data/img/philippines/xgaV.webp",
      "mapsUrl": "https://goo.gl/maps/ciM45GtvbvdBqiWy7",
      "width": 0.573,
      "text": [
@@ -458,7 +458,7 @@
     },
     {
      "id": "o4Or",
-     "image": "img/philippines/o4Or.webp",
+     "image": "data/img/philippines/o4Or.webp",
      "mapsUrl": "https://goo.gl/maps/ASB8NsDjGoDg5Hu29",
      "width": 0.573,
      "text": [
@@ -467,7 +467,7 @@
     },
     {
      "id": "jvOq",
-     "image": "img/philippines/jvOq.webp",
+     "image": "data/img/philippines/jvOq.webp",
      "mapsUrl": "https://goo.gl/maps/HvpzfxCbgcdodo1BA",
      "width": 0.573,
      "text": [

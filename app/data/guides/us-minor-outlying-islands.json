@@ -3,7 +3,7 @@
  "title": "US Minor Outlying Islands",
  "code": "UM-MQ",
  "continent": "North America",
- "hero": "img/us-minor-outlying-islands/hero.webp",
+ "hero": "data/img/us-minor-outlying-islands/hero.webp",
  "metaCount": 15,
  "sections": [
   {
@@ -15,7 +15,7 @@
    "metas": [
     {
      "id": "N38T",
-     "image": "img/us-minor-outlying-islands/N38T.webp",
+     "image": "data/img/us-minor-outlying-islands/N38T.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -26,7 +26,7 @@
     },
     {
      "id": "72r4",
-     "image": "img/us-minor-outlying-islands/72r4.webp",
+     "image": "data/img/us-minor-outlying-islands/72r4.webp",
      "mapsUrl": "https://goo.gl/maps/PJEEw73taHwJb65u7",
      "width": 0.5,
      "text": [
@@ -35,7 +35,7 @@
     },
     {
      "id": "RgPj",
-     "image": "img/us-minor-outlying-islands/RgPj.webp",
+     "image": "data/img/us-minor-outlying-islands/RgPj.webp",
      "mapsUrl": "https://goo.gl/maps/Kakx6BbTK2Mp61HV6",
      "width": 0.5,
      "text": [
@@ -44,7 +44,7 @@
     },
     {
      "id": "ware",
-     "image": "img/us-minor-outlying-islands/ware.webp",
+     "image": "data/img/us-minor-outlying-islands/ware.webp",
      "mapsUrl": "https://goo.gl/maps/hpfryhPkGfAgZqjn6",
      "width": 0.5,
      "text": [
@@ -53,7 +53,7 @@
     },
     {
      "id": "9Msy",
-     "image": "img/us-minor-outlying-islands/9Msy.webp",
+     "image": "data/img/us-minor-outlying-islands/9Msy.webp",
      "mapsUrl": "https://goo.gl/maps/YALv3V46aVBbjXds8",
      "width": 0.5,
      "text": [
@@ -71,7 +71,7 @@
    "metas": [
     {
      "id": "9k4l",
-     "image": "img/us-minor-outlying-islands/9k4l.webp",
+     "image": "data/img/us-minor-outlying-islands/9k4l.webp",
      "mapsUrl": "https://goo.gl/maps/F9kQ53oULpwe9pna7",
      "width": 0.573,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "vizw",
-     "image": "img/us-minor-outlying-islands/vizw.webp",
+     "image": "data/img/us-minor-outlying-islands/vizw.webp",
      "mapsUrl": "https://goo.gl/maps/9LnkL81nBAfS9Qym8",
      "width": 0.573,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "ytJi",
-     "image": "img/us-minor-outlying-islands/ytJi.webp",
+     "image": "data/img/us-minor-outlying-islands/ytJi.webp",
      "mapsUrl": "https://goo.gl/maps/hokkxYeomeYi5MPq7",
      "width": 0.573,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "UJW5",
-     "image": "img/us-minor-outlying-islands/UJW5.webp",
+     "image": "data/img/us-minor-outlying-islands/UJW5.webp",
      "mapsUrl": "https://goo.gl/maps/1z9K9Q9iAftdDTTz6",
      "width": 0.573,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "KERJ",
-     "image": "img/us-minor-outlying-islands/KERJ.webp",
+     "image": "data/img/us-minor-outlying-islands/KERJ.webp",
      "mapsUrl": "https://goo.gl/maps/F5psr4siuK3fiKR9A",
      "width": 0.573,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "FXcL",
-     "image": "img/us-minor-outlying-islands/FXcL.webp",
+     "image": "data/img/us-minor-outlying-islands/FXcL.webp",
      "mapsUrl": "https://goo.gl/maps/cNLCGPvTvqv7LjXk8",
      "width": 0.573,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "mjUK",
-     "image": "img/us-minor-outlying-islands/mjUK.webp",
+     "image": "data/img/us-minor-outlying-islands/mjUK.webp",
      "mapsUrl": "https://goo.gl/maps/K6ZksuXBqhnuJbYs9",
      "width": 0.573,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "RIgw",
-     "image": "img/us-minor-outlying-islands/RIgw.webp",
+     "image": "data/img/us-minor-outlying-islands/RIgw.webp",
      "mapsUrl": "https://goo.gl/maps/oMVSWipvpK1mcT3U8",
      "width": 0.573,
      "text": [
@@ -152,7 +152,7 @@
    "metas": [
     {
      "id": "mgq8",
-     "image": "img/us-minor-outlying-islands/mgq8.webp",
+     "image": "data/img/us-minor-outlying-islands/mgq8.webp",
      "mapsUrl": "https://goo.gl/maps/i9mxerD8Z3eBzGQF7",
      "width": 0.573,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "PVL3",
-     "image": "img/us-minor-outlying-islands/PVL3.webp",
+     "image": "data/img/us-minor-outlying-islands/PVL3.webp",
      "mapsUrl": "https://goo.gl/maps/gFcW5YXhgnCPArG6A",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Jordan",
  "code": "JO",
  "continent": "Asia",
- "hero": "img/jordan/hero.webp",
+ "hero": "data/img/jordan/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "4E7V",
-     "image": "img/jordan/4E7V.webp",
+     "image": "data/img/jordan/4E7V.webp",
      "mapsUrl": "https://goo.gl/maps/5gwKWQHcwNAdRcj6A",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "xs0t",
-     "image": "img/jordan/xs0t.webp",
+     "image": "data/img/jordan/xs0t.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "pOx9",
-     "image": "img/jordan/pOx9.webp",
+     "image": "data/img/jordan/pOx9.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "VLxu",
-     "image": "img/jordan/VLxu.webp",
+     "image": "data/img/jordan/VLxu.webp",
      "mapsUrl": "https://goo.gl/maps/uFnASS6JeeZLjsiS8",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "gP2h",
-     "image": "img/jordan/gP2h.webp",
+     "image": "data/img/jordan/gP2h.webp",
      "mapsUrl": "https://goo.gl/maps/De9DmfTFSAMYSZPTA",
      "width": 0.5,
      "text": [
@@ -71,7 +71,7 @@
     },
     {
      "id": "Ol57",
-     "image": "img/jordan/Ol57.webp",
+     "image": "data/img/jordan/Ol57.webp",
      "mapsUrl": "https://goo.gl/maps/vKF8m8xHi4tb72P57",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "7uVv",
-     "image": "img/jordan/7uVv.webp",
+     "image": "data/img/jordan/7uVv.webp",
      "mapsUrl": "https://maps.app.goo.gl/x6B4NqSBZcAFfdz38",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "VL43",
-     "image": "img/jordan/VL43.webp",
+     "image": "data/img/jordan/VL43.webp",
      "mapsUrl": "https://maps.app.goo.gl/ynzUtqqpbxSvA2389",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "sTXB",
-     "image": "img/jordan/sTXB.webp",
+     "image": "data/img/jordan/sTXB.webp",
      "mapsUrl": "https://goo.gl/maps/dgww956zaSN475AG9",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
    "metas": [
     {
      "id": "FniX",
-     "image": "img/jordan/FniX.webp",
+     "image": "data/img/jordan/FniX.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "KlNE",
-     "image": "img/jordan/KlNE.webp",
+     "image": "data/img/jordan/KlNE.webp",
      "mapsUrl": "https://goo.gl/maps/4ntHt9XwLWXmRkmx6",
      "width": 0.573,
      "text": [
@@ -137,7 +137,7 @@
     },
     {
      "id": "EQ0O",
-     "image": "img/jordan/EQ0O.webp",
+     "image": "data/img/jordan/EQ0O.webp",
      "mapsUrl": "https://goo.gl/maps/FrtZ4JgXRtr9cnT19",
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "vAGv",
-     "image": "img/jordan/vAGv.webp",
+     "image": "data/img/jordan/vAGv.webp",
      "mapsUrl": "https://goo.gl/maps/6F7ZPdQqmzaHN6pi7",
      "width": 0.573,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "9qcs",
-     "image": "img/jordan/9qcs.webp",
+     "image": "data/img/jordan/9qcs.webp",
      "mapsUrl": "https://goo.gl/maps/Tk1n6sHgmBDz87B58",
      "width": 0.573,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "m8Pf",
-     "image": "img/jordan/m8Pf.webp",
+     "image": "data/img/jordan/m8Pf.webp",
      "mapsUrl": "https://goo.gl/maps/v8i93hgPVAZiVS1s7",
      "width": 0.573,
      "text": [
@@ -177,7 +177,7 @@
     },
     {
      "id": "2zSo",
-     "image": "img/jordan/2zSo.webp",
+     "image": "data/img/jordan/2zSo.webp",
      "mapsUrl": "https://goo.gl/maps/nXATkPxmgAGhv4TS8",
      "width": 0.573,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "NwiC",
-     "image": "img/jordan/NwiC.webp",
+     "image": "data/img/jordan/NwiC.webp",
      "mapsUrl": "https://goo.gl/maps/gPcR7sZ7fys5Kpn5A",
      "width": 0.573,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "Bbns",
-     "image": "img/jordan/Bbns.webp",
+     "image": "data/img/jordan/Bbns.webp",
      "mapsUrl": "https://goo.gl/maps/BrxYsKb6RxJFvv6J8",
      "width": 0.573,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "NzDL",
-     "image": "img/jordan/NzDL.webp",
+     "image": "data/img/jordan/NzDL.webp",
      "mapsUrl": "https://goo.gl/maps/9ps5fM1YvycnD1Bi6",
      "width": 0.573,
      "text": [
@@ -216,7 +216,7 @@
     },
     {
      "id": "VYva",
-     "image": "img/jordan/VYva.webp",
+     "image": "data/img/jordan/VYva.webp",
      "mapsUrl": "https://goo.gl/maps/Z9CP5HLFwEgZrQuq7",
      "width": 0.573,
      "text": [
@@ -234,7 +234,7 @@
    "metas": [
     {
      "id": "yMuz",
-     "image": "img/jordan/yMuz.webp",
+     "image": "data/img/jordan/yMuz.webp",
      "mapsUrl": "https://goo.gl/maps/aWcY26YHccAWvSWQ7",
      "width": 0.573,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "oqbZ",
-     "image": "img/jordan/oqbZ.webp",
+     "image": "data/img/jordan/oqbZ.webp",
      "mapsUrl": "https://goo.gl/maps/HyGhMKtWhfb5yMYm8",
      "width": 0.573,
      "text": [
@@ -253,7 +253,7 @@
     },
     {
      "id": "SxAR",
-     "image": "img/jordan/SxAR.webp",
+     "image": "data/img/jordan/SxAR.webp",
      "mapsUrl": "https://maps.app.goo.gl/gaCsqnC6zSeqyXyo8",
      "width": 0.573,
      "text": [
@@ -262,7 +262,7 @@
     },
     {
      "id": "033t",
-     "image": "img/jordan/033t.webp",
+     "image": "data/img/jordan/033t.webp",
      "mapsUrl": "https://goo.gl/maps/tFXJwj2MRcUmKTop6",
      "width": 0.573,
      "text": [
@@ -271,7 +271,7 @@
     },
     {
      "id": "IdVo",
-     "image": "img/jordan/IdVo.webp",
+     "image": "data/img/jordan/IdVo.webp",
      "mapsUrl": "https://goo.gl/maps/tb9JSiqx9jJXPAWa6",
      "width": 0.573,
      "text": [

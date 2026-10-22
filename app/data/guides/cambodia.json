@@ -3,7 +3,7 @@
  "title": "Cambodia",
  "code": "KH",
  "continent": "Asia",
- "hero": "img/cambodia/hero.webp",
+ "hero": "data/img/cambodia/hero.webp",
  "metaCount": 41,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "wmTo",
-     "image": "img/cambodia/wmTo.webp",
+     "image": "data/img/cambodia/wmTo.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "MWhC",
-     "image": "img/cambodia/MWhC.webp",
+     "image": "data/img/cambodia/MWhC.webp",
      "mapsUrl": "https://www.google.com/maps/@13.5870234,103.4175717,3a,22.2y,347.49h,55.29t,0.28r/data=!3m7!1e1!3m5!1smjH9ueMEbiVC3ePgA4wHAg!2e0!5s20130901T000000!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -44,7 +44,7 @@
     },
     {
      "id": "5Ed2",
-     "image": "img/cambodia/5Ed2.webp",
+     "image": "data/img/cambodia/5Ed2.webp",
      "mapsUrl": "https://goo.gl/maps/Y3xZ8aJ4FHPWfcC19",
      "width": 0.5,
      "text": [
@@ -54,7 +54,7 @@
     },
     {
      "id": "sIUL",
-     "image": "img/cambodia/sIUL.webp",
+     "image": "data/img/cambodia/sIUL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "7UIH",
-     "image": "img/cambodia/7UIH.webp",
+     "image": "data/img/cambodia/7UIH.webp",
      "mapsUrl": "https://goo.gl/maps/TZyGPGoiS8ZLYrjb7",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "EFcY",
-     "image": "img/cambodia/EFcY.webp",
+     "image": "data/img/cambodia/EFcY.webp",
      "mapsUrl": "https://goo.gl/maps/tk5pL2tKScLoyqA56",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "mdL7",
-     "image": "img/cambodia/mdL7.webp",
+     "image": "data/img/cambodia/mdL7.webp",
      "mapsUrl": "https://goo.gl/maps/z1zFTmjtKHEkzgGZ7",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "1PXc",
-     "image": "img/cambodia/1PXc.webp",
+     "image": "data/img/cambodia/1PXc.webp",
      "mapsUrl": "https://goo.gl/maps/vS8zo7zeZtQVCA846",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "6wbR",
-     "image": "img/cambodia/6wbR.webp",
+     "image": "data/img/cambodia/6wbR.webp",
      "mapsUrl": "https://goo.gl/maps/HExyyAiQTagAtyhT9",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "hIEP",
-     "image": "img/cambodia/hIEP.webp",
+     "image": "data/img/cambodia/hIEP.webp",
      "mapsUrl": "https://goo.gl/maps/gVT7QBFB3ihox4YTA",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "E31g",
-     "image": "img/cambodia/E31g.webp",
+     "image": "data/img/cambodia/E31g.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "XnE4",
-     "image": "img/cambodia/XnE4.webp",
+     "image": "data/img/cambodia/XnE4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "Vzui",
-     "image": "img/cambodia/Vzui.webp",
+     "image": "data/img/cambodia/Vzui.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "3k1I",
-     "image": "img/cambodia/3k1I.webp",
+     "image": "data/img/cambodia/3k1I.webp",
      "mapsUrl": "https://goo.gl/maps/U7GvRivfhWmai57B8",
      "width": 0.5,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "Knff",
-     "image": "img/cambodia/Knff.webp",
+     "image": "data/img/cambodia/Knff.webp",
      "mapsUrl": "https://goo.gl/maps/j5omcnkToCgRS7U46",
      "width": 0.5,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "llUG",
-     "image": "img/cambodia/llUG.webp",
+     "image": "data/img/cambodia/llUG.webp",
      "mapsUrl": "https://goo.gl/maps/7Rah9xAjhmDxPZBX6",
      "width": 0.5,
      "text": [
@@ -190,7 +190,7 @@
     },
     {
      "id": "Nned",
-     "image": "img/cambodia/Nned.webp",
+     "image": "data/img/cambodia/Nned.webp",
      "mapsUrl": "https://goo.gl/maps/QNwbZH67zxt6edKY9",
      "width": 0.5,
      "text": [
@@ -209,7 +209,7 @@
    "metas": [
     {
      "id": "bFGl",
-     "image": "img/cambodia/bFGl.webp",
+     "image": "data/img/cambodia/bFGl.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "4afK",
-     "image": "img/cambodia/4afK.webp",
+     "image": "data/img/cambodia/4afK.webp",
      "mapsUrl": "https://goo.gl/maps/ypPw7pc1sjnvJh557",
      "width": 0.573,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "mhzQ",
-     "image": "img/cambodia/mhzQ.webp",
+     "image": "data/img/cambodia/mhzQ.webp",
      "mapsUrl": "https://goo.gl/maps/3vrToV7iokKq2jFK9",
      "width": 0.573,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "0dYP",
-     "image": "img/cambodia/0dYP.webp",
+     "image": "data/img/cambodia/0dYP.webp",
      "mapsUrl": "https://goo.gl/maps/gJrJWZdt57HPgcpW7",
      "width": 0.573,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "NpbG",
-     "image": "img/cambodia/NpbG.webp",
+     "image": "data/img/cambodia/NpbG.webp",
      "mapsUrl": "https://goo.gl/maps/NKfRC73LP43fcgzf9",
      "width": 0.573,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "Bp20",
-     "image": "img/cambodia/Bp20.webp",
+     "image": "data/img/cambodia/Bp20.webp",
      "mapsUrl": "https://goo.gl/maps/M7VZCqYPZqvQoyBC9",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "cjig",
-     "image": "img/cambodia/cjig.webp",
+     "image": "data/img/cambodia/cjig.webp",
      "mapsUrl": "https://goo.gl/maps/pP5SSTpwAHobjyVw7",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "TMCo",
-     "image": "img/cambodia/TMCo.webp",
+     "image": "data/img/cambodia/TMCo.webp",
      "mapsUrl": "https://goo.gl/maps/5eeVwc56UhF7BcLs9",
      "width": 0.573,
      "text": [
@@ -298,7 +298,7 @@
    "metas": [
     {
      "id": "j4t2",
-     "image": "img/cambodia/j4t2.webp",
+     "image": "data/img/cambodia/j4t2.webp",
      "mapsUrl": "https://goo.gl/maps/CKCJGi9LaXexdNT79",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "VDZi",
-     "image": "img/cambodia/VDZi.webp",
+     "image": "data/img/cambodia/VDZi.webp",
      "mapsUrl": "https://goo.gl/maps/Ugq17i167AaMpaZC9",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
     },
     {
      "id": "2lvR",
-     "image": "img/cambodia/2lvR.webp",
+     "image": "data/img/cambodia/2lvR.webp",
      "mapsUrl": "https://goo.gl/maps/DkTmx6oTmFy5FR496",
      "width": 0.573,
      "text": [
@@ -327,7 +327,7 @@
     },
     {
      "id": "JTi1",
-     "image": "img/cambodia/JTi1.webp",
+     "image": "data/img/cambodia/JTi1.webp",
      "mapsUrl": "https://goo.gl/maps/ykxkLDKVVysAt7nt9",
      "width": 0.573,
      "text": [
@@ -336,7 +336,7 @@
     },
     {
      "id": "xNF2",
-     "image": "img/cambodia/xNF2.webp",
+     "image": "data/img/cambodia/xNF2.webp",
      "mapsUrl": "https://goo.gl/maps/vG4Pm2Cek39FumQF6",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "mBby",
-     "image": "img/cambodia/mBby.webp",
+     "image": "data/img/cambodia/mBby.webp",
      "mapsUrl": "https://goo.gl/maps/4xatm77tLMgnoyt96",
      "width": 0.573,
      "text": [
@@ -358,7 +358,7 @@
     },
     {
      "id": "iFSu",
-     "image": "img/cambodia/iFSu.webp",
+     "image": "data/img/cambodia/iFSu.webp",
      "mapsUrl": "https://goo.gl/maps/FUaVbN7EP7ZQF2or7",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "mIwy",
-     "image": "img/cambodia/mIwy.webp",
+     "image": "data/img/cambodia/mIwy.webp",
      "mapsUrl": "https://goo.gl/maps/6yCmAcdjxxqcYdim9",
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "xU6h",
-     "image": "img/cambodia/xU6h.webp",
+     "image": "data/img/cambodia/xU6h.webp",
      "mapsUrl": "https://goo.gl/maps/KybBfGo5Ktks4v6z6",
      "width": 0.573,
      "text": [
@@ -390,7 +390,7 @@
     },
     {
      "id": "gL9F",
-     "image": "img/cambodia/gL9F.webp",
+     "image": "data/img/cambodia/gL9F.webp",
      "mapsUrl": "https://goo.gl/maps/6DebXkTZ5UmY68mc9",
      "width": 0.573,
      "text": [
@@ -399,7 +399,7 @@
     },
     {
      "id": "hIz3",
-     "image": "img/cambodia/hIz3.webp",
+     "image": "data/img/cambodia/hIz3.webp",
      "mapsUrl": "https://goo.gl/maps/TeCk7sQ1hXULbGX8A",
      "width": 0.573,
      "text": [
@@ -408,7 +408,7 @@
     },
     {
      "id": "ie5M",
-     "image": "img/cambodia/ie5M.webp",
+     "image": "data/img/cambodia/ie5M.webp",
      "mapsUrl": "https://goo.gl/maps/y56wDfEvfdtdRFqX7",
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "Djem",
-     "image": "img/cambodia/Djem.webp",
+     "image": "data/img/cambodia/Djem.webp",
      "mapsUrl": "https://goo.gl/maps/JrFNLN96PkUdkpGGA",
      "width": 0.573,
      "text": [
@@ -428,7 +428,7 @@
     },
     {
      "id": "2RXL",
-     "image": "img/cambodia/2RXL.webp",
+     "image": "data/img/cambodia/2RXL.webp",
      "mapsUrl": "https://maps.app.goo.gl/q42nf399dGvbaStv9",
      "width": 0.573,
      "text": [
@@ -437,7 +437,7 @@
     },
     {
      "id": "vddA",
-     "image": "img/cambodia/vddA.webp",
+     "image": "data/img/cambodia/vddA.webp",
      "mapsUrl": "https://goo.gl/maps/GhmCuEKdAqjQUEV19",
      "width": 0.573,
      "text": [
@@ -446,7 +446,7 @@
     },
     {
      "id": "zw5H",
-     "image": "img/cambodia/zw5H.webp",
+     "image": "data/img/cambodia/zw5H.webp",
      "mapsUrl": "https://goo.gl/maps/ta5HR9ZahdWh9dxw7",
      "width": 0.573,
      "text": [

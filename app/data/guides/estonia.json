@@ -3,7 +3,7 @@
  "title": "Estonia",
  "code": "EE",
  "continent": "Europe",
- "hero": "img/estonia/hero.webp",
+ "hero": "data/img/estonia/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "vr14",
-     "image": "img/estonia/vr14.webp",
+     "image": "data/img/estonia/vr14.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "N6Ec",
-     "image": "img/estonia/N6Ec.webp",
+     "image": "data/img/estonia/N6Ec.webp",
      "mapsUrl": "https://goo.gl/maps/3Qb55hP5G1V5DsqT8",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "UV37",
-     "image": "img/estonia/UV37.webp",
+     "image": "data/img/estonia/UV37.webp",
      "mapsUrl": "https://goo.gl/maps/xgKEsvyvpeBudjgm9",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "ZNTy",
-     "image": "img/estonia/ZNTy.webp",
+     "image": "data/img/estonia/ZNTy.webp",
      "mapsUrl": "https://goo.gl/maps/UwAnACUPH9ZhAF2s7",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "KNav",
-     "image": "img/estonia/KNav.webp",
+     "image": "data/img/estonia/KNav.webp",
      "mapsUrl": "https://goo.gl/maps/DkuTLZMuZAX1F6we6",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "KPZE",
-     "image": "img/estonia/KPZE.webp",
+     "image": "data/img/estonia/KPZE.webp",
      "mapsUrl": "https://goo.gl/maps/7yuf3nzLwxNf9zzh7",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "bdr3",
-     "image": "img/estonia/bdr3.webp",
+     "image": "data/img/estonia/bdr3.webp",
      "mapsUrl": "https://goo.gl/maps/XKQefS6CFm4GuE5D7",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "eXbS",
-     "image": "img/estonia/eXbS.webp",
+     "image": "data/img/estonia/eXbS.webp",
      "mapsUrl": "https://goo.gl/maps/pZycsGmSx7ebTHQT8",
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "YCqH",
-     "image": "img/estonia/YCqH.webp",
+     "image": "data/img/estonia/YCqH.webp",
      "mapsUrl": "https://maps.app.goo.gl/HFGxTp5tX9wo3Usa7",
      "width": 0.5,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "hkpv",
-     "image": "img/estonia/hkpv.webp",
+     "image": "data/img/estonia/hkpv.webp",
      "mapsUrl": "https://goo.gl/maps/aNkJa3FxccAmJRjw5",
      "width": 0.5,
      "text": [
@@ -122,7 +122,7 @@
     },
     {
      "id": "ZYAH",
-     "image": "img/estonia/ZYAH.webp",
+     "image": "data/img/estonia/ZYAH.webp",
      "mapsUrl": "https://goo.gl/maps/HGd5X2wy8JmLAVc66",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "Kvsf",
-     "image": "img/estonia/Kvsf.webp",
+     "image": "data/img/estonia/Kvsf.webp",
      "mapsUrl": "https://goo.gl/maps/mjppakuN64ZLT8wu5",
      "width": 0.5,
      "text": [
@@ -143,7 +143,7 @@
     },
     {
      "id": "DexW",
-     "image": "img/estonia/DexW.webp",
+     "image": "data/img/estonia/DexW.webp",
      "mapsUrl": "https://goo.gl/maps/7Y8yPMySH7RiJWYV6",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "Amwu",
-     "image": "img/estonia/Amwu.webp",
+     "image": "data/img/estonia/Amwu.webp",
      "mapsUrl": "https://goo.gl/maps/1bThpqcXokjrkLDo8",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "XXzb",
-     "image": "img/estonia/XXzb.webp",
+     "image": "data/img/estonia/XXzb.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -177,7 +177,7 @@
     },
     {
      "id": "9WKW",
-     "image": "img/estonia/9WKW.webp",
+     "image": "data/img/estonia/9WKW.webp",
      "mapsUrl": "https://goo.gl/maps/xg83MhTy51R2fWe78",
      "width": 0.5,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "VLAz",
-     "image": "img/estonia/VLAz.webp",
+     "image": "data/img/estonia/VLAz.webp",
      "mapsUrl": "https://goo.gl/maps/kYEp7By8e1LjQK4x6",
      "width": 0.5,
      "text": [
@@ -198,7 +198,7 @@
     },
     {
      "id": "N5Yh",
-     "image": "img/estonia/N5Yh.webp",
+     "image": "data/img/estonia/N5Yh.webp",
      "mapsUrl": "https://goo.gl/maps/jEaG2pig3sfBJFt38",
      "width": 0.5,
      "text": [
@@ -207,7 +207,7 @@
     },
     {
      "id": "0aRY",
-     "image": "img/estonia/0aRY.webp",
+     "image": "data/img/estonia/0aRY.webp",
      "mapsUrl": "https://goo.gl/maps/eW7AJWdVriTfsprx7",
      "width": 0.5,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "SRyp",
-     "image": "img/estonia/SRyp.webp",
+     "image": "data/img/estonia/SRyp.webp",
      "mapsUrl": "https://goo.gl/maps/8CwSrZ9HhG6YmBUT7",
      "width": 0.5,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "xf22",
-     "image": "img/estonia/xf22.webp",
+     "image": "data/img/estonia/xf22.webp",
      "mapsUrl": "https://goo.gl/maps/o8qanyw36cE1h3wo8",
      "width": 0.5,
      "text": [
@@ -248,7 +248,7 @@
    "metas": [
     {
      "id": "ki6y",
-     "image": "img/estonia/ki6y.webp",
+     "image": "data/img/estonia/ki6y.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "lh3B",
-     "image": "img/estonia/lh3B.webp",
+     "image": "data/img/estonia/lh3B.webp",
      "mapsUrl": "https://goo.gl/maps/uXutJMguhmoDPmsG6",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
    "metas": [
     {
      "id": "nAUS",
-     "image": "img/estonia/nAUS.webp",
+     "image": "data/img/estonia/nAUS.webp",
      "mapsUrl": "https://goo.gl/maps/ys9pdsA68QF2exQ58",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "BgPO",
-     "image": "img/estonia/BgPO.webp",
+     "image": "data/img/estonia/BgPO.webp",
      "mapsUrl": "https://goo.gl/maps/JekvF7KgywBPdqkn8",
      "width": 0.573,
      "text": [

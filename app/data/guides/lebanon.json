@@ -3,7 +3,7 @@
  "title": "Lebanon",
  "code": "LB",
  "continent": "Asia",
- "hero": "img/lebanon/hero.webp",
+ "hero": "data/img/lebanon/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "2BL4",
-     "image": "img/lebanon/2BL4.webp",
+     "image": "data/img/lebanon/2BL4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "C649",
-     "image": "img/lebanon/C649.webp",
+     "image": "data/img/lebanon/C649.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "DdnD",
-     "image": "img/lebanon/DdnD.webp",
+     "image": "data/img/lebanon/DdnD.webp",
      "mapsUrl": "https://maps.app.goo.gl/iFa9EfF7U672jiV67",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "6bXU",
-     "image": "img/lebanon/6bXU.webp",
+     "image": "data/img/lebanon/6bXU.webp",
      "mapsUrl": "https://goo.gl/maps/ivF5SCCKd4r3uK4o9",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "Lgc7",
-     "image": "img/lebanon/Lgc7.webp",
+     "image": "data/img/lebanon/Lgc7.webp",
      "mapsUrl": "https://goo.gl/maps/XZ9yWgSmuLSArWUk6",
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "cdUJ",
-     "image": "img/lebanon/cdUJ.webp",
+     "image": "data/img/lebanon/cdUJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/tAWXTZWp4SjQyEis6",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "p2gU",
-     "image": "img/lebanon/p2gU.webp",
+     "image": "data/img/lebanon/p2gU.webp",
      "mapsUrl": "https://goo.gl/maps/iTXPFrsoaiso5gGp8",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
    "metas": [
     {
      "id": "eRJg",
-     "image": "img/lebanon/eRJg.webp",
+     "image": "data/img/lebanon/eRJg.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "JCQE",
-     "image": "img/lebanon/JCQE.webp",
+     "image": "data/img/lebanon/JCQE.webp",
      "mapsUrl": "https://maps.app.goo.gl/cP5JVW85DD8rDBmC9",
      "width": 0.573,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "lWQ6",
-     "image": "img/lebanon/lWQ6.webp",
+     "image": "data/img/lebanon/lWQ6.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZKYT3yDDZJ8AwsmY6#extra%5Btags%5D=Snow",
      "width": 0.573,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "x8uj",
-     "image": "img/lebanon/x8uj.webp",
+     "image": "data/img/lebanon/x8uj.webp",
      "mapsUrl": "https://maps.app.goo.gl/KmMWgXBCQ59MyiH48#extra%5Btags%5D=Greenhouse",
      "width": 0.573,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "i6sF",
-     "image": "img/lebanon/i6sF.webp",
+     "image": "data/img/lebanon/i6sF.webp",
      "mapsUrl": "https://maps.app.goo.gl/1Gj4Tn5wvNjqU7HbA",
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
    "metas": [
     {
      "id": "Dzfp",
-     "image": "img/lebanon/Dzfp.webp",
+     "image": "data/img/lebanon/Dzfp.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "kaHF",
-     "image": "img/lebanon/kaHF.webp",
+     "image": "data/img/lebanon/kaHF.webp",
      "mapsUrl": "https://goo.gl/maps/Yz5EHxGwfPh1SKQC7",
      "width": 0.573,
      "text": [
@@ -165,7 +165,7 @@
     },
     {
      "id": "SrSV",
-     "image": "img/lebanon/SrSV.webp",
+     "image": "data/img/lebanon/SrSV.webp",
      "mapsUrl": "https://goo.gl/maps/Fm7ipn8TSJfYkyiy7",
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "eF7M",
-     "image": "img/lebanon/eF7M.webp",
+     "image": "data/img/lebanon/eF7M.webp",
      "mapsUrl": "https://goo.gl/maps/noFmNwbewTPxPnS59",
      "width": 0.573,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "RzjR",
-     "image": "img/lebanon/RzjR.webp",
+     "image": "data/img/lebanon/RzjR.webp",
      "mapsUrl": "https://goo.gl/maps/QFruHNnBUSwieDGy7",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "E5A0",
-     "image": "img/lebanon/E5A0.webp",
+     "image": "data/img/lebanon/E5A0.webp",
      "mapsUrl": "https://goo.gl/maps/y7vp4LyNC198MMyM9",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "vjEC",
-     "image": "img/lebanon/vjEC.webp",
+     "image": "data/img/lebanon/vjEC.webp",
      "mapsUrl": "https://goo.gl/maps/vr4q4NubrXySzSY78",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "LBig",
-     "image": "img/lebanon/LBig.webp",
+     "image": "data/img/lebanon/LBig.webp",
      "mapsUrl": "https://goo.gl/maps/amU8qk9x4ZRvfs6c7",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "fPLp",
-     "image": "img/lebanon/fPLp.webp",
+     "image": "data/img/lebanon/fPLp.webp",
      "mapsUrl": "https://goo.gl/maps/ox8Mdbp1BwfMZbS96",
      "width": 0.573,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "3ac6",
-     "image": "img/lebanon/3ac6.webp",
+     "image": "data/img/lebanon/3ac6.webp",
      "mapsUrl": "https://goo.gl/maps/AJc5vp5hPnoYZa7a7",
      "width": 0.573,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "Iemd",
-     "image": "img/lebanon/Iemd.webp",
+     "image": "data/img/lebanon/Iemd.webp",
      "mapsUrl": "https://goo.gl/maps/SchY7afwE5gGjyWCA",
      "width": 0.573,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "AGko",
-     "image": "img/lebanon/AGko.webp",
+     "image": "data/img/lebanon/AGko.webp",
      "mapsUrl": "https://goo.gl/maps/GZQ7WY6ykS6cFW1v5",
      "width": 0.573,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "Mi4i",
-     "image": "img/lebanon/Mi4i.webp",
+     "image": "data/img/lebanon/Mi4i.webp",
      "mapsUrl": "https://goo.gl/maps/NYq3MzkuWBN9kEnR7",
      "width": 0.573,
      "text": [

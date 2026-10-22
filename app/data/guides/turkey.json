@@ -3,7 +3,7 @@
  "title": "Turkey",
  "code": "TR",
  "continent": "Europe",
- "hero": "img/turkey/hero.webp",
+ "hero": "data/img/turkey/hero.webp",
  "metaCount": 64,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "ryy2",
-     "image": "img/turkey/ryy2.webp",
+     "image": "data/img/turkey/ryy2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "qs57",
-     "image": "img/turkey/qs57.webp",
+     "image": "data/img/turkey/qs57.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -43,7 +43,7 @@
     },
     {
      "id": "qrJL",
-     "image": "img/turkey/qrJL.webp",
+     "image": "data/img/turkey/qrJL.webp",
      "mapsUrl": "https://goo.gl/maps/vJsmH4MHfe8u57B98",
      "width": 0.5,
      "text": [
@@ -54,7 +54,7 @@
     },
     {
      "id": "D1EC",
-     "image": "img/turkey/D1EC.webp",
+     "image": "data/img/turkey/D1EC.webp",
      "mapsUrl": "https://goo.gl/maps/Y1jTNnVnJ6gTWr9n6",
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "p55d",
-     "image": "img/turkey/p55d.webp",
+     "image": "data/img/turkey/p55d.webp",
      "mapsUrl": "https://goo.gl/maps/vpzLcfJkyY77wkui8",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "DDP9",
-     "image": "img/turkey/DDP9.webp",
+     "image": "data/img/turkey/DDP9.webp",
      "mapsUrl": "https://goo.gl/maps/uG7eY44ViTznRigq9",
      "width": 0.5,
      "text": [
@@ -81,7 +81,7 @@
     },
     {
      "id": "QOm1",
-     "image": "img/turkey/QOm1.webp",
+     "image": "data/img/turkey/QOm1.webp",
      "mapsUrl": "https://goo.gl/maps/YQnd7NLQpnNw44q36",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "qFBV",
-     "image": "img/turkey/qFBV.webp",
+     "image": "data/img/turkey/qFBV.webp",
      "mapsUrl": "https://goo.gl/maps/rb6kRgiqproQUWFE6",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "ccW4",
-     "image": "img/turkey/ccW4.webp",
+     "image": "data/img/turkey/ccW4.webp",
      "mapsUrl": "https://goo.gl/maps/Ai1JLo8zhvg4NCKF7",
      "width": 0.5,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "9RlL",
-     "image": "img/turkey/9RlL.webp",
+     "image": "data/img/turkey/9RlL.webp",
      "mapsUrl": "https://goo.gl/maps/W4m2vDDmwBdvxCAV9",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "4XWl",
-     "image": "img/turkey/4XWl.webp",
+     "image": "data/img/turkey/4XWl.webp",
      "mapsUrl": "https://goo.gl/maps/cupTkRgXiDKx2LJt7",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "eM9J",
-     "image": "img/turkey/eM9J.webp",
+     "image": "data/img/turkey/eM9J.webp",
      "mapsUrl": "https://goo.gl/maps/HUDf91iQqjFM8xHa8",
      "width": 0.5,
      "text": [
@@ -137,7 +137,7 @@
     },
     {
      "id": "DPuZ",
-     "image": "img/turkey/DPuZ.webp",
+     "image": "data/img/turkey/DPuZ.webp",
      "mapsUrl": "https://goo.gl/maps/hXWYWvF8DxS5Am816",
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
     },
     {
      "id": "N5vS",
-     "image": "img/turkey/N5vS.webp",
+     "image": "data/img/turkey/N5vS.webp",
      "mapsUrl": "https://goo.gl/maps/i4r3FcX5N9hDQzgs6",
      "width": 0.5,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "eWbd",
-     "image": "img/turkey/eWbd.webp",
+     "image": "data/img/turkey/eWbd.webp",
      "mapsUrl": "https://goo.gl/maps/gpEXoAqh8raW3xar7",
      "width": 0.5,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "Ce1R",
-     "image": "img/turkey/Ce1R.webp",
+     "image": "data/img/turkey/Ce1R.webp",
      "mapsUrl": "https://goo.gl/maps/GsRJayyumGYmmju3A",
      "width": 0.5,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "EjNo",
-     "image": "img/turkey/EjNo.webp",
+     "image": "data/img/turkey/EjNo.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ebd2AVU36nUc1NNF9",
      "width": 0.5,
      "text": [
@@ -186,7 +186,7 @@
     },
     {
      "id": "bo5u",
-     "image": "img/turkey/bo5u.webp",
+     "image": "data/img/turkey/bo5u.webp",
      "mapsUrl": "https://maps.app.goo.gl/e5EJ3feR9vWbaYz38",
      "width": 0.5,
      "text": [
@@ -195,7 +195,7 @@
     },
     {
      "id": "y8wc",
-     "image": "img/turkey/y8wc.webp",
+     "image": "data/img/turkey/y8wc.webp",
      "mapsUrl": "https://goo.gl/maps/eXQf5WpzjEQE2dh29",
      "width": 0.5,
      "text": [
@@ -205,7 +205,7 @@
     },
     {
      "id": "q9pP",
-     "image": "img/turkey/q9pP.webp",
+     "image": "data/img/turkey/q9pP.webp",
      "mapsUrl": "https://goo.gl/maps/DWQkLUfxdgnn5fUdA",
      "width": 0.5,
      "text": [
@@ -214,7 +214,7 @@
     },
     {
      "id": "2P4G",
-     "image": "img/turkey/2P4G.webp",
+     "image": "data/img/turkey/2P4G.webp",
      "mapsUrl": "https://goo.gl/maps/s8NDvpw9Go8Ezbvx5",
      "width": 0.5,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "CuUl",
-     "image": "img/turkey/CuUl.webp",
+     "image": "data/img/turkey/CuUl.webp",
      "mapsUrl": "https://goo.gl/maps/m6zfUb5Lx2osZgxg9",
      "width": 0.5,
      "text": [
@@ -241,7 +241,7 @@
    "metas": [
     {
      "id": "vhPr",
-     "image": "img/turkey/vhPr.webp",
+     "image": "data/img/turkey/vhPr.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -251,7 +251,7 @@
     },
     {
      "id": "pFHY",
-     "image": "img/turkey/pFHY.webp",
+     "image": "data/img/turkey/pFHY.webp",
      "mapsUrl": "https://goo.gl/maps/UtnsVceNUnyXTTkS8",
      "width": 0.5,
      "text": [
@@ -260,7 +260,7 @@
     },
     {
      "id": "Zdx7",
-     "image": "img/turkey/Zdx7.webp",
+     "image": "data/img/turkey/Zdx7.webp",
      "mapsUrl": "https://goo.gl/maps/tkqjw6hayPez3ff96",
      "width": 0.5,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "3Nhk",
-     "image": "img/turkey/3Nhk.webp",
+     "image": "data/img/turkey/3Nhk.webp",
      "mapsUrl": "https://maps.app.goo.gl/fRi7xv5DFxRNGQqm8",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "pPdr",
-     "image": "img/turkey/pPdr.webp",
+     "image": "data/img/turkey/pPdr.webp",
      "mapsUrl": "https://goo.gl/maps/WLpMbKsowgbihvFRA",
      "width": 0.573,
      "text": [
@@ -288,7 +288,7 @@
     },
     {
      "id": "os4B",
-     "image": "img/turkey/os4B.webp",
+     "image": "data/img/turkey/os4B.webp",
      "mapsUrl": "https://goo.gl/maps/3bJjrEbqhmAYbatH8",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "l81d",
-     "image": "img/turkey/l81d.webp",
+     "image": "data/img/turkey/l81d.webp",
      "mapsUrl": "https://goo.gl/maps/9ovS9sPtcHdmigWy5",
      "width": 0.573,
      "text": [
@@ -307,7 +307,7 @@
     },
     {
      "id": "Imt4",
-     "image": "img/turkey/Imt4.webp",
+     "image": "data/img/turkey/Imt4.webp",
      "mapsUrl": "https://goo.gl/maps/QZpfT8iBvzxonRwu6",
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
     },
     {
      "id": "qZq7",
-     "image": "img/turkey/qZq7.webp",
+     "image": "data/img/turkey/qZq7.webp",
      "mapsUrl": "https://goo.gl/maps/sZnqtdNofT1jUjXc9",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "ioW2",
-     "image": "img/turkey/ioW2.webp",
+     "image": "data/img/turkey/ioW2.webp",
      "mapsUrl": "https://www.google.com/maps/@40.1570685,34.6725306,3a,47.7y,268.05h,80.12t,0.12r/data=!3m6!1e1!3m4!1s8JwvYfrDtSsWI3zM6RnQlw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "hyYZ",
-     "image": "img/turkey/hyYZ.webp",
+     "image": "data/img/turkey/hyYZ.webp",
      "mapsUrl": "https://goo.gl/maps/MSDrzGXe7RLViLLa8",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "yVok",
-     "image": "img/turkey/yVok.webp",
+     "image": "data/img/turkey/yVok.webp",
      "mapsUrl": "https://goo.gl/maps/H4awdN1QhhCmXmao6",
      "width": 0.573,
      "text": [
@@ -352,7 +352,7 @@
     },
     {
      "id": "cb18",
-     "image": "img/turkey/cb18.webp",
+     "image": "data/img/turkey/cb18.webp",
      "mapsUrl": "https://goo.gl/maps/cEKtbAFE1eEu9qmx9",
      "width": 0.573,
      "text": [
@@ -361,7 +361,7 @@
     },
     {
      "id": "jAbk",
-     "image": "img/turkey/jAbk.webp",
+     "image": "data/img/turkey/jAbk.webp",
      "mapsUrl": "https://goo.gl/maps/KBat19kwZeAmfeEAA",
      "width": 0.573,
      "text": [
@@ -370,7 +370,7 @@
     },
     {
      "id": "fxRl",
-     "image": "img/turkey/fxRl.webp",
+     "image": "data/img/turkey/fxRl.webp",
      "mapsUrl": "https://goo.gl/maps/LpZkGx243n5obPmF9",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
     },
     {
      "id": "wAF5",
-     "image": "img/turkey/wAF5.webp",
+     "image": "data/img/turkey/wAF5.webp",
      "mapsUrl": "https://goo.gl/maps/M1fFRrJ1wT7CMqcj6",
      "width": 0.573,
      "text": [
@@ -389,7 +389,7 @@
     },
     {
      "id": "lAmr",
-     "image": "img/turkey/lAmr.webp",
+     "image": "data/img/turkey/lAmr.webp",
      "mapsUrl": "https://goo.gl/maps/YtLZLBGAdaPt8nda7",
      "width": 0.573,
      "text": [
@@ -398,7 +398,7 @@
     },
     {
      "id": "hFfd",
-     "image": "img/turkey/hFfd.webp",
+     "image": "data/img/turkey/hFfd.webp",
      "mapsUrl": "https://goo.gl/maps/RyUM1gqESkYEDiMC8",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "RsRd",
-     "image": "img/turkey/RsRd.webp",
+     "image": "data/img/turkey/RsRd.webp",
      "mapsUrl": "https://goo.gl/maps/3WiR6NCdykeqLtRh7",
      "width": 0.573,
      "text": [
@@ -416,7 +416,7 @@
     },
     {
      "id": "aoIU",
-     "image": "img/turkey/aoIU.webp",
+     "image": "data/img/turkey/aoIU.webp",
      "mapsUrl": "https://goo.gl/maps/f8ccBYkMocaG3YTd6",
      "width": 0.573,
      "text": [
@@ -425,7 +425,7 @@
     },
     {
      "id": "n73Y",
-     "image": "img/turkey/n73Y.webp",
+     "image": "data/img/turkey/n73Y.webp",
      "mapsUrl": "https://goo.gl/maps/c53U4ydsoRYVxGhk9",
      "width": 0.573,
      "text": [
@@ -434,7 +434,7 @@
     },
     {
      "id": "niOS",
-     "image": "img/turkey/niOS.webp",
+     "image": "data/img/turkey/niOS.webp",
      "mapsUrl": "https://goo.gl/maps/dnVaEoQ2WCfTGuZD6",
      "width": 0.573,
      "text": [
@@ -443,7 +443,7 @@
     },
     {
      "id": "BSFD",
-     "image": "img/turkey/BSFD.webp",
+     "image": "data/img/turkey/BSFD.webp",
      "mapsUrl": "https://goo.gl/maps/vgE5NejjjYyc8UR29",
      "width": 0.573,
      "text": [
@@ -453,7 +453,7 @@
     },
     {
      "id": "m6mB",
-     "image": "img/turkey/m6mB.webp",
+     "image": "data/img/turkey/m6mB.webp",
      "mapsUrl": "https://goo.gl/maps/9VnQL1ZgJ5vAUyq69",
      "width": 0.573,
      "text": [
@@ -462,7 +462,7 @@
     },
     {
      "id": "5jfy",
-     "image": "img/turkey/5jfy.webp",
+     "image": "data/img/turkey/5jfy.webp",
      "mapsUrl": "https://goo.gl/maps/yswVLscbSMSot5sT6",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "sLHs",
-     "image": "img/turkey/sLHs.webp",
+     "image": "data/img/turkey/sLHs.webp",
      "mapsUrl": "https://goo.gl/maps/uzbmLqiAu5y7VSJy9",
      "width": 0.573,
      "text": [
@@ -480,7 +480,7 @@
     },
     {
      "id": "cf7P",
-     "image": "img/turkey/cf7P.webp",
+     "image": "data/img/turkey/cf7P.webp",
      "mapsUrl": "https://maps.app.goo.gl/vN2VozWbCXPbUvUPA",
      "width": 0.573,
      "text": [
@@ -489,7 +489,7 @@
     },
     {
      "id": "cKHH",
-     "image": "img/turkey/cKHH.webp",
+     "image": "data/img/turkey/cKHH.webp",
      "mapsUrl": "https://maps.app.goo.gl/gL2TRPecD7ggyqjj7",
      "width": 0.573,
      "text": [
@@ -498,7 +498,7 @@
     },
     {
      "id": "ZAFL",
-     "image": "img/turkey/ZAFL.webp",
+     "image": "data/img/turkey/ZAFL.webp",
      "mapsUrl": "https://goo.gl/maps/LuJK3ANtPMW1kxwx9",
      "width": 0.573,
      "text": [
@@ -508,7 +508,7 @@
     },
     {
      "id": "wPss",
-     "image": "img/turkey/wPss.webp",
+     "image": "data/img/turkey/wPss.webp",
      "mapsUrl": "https://goo.gl/maps/S1toMRrMMXXkA4iC6",
      "width": 0.573,
      "text": [
@@ -517,7 +517,7 @@
     },
     {
      "id": "G6h2",
-     "image": "img/turkey/G6h2.webp",
+     "image": "data/img/turkey/G6h2.webp",
      "mapsUrl": "https://goo.gl/maps/5epDcoP5q6JLsdwD6",
      "width": 0.573,
      "text": [
@@ -535,7 +535,7 @@
    "metas": [
     {
      "id": "7HDD",
-     "image": "img/turkey/7HDD.webp",
+     "image": "data/img/turkey/7HDD.webp",
      "mapsUrl": "https://goo.gl/maps/sTp8L4cY2wKvk3CK9",
      "width": 0.573,
      "text": [
@@ -544,7 +544,7 @@
     },
     {
      "id": "X02u",
-     "image": "img/turkey/X02u.webp",
+     "image": "data/img/turkey/X02u.webp",
      "mapsUrl": "https://goo.gl/maps/ucRqWEjyw7twJSVa9",
      "width": 0.573,
      "text": [
@@ -553,7 +553,7 @@
     },
     {
      "id": "QuGQ",
-     "image": "img/turkey/QuGQ.webp",
+     "image": "data/img/turkey/QuGQ.webp",
      "mapsUrl": "https://goo.gl/maps/NFxmbn1T6tfaVHZW7",
      "width": 0.573,
      "text": [
@@ -562,7 +562,7 @@
     },
     {
      "id": "mWDO",
-     "image": "img/turkey/mWDO.webp",
+     "image": "data/img/turkey/mWDO.webp",
      "mapsUrl": "https://goo.gl/maps/CEzMawbJt4z1xQRG9",
      "width": 0.573,
      "text": [
@@ -571,7 +571,7 @@
     },
     {
      "id": "h0ZV",
-     "image": "img/turkey/h0ZV.webp",
+     "image": "data/img/turkey/h0ZV.webp",
      "mapsUrl": "https://goo.gl/maps/yRjxXvLUnmBtDhwA8",
      "width": 0.573,
      "text": [
@@ -580,7 +580,7 @@
     },
     {
      "id": "eLMh",
-     "image": "img/turkey/eLMh.webp",
+     "image": "data/img/turkey/eLMh.webp",
      "mapsUrl": "https://goo.gl/maps/NHzpaqhFs9g1JHSj6",
      "width": 0.573,
      "text": [
@@ -589,7 +589,7 @@
     },
     {
      "id": "5hkj",
-     "image": "img/turkey/5hkj.webp",
+     "image": "data/img/turkey/5hkj.webp",
      "mapsUrl": "https://goo.gl/maps/X6WmZLDEPY6esYT16",
      "width": 0.573,
      "text": [
@@ -598,7 +598,7 @@
     },
     {
      "id": "bl0n",
-     "image": "img/turkey/bl0n.webp",
+     "image": "data/img/turkey/bl0n.webp",
      "mapsUrl": "https://goo.gl/maps/zTReodSx4dEU2Hhz5",
      "width": 0.573,
      "text": [
@@ -608,7 +608,7 @@
     },
     {
      "id": "xnIM",
-     "image": "img/turkey/xnIM.webp",
+     "image": "data/img/turkey/xnIM.webp",
      "mapsUrl": "https://goo.gl/maps/r3tSKDy4QtLFoBqq9",
      "width": 0.573,
      "text": [
@@ -617,7 +617,7 @@
     },
     {
      "id": "NL3Y",
-     "image": "img/turkey/NL3Y.webp",
+     "image": "data/img/turkey/NL3Y.webp",
      "mapsUrl": "https://goo.gl/maps/pJ5WsrmSv7RBVxp47",
      "width": 0.573,
      "text": [
@@ -627,7 +627,7 @@
     },
     {
      "id": "l1rB",
-     "image": "img/turkey/l1rB.webp",
+     "image": "data/img/turkey/l1rB.webp",
      "mapsUrl": "https://goo.gl/maps/J5bS9QhXiWqXWPEQA",
      "width": 0.573,
      "text": [

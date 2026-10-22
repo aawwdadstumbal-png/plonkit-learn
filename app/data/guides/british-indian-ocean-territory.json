@@ -3,7 +3,7 @@
  "title": "British Indian Ocean Territory",
  "code": "IO",
  "continent": "Asia",
- "hero": "img/british-indian-ocean-territory/hero.webp",
+ "hero": "data/img/british-indian-ocean-territory/hero.webp",
  "metaCount": 10,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "H0Km",
-     "image": "img/british-indian-ocean-territory/H0Km.webp",
+     "image": "data/img/british-indian-ocean-territory/H0Km.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/British_Indian_Ocean_Territory_in_United_Kingdom.svg/2560px-British_Indian_Ocean_Territory_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "ia3w",
-     "image": "img/british-indian-ocean-territory/ia3w.webp",
+     "image": "data/img/british-indian-ocean-territory/ia3w.webp",
      "mapsUrl": "https://goo.gl/maps/ATdKjiPLx4M99tSD6",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "1BeC",
-     "image": "img/british-indian-ocean-territory/1BeC.webp",
+     "image": "data/img/british-indian-ocean-territory/1BeC.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "ToF6",
-     "image": "img/british-indian-ocean-territory/ToF6.webp",
+     "image": "data/img/british-indian-ocean-territory/ToF6.webp",
      "mapsUrl": "https://goo.gl/maps/ijtdCuJsHeLYZ7ns5",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "0jgl",
-     "image": "img/british-indian-ocean-territory/0jgl.webp",
+     "image": "data/img/british-indian-ocean-territory/0jgl.webp",
      "mapsUrl": "https://goo.gl/maps/YV4Hz5ufXvUqKB2R7",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "44Fc",
-     "image": "img/british-indian-ocean-territory/44Fc.webp",
+     "image": "data/img/british-indian-ocean-territory/44Fc.webp",
      "mapsUrl": "https://goo.gl/maps/VhCDqJM7gF6yuK95A",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "c13E",
-     "image": "img/british-indian-ocean-territory/c13E.webp",
+     "image": "data/img/british-indian-ocean-territory/c13E.webp",
      "mapsUrl": "https://goo.gl/maps/oSskxDoYUHWp1ec49",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "lXGT",
-     "image": "img/british-indian-ocean-territory/lXGT.webp",
+     "image": "data/img/british-indian-ocean-territory/lXGT.webp",
      "mapsUrl": "https://goo.gl/maps/wcNcrMFAdc5jUbK48",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
    "metas": [
     {
      "id": "qvfG",
-     "image": "img/british-indian-ocean-territory/qvfG.webp",
+     "image": "data/img/british-indian-ocean-territory/qvfG.webp",
      "mapsUrl": "https://goo.gl/maps/mPE4ZAFzdMMWXG5v7",
      "width": 0.573,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "u9yO",
-     "image": "img/british-indian-ocean-territory/u9yO.webp",
+     "image": "data/img/british-indian-ocean-territory/u9yO.webp",
      "mapsUrl": "https://goo.gl/maps/BXYdzfPXHVXAvLCH7",
      "width": 0.573,
      "text": [

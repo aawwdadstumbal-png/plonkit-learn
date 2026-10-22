@@ -3,7 +3,7 @@
  "title": "Slovakia",
  "code": "SK",
  "continent": "Europe",
- "hero": "img/slovakia/hero.webp",
+ "hero": "data/img/slovakia/hero.webp",
  "metaCount": 53,
  "sections": [
   {
@@ -40,7 +40,7 @@
    "metas": [
     {
      "id": "3quH",
-     "image": "img/slovakia/3quH.webp",
+     "image": "data/img/slovakia/3quH.webp",
      "mapsUrl": "https://goo.gl/maps/bWu6Pty5WTmSY4oRA",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "F7is",
-     "image": "img/slovakia/F7is.webp",
+     "image": "data/img/slovakia/F7is.webp",
      "mapsUrl": "https://goo.gl/maps/5GXwMsePcP4JeZYW6",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "p0qp",
-     "image": "img/slovakia/p0qp.webp",
+     "image": "data/img/slovakia/p0qp.webp",
      "mapsUrl": "https://goo.gl/maps/CqLdA1Qym3eRMTny7",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "MEKX",
-     "image": "img/slovakia/MEKX.webp",
+     "image": "data/img/slovakia/MEKX.webp",
      "mapsUrl": "https://goo.gl/maps/2pQYufWqjPLtnRYr5",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "Tqgf",
-     "image": "img/slovakia/Tqgf.webp",
+     "image": "data/img/slovakia/Tqgf.webp",
      "mapsUrl": "https://goo.gl/maps/Pgpj1TUrJ4tvovUF7",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "zSqS",
-     "image": "img/slovakia/zSqS.webp",
+     "image": "data/img/slovakia/zSqS.webp",
      "mapsUrl": "https://maps.app.goo.gl/rwYw2noiWN6iwfSS9",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "n4tG",
-     "image": "img/slovakia/n4tG.webp",
+     "image": "data/img/slovakia/n4tG.webp",
      "mapsUrl": "https://goo.gl/maps/ACMMFh4BgTYZwMFx9",
      "width": 0.5,
      "text": [
@@ -106,7 +106,7 @@
     },
     {
      "id": "otzr",
-     "image": "img/slovakia/otzr.webp",
+     "image": "data/img/slovakia/otzr.webp",
      "mapsUrl": "https://goo.gl/maps/dNUDNrAxFBuQv1348",
      "width": 0.5,
      "text": [
@@ -115,7 +115,7 @@
     },
     {
      "id": "G4Pu",
-     "image": "img/slovakia/G4Pu.webp",
+     "image": "data/img/slovakia/G4Pu.webp",
      "mapsUrl": "https://goo.gl/maps/kmg3psVnbbXbToySA",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "rf14",
-     "image": "img/slovakia/rf14.webp",
+     "image": "data/img/slovakia/rf14.webp",
      "mapsUrl": "https://goo.gl/maps/oxXvVtxBvJRN4dZ67",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "9icq",
-     "image": "img/slovakia/9icq.webp",
+     "image": "data/img/slovakia/9icq.webp",
      "mapsUrl": "https://goo.gl/maps/gZHYDxtcZurdoS5r5",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "MoJ0",
-     "image": "img/slovakia/MoJ0.webp",
+     "image": "data/img/slovakia/MoJ0.webp",
      "mapsUrl": "https://goo.gl/maps/2TNh6cZqggE4zsmg6",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "5mIL",
-     "image": "img/slovakia/5mIL.webp",
+     "image": "data/img/slovakia/5mIL.webp",
      "mapsUrl": "https://goo.gl/maps/UzXtPnp17sU7m6nG8",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "5j6v",
-     "image": "img/slovakia/5j6v.webp",
+     "image": "data/img/slovakia/5j6v.webp",
      "mapsUrl": "https://goo.gl/maps/ReEe5mjtHzX51fir9",
      "width": 0.5,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "lXWV",
-     "image": "img/slovakia/lXWV.webp",
+     "image": "data/img/slovakia/lXWV.webp",
      "mapsUrl": "https://maps.app.goo.gl/NRyb5wsAHBVuWW7Q6",
      "width": 0.5,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "elyV",
-     "image": "img/slovakia/elyV.webp",
+     "image": "data/img/slovakia/elyV.webp",
      "mapsUrl": "https://maps.app.goo.gl/bgDppwJ9pZyBTjts6",
      "width": 0.5,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "cWSf",
-     "image": "img/slovakia/cWSf.webp",
+     "image": "data/img/slovakia/cWSf.webp",
      "mapsUrl": "https://goo.gl/maps/WG9RcPvnMFnNwSAa8",
      "width": 0.5,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "lyTP",
-     "image": "img/slovakia/lyTP.webp",
+     "image": "data/img/slovakia/lyTP.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "Lcdz",
-     "image": "img/slovakia/Lcdz.webp",
+     "image": "data/img/slovakia/Lcdz.webp",
      "mapsUrl": "https://goo.gl/maps/PPj943HJ39dWPzBTA",
      "width": 0.5,
      "text": [
@@ -224,7 +224,7 @@
     },
     {
      "id": "EpW7",
-     "image": "img/slovakia/EpW7.webp",
+     "image": "data/img/slovakia/EpW7.webp",
      "mapsUrl": "https://goo.gl/maps/ydpSakePAMYcEVv27",
      "width": 0.5,
      "text": [
@@ -234,7 +234,7 @@
     },
     {
      "id": "p6ai",
-     "image": "img/slovakia/p6ai.webp",
+     "image": "data/img/slovakia/p6ai.webp",
      "mapsUrl": "https://goo.gl/maps/RSxweZcyr2ChkvGM7",
      "width": 0.5,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "nCyZ",
-     "image": "img/slovakia/nCyZ.webp",
+     "image": "data/img/slovakia/nCyZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/9ehyKQCRs9hGYVnV9",
      "width": 0.5,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "dcqy",
-     "image": "img/slovakia/dcqy.webp",
+     "image": "data/img/slovakia/dcqy.webp",
      "mapsUrl": "https://goo.gl/maps/Skx7gDYNJV2ZxZma6",
      "width": 0.5,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "1BOY",
-     "image": "img/slovakia/1BOY.webp",
+     "image": "data/img/slovakia/1BOY.webp",
      "mapsUrl": "https://goo.gl/maps/MUxaTwKw8Be7i7ZG9",
      "width": 0.5,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "u6tR",
-     "image": "img/slovakia/u6tR.webp",
+     "image": "data/img/slovakia/u6tR.webp",
      "mapsUrl": "https://goo.gl/maps/Nr9eESaNguFRWRJN6",
      "width": 0.5,
      "text": [
@@ -283,7 +283,7 @@
     },
     {
      "id": "L3Hc",
-     "image": "img/slovakia/L3Hc.webp",
+     "image": "data/img/slovakia/L3Hc.webp",
      "mapsUrl": "https://goo.gl/maps/5e64SzpHAZmUmMoT9",
      "width": 0.5,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "nJkZ",
-     "image": "img/slovakia/nJkZ.webp",
+     "image": "data/img/slovakia/nJkZ.webp",
      "mapsUrl": "https://goo.gl/maps/7KEmJeq7TK8ZiLVd6",
      "width": 0.5,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "qom3",
-     "image": "img/slovakia/qom3.webp",
+     "image": "data/img/slovakia/qom3.webp",
      "mapsUrl": "https://goo.gl/maps/PDodafYBS2CgsCjd9",
      "width": 0.5,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "VV2G",
-     "image": "img/slovakia/VV2G.webp",
+     "image": "data/img/slovakia/VV2G.webp",
      "mapsUrl": "https://maps.app.goo.gl/ABXWKk2k79waodGZA",
      "width": 0.5,
      "text": [
@@ -322,7 +322,7 @@
     },
     {
      "id": "fBwX",
-     "image": "img/slovakia/fBwX.webp",
+     "image": "data/img/slovakia/fBwX.webp",
      "mapsUrl": "https://goo.gl/maps/bnVmya82hXbgCW2T9",
      "width": 0.5,
      "text": [
@@ -332,7 +332,7 @@
     },
     {
      "id": "n27y",
-     "image": "img/slovakia/n27y.webp",
+     "image": "data/img/slovakia/n27y.webp",
      "mapsUrl": "https://goo.gl/maps/4XYifseoGkYxqao19",
      "width": 0.5,
      "text": [
@@ -342,7 +342,7 @@
     },
     {
      "id": "KXno",
-     "image": "img/slovakia/KXno.webp",
+     "image": "data/img/slovakia/KXno.webp",
      "mapsUrl": "https://goo.gl/maps/1Ex81rByW2yR7bar9",
      "width": 0.5,
      "text": [
@@ -352,7 +352,7 @@
     },
     {
      "id": "o2Ei",
-     "image": "img/slovakia/o2Ei.webp",
+     "image": "data/img/slovakia/o2Ei.webp",
      "mapsUrl": "https://goo.gl/maps/X5fhnhe8vjxJajiX6",
      "width": 0.5,
      "text": [
@@ -361,7 +361,7 @@
     },
     {
      "id": "dpYP",
-     "image": "img/slovakia/dpYP.webp",
+     "image": "data/img/slovakia/dpYP.webp",
      "mapsUrl": "https://goo.gl/maps/pBPJMPcfopSG3Zay7",
      "width": 0.5,
      "text": [
@@ -371,7 +371,7 @@
     },
     {
      "id": "mWBL",
-     "image": "img/slovakia/mWBL.webp",
+     "image": "data/img/slovakia/mWBL.webp",
      "mapsUrl": "https://goo.gl/maps/entBrFHLVqskdmak6",
      "width": 0.5,
      "text": [
@@ -381,7 +381,7 @@
     },
     {
      "id": "j8QN",
-     "image": "img/slovakia/j8QN.webp",
+     "image": "data/img/slovakia/j8QN.webp",
      "mapsUrl": "https://www.google.com/maps/@48.5515539,18.1190523,3a,15y,55.74h,65.4t/data=!3m7!1e1!3m5!1sZ5QVxIUgMkl9Nt97LuLxyw!2e0!5s20230601T000000!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -390,7 +390,7 @@
     },
     {
      "id": "Isqn",
-     "image": "img/slovakia/Isqn.webp",
+     "image": "data/img/slovakia/Isqn.webp",
      "mapsUrl": "https://goo.gl/maps/D1jpScsDcf4TY49Z7",
      "width": 0.5,
      "text": [
@@ -409,7 +409,7 @@
    "metas": [
     {
      "id": "PPvf",
-     "image": "img/slovakia/PPvf.webp",
+     "image": "data/img/slovakia/PPvf.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -419,7 +419,7 @@
     },
     {
      "id": "0qNY",
-     "image": "img/slovakia/0qNY.webp",
+     "image": "data/img/slovakia/0qNY.webp",
      "mapsUrl": "/images/slovakia/sk_roadnumbers.png",
      "width": 0.5,
      "text": [
@@ -429,7 +429,7 @@
     },
     {
      "id": "dRNN",
-     "image": "img/slovakia/dRNN.webp",
+     "image": "data/img/slovakia/dRNN.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -438,7 +438,7 @@
     },
     {
      "id": "sfKN",
-     "image": "img/slovakia/sfKN.webp",
+     "image": "data/img/slovakia/sfKN.webp",
      "mapsUrl": "https://goo.gl/maps/b6cwnyWMAYhDq7jn8",
      "width": 0.573,
      "text": [
@@ -448,7 +448,7 @@
     },
     {
      "id": "gKhC",
-     "image": "img/slovakia/gKhC.webp",
+     "image": "data/img/slovakia/gKhC.webp",
      "mapsUrl": "https://goo.gl/maps/GhigyDQrSoW7Tcmz8",
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "4BtX",
-     "image": "img/slovakia/4BtX.webp",
+     "image": "data/img/slovakia/4BtX.webp",
      "mapsUrl": "https://goo.gl/maps/jg8wzpGorZd9yegH9",
      "width": 0.573,
      "text": [
@@ -466,7 +466,7 @@
     },
     {
      "id": "uRTI",
-     "image": "img/slovakia/uRTI.webp",
+     "image": "data/img/slovakia/uRTI.webp",
      "mapsUrl": "https://goo.gl/maps/3K7s6X4x6oezDt5y6",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "8If0",
-     "image": "img/slovakia/8If0.webp",
+     "image": "data/img/slovakia/8If0.webp",
      "mapsUrl": "https://goo.gl/maps/qjkvuQBp2qas74Sa9",
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "bpnt",
-     "image": "img/slovakia/bpnt.webp",
+     "image": "data/img/slovakia/bpnt.webp",
      "mapsUrl": "https://goo.gl/maps/mdJ9WazD3VsWmDiZ8",
      "width": 0.573,
      "text": [
@@ -505,7 +505,7 @@
    "metas": [
     {
      "id": "mwCI",
-     "image": "img/slovakia/mwCI.webp",
+     "image": "data/img/slovakia/mwCI.webp",
      "mapsUrl": "https://goo.gl/maps/YJ3kEhXB9vvBpqh86",
      "width": 0.573,
      "text": [
@@ -514,7 +514,7 @@
     },
     {
      "id": "5dso",
-     "image": "img/slovakia/5dso.webp",
+     "image": "data/img/slovakia/5dso.webp",
      "mapsUrl": "https://goo.gl/maps/ysmkhGgQGZtKGsoo7",
      "width": 0.573,
      "text": [
@@ -523,7 +523,7 @@
     },
     {
      "id": "L3Lc",
-     "image": "img/slovakia/L3Lc.webp",
+     "image": "data/img/slovakia/L3Lc.webp",
      "mapsUrl": "https://goo.gl/maps/NhU19a3EK7KHCUWX9",
      "width": 0.573,
      "text": [
@@ -532,7 +532,7 @@
     },
     {
      "id": "IJXC",
-     "image": "img/slovakia/IJXC.webp",
+     "image": "data/img/slovakia/IJXC.webp",
      "mapsUrl": "https://goo.gl/maps/L2judPPCa4DcUs277",
      "width": 0.573,
      "text": [
@@ -542,7 +542,7 @@
     },
     {
      "id": "uyAe",
-     "image": "img/slovakia/uyAe.webp",
+     "image": "data/img/slovakia/uyAe.webp",
      "mapsUrl": "https://maps.app.goo.gl/u48ApNfazthaPVca8",
      "width": 0.573,
      "text": [
@@ -551,7 +551,7 @@
     },
     {
      "id": "NtUD",
-     "image": "img/slovakia/NtUD.webp",
+     "image": "data/img/slovakia/NtUD.webp",
      "mapsUrl": "https://goo.gl/maps/tNFqMzdhxqD3JYih9",
      "width": 0.573,
      "text": [
@@ -560,7 +560,7 @@
     },
     {
      "id": "rhBj",
-     "image": "img/slovakia/rhBj.webp",
+     "image": "data/img/slovakia/rhBj.webp",
      "mapsUrl": "https://goo.gl/maps/h3evNy7U51wXihBE8",
      "width": 0.573,
      "text": [

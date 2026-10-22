@@ -3,7 +3,7 @@
  "title": "Indonesia",
  "code": "ID",
  "continent": "Asia",
- "hero": "img/indonesia/hero.webp",
+ "hero": "data/img/indonesia/hero.webp",
  "metaCount": 59,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "M7aC",
-     "image": "img/indonesia/M7aC.webp",
+     "image": "data/img/indonesia/M7aC.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -32,7 +32,7 @@
     },
     {
      "id": "YwXJ",
-     "image": "img/indonesia/YwXJ.webp",
+     "image": "data/img/indonesia/YwXJ.webp",
      "mapsUrl": "https://goo.gl/maps/3ULcUjQ68JXNHybu7",
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
     },
     {
      "id": "hOwL",
-     "image": "img/indonesia/hOwL.webp",
+     "image": "data/img/indonesia/hOwL.webp",
      "mapsUrl": "https://goo.gl/maps/fzdoM5RgUoCzHorz7",
      "width": 0.5,
      "text": [
@@ -53,7 +53,7 @@
     },
     {
      "id": "cPPJ",
-     "image": "img/indonesia/cPPJ.webp",
+     "image": "data/img/indonesia/cPPJ.webp",
      "mapsUrl": "https://goo.gl/maps/HmyVTZMzuZPANmsX9",
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "u0Sw",
-     "image": "img/indonesia/u0Sw.webp",
+     "image": "data/img/indonesia/u0Sw.webp",
      "mapsUrl": "https://maps.app.goo.gl/NPpMTsi9FqNP5ggv7",
      "width": 0.5,
      "text": [
@@ -73,7 +73,7 @@
     },
     {
      "id": "Sl44",
-     "image": "img/indonesia/Sl44.webp",
+     "image": "data/img/indonesia/Sl44.webp",
      "mapsUrl": "https://goo.gl/maps/rLNFoXf2huGbbGUy7",
      "width": 0.5,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "SYxy",
-     "image": "img/indonesia/SYxy.webp",
+     "image": "data/img/indonesia/SYxy.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "L4lX",
-     "image": "img/indonesia/L4lX.webp",
+     "image": "data/img/indonesia/L4lX.webp",
      "mapsUrl": "https://goo.gl/maps/bwBsWYwabmUPTCzMA",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "MAU0",
-     "image": "img/indonesia/MAU0.webp",
+     "image": "data/img/indonesia/MAU0.webp",
      "mapsUrl": "https://goo.gl/maps/n3amc3aZ4MtygHkh9",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "NAMC",
-     "image": "img/indonesia/NAMC.webp",
+     "image": "data/img/indonesia/NAMC.webp",
      "mapsUrl": "https://goo.gl/maps/5BAuTvppuz3dUCbE9",
      "width": 0.5,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "78MF",
-     "image": "img/indonesia/78MF.webp",
+     "image": "data/img/indonesia/78MF.webp",
      "mapsUrl": "https://goo.gl/maps/EmGcr4L9hyT3kU8C7",
      "width": 0.5,
      "text": [
@@ -155,7 +155,7 @@
    "metas": [
     {
      "id": "Ue6l",
-     "image": "img/indonesia/Ue6l.webp",
+     "image": "data/img/indonesia/Ue6l.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "WGZd",
-     "image": "img/indonesia/WGZd.webp",
+     "image": "data/img/indonesia/WGZd.webp",
      "mapsUrl": "https://goo.gl/maps/iFCFgp5vA91D6T2h8",
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "QclR",
-     "image": "img/indonesia/QclR.webp",
+     "image": "data/img/indonesia/QclR.webp",
      "mapsUrl": "https://goo.gl/maps/Rpy67jEMMWt41FJd6",
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "69xY",
-     "image": "img/indonesia/69xY.webp",
+     "image": "data/img/indonesia/69xY.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -198,7 +198,7 @@
     },
     {
      "id": "HlrS",
-     "image": "img/indonesia/HlrS.webp",
+     "image": "data/img/indonesia/HlrS.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "E9E9",
-     "image": "img/indonesia/E9E9.webp",
+     "image": "data/img/indonesia/E9E9.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "hYSj",
-     "image": "img/indonesia/hYSj.webp",
+     "image": "data/img/indonesia/hYSj.webp",
      "mapsUrl": "https://maps.app.goo.gl/GZXLV8emxHbhnRT38",
      "width": 0.573,
      "text": [
@@ -226,7 +226,7 @@
     },
     {
      "id": "H5BA",
-     "image": "img/indonesia/H5BA.webp",
+     "image": "data/img/indonesia/H5BA.webp",
      "mapsUrl": "https://goo.gl/maps/oiymiM8cfHCt7uWq9",
      "width": 0.573,
      "text": [
@@ -236,7 +236,7 @@
     },
     {
      "id": "dZp8",
-     "image": "img/indonesia/dZp8.webp",
+     "image": "data/img/indonesia/dZp8.webp",
      "mapsUrl": "https://maps.app.goo.gl/E5z8Jdwxeqgh9t7i9",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "PPGB",
-     "image": "img/indonesia/PPGB.webp",
+     "image": "data/img/indonesia/PPGB.webp",
      "mapsUrl": "https://goo.gl/maps/Jx2NKweJrwGTcZtAA",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "EKlp",
-     "image": "img/indonesia/EKlp.webp",
+     "image": "data/img/indonesia/EKlp.webp",
      "mapsUrl": "https://goo.gl/maps/dTPryqwyZHcbC9LV8",
      "width": 0.573,
      "text": [
@@ -263,7 +263,7 @@
     },
     {
      "id": "YrUA",
-     "image": "img/indonesia/YrUA.webp",
+     "image": "data/img/indonesia/YrUA.webp",
      "mapsUrl": "https://goo.gl/maps/MZePeEZMs7uM8aev6",
      "width": 0.573,
      "text": [
@@ -272,7 +272,7 @@
     },
     {
      "id": "HsTd",
-     "image": "img/indonesia/HsTd.webp",
+     "image": "data/img/indonesia/HsTd.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZfDQ12eBbYvrAjhs6",
      "width": 0.573,
      "text": [
@@ -282,7 +282,7 @@
     },
     {
      "id": "yzpd",
-     "image": "img/indonesia/yzpd.webp",
+     "image": "data/img/indonesia/yzpd.webp",
      "mapsUrl": "https://maps.app.goo.gl/TLFqGFvLcQf8xMVp9",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "Hl5V",
-     "image": "img/indonesia/Hl5V.webp",
+     "image": "data/img/indonesia/Hl5V.webp",
      "mapsUrl": "https://goo.gl/maps/TgyzVS7yVT2yZUwb9",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "rHW9",
-     "image": "img/indonesia/rHW9.webp",
+     "image": "data/img/indonesia/rHW9.webp",
      "mapsUrl": "https://goo.gl/maps/XQQDnUN4dd5zsiNk6",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "5XRu",
-     "image": "img/indonesia/5XRu.webp",
+     "image": "data/img/indonesia/5XRu.webp",
      "mapsUrl": "https://maps.app.goo.gl/cwrizdPW8DxY5z498",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "hewR",
-     "image": "img/indonesia/hewR.webp",
+     "image": "data/img/indonesia/hewR.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "C0wR",
-     "image": "img/indonesia/C0wR.webp",
+     "image": "data/img/indonesia/C0wR.webp",
      "mapsUrl": "https://goo.gl/maps/B29kEF3Xy8GqPXiV7",
      "width": 0.573,
      "text": [
@@ -337,7 +337,7 @@
     },
     {
      "id": "W7JT",
-     "image": "img/indonesia/W7JT.webp",
+     "image": "data/img/indonesia/W7JT.webp",
      "mapsUrl": "https://goo.gl/maps/T2b2DTsWicpF1z4d8",
      "width": 0.573,
      "text": [
@@ -346,7 +346,7 @@
     },
     {
      "id": "0fVq",
-     "image": "img/indonesia/0fVq.webp",
+     "image": "data/img/indonesia/0fVq.webp",
      "mapsUrl": "https://goo.gl/maps/pd8ivsm1mTNDXCes9",
      "width": 0.573,
      "text": [
@@ -355,7 +355,7 @@
     },
     {
      "id": "dxow",
-     "image": "img/indonesia/dxow.webp",
+     "image": "data/img/indonesia/dxow.webp",
      "mapsUrl": "https://goo.gl/maps/pCjvo2oYqao6Pb5ZA",
      "width": 0.573,
      "text": [
@@ -364,7 +364,7 @@
     },
     {
      "id": "K7j1",
-     "image": "img/indonesia/K7j1.webp",
+     "image": "data/img/indonesia/K7j1.webp",
      "mapsUrl": "https://goo.gl/maps/xEamKndAxR8XaTPq8",
      "width": 0.573,
      "text": [
@@ -373,7 +373,7 @@
     },
     {
      "id": "b5h6",
-     "image": "img/indonesia/b5h6.webp",
+     "image": "data/img/indonesia/b5h6.webp",
      "mapsUrl": "https://maps.app.goo.gl/B3cmMRutHQBFbHCYA",
      "width": 0.573,
      "text": [
@@ -383,7 +383,7 @@
     },
     {
      "id": "l5TB",
-     "image": "img/indonesia/l5TB.webp",
+     "image": "data/img/indonesia/l5TB.webp",
      "mapsUrl": "https://maps.app.goo.gl/iV4mus9h1EkcJFQs8",
      "width": 0.573,
      "text": [
@@ -392,7 +392,7 @@
     },
     {
      "id": "2YZ4",
-     "image": "img/indonesia/2YZ4.webp",
+     "image": "data/img/indonesia/2YZ4.webp",
      "mapsUrl": "https://maps.app.goo.gl/XxkThb7YFKaazJC7A",
      "width": 0.573,
      "text": [
@@ -402,7 +402,7 @@
     },
     {
      "id": "p091",
-     "image": "img/indonesia/p091.webp",
+     "image": "data/img/indonesia/p091.webp",
      "mapsUrl": "https://maps.app.goo.gl/bgVXG6axUWw4kJks7",
      "width": 0.573,
      "text": [
@@ -411,7 +411,7 @@
     },
     {
      "id": "xaSG",
-     "image": "img/indonesia/xaSG.webp",
+     "image": "data/img/indonesia/xaSG.webp",
      "mapsUrl": "https://goo.gl/maps/AL4cgVZHF6JSNk3C7",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
     },
     {
      "id": "2dyw",
-     "image": "img/indonesia/2dyw.webp",
+     "image": "data/img/indonesia/2dyw.webp",
      "mapsUrl": "https://goo.gl/maps/3a7y4QZXyaaGNdTa9",
      "width": 0.573,
      "text": [
@@ -430,7 +430,7 @@
     },
     {
      "id": "4NsT",
-     "image": "img/indonesia/4NsT.webp",
+     "image": "data/img/indonesia/4NsT.webp",
      "mapsUrl": "https://maps.app.goo.gl/KbPdKhMAmfhQsMwg9",
      "width": 0.573,
      "text": [
@@ -439,7 +439,7 @@
     },
     {
      "id": "a0Zq",
-     "image": "img/indonesia/a0Zq.webp",
+     "image": "data/img/indonesia/a0Zq.webp",
      "mapsUrl": "https://goo.gl/maps/tb3aUFfWU4wD9sCQ7",
      "width": 0.573,
      "text": [
@@ -449,7 +449,7 @@
     },
     {
      "id": "xYgP",
-     "image": "img/indonesia/xYgP.webp",
+     "image": "data/img/indonesia/xYgP.webp",
      "mapsUrl": "https://goo.gl/maps/3E9C3wqH7jZVWffF9",
      "width": 0.573,
      "text": [
@@ -458,7 +458,7 @@
     },
     {
      "id": "r8SA",
-     "image": "img/indonesia/r8SA.webp",
+     "image": "data/img/indonesia/r8SA.webp",
      "mapsUrl": "https://goo.gl/maps/FS7TdCybJmjD3oo4A",
      "width": 0.573,
      "text": [
@@ -467,7 +467,7 @@
     },
     {
      "id": "dZoK",
-     "image": "img/indonesia/dZoK.webp",
+     "image": "data/img/indonesia/dZoK.webp",
      "mapsUrl": "https://goo.gl/maps/bBW5rCWizX2ja7Wc8",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "Lrxl",
-     "image": "img/indonesia/Lrxl.webp",
+     "image": "data/img/indonesia/Lrxl.webp",
      "mapsUrl": "https://goo.gl/maps/vmWMDSLpsy6ag3NU6",
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "bas1",
-     "image": "img/indonesia/bas1.webp",
+     "image": "data/img/indonesia/bas1.webp",
      "mapsUrl": "https://goo.gl/maps/YM8vNXYqV8ahvftf7",
      "width": 0.573,
      "text": [
@@ -495,7 +495,7 @@
     },
     {
      "id": "iDjC",
-     "image": "img/indonesia/iDjC.webp",
+     "image": "data/img/indonesia/iDjC.webp",
      "mapsUrl": "https://goo.gl/maps/QsGJBMLJMCuPXSYe6",
      "width": 0.573,
      "text": [
@@ -505,7 +505,7 @@
     },
     {
      "id": "UJod",
-     "image": "img/indonesia/UJod.webp",
+     "image": "data/img/indonesia/UJod.webp",
      "mapsUrl": "https://goo.gl/maps/nfgcmwP2sh7gKEKx5",
      "width": 0.573,
      "text": [
@@ -514,7 +514,7 @@
     },
     {
      "id": "0rmy",
-     "image": "img/indonesia/0rmy.webp",
+     "image": "data/img/indonesia/0rmy.webp",
      "mapsUrl": "https://goo.gl/maps/6m7WckeiGMRLwA7bA",
      "width": 0.573,
      "text": [
@@ -523,7 +523,7 @@
     },
     {
      "id": "8gpa",
-     "image": "img/indonesia/8gpa.webp",
+     "image": "data/img/indonesia/8gpa.webp",
      "mapsUrl": "https://goo.gl/maps/Q4zF4sb9L5mtZYvD9",
      "width": 0.573,
      "text": [
@@ -532,7 +532,7 @@
     },
     {
      "id": "32xY",
-     "image": "img/indonesia/32xY.webp",
+     "image": "data/img/indonesia/32xY.webp",
      "mapsUrl": "https://goo.gl/maps/CYtG4CycRq11K3io8",
      "width": 0.573,
      "text": [
@@ -550,7 +550,7 @@
    "metas": [
     {
      "id": "bXHT",
-     "image": "img/indonesia/bXHT.webp",
+     "image": "data/img/indonesia/bXHT.webp",
      "mapsUrl": "https://maps.app.goo.gl/NDFETLAuV5yMUE1A8",
      "width": 0.573,
      "text": [
@@ -560,7 +560,7 @@
     },
     {
      "id": "hhbb",
-     "image": "img/indonesia/hhbb.webp",
+     "image": "data/img/indonesia/hhbb.webp",
      "mapsUrl": "https://goo.gl/maps/zSEDyqZG6Jc1qsny7",
      "width": 0.573,
      "text": [
@@ -569,7 +569,7 @@
     },
     {
      "id": "VrBB",
-     "image": "img/indonesia/VrBB.webp",
+     "image": "data/img/indonesia/VrBB.webp",
      "mapsUrl": "https://maps.app.goo.gl/rphU3sCk3nkscv996",
      "width": 0.573,
      "text": [
@@ -579,7 +579,7 @@
     },
     {
      "id": "qYf4",
-     "image": "img/indonesia/qYf4.webp",
+     "image": "data/img/indonesia/qYf4.webp",
      "mapsUrl": "https://goo.gl/maps/3EKETFv2TBvri3av7",
      "width": 0.573,
      "text": [
@@ -588,7 +588,7 @@
     },
     {
      "id": "H5zf",
-     "image": "img/indonesia/H5zf.webp",
+     "image": "data/img/indonesia/H5zf.webp",
      "mapsUrl": "https://goo.gl/maps/TGS8y6JqPxQuGM8A7",
      "width": 0.573,
      "text": [
@@ -597,7 +597,7 @@
     },
     {
      "id": "8rxH",
-     "image": "img/indonesia/8rxH.webp",
+     "image": "data/img/indonesia/8rxH.webp",
      "mapsUrl": "https://goo.gl/maps/gwRCVZdqqaXgH1ru5",
      "width": 0.573,
      "text": [
@@ -606,7 +606,7 @@
     },
     {
      "id": "3RMB",
-     "image": "img/indonesia/3RMB.webp",
+     "image": "data/img/indonesia/3RMB.webp",
      "mapsUrl": "https://goo.gl/maps/sVJpvXNZE5w3yxWf7",
      "width": 0.573,
      "text": [

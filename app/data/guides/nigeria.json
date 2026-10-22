@@ -3,7 +3,7 @@
  "title": "Nigeria",
  "code": "NG",
  "continent": "Africa",
- "hero": "img/nigeria/hero.webp",
+ "hero": "data/img/nigeria/hero.webp",
  "metaCount": 29,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "eMZn",
-     "image": "img/nigeria/eMZn.webp",
+     "image": "data/img/nigeria/eMZn.webp",
      "mapsUrl": "https://goo.gl/maps/RYAvBsBZiFy2EU6j8",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "yfEi",
-     "image": "img/nigeria/yfEi.webp",
+     "image": "data/img/nigeria/yfEi.webp",
      "mapsUrl": "https://goo.gl/maps/WdpXdwj7TDDRc7GD9",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "Fghi",
-     "image": "img/nigeria/Fghi.webp",
+     "image": "data/img/nigeria/Fghi.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "xB4U",
-     "image": "img/nigeria/xB4U.webp",
+     "image": "data/img/nigeria/xB4U.webp",
      "mapsUrl": "https://goo.gl/maps/UUMv6JsPYqZAXLUv5",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "PoWp",
-     "image": "img/nigeria/PoWp.webp",
+     "image": "data/img/nigeria/PoWp.webp",
      "mapsUrl": "https://goo.gl/maps/6V8oZ4i3v6RLetiQ7",
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "ZNLu",
-     "image": "img/nigeria/ZNLu.webp",
+     "image": "data/img/nigeria/ZNLu.webp",
      "mapsUrl": "https://maps.app.goo.gl/NmzdHVtqhqz8Hszj8",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "lrDl",
-     "image": "img/nigeria/lrDl.webp",
+     "image": "data/img/nigeria/lrDl.webp",
      "mapsUrl": "https://maps.app.goo.gl/2hajA38y96g3thbh7",
      "width": 0.5,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "6QNl",
-     "image": "img/nigeria/6QNl.webp",
+     "image": "data/img/nigeria/6QNl.webp",
      "mapsUrl": "https://maps.app.goo.gl/EQJnVkJLN6XF3sRv9",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
    "metas": [
     {
      "id": "N7jK",
-     "image": "img/nigeria/N7jK.webp",
+     "image": "data/img/nigeria/N7jK.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "eIgz",
-     "image": "img/nigeria/eIgz.webp",
+     "image": "data/img/nigeria/eIgz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "YLLW",
-     "image": "img/nigeria/YLLW.webp",
+     "image": "data/img/nigeria/YLLW.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "hCzH",
-     "image": "img/nigeria/hCzH.webp",
+     "image": "data/img/nigeria/hCzH.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "c2cO",
-     "image": "img/nigeria/c2cO.webp",
+     "image": "data/img/nigeria/c2cO.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "3nIu",
-     "image": "img/nigeria/3nIu.webp",
+     "image": "data/img/nigeria/3nIu.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "ZihY",
-     "image": "img/nigeria/ZihY.webp",
+     "image": "data/img/nigeria/ZihY.webp",
      "mapsUrl": "https://maps.app.goo.gl/6ggn8dDhJs7ruYFJ6",
      "width": 0.573,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "Mh2Y",
-     "image": "img/nigeria/Mh2Y.webp",
+     "image": "data/img/nigeria/Mh2Y.webp",
      "mapsUrl": "https://maps.app.goo.gl/TeY2id4wb6SQ9Eej8",
      "width": 0.573,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "3ygO",
-     "image": "img/nigeria/3ygO.webp",
+     "image": "data/img/nigeria/3ygO.webp",
      "mapsUrl": "https://maps.app.goo.gl/8Svo3S59djU8gfch8",
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "Pu6a",
-     "image": "img/nigeria/Pu6a.webp",
+     "image": "data/img/nigeria/Pu6a.webp",
      "mapsUrl": "https://maps.app.goo.gl/btBqYdMKHxDWw8Fc8",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "UAra",
-     "image": "img/nigeria/UAra.webp",
+     "image": "data/img/nigeria/UAra.webp",
      "mapsUrl": "https://maps.app.goo.gl/vsKHgEmF8kxSbfNj9",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "qoOw",
-     "image": "img/nigeria/qoOw.webp",
+     "image": "data/img/nigeria/qoOw.webp",
      "mapsUrl": "https://maps.app.goo.gl/P21VnfLwzTqjrF4p7",
      "width": 0.573,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "op6f",
-     "image": "img/nigeria/op6f.webp",
+     "image": "data/img/nigeria/op6f.webp",
      "mapsUrl": "https://maps.app.goo.gl/u9BggNmTAz92URzi8",
      "width": 0.573,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "P6Jg",
-     "image": "img/nigeria/P6Jg.webp",
+     "image": "data/img/nigeria/P6Jg.webp",
      "mapsUrl": "https://maps.app.goo.gl/cRKXTiqQyKNLCboeA",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
    "metas": [
     {
      "id": "pXX3",
-     "image": "img/nigeria/pXX3.webp",
+     "image": "data/img/nigeria/pXX3.webp",
      "mapsUrl": "https://maps.app.goo.gl/1qF5JC2e47m98TbA9",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "xTa2",
-     "image": "img/nigeria/xTa2.webp",
+     "image": "data/img/nigeria/xTa2.webp",
      "mapsUrl": "https://maps.app.goo.gl/pKqiv6ScVfR2pD6QA",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "QcE0",
-     "image": "img/nigeria/QcE0.webp",
+     "image": "data/img/nigeria/QcE0.webp",
      "mapsUrl": "https://maps.app.goo.gl/oeeLbkubsNuXaC3N6",
      "width": 0.573,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "2I7W",
-     "image": "img/nigeria/2I7W.webp",
+     "image": "data/img/nigeria/2I7W.webp",
      "mapsUrl": "https://goo.gl/maps/iRvr6Acm3fkq5hQt8",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
     },
     {
      "id": "JPLG",
-     "image": "img/nigeria/JPLG.webp",
+     "image": "data/img/nigeria/JPLG.webp",
      "mapsUrl": "https://maps.app.goo.gl/waG1edQYXQFqDcSo8",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "hvhF",
-     "image": "img/nigeria/hvhF.webp",
+     "image": "data/img/nigeria/hvhF.webp",
      "mapsUrl": "https://maps.app.goo.gl/2KYixUBVaweAJTU68",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "PVr3",
-     "image": "img/nigeria/PVr3.webp",
+     "image": "data/img/nigeria/PVr3.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [

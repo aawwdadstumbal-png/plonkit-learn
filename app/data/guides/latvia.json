@@ -3,7 +3,7 @@
  "title": "Latvia",
  "code": "LV",
  "continent": "Europe",
- "hero": "img/latvia/hero.webp",
+ "hero": "data/img/latvia/hero.webp",
  "metaCount": 18,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "ZHtQ",
-     "image": "img/latvia/ZHtQ.webp",
+     "image": "data/img/latvia/ZHtQ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "uPlz",
-     "image": "img/latvia/uPlz.webp",
+     "image": "data/img/latvia/uPlz.webp",
      "mapsUrl": "https://maps.app.goo.gl/F7picqfioPyziBLK7",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "Ligx",
-     "image": "img/latvia/Ligx.webp",
+     "image": "data/img/latvia/Ligx.webp",
      "mapsUrl": "https://goo.gl/maps/Jv42bzU7EtxRHnQP6",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "xypN",
-     "image": "img/latvia/xypN.webp",
+     "image": "data/img/latvia/xypN.webp",
      "mapsUrl": "https://goo.gl/maps/hiLDBft1bigExgip6",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "CK38",
-     "image": "img/latvia/CK38.webp",
+     "image": "data/img/latvia/CK38.webp",
      "mapsUrl": "https://goo.gl/maps/jVrqxq487ri9rZE27",
      "width": 0.5,
      "text": [
@@ -73,7 +73,7 @@
     },
     {
      "id": "15Re",
-     "image": "img/latvia/15Re.webp",
+     "image": "data/img/latvia/15Re.webp",
      "mapsUrl": "https://goo.gl/maps/gEYNkP3v5WTvfuwf7",
      "width": 0.5,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "xps4",
-     "image": "img/latvia/xps4.webp",
+     "image": "data/img/latvia/xps4.webp",
      "mapsUrl": "https://goo.gl/maps/KmbmMNQh5qyBCMe77",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "RplU",
-     "image": "img/latvia/RplU.webp",
+     "image": "data/img/latvia/RplU.webp",
      "mapsUrl": "https://goo.gl/maps/ZCbvTDGF9dK5Dziz8",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "T9gT",
-     "image": "img/latvia/T9gT.webp",
+     "image": "data/img/latvia/T9gT.webp",
      "mapsUrl": "https://goo.gl/maps/RVEYU1szGvsikJs59",
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "q1yp",
-     "image": "img/latvia/q1yp.webp",
+     "image": "data/img/latvia/q1yp.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "pjGP",
-     "image": "img/latvia/pjGP.webp",
+     "image": "data/img/latvia/pjGP.webp",
      "mapsUrl": "https://goo.gl/maps/7jzCqFz4S6QSxS8y6",
      "width": 0.5,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "94iJ",
-     "image": "img/latvia/94iJ.webp",
+     "image": "data/img/latvia/94iJ.webp",
      "mapsUrl": "https://www.google.com/maps/@57.177445,26.7603386,3a,15y,165.76h,88.86t/data=!3m6!1e1!3m4!1smlkqmcNiQQjg3uWHytAaYg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -146,7 +146,7 @@
     },
     {
      "id": "k1bL",
-     "image": "img/latvia/k1bL.webp",
+     "image": "data/img/latvia/k1bL.webp",
      "mapsUrl": "https://goo.gl/maps/Bbeoky6CBx3GRkZt6",
      "width": 0.5,
      "text": [
@@ -155,7 +155,7 @@
     },
     {
      "id": "6Wew",
-     "image": "img/latvia/6Wew.webp",
+     "image": "data/img/latvia/6Wew.webp",
      "mapsUrl": "https://goo.gl/maps/g3aqkLH6yjQwrCSF7",
      "width": 0.5,
      "text": [
@@ -165,7 +165,7 @@
     },
     {
      "id": "BB6n",
-     "image": "img/latvia/BB6n.webp",
+     "image": "data/img/latvia/BB6n.webp",
      "mapsUrl": "https://maps.app.goo.gl/S5S2pNJ26c46XSgm6",
      "width": 0.5,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "eZ93",
-     "image": "img/latvia/eZ93.webp",
+     "image": "data/img/latvia/eZ93.webp",
      "mapsUrl": "https://maps.app.goo.gl/nXUCvMFqS9pHNHRs9",
      "width": 0.5,
      "text": [
@@ -194,7 +194,7 @@
    "metas": [
     {
      "id": "PA6J",
-     "image": "img/latvia/PA6J.webp",
+     "image": "data/img/latvia/PA6J.webp",
      "mapsUrl": "https://goo.gl/maps/WUpY4LvnEMPxETM56",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
    "metas": [
     {
      "id": "b4Ic",
-     "image": "img/latvia/b4Ic.webp",
+     "image": "data/img/latvia/b4Ic.webp",
      "mapsUrl": "https://goo.gl/maps/94yYzKyx3xLk4gAG9",
      "width": 0.573,
      "text": [

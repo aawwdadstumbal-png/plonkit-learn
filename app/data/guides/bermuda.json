@@ -3,7 +3,7 @@
  "title": "Bermuda",
  "code": "BM",
  "continent": "North America",
- "hero": "img/bermuda/hero.webp",
+ "hero": "data/img/bermuda/hero.webp",
  "metaCount": 13,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "rKvn",
-     "image": "img/bermuda/rKvn.webp",
+     "image": "data/img/bermuda/rKvn.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "2tb7",
-     "image": "img/bermuda/2tb7.webp",
+     "image": "data/img/bermuda/2tb7.webp",
      "mapsUrl": "https://goo.gl/maps/6v3gTTJcpigMYPLh8",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "iYFp",
-     "image": "img/bermuda/iYFp.webp",
+     "image": "data/img/bermuda/iYFp.webp",
      "mapsUrl": "https://goo.gl/maps/i11ygQrbjMXY2DhM7",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "mcLU",
-     "image": "img/bermuda/mcLU.webp",
+     "image": "data/img/bermuda/mcLU.webp",
      "mapsUrl": "https://goo.gl/maps/BuMojmzaEiaX8WNR9",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "Wp1S",
-     "image": "img/bermuda/Wp1S.webp",
+     "image": "data/img/bermuda/Wp1S.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "pS17",
-     "image": "img/bermuda/pS17.webp",
+     "image": "data/img/bermuda/pS17.webp",
      "mapsUrl": "https://goo.gl/maps/7JmEyBcA9tZu3bbp9",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "Zzvj",
-     "image": "img/bermuda/Zzvj.webp",
+     "image": "data/img/bermuda/Zzvj.webp",
      "mapsUrl": "https://goo.gl/maps/BJWKZjNXHyD98rPi8",
      "width": 0.5,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "plHU",
-     "image": "img/bermuda/plHU.webp",
+     "image": "data/img/bermuda/plHU.webp",
      "mapsUrl": "https://goo.gl/maps/bvdVkzPJxUe6hb6b7",
      "width": 0.5,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "vCKO",
-     "image": "img/bermuda/vCKO.webp",
+     "image": "data/img/bermuda/vCKO.webp",
      "mapsUrl": "https://goo.gl/maps/zZoF8ML6ryHYvarw7",
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "2FIK",
-     "image": "img/bermuda/2FIK.webp",
+     "image": "data/img/bermuda/2FIK.webp",
      "mapsUrl": "https://goo.gl/maps/VmzYgr8D1MSUKuG9A",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
    "metas": [
     {
      "id": "1Tff",
-     "image": "img/bermuda/1Tff.webp",
+     "image": "data/img/bermuda/1Tff.webp",
      "mapsUrl": "https://goo.gl/maps/qF86PbQfiAmsMTsi6",
      "width": 0.573,
      "text": [
@@ -137,7 +137,7 @@
    "metas": [
     {
      "id": "wEtL",
-     "image": "img/bermuda/wEtL.webp",
+     "image": "data/img/bermuda/wEtL.webp",
      "mapsUrl": "https://goo.gl/maps/dXekNBoUDpv6gQYm7",
      "width": 0.573,
      "text": [
@@ -146,7 +146,7 @@
     },
     {
      "id": "8UWt",
-     "image": "img/bermuda/8UWt.webp",
+     "image": "data/img/bermuda/8UWt.webp",
      "mapsUrl": "https://goo.gl/maps/LLyY7aLLpAgTsQeMA",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Malaysia",
  "code": "MY",
  "continent": "Asia",
- "hero": "img/malaysia/hero.webp",
+ "hero": "data/img/malaysia/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "r0EY",
-     "image": "img/malaysia/r0EY.webp",
+     "image": "data/img/malaysia/r0EY.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "5Y5B",
-     "image": "img/malaysia/5Y5B.webp",
+     "image": "data/img/malaysia/5Y5B.webp",
      "mapsUrl": "https://goo.gl/maps/xnmKE1q4Nz91xA528",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "FTvY",
-     "image": "img/malaysia/FTvY.webp",
+     "image": "data/img/malaysia/FTvY.webp",
      "mapsUrl": "https://goo.gl/maps/CC7S8r8KEEYHF1yY8",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "Dwit",
-     "image": "img/malaysia/Dwit.webp",
+     "image": "data/img/malaysia/Dwit.webp",
      "mapsUrl": "https://goo.gl/maps/FR7u5xsdejfe3Qp8A",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "rEQ4",
-     "image": "img/malaysia/rEQ4.webp",
+     "image": "data/img/malaysia/rEQ4.webp",
      "mapsUrl": "https://goo.gl/maps/qn48nvMwybn7vaQP6",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "H5tX",
-     "image": "img/malaysia/H5tX.webp",
+     "image": "data/img/malaysia/H5tX.webp",
      "mapsUrl": "https://goo.gl/maps/VF2uZG1qdY85Aw9Z9",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "LlHN",
-     "image": "img/malaysia/LlHN.webp",
+     "image": "data/img/malaysia/LlHN.webp",
      "mapsUrl": "https://goo.gl/maps/CeJasroXurz5dwqC7",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "TekU",
-     "image": "img/malaysia/TekU.webp",
+     "image": "data/img/malaysia/TekU.webp",
      "mapsUrl": "https://goo.gl/maps/w1fXrLcG2AfWexGX7",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "1Mkw",
-     "image": "img/malaysia/1Mkw.webp",
+     "image": "data/img/malaysia/1Mkw.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "GMuK",
-     "image": "img/malaysia/GMuK.webp",
+     "image": "data/img/malaysia/GMuK.webp",
      "mapsUrl": "https://goo.gl/maps/1yL5UJiPS593xoNh9",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "X4Fj",
-     "image": "img/malaysia/X4Fj.webp",
+     "image": "data/img/malaysia/X4Fj.webp",
      "mapsUrl": "https://goo.gl/maps/9jwtYKkzUYvhPbjN6",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "GNKN",
-     "image": "img/malaysia/GNKN.webp",
+     "image": "data/img/malaysia/GNKN.webp",
      "mapsUrl": "https://goo.gl/maps/w9fDK214KyxXFxMk9",
      "width": 0.5,
      "text": [
@@ -143,7 +143,7 @@
    "metas": [
     {
      "id": "tGn7",
-     "image": "img/malaysia/tGn7.webp",
+     "image": "data/img/malaysia/tGn7.webp",
      "mapsUrl": "https://goo.gl/maps/Ex61LZ4fv1TJtjvGA",
      "width": 0.573,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "3C19",
-     "image": "img/malaysia/3C19.webp",
+     "image": "data/img/malaysia/3C19.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "4IWF",
-     "image": "img/malaysia/4IWF.webp",
+     "image": "data/img/malaysia/4IWF.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "Fn5n",
-     "image": "img/malaysia/Fn5n.webp",
+     "image": "data/img/malaysia/Fn5n.webp",
      "mapsUrl": "https://maps.app.goo.gl/8U23grG4MkMxmbEFA",
      "width": 0.573,
      "text": [
@@ -181,7 +181,7 @@
     },
     {
      "id": "DVpF",
-     "image": "img/malaysia/DVpF.webp",
+     "image": "data/img/malaysia/DVpF.webp",
      "mapsUrl": "https://www.google.com/maps/@1.5189436,103.7986263,3a,21.7y,129.61h,79.69t/data=!3m6!1e1!3m4!1s1XGZcblrLaXJUJG5qoZKNQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -190,7 +190,7 @@
     },
     {
      "id": "FqOz",
-     "image": "img/malaysia/FqOz.webp",
+     "image": "data/img/malaysia/FqOz.webp",
      "mapsUrl": "https://goo.gl/maps/9UCQbRAuiaKvLAkW8",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "c4nQ",
-     "image": "img/malaysia/c4nQ.webp",
+     "image": "data/img/malaysia/c4nQ.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=17.531467769923246&heading=165.6592265935562&map_action=pano&pano=Dns61o4eRAsfO8ZdTue4rQ&pitch=23.827270433913796&viewpoint=1.53175%2C103.752783",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "PHYA",
-     "image": "img/malaysia/PHYA.webp",
+     "image": "data/img/malaysia/PHYA.webp",
      "mapsUrl": "https://www.google.com/maps/@2.7610997,102.237736,3a,19y,54.94h,131.15t/data=!3m6!1e1!3m4!1sHN4aoVxo9PPndJk4b5QWIQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "4IDp",
-     "image": "img/malaysia/4IDp.webp",
+     "image": "data/img/malaysia/4IDp.webp",
      "mapsUrl": "https://goo.gl/maps/ckyTS9EtUATDRKJr7",
      "width": 0.573,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "AlbW",
-     "image": "img/malaysia/AlbW.webp",
+     "image": "data/img/malaysia/AlbW.webp",
      "mapsUrl": "https://goo.gl/maps/yBUpZzPgr934PqJD7",
      "width": 0.573,
      "text": [
@@ -236,7 +236,7 @@
     },
     {
      "id": "VXzD",
-     "image": "img/malaysia/VXzD.webp",
+     "image": "data/img/malaysia/VXzD.webp",
      "mapsUrl": "https://goo.gl/maps/XEDwXRdrZESv1NNEA",
      "width": 0.573,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "VZEz",
-     "image": "img/malaysia/VZEz.webp",
+     "image": "data/img/malaysia/VZEz.webp",
      "mapsUrl": "https://maps.app.goo.gl/y8TTpyS2oMP8Hy6h7",
      "width": 0.573,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "7iWU",
-     "image": "img/malaysia/7iWU.webp",
+     "image": "data/img/malaysia/7iWU.webp",
      "mapsUrl": "https://maps.app.goo.gl/6dEbR4DHXgYEepgq5",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "SLFX",
-     "image": "img/malaysia/SLFX.webp",
+     "image": "data/img/malaysia/SLFX.webp",
      "mapsUrl": "https://maps.app.goo.gl/n3CSZfspZKFSEHpCA",
      "width": 0.573,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "lopw",
-     "image": "img/malaysia/lopw.webp",
+     "image": "data/img/malaysia/lopw.webp",
      "mapsUrl": "https://goo.gl/maps/VXzBV1PLXpR4YRVp9",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "m7su",
-     "image": "img/malaysia/m7su.webp",
+     "image": "data/img/malaysia/m7su.webp",
      "mapsUrl": "https://goo.gl/maps/sPWtadXnL7eMFFwF6",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "ZWP5",
-     "image": "img/malaysia/ZWP5.webp",
+     "image": "data/img/malaysia/ZWP5.webp",
      "mapsUrl": "https://goo.gl/maps/z6PRqQJHLipvL9eu7",
      "width": 0.573,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "vYmT",
-     "image": "img/malaysia/vYmT.webp",
+     "image": "data/img/malaysia/vYmT.webp",
      "mapsUrl": "https://goo.gl/maps/mE7o9R7VqevTMvLd9",
      "width": 0.573,
      "text": [
@@ -321,7 +321,7 @@
    "metas": [
     {
      "id": "4Be2",
-     "image": "img/malaysia/4Be2.webp",
+     "image": "data/img/malaysia/4Be2.webp",
      "mapsUrl": "https://goo.gl/maps/gM41nteDBtWu4c3H6",
      "width": 0.573,
      "text": [
@@ -330,7 +330,7 @@
     },
     {
      "id": "0dJK",
-     "image": "img/malaysia/0dJK.webp",
+     "image": "data/img/malaysia/0dJK.webp",
      "mapsUrl": "https://goo.gl/maps/6ZEMJFXZnpo9fB9i6",
      "width": 0.573,
      "text": [

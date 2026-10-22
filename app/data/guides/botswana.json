@@ -3,7 +3,7 @@
  "title": "Botswana",
  "code": "BW",
  "continent": "Africa",
- "hero": "img/botswana/hero.webp",
+ "hero": "data/img/botswana/hero.webp",
  "metaCount": 36,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "w9ul",
-     "image": "img/botswana/w9ul.webp",
+     "image": "data/img/botswana/w9ul.webp",
      "mapsUrl": "https://goo.gl/maps/4EnV3TLhsXdcpWkL9",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "IGgM",
-     "image": "img/botswana/IGgM.webp",
+     "image": "data/img/botswana/IGgM.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "jxYh",
-     "image": "img/botswana/jxYh.webp",
+     "image": "data/img/botswana/jxYh.webp",
      "mapsUrl": "https://goo.gl/maps/YnWPMH2fRLYquQLj7",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "WQ2d",
-     "image": "img/botswana/WQ2d.webp",
+     "image": "data/img/botswana/WQ2d.webp",
      "mapsUrl": "https://goo.gl/maps/XpY8HkD6abEAjNTR8",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "UxrV",
-     "image": "img/botswana/UxrV.webp",
+     "image": "data/img/botswana/UxrV.webp",
      "mapsUrl": "https://goo.gl/maps/jA6jFJrAjKJips596",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "qs9y",
-     "image": "img/botswana/qs9y.webp",
+     "image": "data/img/botswana/qs9y.webp",
      "mapsUrl": "https://goo.gl/maps/AgnLwiPj7TuWQvhx5",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "p2pn",
-     "image": "img/botswana/p2pn.webp",
+     "image": "data/img/botswana/p2pn.webp",
      "mapsUrl": "https://goo.gl/maps/sxYcLUw9JV8g3ayT6",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "ejAj",
-     "image": "img/botswana/ejAj.webp",
+     "image": "data/img/botswana/ejAj.webp",
      "mapsUrl": "https://goo.gl/maps/bM2GuDZP8yYY93e2A",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "d1xZ",
-     "image": "img/botswana/d1xZ.webp",
+     "image": "data/img/botswana/d1xZ.webp",
      "mapsUrl": "https://goo.gl/maps/SEkW8CEi699oNhJb8",
      "width": 0.5,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "BrtG",
-     "image": "img/botswana/BrtG.webp",
+     "image": "data/img/botswana/BrtG.webp",
      "mapsUrl": "https://goo.gl/maps/NNXJzAbfiHPHyqZ9A",
      "width": 0.5,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "ZP7K",
-     "image": "img/botswana/ZP7K.webp",
+     "image": "data/img/botswana/ZP7K.webp",
      "mapsUrl": "https://goo.gl/maps/pWuQMdgGSAeNqZpg7",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "leHu",
-     "image": "img/botswana/leHu.webp",
+     "image": "data/img/botswana/leHu.webp",
      "mapsUrl": "https://goo.gl/maps/aPCEkuaLeRsPB7Ux7",
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
    "metas": [
     {
      "id": "mI5v",
-     "image": "img/botswana/mI5v.webp",
+     "image": "data/img/botswana/mI5v.webp",
      "mapsUrl": null,
      "width": 1,
      "text": [
@@ -159,7 +159,7 @@
     },
     {
      "id": "Fm8z",
-     "image": "img/botswana/Fm8z.webp",
+     "image": "data/img/botswana/Fm8z.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -168,7 +168,7 @@
     },
     {
      "id": "AwpQ",
-     "image": "img/botswana/AwpQ.webp",
+     "image": "data/img/botswana/AwpQ.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -177,7 +177,7 @@
     },
     {
      "id": "VNqS",
-     "image": "img/botswana/VNqS.webp",
+     "image": "data/img/botswana/VNqS.webp",
      "mapsUrl": "https://goo.gl/maps/jUfgLmMdojr8XLPc9",
      "width": 0.573,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "CVOu",
-     "image": "img/botswana/CVOu.webp",
+     "image": "data/img/botswana/CVOu.webp",
      "mapsUrl": "https://goo.gl/maps/BNzijvR3GYg65U2PA",
      "width": 0.573,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "igGd",
-     "image": "img/botswana/igGd.webp",
+     "image": "data/img/botswana/igGd.webp",
      "mapsUrl": "https://goo.gl/maps/n64nxScfDKMhqaC69",
      "width": 0.573,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "GwEW",
-     "image": "img/botswana/GwEW.webp",
+     "image": "data/img/botswana/GwEW.webp",
      "mapsUrl": "https://goo.gl/maps/5nm4WKb27C1KK8fq6",
      "width": 0.573,
      "text": [
@@ -216,7 +216,7 @@
     },
     {
      "id": "gr6s",
-     "image": "img/botswana/gr6s.webp",
+     "image": "data/img/botswana/gr6s.webp",
      "mapsUrl": "https://goo.gl/maps/8AfiqP1T93bxeePQ9",
      "width": 0.573,
      "text": [
@@ -225,7 +225,7 @@
     },
     {
      "id": "fgRE",
-     "image": "img/botswana/fgRE.webp",
+     "image": "data/img/botswana/fgRE.webp",
      "mapsUrl": "https://goo.gl/maps/QUzRXKagcfae4Ba89",
      "width": 0.573,
      "text": [
@@ -234,7 +234,7 @@
     },
     {
      "id": "XUN2",
-     "image": "img/botswana/XUN2.webp",
+     "image": "data/img/botswana/XUN2.webp",
      "mapsUrl": "https://goo.gl/maps/ZCEbvANoVDo9FM1Y9",
      "width": 0.573,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "OYIt",
-     "image": "img/botswana/OYIt.webp",
+     "image": "data/img/botswana/OYIt.webp",
      "mapsUrl": "https://goo.gl/maps/MXWTMYmFWYAqwrXr5",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "6gap",
-     "image": "img/botswana/6gap.webp",
+     "image": "data/img/botswana/6gap.webp",
      "mapsUrl": "https://goo.gl/maps/tiDTZahPSEXNqRAX6",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "eNTS",
-     "image": "img/botswana/eNTS.webp",
+     "image": "data/img/botswana/eNTS.webp",
      "mapsUrl": "https://goo.gl/maps/RYhaJYzRCZMvtKae9",
      "width": 0.573,
      "text": [
@@ -282,7 +282,7 @@
    "metas": [
     {
      "id": "5g1x",
-     "image": "img/botswana/5g1x.webp",
+     "image": "data/img/botswana/5g1x.webp",
      "mapsUrl": "https://goo.gl/maps/QzvkrAWNZZfjAgxi9",
      "width": 0.573,
      "text": [
@@ -291,7 +291,7 @@
     },
     {
      "id": "jqFy",
-     "image": "img/botswana/jqFy.webp",
+     "image": "data/img/botswana/jqFy.webp",
      "mapsUrl": "https://goo.gl/maps/UDsAZXVpHsmB2MPx8",
      "width": 0.573,
      "text": [
@@ -300,7 +300,7 @@
     },
     {
      "id": "b9XY",
-     "image": "img/botswana/b9XY.webp",
+     "image": "data/img/botswana/b9XY.webp",
      "mapsUrl": "https://goo.gl/maps/VZsqurYECUxev1386",
      "width": 0.573,
      "text": [
@@ -309,7 +309,7 @@
     },
     {
      "id": "w13P",
-     "image": "img/botswana/w13P.webp",
+     "image": "data/img/botswana/w13P.webp",
      "mapsUrl": "https://goo.gl/maps/4VVCQ9c5CG9CT1kA8",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "84qU",
-     "image": "img/botswana/84qU.webp",
+     "image": "data/img/botswana/84qU.webp",
      "mapsUrl": "https://goo.gl/maps/bQHBqp525xpRYorP7",
      "width": 0.573,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "WC9E",
-     "image": "img/botswana/WC9E.webp",
+     "image": "data/img/botswana/WC9E.webp",
      "mapsUrl": "https://www.google.com/maps/@-19.095292,25.731606,3a,90y,145.67h,83.84t/data=!3m6!1e1!3m4!1seLvrHCwQR4K337Z7lKJfpw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "yo96",
-     "image": "img/botswana/yo96.webp",
+     "image": "data/img/botswana/yo96.webp",
      "mapsUrl": "https://goo.gl/maps/kc7W8dpUuJsQZjYV9",
      "width": 0.573,
      "text": [
@@ -347,7 +347,7 @@
     },
     {
      "id": "nG4U",
-     "image": "img/botswana/nG4U.webp",
+     "image": "data/img/botswana/nG4U.webp",
      "mapsUrl": "https://goo.gl/maps/YMsiHuY4KeDpBZyF9",
      "width": 0.573,
      "text": [
@@ -356,7 +356,7 @@
     },
     {
      "id": "Rom4",
-     "image": "img/botswana/Rom4.webp",
+     "image": "data/img/botswana/Rom4.webp",
      "mapsUrl": "https://goo.gl/maps/tzUT5ykqtdhtnAoq5",
      "width": 0.573,
      "text": [
@@ -365,7 +365,7 @@
     },
     {
      "id": "oPNf",
-     "image": "img/botswana/oPNf.webp",
+     "image": "data/img/botswana/oPNf.webp",
      "mapsUrl": "https://goo.gl/maps/ghGoL1JwNVjH4Fi87",
      "width": 0.573,
      "text": [
@@ -374,7 +374,7 @@
     },
     {
      "id": "wRda",
-     "image": "img/botswana/wRda.webp",
+     "image": "data/img/botswana/wRda.webp",
      "mapsUrl": "https://goo.gl/maps/BiPJpKgSr9v8zSaA9",
      "width": 0.573,
      "text": [

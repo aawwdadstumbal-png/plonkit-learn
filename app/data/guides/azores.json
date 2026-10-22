@@ -3,7 +3,7 @@
  "title": "Azores",
  "code": "PT-AZ",
  "continent": "Europe",
- "hero": "img/azores/hero.webp",
+ "hero": "data/img/azores/hero.webp",
  "metaCount": 16,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "fva4",
-     "image": "img/azores/fva4.webp",
+     "image": "data/img/azores/fva4.webp",
      "mapsUrl": "https://maps.app.goo.gl/dCua4zV8CP73cDwB7",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "6R9V",
-     "image": "img/azores/6R9V.webp",
+     "image": "data/img/azores/6R9V.webp",
      "mapsUrl": "https://maps.app.goo.gl/ift9UX9X6PRXE9Us9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "MSfT",
-     "image": "img/azores/MSfT.webp",
+     "image": "data/img/azores/MSfT.webp",
      "mapsUrl": "https://maps.app.goo.gl/JELtGUWRFWXeqiax8",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "uDZd",
-     "image": "img/azores/uDZd.webp",
+     "image": "data/img/azores/uDZd.webp",
      "mapsUrl": "https://goo.gl/maps/WwH2bT56AzExbTEb7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "2vH0",
-     "image": "img/azores/2vH0.webp",
+     "image": "data/img/azores/2vH0.webp",
      "mapsUrl": "https://goo.gl/maps/qKec9TiRjEgvEbV8A",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "D5Ni",
-     "image": "img/azores/D5Ni.webp",
+     "image": "data/img/azores/D5Ni.webp",
      "mapsUrl": "https://maps.app.goo.gl/nRkH1aPx9w6g4vFz7",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "159s",
-     "image": "img/azores/159s.webp",
+     "image": "data/img/azores/159s.webp",
      "mapsUrl": "https://goo.gl/maps/ToMozFbi74mPnijs8",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "rdxB",
-     "image": "img/azores/rdxB.webp",
+     "image": "data/img/azores/rdxB.webp",
      "mapsUrl": "https://goo.gl/maps/xC7HBpSxGej25Rsp8",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "eaE2",
-     "image": "img/azores/eaE2.webp",
+     "image": "data/img/azores/eaE2.webp",
      "mapsUrl": "https://maps.app.goo.gl/jG71PcRKRxBPq7cLA",
      "width": 0.5,
      "text": [
@@ -117,7 +117,7 @@
    "metas": [
     {
      "id": "lyKf",
-     "image": "img/azores/lyKf.webp",
+     "image": "data/img/azores/lyKf.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "j5G7",
-     "image": "img/azores/j5G7.webp",
+     "image": "data/img/azores/j5G7.webp",
      "mapsUrl": "https://goo.gl/maps/FeT1ivRsqcdF96LH7",
      "width": 0.573,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "yWA1",
-     "image": "img/azores/yWA1.webp",
+     "image": "data/img/azores/yWA1.webp",
      "mapsUrl": "https://maps.app.goo.gl/JAvRHWSUTF1WN64C8",
      "width": 0.573,
      "text": [
@@ -145,7 +145,7 @@
     },
     {
      "id": "Lvxy",
-     "image": "img/azores/Lvxy.webp",
+     "image": "data/img/azores/Lvxy.webp",
      "mapsUrl": "https://goo.gl/maps/9PbobNJkrBrYytE38",
      "width": 0.573,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "Ukps",
-     "image": "img/azores/Ukps.webp",
+     "image": "data/img/azores/Ukps.webp",
      "mapsUrl": "https://maps.app.goo.gl/8XACx9KaiafrnRUk9",
      "width": 0.573,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "HWk5",
-     "image": "img/azores/HWk5.webp",
+     "image": "data/img/azores/HWk5.webp",
      "mapsUrl": "https://maps.app.goo.gl/Wij62iKHRGLgfADw5",
      "width": 0.573,
      "text": [
@@ -181,7 +181,7 @@
    "metas": [
     {
      "id": "2fiy",
-     "image": "img/azores/2fiy.webp",
+     "image": "data/img/azores/2fiy.webp",
      "mapsUrl": "https://goo.gl/maps/uvf2SVtGtsuXkRXt5",
      "width": 0.573,
      "text": [

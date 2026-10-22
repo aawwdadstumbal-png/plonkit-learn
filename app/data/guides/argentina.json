@@ -3,7 +3,7 @@
  "title": "Argentina",
  "code": "AR",
  "continent": "South America",
- "hero": "img/argentina/hero.webp",
+ "hero": "data/img/argentina/hero.webp",
  "metaCount": 57,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "RNbN",
-     "image": "img/argentina/RNbN.webp",
+     "image": "data/img/argentina/RNbN.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "eF4M",
-     "image": "img/argentina/eF4M.webp",
+     "image": "data/img/argentina/eF4M.webp",
      "mapsUrl": "https://goo.gl/maps/G2wMckzUNWBMEZ636",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "jAh5",
-     "image": "img/argentina/jAh5.webp",
+     "image": "data/img/argentina/jAh5.webp",
      "mapsUrl": "https://maps.app.goo.gl/3ycjvaCTW58rkH6eA",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "97t1",
-     "image": "img/argentina/97t1.webp",
+     "image": "data/img/argentina/97t1.webp",
      "mapsUrl": "https://goo.gl/maps/JBFKdQj3jt5vSf16A",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "ouvs",
-     "image": "img/argentina/ouvs.webp",
+     "image": "data/img/argentina/ouvs.webp",
      "mapsUrl": "https://goo.gl/maps/ozapAWjtKEukgmmK8",
      "width": 0.5,
      "text": [
@@ -71,7 +71,7 @@
     },
     {
      "id": "GzEE",
-     "image": "img/argentina/GzEE.webp",
+     "image": "data/img/argentina/GzEE.webp",
      "mapsUrl": "https://goo.gl/maps/GEXihg1mK1zBW3tZ7",
      "width": 0.5,
      "text": [
@@ -81,7 +81,7 @@
     },
     {
      "id": "fKN6",
-     "image": "img/argentina/fKN6.webp",
+     "image": "data/img/argentina/fKN6.webp",
      "mapsUrl": "https://goo.gl/maps/EA5BtLkC9fGcLJrJ7",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "IHvK",
-     "image": "img/argentina/IHvK.webp",
+     "image": "data/img/argentina/IHvK.webp",
      "mapsUrl": "https://maps.app.goo.gl/9nVcqmdtp3CsWiuS8",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "bekw",
-     "image": "img/argentina/bekw.webp",
+     "image": "data/img/argentina/bekw.webp",
      "mapsUrl": "https://goo.gl/maps/sSvVQbvNG6Y2rT4M8",
      "width": 0.5,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "Bb04",
-     "image": "img/argentina/Bb04.webp",
+     "image": "data/img/argentina/Bb04.webp",
      "mapsUrl": "https://goo.gl/maps/rZPh3RBFx378GuZcA",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
    "metas": [
     {
      "id": "VRyU",
-     "image": "img/argentina/VRyU.webp",
+     "image": "data/img/argentina/VRyU.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "VfW1",
-     "image": "img/argentina/VfW1.webp",
+     "image": "data/img/argentina/VfW1.webp",
      "mapsUrl": "https://goo.gl/maps/cd3Jdm4eNA3n4XHZ6",
      "width": 0.573,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "46I8",
-     "image": "img/argentina/46I8.webp",
+     "image": "data/img/argentina/46I8.webp",
      "mapsUrl": "https://goo.gl/maps/HLMvkgrTZQtPk57E8",
      "width": 0.573,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "fy4M",
-     "image": "img/argentina/fy4M.webp",
+     "image": "data/img/argentina/fy4M.webp",
      "mapsUrl": "https://goo.gl/maps/H4CX5PAmBvdZqvXA7",
      "width": 0.573,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "KkRF",
-     "image": "img/argentina/KkRF.webp",
+     "image": "data/img/argentina/KkRF.webp",
      "mapsUrl": "https://goo.gl/maps/B66WoS8jhqovNqiWA",
      "width": 0.573,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "KgOC",
-     "image": "img/argentina/KgOC.webp",
+     "image": "data/img/argentina/KgOC.webp",
      "mapsUrl": "https://goo.gl/maps/MHXHqkxjUHsxXYpZA",
      "width": 0.573,
      "text": [
@@ -185,7 +185,7 @@
     },
     {
      "id": "xvu6",
-     "image": "img/argentina/xvu6.webp",
+     "image": "data/img/argentina/xvu6.webp",
      "mapsUrl": "https://maps.app.goo.gl/ErkoEjr2sLUmovoNA",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "BOTl",
-     "image": "img/argentina/BOTl.webp",
+     "image": "data/img/argentina/BOTl.webp",
      "mapsUrl": "https://goo.gl/maps/r8mdmv1gXZa8PuDB8",
      "width": 0.573,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "WFi2",
-     "image": "img/argentina/WFi2.webp",
+     "image": "data/img/argentina/WFi2.webp",
      "mapsUrl": "https://goo.gl/maps/2R2pmizRAMrQQZ3t6",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "IrVr",
-     "image": "img/argentina/IrVr.webp",
+     "image": "data/img/argentina/IrVr.webp",
      "mapsUrl": "https://goo.gl/maps/dPsuR1fcnALFAx3X8",
      "width": 0.573,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "HSWC",
-     "image": "img/argentina/HSWC.webp",
+     "image": "data/img/argentina/HSWC.webp",
      "mapsUrl": "https://goo.gl/maps/3xSyJhAQ5q2SdQu48",
      "width": 0.573,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "BjEa",
-     "image": "img/argentina/BjEa.webp",
+     "image": "data/img/argentina/BjEa.webp",
      "mapsUrl": "https://maps.app.goo.gl/NnGFwoyJBY9WiKmW8",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "6o3V",
-     "image": "img/argentina/6o3V.webp",
+     "image": "data/img/argentina/6o3V.webp",
      "mapsUrl": "https://maps.app.goo.gl/93JfdzsVzZ94qG2PA",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "ozI4",
-     "image": "img/argentina/ozI4.webp",
+     "image": "data/img/argentina/ozI4.webp",
      "mapsUrl": "https://maps.app.goo.gl/gnzKKpy5nNdXcdGa9",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "cc7y",
-     "image": "img/argentina/cc7y.webp",
+     "image": "data/img/argentina/cc7y.webp",
      "mapsUrl": "https://maps.app.goo.gl/Tu5a1i6tDr2T67bJA",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "2ZIl",
-     "image": "img/argentina/2ZIl.webp",
+     "image": "data/img/argentina/2ZIl.webp",
      "mapsUrl": "https://maps.app.goo.gl/iVYeMnTtgquUXb8Y6",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "muxx",
-     "image": "img/argentina/muxx.webp",
+     "image": "data/img/argentina/muxx.webp",
      "mapsUrl": "https://maps.app.goo.gl/sbS6Sa47LCd23n7MA",
      "width": 0.573,
      "text": [
@@ -285,7 +285,7 @@
     },
     {
      "id": "cqF0",
-     "image": "img/argentina/cqF0.webp",
+     "image": "data/img/argentina/cqF0.webp",
      "mapsUrl": "https://maps.app.goo.gl/xyYziDu9NJ5XNmRi7",
      "width": 0.573,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "fwgj",
-     "image": "img/argentina/fwgj.webp",
+     "image": "data/img/argentina/fwgj.webp",
      "mapsUrl": "https://maps.app.goo.gl/CKsMNGLPbNNuujSg9",
      "width": 0.573,
      "text": [
@@ -304,7 +304,7 @@
     },
     {
      "id": "HidJ",
-     "image": "img/argentina/HidJ.webp",
+     "image": "data/img/argentina/HidJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/BeHf9koMNfEg6Aea9",
      "width": 0.573,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "uYP9",
-     "image": "img/argentina/uYP9.webp",
+     "image": "data/img/argentina/uYP9.webp",
      "mapsUrl": "https://maps.app.goo.gl/VTB9GN2n76wvfUqv8",
      "width": 0.573,
      "text": [
@@ -322,7 +322,7 @@
     },
     {
      "id": "Z4q5",
-     "image": "img/argentina/Z4q5.webp",
+     "image": "data/img/argentina/Z4q5.webp",
      "mapsUrl": "https://maps.app.goo.gl/bDK22DtCZjeJDHat6",
      "width": 0.573,
      "text": [
@@ -331,7 +331,7 @@
     },
     {
      "id": "DZIL",
-     "image": "img/argentina/DZIL.webp",
+     "image": "data/img/argentina/DZIL.webp",
      "mapsUrl": "https://maps.app.goo.gl/zMpCYvJyCoDVZz3k9",
      "width": 0.573,
      "text": [
@@ -340,7 +340,7 @@
     },
     {
      "id": "r2iz",
-     "image": "img/argentina/r2iz.webp",
+     "image": "data/img/argentina/r2iz.webp",
      "mapsUrl": "https://maps.app.goo.gl/wBXz9K6hnWat89Za7",
      "width": 0.573,
      "text": [
@@ -349,7 +349,7 @@
     },
     {
      "id": "2AHH",
-     "image": "img/argentina/2AHH.webp",
+     "image": "data/img/argentina/2AHH.webp",
      "mapsUrl": "https://maps.app.goo.gl/HoCRYGCWPpBcpZJT7",
      "width": 0.573,
      "text": [
@@ -358,7 +358,7 @@
     },
     {
      "id": "XFL6",
-     "image": "img/argentina/XFL6.webp",
+     "image": "data/img/argentina/XFL6.webp",
      "mapsUrl": "https://goo.gl/maps/MYzrSvtMSxHYLb3o7",
      "width": 0.573,
      "text": [
@@ -367,7 +367,7 @@
     },
     {
      "id": "NUPv",
-     "image": "img/argentina/NUPv.webp",
+     "image": "data/img/argentina/NUPv.webp",
      "mapsUrl": "https://maps.app.goo.gl/KeJPueMMMKVBdRYVA",
      "width": 0.573,
      "text": [
@@ -376,7 +376,7 @@
     },
     {
      "id": "i6k7",
-     "image": "img/argentina/i6k7.webp",
+     "image": "data/img/argentina/i6k7.webp",
      "mapsUrl": "https://maps.app.goo.gl/27jJ8FatUQVjDmZL6",
      "width": 0.573,
      "text": [
@@ -385,7 +385,7 @@
     },
     {
      "id": "jKU1",
-     "image": "img/argentina/jKU1.webp",
+     "image": "data/img/argentina/jKU1.webp",
      "mapsUrl": "https://goo.gl/maps/JHdE2ATDQgjnQEqW8",
      "width": 0.573,
      "text": [
@@ -394,7 +394,7 @@
     },
     {
      "id": "06ge",
-     "image": "img/argentina/06ge.webp",
+     "image": "data/img/argentina/06ge.webp",
      "mapsUrl": "https://maps.app.goo.gl/Rv6DCaN4eAcxBkTT8",
      "width": 0.573,
      "text": [
@@ -412,7 +412,7 @@
    "metas": [
     {
      "id": "kujK",
-     "image": "img/argentina/kujK.webp",
+     "image": "data/img/argentina/kujK.webp",
      "mapsUrl": "https://goo.gl/maps/n89tRGbXWB3MaNs19",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
     },
     {
      "id": "lP62",
-     "image": "img/argentina/lP62.webp",
+     "image": "data/img/argentina/lP62.webp",
      "mapsUrl": "https://maps.app.goo.gl/1w5mnrMmJ3Zuk5aS6",
      "width": 0.573,
      "text": [
@@ -430,7 +430,7 @@
     },
     {
      "id": "mwYE",
-     "image": "img/argentina/mwYE.webp",
+     "image": "data/img/argentina/mwYE.webp",
      "mapsUrl": "https://goo.gl/maps/8TGVHkvgBhCTepjx6",
      "width": 0.573,
      "text": [
@@ -440,7 +440,7 @@
     },
     {
      "id": "knP3",
-     "image": "img/argentina/knP3.webp",
+     "image": "data/img/argentina/knP3.webp",
      "mapsUrl": "https://maps.app.goo.gl/BWCKZmBzgMp99vUV6",
      "width": 0.573,
      "text": [
@@ -449,7 +449,7 @@
     },
     {
      "id": "Gsxd",
-     "image": "img/argentina/Gsxd.webp",
+     "image": "data/img/argentina/Gsxd.webp",
      "mapsUrl": "https://goo.gl/maps/vHMArYKHbDDdPs3n6",
      "width": 0.573,
      "text": [
@@ -458,7 +458,7 @@
     },
     {
      "id": "9ggu",
-     "image": "img/argentina/9ggu.webp",
+     "image": "data/img/argentina/9ggu.webp",
      "mapsUrl": "https://maps.app.goo.gl/D9f7Kg6kdhCqPi3D9",
      "width": 0.573,
      "text": [
@@ -467,7 +467,7 @@
     },
     {
      "id": "KCJo",
-     "image": "img/argentina/KCJo.webp",
+     "image": "data/img/argentina/KCJo.webp",
      "mapsUrl": "https://goo.gl/maps/itauG7x3Vvn29S9c7",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "Ipth",
-     "image": "img/argentina/Ipth.webp",
+     "image": "data/img/argentina/Ipth.webp",
      "mapsUrl": "https://goo.gl/maps/nRzbvqXAtmrHAycL7",
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "63ID",
-     "image": "img/argentina/63ID.webp",
+     "image": "data/img/argentina/63ID.webp",
      "mapsUrl": "https://goo.gl/maps/5zv8F5K6hP8CRDbz6",
      "width": 0.573,
      "text": [
@@ -496,7 +496,7 @@
     },
     {
      "id": "BMCC",
-     "image": "img/argentina/BMCC.webp",
+     "image": "data/img/argentina/BMCC.webp",
      "mapsUrl": "https://goo.gl/maps/7TFR7E1erBAXUERY7",
      "width": 0.573,
      "text": [
@@ -506,7 +506,7 @@
     },
     {
      "id": "UvI1",
-     "image": "img/argentina/UvI1.webp",
+     "image": "data/img/argentina/UvI1.webp",
      "mapsUrl": "https://maps.app.goo.gl/EmWNxVJNg5hxSBd28",
      "width": 0.573,
      "text": [
@@ -515,7 +515,7 @@
     },
     {
      "id": "MNox",
-     "image": "img/argentina/MNox.webp",
+     "image": "data/img/argentina/MNox.webp",
      "mapsUrl": "https://goo.gl/maps/3boXQw277G1AVyJXA",
      "width": 0.573,
      "text": [
@@ -525,7 +525,7 @@
     },
     {
      "id": "UzNb",
-     "image": "img/argentina/UzNb.webp",
+     "image": "data/img/argentina/UzNb.webp",
      "mapsUrl": "https://goo.gl/maps/NCoSZPkvGTWH1Ux57",
      "width": 0.573,
      "text": [
@@ -534,7 +534,7 @@
     },
     {
      "id": "vOS7",
-     "image": "img/argentina/vOS7.webp",
+     "image": "data/img/argentina/vOS7.webp",
      "mapsUrl": "https://goo.gl/maps/VYRNpim5PSvopdXW7",
      "width": 0.573,
      "text": [
@@ -544,7 +544,7 @@
     },
     {
      "id": "wj6M",
-     "image": "img/argentina/wj6M.webp",
+     "image": "data/img/argentina/wj6M.webp",
      "mapsUrl": "https://goo.gl/maps/aQmVxHUeC3iC5QjP7",
      "width": 0.573,
      "text": [
@@ -553,7 +553,7 @@
     },
     {
      "id": "tuz2",
-     "image": "img/argentina/tuz2.webp",
+     "image": "data/img/argentina/tuz2.webp",
      "mapsUrl": "https://maps.app.goo.gl/DUGvVSQLeUzJhStQA",
      "width": 0.573,
      "text": [
@@ -562,7 +562,7 @@
     },
     {
      "id": "IIWE",
-     "image": "img/argentina/IIWE.webp",
+     "image": "data/img/argentina/IIWE.webp",
      "mapsUrl": "https://goo.gl/maps/aHu4QSB71AK6pJmN9",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Gibraltar",
  "code": "GI",
  "continent": "Europe",
- "hero": "img/gibraltar/hero.webp",
+ "hero": "data/img/gibraltar/hero.webp",
  "metaCount": 10,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "H71R",
-     "image": "img/gibraltar/H71R.webp",
+     "image": "data/img/gibraltar/H71R.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "4qh7",
-     "image": "img/gibraltar/4qh7.webp",
+     "image": "data/img/gibraltar/4qh7.webp",
      "mapsUrl": "https://goo.gl/maps/D13tJK1WxyoPJ9br7",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "iBNT",
-     "image": "img/gibraltar/iBNT.webp",
+     "image": "data/img/gibraltar/iBNT.webp",
      "mapsUrl": "https://goo.gl/maps/Vx73ktwAzsPWjQDt9",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "9WAS",
-     "image": "img/gibraltar/9WAS.webp",
+     "image": "data/img/gibraltar/9WAS.webp",
      "mapsUrl": "https://goo.gl/maps/LzCMKW3QcUGhsdDY6",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "Qaw3",
-     "image": "img/gibraltar/Qaw3.webp",
+     "image": "data/img/gibraltar/Qaw3.webp",
      "mapsUrl": "https://goo.gl/maps/Rmza34UhEMZRr7zx5",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "iUcf",
-     "image": "img/gibraltar/iUcf.webp",
+     "image": "data/img/gibraltar/iUcf.webp",
      "mapsUrl": "https://goo.gl/maps/oqP8uQhP6KzWxDMP7",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "d95Z",
-     "image": "img/gibraltar/d95Z.webp",
+     "image": "data/img/gibraltar/d95Z.webp",
      "mapsUrl": "https://goo.gl/maps/KkqK1BdQ72ucTeVj9",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "0Ld2",
-     "image": "img/gibraltar/0Ld2.webp",
+     "image": "data/img/gibraltar/0Ld2.webp",
      "mapsUrl": "https://goo.gl/maps/bDmRN6RjJd1dnZNn7",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "DOTU",
-     "image": "img/gibraltar/DOTU.webp",
+     "image": "data/img/gibraltar/DOTU.webp",
      "mapsUrl": "https://www.google.com/maps/@36.1320521,-5.3457884,3a,23.1y,217.83h,71.68t/data=!3m6!1e1!3m4!1sHezPg0nSxJv39GQdNNfSKw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -112,7 +112,7 @@
    "metas": [
     {
      "id": "sCLF",
-     "image": "img/gibraltar/sCLF.webp",
+     "image": "data/img/gibraltar/sCLF.webp",
      "mapsUrl": "https://goo.gl/maps/GYuppGVwJJPAUk3Z6",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Eswatini",
  "code": "SZ",
  "continent": "Africa",
- "hero": "img/eswatini/hero.webp",
+ "hero": "data/img/eswatini/hero.webp",
  "metaCount": 17,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "sSv1",
-     "image": "img/eswatini/sSv1.webp",
+     "image": "data/img/eswatini/sSv1.webp",
      "mapsUrl": "https://goo.gl/maps/kaSZLDsRUZT9rSqK9",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "Os75",
-     "image": "img/eswatini/Os75.webp",
+     "image": "data/img/eswatini/Os75.webp",
      "mapsUrl": "https://goo.gl/maps/WabAtaNFUHPmjDu39",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "P8gV",
-     "image": "img/eswatini/P8gV.webp",
+     "image": "data/img/eswatini/P8gV.webp",
      "mapsUrl": "https://goo.gl/maps/XijzShmqmNAUzgSr8",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "XXIL",
-     "image": "img/eswatini/XXIL.webp",
+     "image": "data/img/eswatini/XXIL.webp",
      "mapsUrl": "https://maps.app.goo.gl/NBm6EGg6jRga9iaQ7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "PQbM",
-     "image": "img/eswatini/PQbM.webp",
+     "image": "data/img/eswatini/PQbM.webp",
      "mapsUrl": "https://goo.gl/maps/LezhCXoNXmEpgHNX9",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "Y6BK",
-     "image": "img/eswatini/Y6BK.webp",
+     "image": "data/img/eswatini/Y6BK.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "eMUU",
-     "image": "img/eswatini/eMUU.webp",
+     "image": "data/img/eswatini/eMUU.webp",
      "mapsUrl": "https://goo.gl/maps/iA4AafmHbeThgvVc8",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
    "metas": [
     {
      "id": "pB4I",
-     "image": "img/eswatini/pB4I.webp",
+     "image": "data/img/eswatini/pB4I.webp",
      "mapsUrl": "https://goo.gl/maps/3ANbxjsG6XHvEWSeA",
      "width": 0.573,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "NeZB",
-     "image": "img/eswatini/NeZB.webp",
+     "image": "data/img/eswatini/NeZB.webp",
      "mapsUrl": "https://goo.gl/maps/Co1nJep9ZzFFVwjv7",
      "width": 0.573,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "pnyI",
-     "image": "img/eswatini/pnyI.webp",
+     "image": "data/img/eswatini/pnyI.webp",
      "mapsUrl": "https://goo.gl/maps/QnqDGkJadPeXfY1NA",
      "width": 0.573,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "Yn7m",
-     "image": "img/eswatini/Yn7m.webp",
+     "image": "data/img/eswatini/Yn7m.webp",
      "mapsUrl": "https://goo.gl/maps/7WXeAqaBidpshEgo7",
      "width": 0.573,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "PD9f",
-     "image": "img/eswatini/PD9f.webp",
+     "image": "data/img/eswatini/PD9f.webp",
      "mapsUrl": "https://goo.gl/maps/Rd2ooAxU1cFdyq8w9",
      "width": 0.573,
      "text": [
@@ -154,7 +154,7 @@
    "metas": [
     {
      "id": "f8Wu",
-     "image": "img/eswatini/f8Wu.webp",
+     "image": "data/img/eswatini/f8Wu.webp",
      "mapsUrl": "https://goo.gl/maps/JmzYM7QGyM9oyKs46",
      "width": 0.573,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "Ak5Y",
-     "image": "img/eswatini/Ak5Y.webp",
+     "image": "data/img/eswatini/Ak5Y.webp",
      "mapsUrl": "https://goo.gl/maps/m9WfTwwzVHykzXs18",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "oFsa",
-     "image": "img/eswatini/oFsa.webp",
+     "image": "data/img/eswatini/oFsa.webp",
      "mapsUrl": "https://goo.gl/maps/Z4RzWidosvGdZpUA9",
      "width": 0.573,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "wTEf",
-     "image": "img/eswatini/wTEf.webp",
+     "image": "data/img/eswatini/wTEf.webp",
      "mapsUrl": "https://goo.gl/maps/vCn23seDZXMGgZfj8",
      "width": 0.573,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "e0dy",
-     "image": "img/eswatini/e0dy.webp",
+     "image": "data/img/eswatini/e0dy.webp",
      "mapsUrl": "https://goo.gl/maps/8oo2gkohrgE1Vq3u8",
      "width": 0.573,
      "text": [

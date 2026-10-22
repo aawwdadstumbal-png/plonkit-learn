@@ -3,7 +3,7 @@
  "title": "Cyprus",
  "code": "CY",
  "continent": "Europe",
- "hero": "img/cyprus/hero.webp",
+ "hero": "data/img/cyprus/hero.webp",
  "metaCount": 34,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "SpqU",
-     "image": "img/cyprus/SpqU.webp",
+     "image": "data/img/cyprus/SpqU.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "tgbp",
-     "image": "img/cyprus/tgbp.webp",
+     "image": "data/img/cyprus/tgbp.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "LzpI",
-     "image": "img/cyprus/LzpI.webp",
+     "image": "data/img/cyprus/LzpI.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "SuER",
-     "image": "img/cyprus/SuER.webp",
+     "image": "data/img/cyprus/SuER.webp",
      "mapsUrl": "https://maps.app.goo.gl/vyC8PbJF6QmHnxQbA",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "4Jsq",
-     "image": "img/cyprus/4Jsq.webp",
+     "image": "data/img/cyprus/4Jsq.webp",
      "mapsUrl": "https://maps.app.goo.gl/TDEivQUxvzorJJyB9",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "RNMJ",
-     "image": "img/cyprus/RNMJ.webp",
+     "image": "data/img/cyprus/RNMJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/M59AqAkUA9zeRisY6",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "blro",
-     "image": "img/cyprus/blro.webp",
+     "image": "data/img/cyprus/blro.webp",
      "mapsUrl": "https://maps.app.goo.gl/DezjGwgxp5HBgyZ27",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "qUjp",
-     "image": "img/cyprus/qUjp.webp",
+     "image": "data/img/cyprus/qUjp.webp",
      "mapsUrl": "https://maps.app.goo.gl/X5y3WqCgJPqm2K9j6",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "e6Mi",
-     "image": "img/cyprus/e6Mi.webp",
+     "image": "data/img/cyprus/e6Mi.webp",
      "mapsUrl": "https://www.google.com/maps/@34.6765219,32.7991848,3a,15y,265.09h,88.61t/data=!3m8!1e1!3m6!1sUoHB3DFIe8NFDs0JIGrWKA!2e0!5s20250301T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.393491250379597%26panoid%3DUoHB3DFIe8NFDs0JIGrWKA%26yaw%3D265.08681374822595!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "Ls03",
-     "image": "img/cyprus/Ls03.webp",
+     "image": "data/img/cyprus/Ls03.webp",
      "mapsUrl": "https://www.google.com/maps/@34.6763722,32.7998272,3a,22.1y,280.05h,95.56t/data=!3m8!1e1!3m6!1sZiaorvJkpCL9AKbioD8L-w!2e0!5s20250301T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.555911322910944%26panoid%3DZiaorvJkpCL9AKbioD8L-w%26yaw%3D280.04848545741265!7i16384!8i8192!5m1!1e4?entry=ttu&g_ep=EgoyMDI1MTEwMi4wIKXMDSoASAFQAw%3D%3D",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "zqFQ",
-     "image": "img/cyprus/zqFQ.webp",
+     "image": "data/img/cyprus/zqFQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/kn7UJcvyEw5oPrRz5",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "mLLv",
-     "image": "img/cyprus/mLLv.webp",
+     "image": "data/img/cyprus/mLLv.webp",
      "mapsUrl": "https://maps.app.goo.gl/cZTQ3aeEQXdb8uHo9",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "JQb2",
-     "image": "img/cyprus/JQb2.webp",
+     "image": "data/img/cyprus/JQb2.webp",
      "mapsUrl": "https://maps.app.goo.gl/EFkoz76Xw9V1H9Kc6",
      "width": 0.5,
      "text": [
@@ -143,7 +143,7 @@
     },
     {
      "id": "GraQ",
-     "image": "img/cyprus/GraQ.webp",
+     "image": "data/img/cyprus/GraQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/MRAH3ncaywW7uEkq7",
      "width": 0.5,
      "text": [
@@ -170,7 +170,7 @@
    "metas": [
     {
      "id": "E5gR",
-     "image": "img/cyprus/E5gR.webp",
+     "image": "data/img/cyprus/E5gR.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "HQht",
-     "image": "img/cyprus/HQht.webp",
+     "image": "data/img/cyprus/HQht.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "8xv2",
-     "image": "img/cyprus/8xv2.webp",
+     "image": "data/img/cyprus/8xv2.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "7IFu",
-     "image": "img/cyprus/7IFu.webp",
+     "image": "data/img/cyprus/7IFu.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "n354",
-     "image": "img/cyprus/n354.webp",
+     "image": "data/img/cyprus/n354.webp",
      "mapsUrl": "https://maps.app.goo.gl/6xRHMMVSWgH2vyCX8",
      "width": 0.573,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "PP9D",
-     "image": "img/cyprus/PP9D.webp",
+     "image": "data/img/cyprus/PP9D.webp",
      "mapsUrl": "https://maps.app.goo.gl/36rV4xFWd3MXiW3s6",
      "width": 0.573,
      "text": [
@@ -226,7 +226,7 @@
     },
     {
      "id": "gtvS",
-     "image": "img/cyprus/gtvS.webp",
+     "image": "data/img/cyprus/gtvS.webp",
      "mapsUrl": "https://maps.app.goo.gl/MUi43LuxLyGVkmwT9",
      "width": 0.573,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "kCS4",
-     "image": "img/cyprus/kCS4.webp",
+     "image": "data/img/cyprus/kCS4.webp",
      "mapsUrl": "https://maps.app.goo.gl/3jZyZYfeXCSJgyss6",
      "width": 0.573,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "IsTg",
-     "image": "img/cyprus/IsTg.webp",
+     "image": "data/img/cyprus/IsTg.webp",
      "mapsUrl": "https://maps.app.goo.gl/ekkveCs35NewFTT48",
      "width": 0.573,
      "text": [
@@ -253,7 +253,7 @@
     },
     {
      "id": "QTeI",
-     "image": "img/cyprus/QTeI.webp",
+     "image": "data/img/cyprus/QTeI.webp",
      "mapsUrl": "https://maps.app.goo.gl/6zELWm1BoxLaK8eB6",
      "width": 0.573,
      "text": [
@@ -262,7 +262,7 @@
     },
     {
      "id": "n4db",
-     "image": "img/cyprus/n4db.webp",
+     "image": "data/img/cyprus/n4db.webp",
      "mapsUrl": "https://maps.app.goo.gl/vRqsaswuw279LbYGA",
      "width": 0.573,
      "text": [
@@ -271,7 +271,7 @@
     },
     {
      "id": "H1jq",
-     "image": "img/cyprus/H1jq.webp",
+     "image": "data/img/cyprus/H1jq.webp",
      "mapsUrl": "https://maps.app.goo.gl/vE2Jw35ukF6QK466A",
      "width": 0.573,
      "text": [
@@ -281,7 +281,7 @@
     },
     {
      "id": "zbcn",
-     "image": "img/cyprus/zbcn.webp",
+     "image": "data/img/cyprus/zbcn.webp",
      "mapsUrl": "https://maps.app.goo.gl/vM2Lf1RxTNd1J8kGA",
      "width": 0.573,
      "text": [
@@ -290,7 +290,7 @@
     },
     {
      "id": "d6AJ",
-     "image": "img/cyprus/d6AJ.webp",
+     "image": "data/img/cyprus/d6AJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/bDXQKe4tS87cKeZW7",
      "width": 0.573,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "lRj5",
-     "image": "img/cyprus/lRj5.webp",
+     "image": "data/img/cyprus/lRj5.webp",
      "mapsUrl": "https://maps.app.goo.gl/A5dEXjjzW6dBGjfE8",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "ilC2",
-     "image": "img/cyprus/ilC2.webp",
+     "image": "data/img/cyprus/ilC2.webp",
      "mapsUrl": "https://maps.app.goo.gl/QrmcUGGiLMEpSSD28",
      "width": 0.573,
      "text": [
@@ -327,7 +327,7 @@
    "metas": [
     {
      "id": "MDsc",
-     "image": "img/cyprus/MDsc.webp",
+     "image": "data/img/cyprus/MDsc.webp",
      "mapsUrl": "https://maps.app.goo.gl/MDYE7bEm6ggDrMpS8",
      "width": 0.573,
      "text": [
@@ -336,7 +336,7 @@
     },
     {
      "id": "ZlY6",
-     "image": "img/cyprus/ZlY6.webp",
+     "image": "data/img/cyprus/ZlY6.webp",
      "mapsUrl": "https://maps.app.goo.gl/uvzZe6fSTMaGo3vB9",
      "width": 0.573,
      "text": [
@@ -345,7 +345,7 @@
     },
     {
      "id": "XIJd",
-     "image": "img/cyprus/XIJd.webp",
+     "image": "data/img/cyprus/XIJd.webp",
      "mapsUrl": "https://maps.app.goo.gl/D57uSPKy1bGbqhc9A",
      "width": 0.573,
      "text": [
@@ -354,7 +354,7 @@
     },
     {
      "id": "Suab",
-     "image": "img/cyprus/Suab.webp",
+     "image": "data/img/cyprus/Suab.webp",
      "mapsUrl": "https://maps.app.goo.gl/qkxScjNgLvDMv1ARA",
      "width": 0.573,
      "text": [

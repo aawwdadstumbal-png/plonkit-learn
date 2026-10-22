@@ -3,7 +3,7 @@
  "title": "Isle of Man",
  "code": "IM",
  "continent": "Europe",
- "hero": "img/isle-of-man/hero.webp",
+ "hero": "data/img/isle-of-man/hero.webp",
  "metaCount": 21,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "cEF8",
-     "image": "img/isle-of-man/cEF8.webp",
+     "image": "data/img/isle-of-man/cEF8.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "hu7c",
-     "image": "img/isle-of-man/hu7c.webp",
+     "image": "data/img/isle-of-man/hu7c.webp",
      "mapsUrl": "https://goo.gl/maps/TfswRwyEcPYGFiQu9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "eKbX",
-     "image": "img/isle-of-man/eKbX.webp",
+     "image": "data/img/isle-of-man/eKbX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "ZZ1O",
-     "image": "img/isle-of-man/ZZ1O.webp",
+     "image": "data/img/isle-of-man/ZZ1O.webp",
      "mapsUrl": "https://goo.gl/maps/JpxSJr5hjtau6qmo9",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "4nRh",
-     "image": "img/isle-of-man/4nRh.webp",
+     "image": "data/img/isle-of-man/4nRh.webp",
      "mapsUrl": "https://goo.gl/maps/pXdRg8A1rrDUuEqN9",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "2MfZ",
-     "image": "img/isle-of-man/2MfZ.webp",
+     "image": "data/img/isle-of-man/2MfZ.webp",
      "mapsUrl": "https://goo.gl/maps/eytGoWzJe1KHZokz8",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "fUGu",
-     "image": "img/isle-of-man/fUGu.webp",
+     "image": "data/img/isle-of-man/fUGu.webp",
      "mapsUrl": "https://goo.gl/maps/RkdWCyQMQuiwWdef7",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "pQGf",
-     "image": "img/isle-of-man/pQGf.webp",
+     "image": "data/img/isle-of-man/pQGf.webp",
      "mapsUrl": "https://goo.gl/maps/B6LMjcaXpaVc8xX57",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
    "metas": [
     {
      "id": "sQ1O",
-     "image": "img/isle-of-man/sQ1O.webp",
+     "image": "data/img/isle-of-man/sQ1O.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "btUp",
-     "image": "img/isle-of-man/btUp.webp",
+     "image": "data/img/isle-of-man/btUp.webp",
      "mapsUrl": "https://maps.app.goo.gl/bc8aoiD167Ria5eb8",
      "width": 0.573,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "abTT",
-     "image": "img/isle-of-man/abTT.webp",
+     "image": "data/img/isle-of-man/abTT.webp",
      "mapsUrl": "https://maps.app.goo.gl/EzfoFhoWrrDPDYBD8",
      "width": 0.573,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "jTc8",
-     "image": "img/isle-of-man/jTc8.webp",
+     "image": "data/img/isle-of-man/jTc8.webp",
      "mapsUrl": "https://goo.gl/maps/KQummfmpEc7z5sxa7",
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "Sk9u",
-     "image": "img/isle-of-man/Sk9u.webp",
+     "image": "data/img/isle-of-man/Sk9u.webp",
      "mapsUrl": "https://maps.app.goo.gl/LqRYiqeoQuEdshyL9",
      "width": 0.573,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "kUjb",
-     "image": "img/isle-of-man/kUjb.webp",
+     "image": "data/img/isle-of-man/kUjb.webp",
      "mapsUrl": "https://maps.app.goo.gl/uhFraHPZzn5SHLXe8",
      "width": 0.573,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "VIUx",
-     "image": "img/isle-of-man/VIUx.webp",
+     "image": "data/img/isle-of-man/VIUx.webp",
      "mapsUrl": "https://maps.app.goo.gl/NCL2XJcmVQkVzXJa8",
      "width": 0.573,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "Q2No",
-     "image": "img/isle-of-man/Q2No.webp",
+     "image": "data/img/isle-of-man/Q2No.webp",
      "mapsUrl": "https://maps.app.goo.gl/FWdS4Ty4cWqNcSHF8",
      "width": 0.573,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "ONfY",
-     "image": "img/isle-of-man/ONfY.webp",
+     "image": "data/img/isle-of-man/ONfY.webp",
      "mapsUrl": "https://maps.app.goo.gl/dBNU4sdoxZXvRCE98",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "smmi",
-     "image": "img/isle-of-man/smmi.webp",
+     "image": "data/img/isle-of-man/smmi.webp",
      "mapsUrl": "https://maps.app.goo.gl/6qqiBe33tvD52zd4A",
      "width": 0.573,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "lysj",
-     "image": "img/isle-of-man/lysj.webp",
+     "image": "data/img/isle-of-man/lysj.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ei6i9JvHcSm7hqL58",
      "width": 0.573,
      "text": [
@@ -211,7 +211,7 @@
    "metas": [
     {
      "id": "Arok",
-     "image": "img/isle-of-man/Arok.webp",
+     "image": "data/img/isle-of-man/Arok.webp",
      "mapsUrl": "https://goo.gl/maps/V5aB9X3qCWWpNHK5A",
      "width": 0.573,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "DCeX",
-     "image": "img/isle-of-man/DCeX.webp",
+     "image": "data/img/isle-of-man/DCeX.webp",
      "mapsUrl": "https://maps.app.goo.gl/xenbgiQaVpEtGUYQ6",
      "width": 0.573,
      "text": [

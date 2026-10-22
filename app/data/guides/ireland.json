@@ -3,7 +3,7 @@
  "title": "Ireland",
  "code": "IE",
  "continent": "Europe",
- "hero": "img/ireland/hero.webp",
+ "hero": "data/img/ireland/hero.webp",
  "metaCount": 27,
  "sections": [
   {
@@ -40,7 +40,7 @@
    "metas": [
     {
      "id": "rRE9",
-     "image": "img/ireland/rRE9.webp",
+     "image": "data/img/ireland/rRE9.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "5CWT",
-     "image": "img/ireland/5CWT.webp",
+     "image": "data/img/ireland/5CWT.webp",
      "mapsUrl": "https://goo.gl/maps/R6q9SCVhXrUZ5T17A",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "Iiqc",
-     "image": "img/ireland/Iiqc.webp",
+     "image": "data/img/ireland/Iiqc.webp",
      "mapsUrl": "https://goo.gl/maps/QDkb7FL8caVC3gu16",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "Avrb",
-     "image": "img/ireland/Avrb.webp",
+     "image": "data/img/ireland/Avrb.webp",
      "mapsUrl": "https://goo.gl/maps/44KYKCAgH1bpB6h78",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "7jug",
-     "image": "img/ireland/7jug.webp",
+     "image": "data/img/ireland/7jug.webp",
      "mapsUrl": "https://goo.gl/maps/n3q6ZyQs1qG9cwnQ6",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "q0Q1",
-     "image": "img/ireland/q0Q1.webp",
+     "image": "data/img/ireland/q0Q1.webp",
      "mapsUrl": "https://goo.gl/maps/cEyCJefmy28qvEmp6",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "liz2",
-     "image": "img/ireland/liz2.webp",
+     "image": "data/img/ireland/liz2.webp",
      "mapsUrl": "https://goo.gl/maps/gyh95BsaiN2FY8xv9",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "Xamt",
-     "image": "img/ireland/Xamt.webp",
+     "image": "data/img/ireland/Xamt.webp",
      "mapsUrl": "https://goo.gl/maps/rfKTi1aWZ9RJqVUR9",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "FO2a",
-     "image": "img/ireland/FO2a.webp",
+     "image": "data/img/ireland/FO2a.webp",
      "mapsUrl": "https://goo.gl/maps/P7zyLi4eEnU4MA5QA",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "wBpf",
-     "image": "img/ireland/wBpf.webp",
+     "image": "data/img/ireland/wBpf.webp",
      "mapsUrl": "https://goo.gl/maps/7LXuTr1R1Fv6L8tg8",
      "width": 0.5,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "Gvq4",
-     "image": "img/ireland/Gvq4.webp",
+     "image": "data/img/ireland/Gvq4.webp",
      "mapsUrl": "https://goo.gl/maps/pC5Ly5tyaVhKTLQ49",
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
     },
     {
      "id": "Wp2T",
-     "image": "img/ireland/Wp2T.webp",
+     "image": "data/img/ireland/Wp2T.webp",
      "mapsUrl": "https://goo.gl/maps/LahCpQJXEZ4uDiL97",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
     },
     {
      "id": "8zJQ",
-     "image": "img/ireland/8zJQ.webp",
+     "image": "data/img/ireland/8zJQ.webp",
      "mapsUrl": "https://goo.gl/maps/tkD7tAYjEtBJspwj8",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "Kiq5",
-     "image": "img/ireland/Kiq5.webp",
+     "image": "data/img/ireland/Kiq5.webp",
      "mapsUrl": "https://goo.gl/maps/E32EShL3fDBxmZaT6",
      "width": 0.5,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "616V",
-     "image": "img/ireland/616V.webp",
+     "image": "data/img/ireland/616V.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "Ottv",
-     "image": "img/ireland/Ottv.webp",
+     "image": "data/img/ireland/Ottv.webp",
      "mapsUrl": "https://goo.gl/maps/QkYYbGyUuLSnwYno7",
      "width": 0.5,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "koXg",
-     "image": "img/ireland/koXg.webp",
+     "image": "data/img/ireland/koXg.webp",
      "mapsUrl": "https://goo.gl/maps/tFmT81nQu7ysqwjUA",
      "width": 0.5,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "VCo7",
-     "image": "img/ireland/VCo7.webp",
+     "image": "data/img/ireland/VCo7.webp",
      "mapsUrl": "https://maps.app.goo.gl/JVUcFTDG2mLqfjV3A",
      "width": 0.5,
      "text": [
@@ -226,7 +226,7 @@
    "metas": [
     {
      "id": "N93o",
-     "image": "img/ireland/N93o.webp",
+     "image": "data/img/ireland/N93o.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "5rT8",
-     "image": "img/ireland/5rT8.webp",
+     "image": "data/img/ireland/5rT8.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "2Zr0",
-     "image": "img/ireland/2Zr0.webp",
+     "image": "data/img/ireland/2Zr0.webp",
      "mapsUrl": "https://goo.gl/maps/jUtHvy8oHmPjKKhH9",
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "wmsQ",
-     "image": "img/ireland/wmsQ.webp",
+     "image": "data/img/ireland/wmsQ.webp",
      "mapsUrl": "https://goo.gl/maps/tUEtoBVM5PBvhhjEA",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "0oal",
-     "image": "img/ireland/0oal.webp",
+     "image": "data/img/ireland/0oal.webp",
      "mapsUrl": "https://goo.gl/maps/PYWm9ScCDvN92oCXA",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "SSZH",
-     "image": "img/ireland/SSZH.webp",
+     "image": "data/img/ireland/SSZH.webp",
      "mapsUrl": "https://goo.gl/maps/iVetM7DJyihWtmVz5",
      "width": 0.573,
      "text": [
@@ -298,7 +298,7 @@
    "metas": [
     {
      "id": "k4AI",
-     "image": "img/ireland/k4AI.webp",
+     "image": "data/img/ireland/k4AI.webp",
      "mapsUrl": "https://goo.gl/maps/CyymPzJDjkkbP6Vs7",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "Y78L",
-     "image": "img/ireland/Y78L.webp",
+     "image": "data/img/ireland/Y78L.webp",
      "mapsUrl": "https://goo.gl/maps/Qh1vjRVVm5MprBrx8",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
     },
     {
      "id": "R9jd",
-     "image": "img/ireland/R9jd.webp",
+     "image": "data/img/ireland/R9jd.webp",
      "mapsUrl": "https://goo.gl/maps/Q9rYzw2yvgpqGqGL8",
      "width": 0.573,
      "text": [

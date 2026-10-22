@@ -1,16 +1,22 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { shellAssets } from '../app/sw.js';
+import { readFileSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-test('shellAssets includes the entry point', () => {
-  const assets = shellAssets();
+const here = dirname(fileURLToPath(import.meta.url));
+const appDir = join(here, '..', 'app');
+
+const shellAssets = JSON.parse(readFileSync(join(appDir, 'data', 'shell.json'), 'utf-8'));
+const swSource = readFileSync(join(appDir, 'sw.js'), 'utf-8');
+
+test('the shell list includes the entry point', () => {
   for (const path of ['index.html', 'styles.css', 'app.js', 'manifest.webmanifest']) {
-    assert.ok(assets.includes(path), `expected ${path} in the shell`);
+    assert.ok(shellAssets.includes(path), `expected ${path} in the shell`);
   }
 });
 
-test('shellAssets includes every js module', () => {
-  const assets = shellAssets();
+test('the shell list includes every js module', () => {
   const modules = [
     'js/data.js',
     'js/store.js',
@@ -24,28 +30,41 @@ test('shellAssets includes every js module', () => {
     'js/prefs.js',
   ];
   for (const path of modules) {
-    assert.ok(assets.includes(path), `expected ${path} in the shell`);
+    assert.ok(shellAssets.includes(path), `expected ${path} in the shell`);
   }
 });
 
-test('shellAssets includes the index data', () => {
-  assert.ok(shellAssets().includes('data/index.json'));
+test('the shell list includes the index data', () => {
+  assert.ok(shellAssets.includes('data/index.json'));
 });
 
-test('shellAssets includes the icons', () => {
-  const assets = shellAssets();
-  assert.ok(assets.includes('icons/icon-192.png'));
-  assert.ok(assets.includes('icons/icon-512.png'));
+test('the shell list includes the icons', () => {
+  assert.ok(shellAssets.includes('icons/icon-192.png'));
+  assert.ok(shellAssets.includes('icons/icon-512.png'));
 });
 
-test('shellAssets uses relative paths', () => {
-  for (const path of shellAssets()) {
+test('the shell list uses relative paths', () => {
+  for (const path of shellAssets) {
     assert.ok(!path.startsWith('/'), `${path} must be relative`);
     assert.ok(!path.startsWith('http'), `${path} must be relative`);
   }
 });
 
-test('shellAssets has no duplicates', () => {
-  const assets = shellAssets();
-  assert.equal(new Set(assets).size, assets.length);
+test('the shell list has no duplicates', () => {
+  assert.equal(new Set(shellAssets).size, shellAssets.length);
+});
+
+test('the service worker is a classic script, not a module', () => {
+  // A classic worker script cannot parse an export statement, so the shell
+  // list lives in a JSON file instead. This test keeps it that way.
+  assert.doesNotMatch(swSource, /^\s*export\s/m);
+  assert.doesNotMatch(swSource, /^\s*import\s/m);
+});
+
+test('the service worker resolves its paths against its own directory', () => {
+  // The base has to be an absolute URL. A pathname makes every URL built
+  // from it throw, which the install handler swallows and the prefetch
+  // handler does not.
+  assert.match(swSource, /new URL\('\.\/', self\.location\)\.href/);
+  assert.doesNotMatch(swSource, /new URL\('\.\/', self\.location\)\.pathname/);
 });

@@ -3,7 +3,7 @@
  "title": "Netherlands",
  "code": "NL",
  "continent": "Europe",
- "hero": "img/netherlands/hero.webp",
+ "hero": "data/img/netherlands/hero.webp",
  "metaCount": 52,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "SU02",
-     "image": "img/netherlands/SU02.webp",
+     "image": "data/img/netherlands/SU02.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "Awqc",
-     "image": "img/netherlands/Awqc.webp",
+     "image": "data/img/netherlands/Awqc.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "R6It",
-     "image": "img/netherlands/R6It.webp",
+     "image": "data/img/netherlands/R6It.webp",
      "mapsUrl": "https://goo.gl/maps/x8RkQr3mT4Q6H5pG6",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "qzbi",
-     "image": "img/netherlands/qzbi.webp",
+     "image": "data/img/netherlands/qzbi.webp",
      "mapsUrl": "https://goo.gl/maps/QyQkNvZxF6immhQp7",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "BWFN",
-     "image": "img/netherlands/BWFN.webp",
+     "image": "data/img/netherlands/BWFN.webp",
      "mapsUrl": "https://goo.gl/maps/YSfJxTNe16fTG5B4A",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "8MuM",
-     "image": "img/netherlands/8MuM.webp",
+     "image": "data/img/netherlands/8MuM.webp",
      "mapsUrl": "https://goo.gl/maps/uqiRncfL4wFvLTJ56",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "Hj6A",
-     "image": "img/netherlands/Hj6A.webp",
+     "image": "data/img/netherlands/Hj6A.webp",
      "mapsUrl": "https://goo.gl/maps/YfTitjNAmk1NQcm97",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "KgeR",
-     "image": "img/netherlands/KgeR.webp",
+     "image": "data/img/netherlands/KgeR.webp",
      "mapsUrl": "https://goo.gl/maps/exPDu6pKSnyTqf1v8",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "ymqD",
-     "image": "img/netherlands/ymqD.webp",
+     "image": "data/img/netherlands/ymqD.webp",
      "mapsUrl": "https://goo.gl/maps/WMNmjt7FP5rHDDdUA",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "JnCa",
-     "image": "img/netherlands/JnCa.webp",
+     "image": "data/img/netherlands/JnCa.webp",
      "mapsUrl": "https://goo.gl/maps/iRsaXy19rs7sZCBQA",
      "width": 0.5,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "bLrf",
-     "image": "img/netherlands/bLrf.webp",
+     "image": "data/img/netherlands/bLrf.webp",
      "mapsUrl": "https://goo.gl/maps/GQMqzaurD6mHzoqA9",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "HYcL",
-     "image": "img/netherlands/HYcL.webp",
+     "image": "data/img/netherlands/HYcL.webp",
      "mapsUrl": "https://goo.gl/maps/ymYJ3mCFQUPYgNcd7",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "xQ7P",
-     "image": "img/netherlands/xQ7P.webp",
+     "image": "data/img/netherlands/xQ7P.webp",
      "mapsUrl": "https://goo.gl/maps/mT3GjNSRvQ2NPihX7",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "36OP",
-     "image": "img/netherlands/36OP.webp",
+     "image": "data/img/netherlands/36OP.webp",
      "mapsUrl": "https://goo.gl/maps/gE7BEhtiWJTNb72F7",
      "width": 0.5,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "eSJE",
-     "image": "img/netherlands/eSJE.webp",
+     "image": "data/img/netherlands/eSJE.webp",
      "mapsUrl": "https://goo.gl/maps/MaWxHPk5LrcR6m1JA",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "B3Dg",
-     "image": "img/netherlands/B3Dg.webp",
+     "image": "data/img/netherlands/B3Dg.webp",
      "mapsUrl": "https://www.google.com/maps/@52.4952465,5.0704956,3a,37.7y,90.59h,106.8t,0.51r/data=!3m6!1e1!3m4!1s81rwpbd8HyoQjIMLTVsYbQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "nqei",
-     "image": "img/netherlands/nqei.webp",
+     "image": "data/img/netherlands/nqei.webp",
      "mapsUrl": "https://www.google.com/maps/@52.1089484,5.7102493,3a,38.7y,17.09h,84.08t/data=!3m6!1e1!3m4!1sKTsgIL7ZIEJoEgGG1x9NEg!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "HxdF",
-     "image": "img/netherlands/HxdF.webp",
+     "image": "data/img/netherlands/HxdF.webp",
      "mapsUrl": "https://goo.gl/maps/7bUsdJo6LBGCGzfN9",
      "width": 0.5,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "Cw0P",
-     "image": "img/netherlands/Cw0P.webp",
+     "image": "data/img/netherlands/Cw0P.webp",
      "mapsUrl": "https://maps.app.goo.gl/WVmEYLL4GXgzj4va9",
      "width": 0.5,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "ChWn",
-     "image": "img/netherlands/ChWn.webp",
+     "image": "data/img/netherlands/ChWn.webp",
      "mapsUrl": "https://goo.gl/maps/PvsqLY5QxNmkySQ16",
      "width": 0.5,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "xEO9",
-     "image": "img/netherlands/xEO9.webp",
+     "image": "data/img/netherlands/xEO9.webp",
      "mapsUrl": "https://goo.gl/maps/HmGUfwkdPKUS4zLQ9",
      "width": 0.5,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "dIs0",
-     "image": "img/netherlands/dIs0.webp",
+     "image": "data/img/netherlands/dIs0.webp",
      "mapsUrl": "https://goo.gl/maps/LPW1woZLx9Q9p4v69",
      "width": 0.5,
      "text": [
@@ -230,7 +230,7 @@
     },
     {
      "id": "vamQ",
-     "image": "img/netherlands/vamQ.webp",
+     "image": "data/img/netherlands/vamQ.webp",
      "mapsUrl": "https://goo.gl/maps/2PhhGDhvVpNRAud46",
      "width": 0.5,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "CVMV",
-     "image": "img/netherlands/CVMV.webp",
+     "image": "data/img/netherlands/CVMV.webp",
      "mapsUrl": "https://goo.gl/maps/TdPLJxWQ6gi9npW47",
      "width": 0.5,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "NyGc",
-     "image": "img/netherlands/NyGc.webp",
+     "image": "data/img/netherlands/NyGc.webp",
      "mapsUrl": "https://goo.gl/maps/KADMGYAZivi5cpuE9",
      "width": 0.5,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "58qC",
-     "image": "img/netherlands/58qC.webp",
+     "image": "data/img/netherlands/58qC.webp",
      "mapsUrl": "https://goo.gl/maps/3Kmbe5adzr5RxfAPA",
      "width": 0.5,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "lZws",
-     "image": "img/netherlands/lZws.webp",
+     "image": "data/img/netherlands/lZws.webp",
      "mapsUrl": "https://maps.app.goo.gl/u2DBkgBC4a5RnqF18",
      "width": 0.5,
      "text": [
@@ -286,7 +286,7 @@
    "metas": [
     {
      "id": "hcMa",
-     "image": "img/netherlands/hcMa.webp",
+     "image": "data/img/netherlands/hcMa.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "PKNI",
-     "image": "img/netherlands/PKNI.webp",
+     "image": "data/img/netherlands/PKNI.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "IMIN",
-     "image": "img/netherlands/IMIN.webp",
+     "image": "data/img/netherlands/IMIN.webp",
      "mapsUrl": "/images/netherlands/Regional_flags.png",
      "width": 0.573,
      "text": [
@@ -321,7 +321,7 @@
     },
     {
      "id": "Jaik",
-     "image": "img/netherlands/Jaik.webp",
+     "image": "data/img/netherlands/Jaik.webp",
      "mapsUrl": "https://goo.gl/maps/VhnjVZbvU6y7UHp57",
      "width": 0.573,
      "text": [
@@ -332,7 +332,7 @@
     },
     {
      "id": "r0hh",
-     "image": "img/netherlands/r0hh.webp",
+     "image": "data/img/netherlands/r0hh.webp",
      "mapsUrl": "https://maps.app.goo.gl/VAXna2ekKmvC6QCP7",
      "width": 0.573,
      "text": [
@@ -341,7 +341,7 @@
     },
     {
      "id": "15kd",
-     "image": "img/netherlands/15kd.webp",
+     "image": "data/img/netherlands/15kd.webp",
      "mapsUrl": "https://maps.app.goo.gl/34dHXax9uT9FSa3Y8",
      "width": 0.573,
      "text": [
@@ -350,7 +350,7 @@
     },
     {
      "id": "5Rdh",
-     "image": "img/netherlands/5Rdh.webp",
+     "image": "data/img/netherlands/5Rdh.webp",
      "mapsUrl": "https://goo.gl/maps/h2WLheRg28ZdoU7C6",
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "keUQ",
-     "image": "img/netherlands/keUQ.webp",
+     "image": "data/img/netherlands/keUQ.webp",
      "mapsUrl": "https://goo.gl/maps/KbrXqrG16nmXQziS9",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "KAD1",
-     "image": "img/netherlands/KAD1.webp",
+     "image": "data/img/netherlands/KAD1.webp",
      "mapsUrl": "https://goo.gl/maps/xCxLmLzo4mYqNHfe9",
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "FPtB",
-     "image": "img/netherlands/FPtB.webp",
+     "image": "data/img/netherlands/FPtB.webp",
      "mapsUrl": "https://goo.gl/maps/oyccR5kBgJgQwpHu5",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "TXoh",
-     "image": "img/netherlands/TXoh.webp",
+     "image": "data/img/netherlands/TXoh.webp",
      "mapsUrl": "https://goo.gl/maps/gDJj6zpa5QbMJBuy9",
      "width": 0.573,
      "text": [
@@ -398,7 +398,7 @@
     },
     {
      "id": "OL78",
-     "image": "img/netherlands/OL78.webp",
+     "image": "data/img/netherlands/OL78.webp",
      "mapsUrl": "https://goo.gl/maps/72VDXX3bz4cWucZh8",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "TIzw",
-     "image": "img/netherlands/TIzw.webp",
+     "image": "data/img/netherlands/TIzw.webp",
      "mapsUrl": "https://goo.gl/maps/PbFwfjTLEzVemfJF7",
      "width": 0.573,
      "text": [
@@ -416,7 +416,7 @@
     },
     {
      "id": "ZZh6",
-     "image": "img/netherlands/ZZh6.webp",
+     "image": "data/img/netherlands/ZZh6.webp",
      "mapsUrl": "https://goo.gl/maps/YvvrppJE3va9qSGK7",
      "width": 0.573,
      "text": [
@@ -425,7 +425,7 @@
     },
     {
      "id": "SWmB",
-     "image": "img/netherlands/SWmB.webp",
+     "image": "data/img/netherlands/SWmB.webp",
      "mapsUrl": "https://goo.gl/maps/xVjTBS5VJaju9X8r6",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "PQs0",
-     "image": "img/netherlands/PQs0.webp",
+     "image": "data/img/netherlands/PQs0.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Curacao_in_its_region.svg/1920px-Curacao_in_its_region.svg.png",
      "width": 0.573,
      "text": [
@@ -454,7 +454,7 @@
    "metas": [
     {
      "id": "ABWw",
-     "image": "img/netherlands/ABWw.webp",
+     "image": "data/img/netherlands/ABWw.webp",
      "mapsUrl": "https://goo.gl/maps/Zr994hrmEmv4YoFc9",
      "width": 0.573,
      "text": [
@@ -464,7 +464,7 @@
     },
     {
      "id": "FqgZ",
-     "image": "img/netherlands/FqgZ.webp",
+     "image": "data/img/netherlands/FqgZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/D2E6nPytxoSRDb5W6",
      "width": 0.573,
      "text": [
@@ -473,7 +473,7 @@
     },
     {
      "id": "kG3k",
-     "image": "img/netherlands/kG3k.webp",
+     "image": "data/img/netherlands/kG3k.webp",
      "mapsUrl": "https://goo.gl/maps/3czvsfrcMTLujVEN7",
      "width": 0.573,
      "text": [
@@ -482,7 +482,7 @@
     },
     {
      "id": "qfv9",
-     "image": "img/netherlands/qfv9.webp",
+     "image": "data/img/netherlands/qfv9.webp",
      "mapsUrl": "https://goo.gl/maps/fD6w35NQ92SrFod5A",
      "width": 0.573,
      "text": [
@@ -492,7 +492,7 @@
     },
     {
      "id": "ANbj",
-     "image": "img/netherlands/ANbj.webp",
+     "image": "data/img/netherlands/ANbj.webp",
      "mapsUrl": "https://goo.gl/maps/QTfEob3QKgUJabgd7",
      "width": 0.573,
      "text": [
@@ -501,7 +501,7 @@
     },
     {
      "id": "KiZn",
-     "image": "img/netherlands/KiZn.webp",
+     "image": "data/img/netherlands/KiZn.webp",
      "mapsUrl": "https://goo.gl/maps/PLHbeWgwdhzkZmWm6",
      "width": 0.573,
      "text": [
@@ -510,7 +510,7 @@
     },
     {
      "id": "IYay",
-     "image": "img/netherlands/IYay.webp",
+     "image": "data/img/netherlands/IYay.webp",
      "mapsUrl": "https://goo.gl/maps/U5RFabWMgTHHEfTw8",
      "width": 0.573,
      "text": [
@@ -520,7 +520,7 @@
     },
     {
      "id": "9wTg",
-     "image": "img/netherlands/9wTg.webp",
+     "image": "data/img/netherlands/9wTg.webp",
      "mapsUrl": "https://goo.gl/maps/K7C3T5TbKH8bZF528",
      "width": 0.573,
      "text": [
@@ -529,7 +529,7 @@
     },
     {
      "id": "oG0B",
-     "image": "img/netherlands/oG0B.webp",
+     "image": "data/img/netherlands/oG0B.webp",
      "mapsUrl": "https://goo.gl/maps/o1NmpjhqsCZ7CWHN8",
      "width": 0.573,
      "text": [

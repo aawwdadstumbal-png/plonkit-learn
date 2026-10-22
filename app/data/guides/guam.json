@@ -3,7 +3,7 @@
  "title": "Guam",
  "code": "GU",
  "continent": "Oceania",
- "hero": "img/guam/hero.webp",
+ "hero": "data/img/guam/hero.webp",
  "metaCount": 12,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "w6da",
-     "image": "img/guam/w6da.webp",
+     "image": "data/img/guam/w6da.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Guam_in_Oceania_%28-mini_map_-rivers%29.svg/2388px-Guam_in_Oceania_%28-mini_map_-rivers%29.svg.png",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "KSIf",
-     "image": "img/guam/KSIf.webp",
+     "image": "data/img/guam/KSIf.webp",
      "mapsUrl": "https://goo.gl/maps/VRiC7utYWhZZjnsm9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "04NE",
-     "image": "img/guam/04NE.webp",
+     "image": "data/img/guam/04NE.webp",
      "mapsUrl": "https://goo.gl/maps/jPup4bbtnzrAwtpM7",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "Gyzt",
-     "image": "img/guam/Gyzt.webp",
+     "image": "data/img/guam/Gyzt.webp",
      "mapsUrl": "https://goo.gl/maps/FCLP4g95945UNCAs8",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "a1Iu",
-     "image": "img/guam/a1Iu.webp",
+     "image": "data/img/guam/a1Iu.webp",
      "mapsUrl": "https://goo.gl/maps/dquWaVahW6qV5rSY8",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "793A",
-     "image": "img/guam/793A.webp",
+     "image": "data/img/guam/793A.webp",
      "mapsUrl": "https://goo.gl/maps/rV74Bk4bBnfL1emp9",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "eTI3",
-     "image": "img/guam/eTI3.webp",
+     "image": "data/img/guam/eTI3.webp",
      "mapsUrl": "https://goo.gl/maps/5nqPw4zR28Bqm25w5",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
    "metas": [
     {
      "id": "I0mE",
-     "image": "img/guam/I0mE.webp",
+     "image": "data/img/guam/I0mE.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "qvj3",
-     "image": "img/guam/qvj3.webp",
+     "image": "data/img/guam/qvj3.webp",
      "mapsUrl": "https://maps.app.goo.gl/542NLfJXbMdfNzQE9",
      "width": 0.573,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "59r8",
-     "image": "img/guam/59r8.webp",
+     "image": "data/img/guam/59r8.webp",
      "mapsUrl": "https://maps.app.goo.gl/FTkRJj1AEnDoWnwP8",
      "width": 0.573,
      "text": [
@@ -131,7 +131,7 @@
    "metas": [
     {
      "id": "hxXB",
-     "image": "img/guam/hxXB.webp",
+     "image": "data/img/guam/hxXB.webp",
      "mapsUrl": "https://maps.app.goo.gl/AKPVwkAEFB5Wjyes6",
      "width": 0.573,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "D0Zu",
-     "image": "img/guam/D0Zu.webp",
+     "image": "data/img/guam/D0Zu.webp",
      "mapsUrl": "https://goo.gl/maps/mXQvkj25qFMZJRJR8",
      "width": 0.573,
      "text": [

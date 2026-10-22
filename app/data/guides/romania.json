@@ -3,7 +3,7 @@
  "title": "Romania",
  "code": "RO",
  "continent": "Europe",
- "hero": "img/romania/hero.webp",
+ "hero": "data/img/romania/hero.webp",
  "metaCount": 36,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "Xgv2",
-     "image": "img/romania/Xgv2.webp",
+     "image": "data/img/romania/Xgv2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "XTjC",
-     "image": "img/romania/XTjC.webp",
+     "image": "data/img/romania/XTjC.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -45,7 +45,7 @@
     },
     {
      "id": "r5OO",
-     "image": "img/romania/r5OO.webp",
+     "image": "data/img/romania/r5OO.webp",
      "mapsUrl": "https://goo.gl/maps/BbXfviWTuSe3G3mDA",
      "width": 0.5,
      "text": [
@@ -55,7 +55,7 @@
     },
     {
      "id": "xdQ8",
-     "image": "img/romania/xdQ8.webp",
+     "image": "data/img/romania/xdQ8.webp",
      "mapsUrl": "https://goo.gl/maps/G6uvNCUHkBtGfgxJA",
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "7JK8",
-     "image": "img/romania/7JK8.webp",
+     "image": "data/img/romania/7JK8.webp",
      "mapsUrl": "https://goo.gl/maps/awJvDpnjiu2YCAci6",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "Z6QV",
-     "image": "img/romania/Z6QV.webp",
+     "image": "data/img/romania/Z6QV.webp",
      "mapsUrl": "https://www.google.com/maps/@47.2158114,27.2663443,3a,23.4y,114.82h,89.75t/data=!3m6!1e1!3m4!1s5D0Z_-G9YQyMHF1LR1toGQ!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "QpwL",
-     "image": "img/romania/QpwL.webp",
+     "image": "data/img/romania/QpwL.webp",
      "mapsUrl": "https://goo.gl/maps/sNjv7tZzxxVfLyXN9",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "Avi5",
-     "image": "img/romania/Avi5.webp",
+     "image": "data/img/romania/Avi5.webp",
      "mapsUrl": "https://goo.gl/maps/JF79ZuqP1pTPULc7A",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "qXOq",
-     "image": "img/romania/qXOq.webp",
+     "image": "data/img/romania/qXOq.webp",
      "mapsUrl": "https://goo.gl/maps/vvDEgAWWy83Jhzrw6",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "un8E",
-     "image": "img/romania/un8E.webp",
+     "image": "data/img/romania/un8E.webp",
      "mapsUrl": "https://goo.gl/maps/LpEu1E3BgmUWUo3A6",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "eXuS",
-     "image": "img/romania/eXuS.webp",
+     "image": "data/img/romania/eXuS.webp",
      "mapsUrl": "https://goo.gl/maps/qvLwKEJp4XvJAVCw7",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "QdP9",
-     "image": "img/romania/QdP9.webp",
+     "image": "data/img/romania/QdP9.webp",
      "mapsUrl": "https://goo.gl/maps/irNpc2K6AKCA11uv6",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "khtk",
-     "image": "img/romania/khtk.webp",
+     "image": "data/img/romania/khtk.webp",
      "mapsUrl": "https://goo.gl/maps/vUnKEU2vkSBUbUFH6",
      "width": 0.5,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "QZba",
-     "image": "img/romania/QZba.webp",
+     "image": "data/img/romania/QZba.webp",
      "mapsUrl": "https://goo.gl/maps/YhbpDAkULoAwrhfz5",
      "width": 0.5,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "6jeS",
-     "image": "img/romania/6jeS.webp",
+     "image": "data/img/romania/6jeS.webp",
      "mapsUrl": "https://goo.gl/maps/K8CCdAyKfAgDfpBN6",
      "width": 0.5,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "7f9M",
-     "image": "img/romania/7f9M.webp",
+     "image": "data/img/romania/7f9M.webp",
      "mapsUrl": "https://goo.gl/maps/fENaBoU6f4yVCC6U7",
      "width": 0.5,
      "text": [
@@ -181,7 +181,7 @@
     },
     {
      "id": "piI6",
-     "image": "img/romania/piI6.webp",
+     "image": "data/img/romania/piI6.webp",
      "mapsUrl": "https://goo.gl/maps/tHJ5Sc9yu41SjKrv6",
      "width": 0.5,
      "text": [
@@ -190,7 +190,7 @@
     },
     {
      "id": "n0lg",
-     "image": "img/romania/n0lg.webp",
+     "image": "data/img/romania/n0lg.webp",
      "mapsUrl": "https://goo.gl/maps/nKGDnFxQJnYRt18y6",
      "width": 0.5,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "8US1",
-     "image": "img/romania/8US1.webp",
+     "image": "data/img/romania/8US1.webp",
      "mapsUrl": "https://goo.gl/maps/uHbzkEtLdUkQPMXm7",
      "width": 0.5,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "tyiy",
-     "image": "img/romania/tyiy.webp",
+     "image": "data/img/romania/tyiy.webp",
      "mapsUrl": "https://goo.gl/maps/oVQyRRzaeNiQc1iM9",
      "width": 0.5,
      "text": [
@@ -227,7 +227,7 @@
    "metas": [
     {
      "id": "R67M",
-     "image": "img/romania/R67M.webp",
+     "image": "data/img/romania/R67M.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -236,7 +236,7 @@
     },
     {
      "id": "KpUv",
-     "image": "img/romania/KpUv.webp",
+     "image": "data/img/romania/KpUv.webp",
      "mapsUrl": "https://goo.gl/maps/KkmZhjZYkvGR2nZz8",
      "width": 0.573,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "EaaX",
-     "image": "img/romania/EaaX.webp",
+     "image": "data/img/romania/EaaX.webp",
      "mapsUrl": "https://goo.gl/maps/79Me8TjyVVXhRCeK6",
      "width": 0.573,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "bBQ3",
-     "image": "img/romania/bBQ3.webp",
+     "image": "data/img/romania/bBQ3.webp",
      "mapsUrl": "https://goo.gl/maps/BeQ2EMeJggWHg9VH7",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "dE1L",
-     "image": "img/romania/dE1L.webp",
+     "image": "data/img/romania/dE1L.webp",
      "mapsUrl": "https://goo.gl/maps/7tmDUB3Fd1ZtLDn49",
      "width": 0.573,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "szyO",
-     "image": "img/romania/szyO.webp",
+     "image": "data/img/romania/szyO.webp",
      "mapsUrl": "https://goo.gl/maps/p1Xh7RycpT5MViQq7",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
     },
     {
      "id": "MZtj",
-     "image": "img/romania/MZtj.webp",
+     "image": "data/img/romania/MZtj.webp",
      "mapsUrl": "https://goo.gl/maps/7n7JwJahPKaVsqEw9",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "WIRI",
-     "image": "img/romania/WIRI.webp",
+     "image": "data/img/romania/WIRI.webp",
      "mapsUrl": "https://goo.gl/maps/9jDbnwWzAEqWgNeq9",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "eDOq",
-     "image": "img/romania/eDOq.webp",
+     "image": "data/img/romania/eDOq.webp",
      "mapsUrl": "https://goo.gl/maps/1YFHZVYS2oJURdh67",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
    "metas": [
     {
      "id": "kGpN",
-     "image": "img/romania/kGpN.webp",
+     "image": "data/img/romania/kGpN.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "t7FZ",
-     "image": "img/romania/t7FZ.webp",
+     "image": "data/img/romania/t7FZ.webp",
      "mapsUrl": "https://www.google.com/maps/@45.3551017,23.6507016,3a,90y,178.67h,74.71t/data=!3m6!1e1!3m4!1sDR1XG1S6qs5U-KrtmiFmZA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -337,7 +337,7 @@
     },
     {
      "id": "AREv",
-     "image": "img/romania/AREv.webp",
+     "image": "data/img/romania/AREv.webp",
      "mapsUrl": "https://www.google.com/maps/@45.59196,24.6263706,3a,90y,124.93h,81.93t/data=!3m6!1e1!3m4!1sH6YJZP4ZIOp5rFuCB_aX9Q!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -346,7 +346,7 @@
     },
     {
      "id": "GoCj",
-     "image": "img/romania/GoCj.webp",
+     "image": "data/img/romania/GoCj.webp",
      "mapsUrl": "https://goo.gl/maps/edCzcABfQto3ByQV9",
      "width": 0.573,
      "text": [
@@ -355,7 +355,7 @@
     },
     {
      "id": "zM4T",
-     "image": "img/romania/zM4T.webp",
+     "image": "data/img/romania/zM4T.webp",
      "mapsUrl": "https://www.google.com/maps/@45.4121737,25.5336814,3a,90y,271.74h,90t/data=!3m6!1e1!3m4!1sYqM0_MBtN3yDhCkVPbD_Dw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -364,7 +364,7 @@
     },
     {
      "id": "1AKz",
-     "image": "img/romania/1AKz.webp",
+     "image": "data/img/romania/1AKz.webp",
      "mapsUrl": "https://www.google.com/maps/@44.5919801,26.2750333,3a,90y,135.49h,81.62t/data=!3m6!1e1!3m4!1swYp3ndORv2h9N_Kb0Iw70Q!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -373,7 +373,7 @@
     },
     {
      "id": "G0Rh",
-     "image": "img/romania/G0Rh.webp",
+     "image": "data/img/romania/G0Rh.webp",
      "mapsUrl": "https://goo.gl/maps/jC3Rd17fESR1njgM6",
      "width": 0.573,
      "text": [

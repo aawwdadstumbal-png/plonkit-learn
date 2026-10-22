@@ -3,7 +3,7 @@
  "title": "Belarus",
  "code": "BY",
  "continent": "Europe",
- "hero": "img/belarus/hero.webp",
+ "hero": "data/img/belarus/hero.webp",
  "metaCount": 6,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "Jq87",
-     "image": "img/belarus/Jq87.webp",
+     "image": "data/img/belarus/Jq87.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -32,7 +32,7 @@
     },
     {
      "id": "GrKy",
-     "image": "img/belarus/GrKy.webp",
+     "image": "data/img/belarus/GrKy.webp",
      "mapsUrl": "https://goo.gl/maps/T2dS9DmPMAHvoG7s7",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "aHmA",
-     "image": "img/belarus/aHmA.webp",
+     "image": "data/img/belarus/aHmA.webp",
      "mapsUrl": "https://goo.gl/maps/knpeW7A115CrHQaZ9",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "JIQL",
-     "image": "img/belarus/JIQL.webp",
+     "image": "data/img/belarus/JIQL.webp",
      "mapsUrl": "https://goo.gl/maps/GsTiY3PefHnHorth9",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "nIJX",
-     "image": "img/belarus/nIJX.webp",
+     "image": "data/img/belarus/nIJX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "USRk",
-     "image": "img/belarus/USRk.webp",
+     "image": "data/img/belarus/USRk.webp",
      "mapsUrl": "https://goo.gl/maps/SCKDqSV1qcotwwbFA",
      "width": 0.5,
      "text": [

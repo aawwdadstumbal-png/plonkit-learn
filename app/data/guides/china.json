@@ -3,7 +3,7 @@
  "title": "China",
  "code": "CN",
  "continent": "Asia",
- "hero": "img/china/hero.webp",
+ "hero": "data/img/china/hero.webp",
  "metaCount": 16,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "0D6J",
-     "image": "img/china/0D6J.webp",
+     "image": "data/img/china/0D6J.webp",
      "mapsUrl": "https://goo.gl/maps/otmXAQfR43YAKUzYA",
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "7ABL",
-     "image": "img/china/7ABL.webp",
+     "image": "data/img/china/7ABL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "CygQ",
-     "image": "img/china/CygQ.webp",
+     "image": "data/img/china/CygQ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
    "metas": [
     {
      "id": "R4Q8",
-     "image": "img/china/R4Q8.webp",
+     "image": "data/img/china/R4Q8.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "y76w",
-     "image": "img/china/y76w.webp",
+     "image": "data/img/china/y76w.webp",
      "mapsUrl": "https://goo.gl/maps/3CuSgZx5AikTBYwa9",
      "width": 0.573,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "dosV",
-     "image": "img/china/dosV.webp",
+     "image": "data/img/china/dosV.webp",
      "mapsUrl": "https://goo.gl/maps/HXYKRv6u9YGqz4uA8",
      "width": 0.573,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "bsTm",
-     "image": "img/china/bsTm.webp",
+     "image": "data/img/china/bsTm.webp",
      "mapsUrl": "https://goo.gl/maps/N1EK4YpxPCeLrZFDA",
      "width": 0.573,
      "text": [
@@ -111,7 +111,7 @@
    "metas": [
     {
      "id": "pTop",
-     "image": "img/china/pTop.webp",
+     "image": "data/img/china/pTop.webp",
      "mapsUrl": "https://goo.gl/maps/zAALwQg5wcHqz6AH8",
      "width": 0.573,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "2kV6",
-     "image": "img/china/2kV6.webp",
+     "image": "data/img/china/2kV6.webp",
      "mapsUrl": "https://goo.gl/maps/VjETDsdh2ZkTfUab8",
      "width": 0.573,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "9s1q",
-     "image": "img/china/9s1q.webp",
+     "image": "data/img/china/9s1q.webp",
      "mapsUrl": "https://goo.gl/maps/bKxeaX3N6Dnzi5AN7",
      "width": 0.573,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "TjfT",
-     "image": "img/china/TjfT.webp",
+     "image": "data/img/china/TjfT.webp",
      "mapsUrl": "https://goo.gl/maps/mQEmfDV1VzCJjqAM6",
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "ZSAE",
-     "image": "img/china/ZSAE.webp",
+     "image": "data/img/china/ZSAE.webp",
      "mapsUrl": "https://www.google.com/maps/@30.2232945,120.1526687,2a,79.6y,249.45h,96.54t/data=!3m6!1e1!3m4!1sZdljSlLFkKAAAAQvxgSQgg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "Fgo6",
-     "image": "img/china/Fgo6.webp",
+     "image": "data/img/china/Fgo6.webp",
      "mapsUrl": "https://goo.gl/maps/ZadE469v7gEDyHRJA",
      "width": 0.573,
      "text": [
@@ -165,7 +165,7 @@
     },
     {
      "id": "V4ba",
-     "image": "img/china/V4ba.webp",
+     "image": "data/img/china/V4ba.webp",
      "mapsUrl": "https://goo.gl/maps/GnG3GnGZ3vKFwro57",
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "d3En",
-     "image": "img/china/d3En.webp",
+     "image": "data/img/china/d3En.webp",
      "mapsUrl": "https://goo.gl/maps/UEYT4oc5eK6drFYp8",
      "width": 0.573,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "CodW",
-     "image": "img/china/CodW.webp",
+     "image": "data/img/china/CodW.webp",
      "mapsUrl": "https://goo.gl/maps/TnNb1jRvNsKdTun58",
      "width": 0.573,
      "text": [

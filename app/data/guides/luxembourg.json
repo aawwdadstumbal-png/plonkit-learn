@@ -3,7 +3,7 @@
  "title": "Luxembourg",
  "code": "LU",
  "continent": "Europe",
- "hero": "img/luxembourg/hero.webp",
+ "hero": "data/img/luxembourg/hero.webp",
  "metaCount": 21,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "aRna",
-     "image": "img/luxembourg/aRna.webp",
+     "image": "data/img/luxembourg/aRna.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -34,7 +34,7 @@
     },
     {
      "id": "90cv",
-     "image": "img/luxembourg/90cv.webp",
+     "image": "data/img/luxembourg/90cv.webp",
      "mapsUrl": "https://goo.gl/maps/1k1YMDiQdYsGTCBN9",
      "width": 0.5,
      "text": [
@@ -45,7 +45,7 @@
     },
     {
      "id": "DmBj",
-     "image": "img/luxembourg/DmBj.webp",
+     "image": "data/img/luxembourg/DmBj.webp",
      "mapsUrl": "https://goo.gl/maps/gWyvZN9Jsi3C7FCE6",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "nKRO",
-     "image": "img/luxembourg/nKRO.webp",
+     "image": "data/img/luxembourg/nKRO.webp",
      "mapsUrl": "https://goo.gl/maps/GnzsbH9qsaBippZr7",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "t9UN",
-     "image": "img/luxembourg/t9UN.webp",
+     "image": "data/img/luxembourg/t9UN.webp",
      "mapsUrl": "https://goo.gl/maps/uQEtxWh1wkUzygUG9",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "MrJA",
-     "image": "img/luxembourg/MrJA.webp",
+     "image": "data/img/luxembourg/MrJA.webp",
      "mapsUrl": "https://goo.gl/maps/pewwo89zQ6NvNxka8",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "jlnY",
-     "image": "img/luxembourg/jlnY.webp",
+     "image": "data/img/luxembourg/jlnY.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "2Qmq",
-     "image": "img/luxembourg/2Qmq.webp",
+     "image": "data/img/luxembourg/2Qmq.webp",
      "mapsUrl": "https://goo.gl/maps/kfuUC3aPZ2cJfJtz6",
      "width": 0.5,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "gJw2",
-     "image": "img/luxembourg/gJw2.webp",
+     "image": "data/img/luxembourg/gJw2.webp",
      "mapsUrl": "https://goo.gl/maps/y1y8mQWAAdHKhHBn8",
      "width": 0.5,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "oSnE",
-     "image": "img/luxembourg/oSnE.webp",
+     "image": "data/img/luxembourg/oSnE.webp",
      "mapsUrl": "https://goo.gl/maps/yDW4EeUo4kUY8oqb8",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "kWxo",
-     "image": "img/luxembourg/kWxo.webp",
+     "image": "data/img/luxembourg/kWxo.webp",
      "mapsUrl": "https://maps.app.goo.gl/FYq5K1fJUChB4c3YA",
      "width": 0.5,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "e5yT",
-     "image": "img/luxembourg/e5yT.webp",
+     "image": "data/img/luxembourg/e5yT.webp",
      "mapsUrl": "https://goo.gl/maps/zrD22vHSQmsQxgV48",
      "width": 0.5,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "D1t5",
-     "image": "img/luxembourg/D1t5.webp",
+     "image": "data/img/luxembourg/D1t5.webp",
      "mapsUrl": "https://goo.gl/maps/8wCrzZgeRmGJ481Z6",
      "width": 0.5,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "b7NW",
-     "image": "img/luxembourg/b7NW.webp",
+     "image": "data/img/luxembourg/b7NW.webp",
      "mapsUrl": "https://goo.gl/maps/E3a47yQePCeS3xMAA",
      "width": 0.5,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "yx10",
-     "image": "img/luxembourg/yx10.webp",
+     "image": "data/img/luxembourg/yx10.webp",
      "mapsUrl": "https://goo.gl/maps/vKVVXMFQnhKnGFhC9",
      "width": 0.5,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "YP0t",
-     "image": "img/luxembourg/YP0t.webp",
+     "image": "data/img/luxembourg/YP0t.webp",
      "mapsUrl": "https://goo.gl/maps/ScFKk7oPVCthD7gEA",
      "width": 0.5,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "SRxb",
-     "image": "img/luxembourg/SRxb.webp",
+     "image": "data/img/luxembourg/SRxb.webp",
      "mapsUrl": "https://goo.gl/maps/5txSvvv3txW5Kr7BA",
      "width": 0.5,
      "text": [
@@ -212,7 +212,7 @@
    "metas": [
     {
      "id": "S1pq",
-     "image": "img/luxembourg/S1pq.webp",
+     "image": "data/img/luxembourg/S1pq.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -224,7 +224,7 @@
     },
     {
      "id": "oEEg",
-     "image": "img/luxembourg/oEEg.webp",
+     "image": "data/img/luxembourg/oEEg.webp",
      "mapsUrl": "https://goo.gl/maps/ex9EAYUhKSH22R8L8",
      "width": 0.573,
      "text": [
@@ -233,7 +233,7 @@
     },
     {
      "id": "F5fO",
-     "image": "img/luxembourg/F5fO.webp",
+     "image": "data/img/luxembourg/F5fO.webp",
      "mapsUrl": "https://goo.gl/maps/KCPaeaH61qSH2MpcA",
      "width": 0.573,
      "text": [
@@ -251,7 +251,7 @@
    "metas": [
     {
      "id": "wuhb",
-     "image": "img/luxembourg/wuhb.webp",
+     "image": "data/img/luxembourg/wuhb.webp",
      "mapsUrl": "https://goo.gl/maps/pgAZnPGbriZ6P9Fo7",
      "width": 0.573,
      "text": [

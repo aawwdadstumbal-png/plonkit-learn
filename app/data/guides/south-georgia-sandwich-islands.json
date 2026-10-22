@@ -3,7 +3,7 @@
  "title": "South Georgia & Sandwich Islands",
  "code": "GS",
  "continent": "South America",
- "hero": "img/south-georgia-sandwich-islands/hero.webp",
+ "hero": "data/img/south-georgia-sandwich-islands/hero.webp",
  "metaCount": 6,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "qYel",
-     "image": "img/south-georgia-sandwich-islands/qYel.webp",
+     "image": "data/img/south-georgia-sandwich-islands/qYel.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg/1024px-South_Georgia_and_the_South_Sandwich_Islands_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
    "metas": [
     {
      "id": "XCwP",
-     "image": "img/south-georgia-sandwich-islands/XCwP.webp",
+     "image": "data/img/south-georgia-sandwich-islands/XCwP.webp",
      "mapsUrl": "https://goo.gl/maps/kdNgtUvZctCT2V668",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "IQU2",
-     "image": "img/south-georgia-sandwich-islands/IQU2.webp",
+     "image": "data/img/south-georgia-sandwich-islands/IQU2.webp",
      "mapsUrl": "https://goo.gl/maps/9sSS1keXmUWCrLxp8",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "EQWI",
-     "image": "img/south-georgia-sandwich-islands/EQWI.webp",
+     "image": "data/img/south-georgia-sandwich-islands/EQWI.webp",
      "mapsUrl": "https://goo.gl/maps/Daj1Ypkqi2jgDrdx8",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "UmHL",
-     "image": "img/south-georgia-sandwich-islands/UmHL.webp",
+     "image": "data/img/south-georgia-sandwich-islands/UmHL.webp",
      "mapsUrl": "https://goo.gl/maps/3Ev8x2HvxABrM8GCA",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "J8Iq",
-     "image": "img/south-georgia-sandwich-islands/J8Iq.webp",
+     "image": "data/img/south-georgia-sandwich-islands/J8Iq.webp",
      "mapsUrl": "https://goo.gl/maps/7Ywr6UJ2FunxYmhB8",
      "width": 0.5,
      "text": [

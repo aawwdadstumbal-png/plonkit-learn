@@ -3,7 +3,7 @@
  "title": "Japan",
  "code": "JP",
  "continent": "Asia",
- "hero": "img/japan/hero.webp",
+ "hero": "data/img/japan/hero.webp",
  "metaCount": 82,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "PmSr",
-     "image": "img/japan/PmSr.webp",
+     "image": "data/img/japan/PmSr.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -33,7 +33,7 @@
     },
     {
      "id": "T1C7",
-     "image": "img/japan/T1C7.webp",
+     "image": "data/img/japan/T1C7.webp",
      "mapsUrl": "https://goo.gl/maps/odTCEn4Q1yXZwbge9",
      "width": 0.417,
      "text": [
@@ -46,7 +46,7 @@
     },
     {
      "id": "fWHC",
-     "image": "img/japan/fWHC.webp",
+     "image": "data/img/japan/fWHC.webp",
      "mapsUrl": "https://goo.gl/maps/1rpP5aVgpPeruGDy5",
      "width": 0.417,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "f6X5",
-     "image": "img/japan/f6X5.webp",
+     "image": "data/img/japan/f6X5.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "m8Ow",
-     "image": "img/japan/m8Ow.webp",
+     "image": "data/img/japan/m8Ow.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "yYkM",
-     "image": "img/japan/yYkM.webp",
+     "image": "data/img/japan/yYkM.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "um29",
-     "image": "img/japan/um29.webp",
+     "image": "data/img/japan/um29.webp",
      "mapsUrl": "https://goo.gl/maps/wM1xqAHv1ptekU2x7",
      "width": 0.417,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "72uf",
-     "image": "img/japan/72uf.webp",
+     "image": "data/img/japan/72uf.webp",
      "mapsUrl": "https://goo.gl/maps/1zHvtpquCDfZ1MaA9",
      "width": 0.417,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "zkIK",
-     "image": "img/japan/zkIK.webp",
+     "image": "data/img/japan/zkIK.webp",
      "mapsUrl": "https://goo.gl/maps/ktpx5k8gscjBLT2U8",
      "width": 0.417,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "c2hu",
-     "image": "img/japan/c2hu.webp",
+     "image": "data/img/japan/c2hu.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "WYsB",
-     "image": "img/japan/WYsB.webp",
+     "image": "data/img/japan/WYsB.webp",
      "mapsUrl": "https://goo.gl/maps/hRHrPi9F5fcnrsAJA",
      "width": 0.417,
      "text": [
@@ -146,7 +146,7 @@
     },
     {
      "id": "iauQ",
-     "image": "img/japan/iauQ.webp",
+     "image": "data/img/japan/iauQ.webp",
      "mapsUrl": "https://goo.gl/maps/sWw71hqmJwYbek9f6",
      "width": 0.417,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "EIwA",
-     "image": "img/japan/EIwA.webp",
+     "image": "data/img/japan/EIwA.webp",
      "mapsUrl": "https://goo.gl/maps/UeN6H9tb5nC5hhv56",
      "width": 0.417,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "or2V",
-     "image": "img/japan/or2V.webp",
+     "image": "data/img/japan/or2V.webp",
      "mapsUrl": "https://goo.gl/maps/6PsFbdz9gtDyGWbs9",
      "width": 0.417,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "JhXh",
-     "image": "img/japan/JhXh.webp",
+     "image": "data/img/japan/JhXh.webp",
      "mapsUrl": "https://goo.gl/maps/qFGTwrDqnHvFUxa28",
      "width": 0.417,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "Vpks",
-     "image": "img/japan/Vpks.webp",
+     "image": "data/img/japan/Vpks.webp",
      "mapsUrl": "https://goo.gl/maps/s5JbkirV8CYYjgKw7",
      "width": 0.417,
      "text": [
@@ -223,7 +223,7 @@
    "metas": [
     {
      "id": "LVv4",
-     "image": "img/japan/LVv4.webp",
+     "image": "data/img/japan/LVv4.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -233,7 +233,7 @@
     },
     {
      "id": "LYWn",
-     "image": "img/japan/LYWn.webp",
+     "image": "data/img/japan/LYWn.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -242,7 +242,7 @@
     },
     {
      "id": "cX54",
-     "image": "img/japan/cX54.webp",
+     "image": "data/img/japan/cX54.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -251,7 +251,7 @@
     },
     {
      "id": "VKyx",
-     "image": "img/japan/VKyx.webp",
+     "image": "data/img/japan/VKyx.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -260,7 +260,7 @@
     },
     {
      "id": "qIFc",
-     "image": "img/japan/qIFc.webp",
+     "image": "data/img/japan/qIFc.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "g6M6",
-     "image": "img/japan/g6M6.webp",
+     "image": "data/img/japan/g6M6.webp",
      "mapsUrl": "/images/japan/20.png",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "acST",
-     "image": "img/japan/acST.webp",
+     "image": "data/img/japan/acST.webp",
      "mapsUrl": "https://goo.gl/maps/eAAFvQmmADNf3J6C9",
      "width": 0.573,
      "text": [
@@ -288,7 +288,7 @@
     },
     {
      "id": "nPKQ",
-     "image": "img/japan/nPKQ.webp",
+     "image": "data/img/japan/nPKQ.webp",
      "mapsUrl": "https://goo.gl/maps/Uu2qrKToJgsdxNYs8",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "tsJL",
-     "image": "img/japan/tsJL.webp",
+     "image": "data/img/japan/tsJL.webp",
      "mapsUrl": "https://maps.app.goo.gl/1fmpUUkAKqwshL7f9",
      "width": 0.573,
      "text": [
@@ -307,7 +307,7 @@
     },
     {
      "id": "9fGX",
-     "image": "img/japan/9fGX.webp",
+     "image": "data/img/japan/9fGX.webp",
      "mapsUrl": "https://maps.app.goo.gl/bwypJbQDAXz4yUv98",
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
     },
     {
      "id": "FLxL",
-     "image": "img/japan/FLxL.webp",
+     "image": "data/img/japan/FLxL.webp",
      "mapsUrl": "https://maps.app.goo.gl/vxrc8aYqGXDnmM5HA",
      "width": 0.573,
      "text": [
@@ -327,7 +327,7 @@
     },
     {
      "id": "XLBR",
-     "image": "img/japan/XLBR.webp",
+     "image": "data/img/japan/XLBR.webp",
      "mapsUrl": "https://maps.app.goo.gl/rsskJQp9oPpGdPDR9",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "O99c",
-     "image": "img/japan/O99c.webp",
+     "image": "data/img/japan/O99c.webp",
      "mapsUrl": "https://maps.app.goo.gl/yF8PkEfCbKfek7FTA",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "ndLI",
-     "image": "img/japan/ndLI.webp",
+     "image": "data/img/japan/ndLI.webp",
      "mapsUrl": "https://maps.app.goo.gl/QdBDp1XjEBYwM7y36",
      "width": 0.573,
      "text": [
@@ -358,7 +358,7 @@
     },
     {
      "id": "ZevZ",
-     "image": "img/japan/ZevZ.webp",
+     "image": "data/img/japan/ZevZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/HGLz9BBt5ixtvtPCA",
      "width": 0.573,
      "text": [
@@ -367,7 +367,7 @@
     },
     {
      "id": "sWrH",
-     "image": "img/japan/sWrH.webp",
+     "image": "data/img/japan/sWrH.webp",
      "mapsUrl": "https://maps.app.goo.gl/5VXH183VYs6v4NuWA",
      "width": 0.573,
      "text": [
@@ -378,7 +378,7 @@
     },
     {
      "id": "Nw5V",
-     "image": "img/japan/Nw5V.webp",
+     "image": "data/img/japan/Nw5V.webp",
      "mapsUrl": "https://maps.app.goo.gl/gYFTVk2dexinfJ2H6",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "vpIU",
-     "image": "img/japan/vpIU.webp",
+     "image": "data/img/japan/vpIU.webp",
      "mapsUrl": "https://maps.app.goo.gl/yV53cRegcjBHE3HMA",
      "width": 0.573,
      "text": [
@@ -398,7 +398,7 @@
     },
     {
      "id": "c1R6",
-     "image": "img/japan/c1R6.webp",
+     "image": "data/img/japan/c1R6.webp",
      "mapsUrl": "https://maps.app.goo.gl/omsHGdwiTjBhucag8",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "ZMK9",
-     "image": "img/japan/ZMK9.webp",
+     "image": "data/img/japan/ZMK9.webp",
      "mapsUrl": "https://maps.app.goo.gl/qLoT3tpzg29zoAws9",
      "width": 0.573,
      "text": [
@@ -416,7 +416,7 @@
     },
     {
      "id": "U9cw",
-     "image": "img/japan/U9cw.webp",
+     "image": "data/img/japan/U9cw.webp",
      "mapsUrl": "https://maps.app.goo.gl/JD4uh4T6KvfAtnf78",
      "width": 0.573,
      "text": [
@@ -425,7 +425,7 @@
     },
     {
      "id": "tSNC",
-     "image": "img/japan/tSNC.webp",
+     "image": "data/img/japan/tSNC.webp",
      "mapsUrl": "https://goo.gl/maps/3Vv61SnDHDxeSWhn7",
      "width": 0.573,
      "text": [
@@ -434,7 +434,7 @@
     },
     {
      "id": "3Yji",
-     "image": "img/japan/3Yji.webp",
+     "image": "data/img/japan/3Yji.webp",
      "mapsUrl": "https://goo.gl/maps/VQtFcRH2RaJJGuFCA",
      "width": 0.573,
      "text": [
@@ -443,7 +443,7 @@
     },
     {
      "id": "6557",
-     "image": "img/japan/6557.webp",
+     "image": "data/img/japan/6557.webp",
      "mapsUrl": "https://goo.gl/maps/xJVe1sFKLXd9mLRn6",
      "width": 0.573,
      "text": [
@@ -452,7 +452,7 @@
     },
     {
      "id": "8hcH",
-     "image": "img/japan/8hcH.webp",
+     "image": "data/img/japan/8hcH.webp",
      "mapsUrl": "https://goo.gl/maps/S5iSLiYT4qrDw5eC7",
      "width": 0.573,
      "text": [
@@ -461,7 +461,7 @@
     },
     {
      "id": "ZAar",
-     "image": "img/japan/ZAar.webp",
+     "image": "data/img/japan/ZAar.webp",
      "mapsUrl": "https://goo.gl/maps/FtNwNSND7A9tf891A",
      "width": 0.573,
      "text": [
@@ -470,7 +470,7 @@
     },
     {
      "id": "224S",
-     "image": "img/japan/224S.webp",
+     "image": "data/img/japan/224S.webp",
      "mapsUrl": "https://goo.gl/maps/fSFkH2fXwnvsyjFH7",
      "width": 0.573,
      "text": [
@@ -479,7 +479,7 @@
     },
     {
      "id": "RRYf",
-     "image": "img/japan/RRYf.webp",
+     "image": "data/img/japan/RRYf.webp",
      "mapsUrl": "https://goo.gl/maps/EpwKVE4UXme6WtAS8",
      "width": 0.573,
      "text": [
@@ -494,7 +494,7 @@
     },
     {
      "id": "cwwN",
-     "image": "img/japan/cwwN.webp",
+     "image": "data/img/japan/cwwN.webp",
      "mapsUrl": "https://goo.gl/maps/Ya9ccr3PW7DDrgpA7",
      "width": 0.573,
      "text": [
@@ -504,7 +504,7 @@
     },
     {
      "id": "SR14",
-     "image": "img/japan/SR14.webp",
+     "image": "data/img/japan/SR14.webp",
      "mapsUrl": "https://goo.gl/maps/heorE3E5xJFhGBT67",
      "width": 0.573,
      "text": [
@@ -513,7 +513,7 @@
     },
     {
      "id": "YbtC",
-     "image": "img/japan/YbtC.webp",
+     "image": "data/img/japan/YbtC.webp",
      "mapsUrl": "https://goo.gl/maps/R5aeT18Vmf3Hd73HA",
      "width": 0.573,
      "text": [
@@ -523,7 +523,7 @@
     },
     {
      "id": "1dQi",
-     "image": "img/japan/1dQi.webp",
+     "image": "data/img/japan/1dQi.webp",
      "mapsUrl": "https://goo.gl/maps/u7esDUXY9vjNY1bR8",
      "width": 0.573,
      "text": [
@@ -532,7 +532,7 @@
     },
     {
      "id": "YpAf",
-     "image": "img/japan/YpAf.webp",
+     "image": "data/img/japan/YpAf.webp",
      "mapsUrl": "https://goo.gl/maps/6gSAQ4Zfkb5sKJCo7",
      "width": 0.573,
      "text": [
@@ -542,7 +542,7 @@
     },
     {
      "id": "wVGg",
-     "image": "img/japan/wVGg.webp",
+     "image": "data/img/japan/wVGg.webp",
      "mapsUrl": "https://maps.app.goo.gl/ptkUnvbfhLD5AQc1A",
      "width": 0.573,
      "text": [
@@ -551,7 +551,7 @@
     },
     {
      "id": "uFy4",
-     "image": "img/japan/uFy4.webp",
+     "image": "data/img/japan/uFy4.webp",
      "mapsUrl": "https://goo.gl/maps/wnvVeDbRET9pHh749",
      "width": 0.573,
      "text": [
@@ -560,7 +560,7 @@
     },
     {
      "id": "p0xY",
-     "image": "img/japan/p0xY.webp",
+     "image": "data/img/japan/p0xY.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZLd2tLSLQw1sDj319",
      "width": 0.573,
      "text": [
@@ -569,7 +569,7 @@
     },
     {
      "id": "28LV",
-     "image": "img/japan/28LV.webp",
+     "image": "data/img/japan/28LV.webp",
      "mapsUrl": "https://goo.gl/maps/C7KUcChCqa9Qzxqu9",
      "width": 0.573,
      "text": [
@@ -578,7 +578,7 @@
     },
     {
      "id": "j00C",
-     "image": "img/japan/j00C.webp",
+     "image": "data/img/japan/j00C.webp",
      "mapsUrl": "https://maps.app.goo.gl/835g94q4pnJeX9aP7",
      "width": 0.573,
      "text": [
@@ -587,7 +587,7 @@
     },
     {
      "id": "LxRM",
-     "image": "img/japan/LxRM.webp",
+     "image": "data/img/japan/LxRM.webp",
      "mapsUrl": "https://goo.gl/maps/p5AD1AFt15JLpKd56",
      "width": 0.573,
      "text": [
@@ -596,7 +596,7 @@
     },
     {
      "id": "yMq5",
-     "image": "img/japan/yMq5.webp",
+     "image": "data/img/japan/yMq5.webp",
      "mapsUrl": "https://goo.gl/maps/SQR7xhoXueNkspxD9",
      "width": 0.573,
      "text": [
@@ -608,7 +608,7 @@
     },
     {
      "id": "33NM",
-     "image": "img/japan/33NM.webp",
+     "image": "data/img/japan/33NM.webp",
      "mapsUrl": "https://goo.gl/maps/MpJUvHdQWNQSAZk5A",
      "width": 0.573,
      "text": [
@@ -617,7 +617,7 @@
     },
     {
      "id": "IQ4Z",
-     "image": "img/japan/IQ4Z.webp",
+     "image": "data/img/japan/IQ4Z.webp",
      "mapsUrl": "https://goo.gl/maps/yEHadQiwBBJpUH9s6",
      "width": 0.573,
      "text": [
@@ -626,7 +626,7 @@
     },
     {
      "id": "yru1",
-     "image": "img/japan/yru1.webp",
+     "image": "data/img/japan/yru1.webp",
      "mapsUrl": "https://goo.gl/maps/3MhXHAam9CCP5NzJ8",
      "width": 0.573,
      "text": [
@@ -635,7 +635,7 @@
     },
     {
      "id": "HTvr",
-     "image": "img/japan/HTvr.webp",
+     "image": "data/img/japan/HTvr.webp",
      "mapsUrl": "https://maps.app.goo.gl/UoWFLnAqM869yckC9",
      "width": 0.573,
      "text": [
@@ -644,7 +644,7 @@
     },
     {
      "id": "nAl0",
-     "image": "img/japan/nAl0.webp",
+     "image": "data/img/japan/nAl0.webp",
      "mapsUrl": "https://goo.gl/maps/zMmW8ZMv71WRfEGk8",
      "width": 0.573,
      "text": [
@@ -659,7 +659,7 @@
     },
     {
      "id": "sdRS",
-     "image": "img/japan/sdRS.webp",
+     "image": "data/img/japan/sdRS.webp",
      "mapsUrl": "https://goo.gl/maps/bXJ28xTjNUTeBdQX8",
      "width": 0.573,
      "text": [
@@ -668,7 +668,7 @@
     },
     {
      "id": "wcDd",
-     "image": "img/japan/wcDd.webp",
+     "image": "data/img/japan/wcDd.webp",
      "mapsUrl": "https://goo.gl/maps/84ow9jzo7dmP6iBU8",
      "width": 0.573,
      "text": [
@@ -678,7 +678,7 @@
     },
     {
      "id": "QJIK",
-     "image": "img/japan/QJIK.webp",
+     "image": "data/img/japan/QJIK.webp",
      "mapsUrl": "https://maps.app.goo.gl/JNPhZA8GpkyKo4Bs7",
      "width": 0.573,
      "text": [
@@ -687,7 +687,7 @@
     },
     {
      "id": "y6He",
-     "image": "img/japan/y6He.webp",
+     "image": "data/img/japan/y6He.webp",
      "mapsUrl": "https://goo.gl/maps/p7xARcckvhYLtjFn9",
      "width": 0.573,
      "text": [
@@ -697,7 +697,7 @@
     },
     {
      "id": "xUOO",
-     "image": "img/japan/xUOO.webp",
+     "image": "data/img/japan/xUOO.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZJNhYgy5tcVHuTBWA",
      "width": 0.573,
      "text": [
@@ -706,7 +706,7 @@
     },
     {
      "id": "pNOF",
-     "image": "img/japan/pNOF.webp",
+     "image": "data/img/japan/pNOF.webp",
      "mapsUrl": "https://goo.gl/maps/Xyh7eC6Fcqnr7ZEk8",
      "width": 0.573,
      "text": [
@@ -716,7 +716,7 @@
     },
     {
      "id": "nLH3",
-     "image": "img/japan/nLH3.webp",
+     "image": "data/img/japan/nLH3.webp",
      "mapsUrl": "https://goo.gl/maps/eu5NGQRbjdaVnhgU6",
      "width": 0.573,
      "text": [
@@ -726,7 +726,7 @@
     },
     {
      "id": "5e4A",
-     "image": "img/japan/5e4A.webp",
+     "image": "data/img/japan/5e4A.webp",
      "mapsUrl": "https://goo.gl/maps/2wQ94M35BTB4mcJJ6",
      "width": 0.573,
      "text": [
@@ -736,7 +736,7 @@
     },
     {
      "id": "HmjC",
-     "image": "img/japan/HmjC.webp",
+     "image": "data/img/japan/HmjC.webp",
      "mapsUrl": "https://goo.gl/maps/sXDARqf36ECLGA6w7",
      "width": 0.573,
      "text": [
@@ -746,7 +746,7 @@
     },
     {
      "id": "kk8b",
-     "image": "img/japan/kk8b.webp",
+     "image": "data/img/japan/kk8b.webp",
      "mapsUrl": "https://goo.gl/maps/w7LrfneqvpeK7MYeA",
      "width": 0.573,
      "text": [
@@ -755,7 +755,7 @@
     },
     {
      "id": "5BgJ",
-     "image": "img/japan/5BgJ.webp",
+     "image": "data/img/japan/5BgJ.webp",
      "mapsUrl": "https://goo.gl/maps/AqFFzB9p2rcF2t7b6",
      "width": 0.573,
      "text": [
@@ -765,7 +765,7 @@
     },
     {
      "id": "1FK1",
-     "image": "img/japan/1FK1.webp",
+     "image": "data/img/japan/1FK1.webp",
      "mapsUrl": "https://maps.app.goo.gl/ftoSxuUWWaNza7tXA",
      "width": 0.573,
      "text": [
@@ -774,7 +774,7 @@
     },
     {
      "id": "6R3b",
-     "image": "img/japan/6R3b.webp",
+     "image": "data/img/japan/6R3b.webp",
      "mapsUrl": "https://maps.app.goo.gl/HVCZxBsD4w4nbNwm9",
      "width": 0.573,
      "text": [
@@ -783,7 +783,7 @@
     },
     {
      "id": "p58z",
-     "image": "img/japan/p58z.webp",
+     "image": "data/img/japan/p58z.webp",
      "mapsUrl": "https://goo.gl/maps/MhhgaQ7K5CSiDFUC6",
      "width": 0.573,
      "text": [
@@ -802,7 +802,7 @@
    "metas": [
     {
      "id": "wtVB",
-     "image": "img/japan/wtVB.webp",
+     "image": "data/img/japan/wtVB.webp",
      "mapsUrl": "https://goo.gl/maps/2mR9bPLcbSuzYBNY7",
      "width": 0.573,
      "text": [
@@ -811,7 +811,7 @@
     },
     {
      "id": "mGDI",
-     "image": "img/japan/mGDI.webp",
+     "image": "data/img/japan/mGDI.webp",
      "mapsUrl": "https://maps.app.goo.gl/gXn7tDa17k1ZSeyU7",
      "width": 0.573,
      "text": [
@@ -820,7 +820,7 @@
     },
     {
      "id": "J3hs",
-     "image": "img/japan/J3hs.webp",
+     "image": "data/img/japan/J3hs.webp",
      "mapsUrl": "https://goo.gl/maps/Uuo6KyoAEdqXgH1z9",
      "width": 0.573,
      "text": [
@@ -830,7 +830,7 @@
     },
     {
      "id": "Qteb",
-     "image": "img/japan/Qteb.webp",
+     "image": "data/img/japan/Qteb.webp",
      "mapsUrl": "https://maps.app.goo.gl/MaparuZdNYvsZSUy7",
      "width": 0.573,
      "text": [
@@ -839,7 +839,7 @@
     },
     {
      "id": "tF8q",
-     "image": "img/japan/tF8q.webp",
+     "image": "data/img/japan/tF8q.webp",
      "mapsUrl": "https://goo.gl/maps/Y1a8eq92gw41hKp1A",
      "width": 0.573,
      "text": [
@@ -848,7 +848,7 @@
     },
     {
      "id": "ydq3",
-     "image": "img/japan/ydq3.webp",
+     "image": "data/img/japan/ydq3.webp",
      "mapsUrl": "https://maps.app.goo.gl/HnmwJN3dPqd46vj18",
      "width": 0.573,
      "text": [
@@ -857,7 +857,7 @@
     },
     {
      "id": "FRiS",
-     "image": "img/japan/FRiS.webp",
+     "image": "data/img/japan/FRiS.webp",
      "mapsUrl": "https://maps.app.goo.gl/EvybAqsgtmCheR3D9",
      "width": 0.573,
      "text": [

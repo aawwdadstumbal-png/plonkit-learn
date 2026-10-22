@@ -3,7 +3,7 @@
  "title": "Albania",
  "code": "AL",
  "continent": "Europe",
- "hero": "img/albania/hero.webp",
+ "hero": "data/img/albania/hero.webp",
  "metaCount": 35,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "nK4e",
-     "image": "img/albania/nK4e.webp",
+     "image": "data/img/albania/nK4e.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "i4Ky",
-     "image": "img/albania/i4Ky.webp",
+     "image": "data/img/albania/i4Ky.webp",
      "mapsUrl": "https://maps.app.goo.gl/LfXwRcUQpAQorwXB8",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "iM5P",
-     "image": "img/albania/iM5P.webp",
+     "image": "data/img/albania/iM5P.webp",
      "mapsUrl": "https://goo.gl/maps/P8qjpZRz5JsZGEFn8",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "z0A7",
-     "image": "img/albania/z0A7.webp",
+     "image": "data/img/albania/z0A7.webp",
      "mapsUrl": "https://goo.gl/maps/a6vGbAJb9UdpK7kKA",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "vH1O",
-     "image": "img/albania/vH1O.webp",
+     "image": "data/img/albania/vH1O.webp",
      "mapsUrl": "https://goo.gl/maps/DoXqx2iacPF6cNGt5",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "NXsL",
-     "image": "img/albania/NXsL.webp",
+     "image": "data/img/albania/NXsL.webp",
      "mapsUrl": "https://goo.gl/maps/rRokEAZCMBYJSPm79",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "83ib",
-     "image": "img/albania/83ib.webp",
+     "image": "data/img/albania/83ib.webp",
      "mapsUrl": "https://goo.gl/maps/u1Fvkj953tb1jdNZ9",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "Ndso",
-     "image": "img/albania/Ndso.webp",
+     "image": "data/img/albania/Ndso.webp",
      "mapsUrl": "https://goo.gl/maps/vi6jZqVZyuELLBj48",
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "QA4i",
-     "image": "img/albania/QA4i.webp",
+     "image": "data/img/albania/QA4i.webp",
      "mapsUrl": "https://goo.gl/maps/WhZcH34efBpE7WES8",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "IKcR",
-     "image": "img/albania/IKcR.webp",
+     "image": "data/img/albania/IKcR.webp",
      "mapsUrl": "https://goo.gl/maps/ZmXmUuusjASwFZNt7",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "nISa",
-     "image": "img/albania/nISa.webp",
+     "image": "data/img/albania/nISa.webp",
      "mapsUrl": "https://goo.gl/maps/ssFM7qYcMrJcncdw9",
      "width": 0.5,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "92gY",
-     "image": "img/albania/92gY.webp",
+     "image": "data/img/albania/92gY.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "Utnq",
-     "image": "img/albania/Utnq.webp",
+     "image": "data/img/albania/Utnq.webp",
      "mapsUrl": "https://goo.gl/maps/BLE5DhxhMAiUkYrS7",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "imi2",
-     "image": "img/albania/imi2.webp",
+     "image": "data/img/albania/imi2.webp",
      "mapsUrl": "https://goo.gl/maps/HzhLyDyUTPa9tTMY7",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
     },
     {
      "id": "Ver8",
-     "image": "img/albania/Ver8.webp",
+     "image": "data/img/albania/Ver8.webp",
      "mapsUrl": "https://goo.gl/maps/jGCQGT3jmoixjbW57",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "2MxO",
-     "image": "img/albania/2MxO.webp",
+     "image": "data/img/albania/2MxO.webp",
      "mapsUrl": "https://goo.gl/maps/RfSAz7c5UCVZC3Lz7",
      "width": 0.5,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "NGnJ",
-     "image": "img/albania/NGnJ.webp",
+     "image": "data/img/albania/NGnJ.webp",
      "mapsUrl": "https://goo.gl/maps/uU73mK9vb1KyPUMC6",
      "width": 0.5,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "LCAs",
-     "image": "img/albania/LCAs.webp",
+     "image": "data/img/albania/LCAs.webp",
      "mapsUrl": "https://goo.gl/maps/hJfG52mH7inBX6pL7",
      "width": 0.5,
      "text": [
@@ -207,7 +207,7 @@
    "metas": [
     {
      "id": "dFse",
-     "image": "img/albania/dFse.webp",
+     "image": "data/img/albania/dFse.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "yEQq",
-     "image": "img/albania/yEQq.webp",
+     "image": "data/img/albania/yEQq.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -249,7 +249,7 @@
    "metas": [
     {
      "id": "F6zP",
-     "image": "img/albania/F6zP.webp",
+     "image": "data/img/albania/F6zP.webp",
      "mapsUrl": "https://goo.gl/maps/1R2fCXgSBMcwPYFx6",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "F8jb",
-     "image": "img/albania/F8jb.webp",
+     "image": "data/img/albania/F8jb.webp",
      "mapsUrl": "https://goo.gl/maps/WMGNrF5wNfDpu3R99",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "sQLY",
-     "image": "img/albania/sQLY.webp",
+     "image": "data/img/albania/sQLY.webp",
      "mapsUrl": "https://goo.gl/maps/veLEjMS8UBFj3vzU9",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "QFIu",
-     "image": "img/albania/QFIu.webp",
+     "image": "data/img/albania/QFIu.webp",
      "mapsUrl": "https://goo.gl/maps/rizk1E5kKc87xa8w7",
      "width": 0.573,
      "text": [
@@ -285,7 +285,7 @@
     },
     {
      "id": "A9yo",
-     "image": "img/albania/A9yo.webp",
+     "image": "data/img/albania/A9yo.webp",
      "mapsUrl": "https://goo.gl/maps/NDV5KC53X7HP8DNb8",
      "width": 0.573,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "3Ve1",
-     "image": "img/albania/3Ve1.webp",
+     "image": "data/img/albania/3Ve1.webp",
      "mapsUrl": "https://goo.gl/maps/itFEfnUCR4z96TrE7",
      "width": 0.573,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "CS4O",
-     "image": "img/albania/CS4O.webp",
+     "image": "data/img/albania/CS4O.webp",
      "mapsUrl": "https://goo.gl/maps/FpNrFAHj3vdULGam7",
      "width": 0.573,
      "text": [
@@ -312,7 +312,7 @@
     },
     {
      "id": "uBm9",
-     "image": "img/albania/uBm9.webp",
+     "image": "data/img/albania/uBm9.webp",
      "mapsUrl": "https://goo.gl/maps/oE3ykTbAThn6rJqo8",
      "width": 0.573,
      "text": [
@@ -322,7 +322,7 @@
     },
     {
      "id": "LNw7",
-     "image": "img/albania/LNw7.webp",
+     "image": "data/img/albania/LNw7.webp",
      "mapsUrl": "https://goo.gl/maps/AEj3cpf4ZVrTwVeM6",
      "width": 0.573,
      "text": [
@@ -331,7 +331,7 @@
     },
     {
      "id": "oT18",
-     "image": "img/albania/oT18.webp",
+     "image": "data/img/albania/oT18.webp",
      "mapsUrl": "https://goo.gl/maps/sZYSMGLJG2nUEx4TA",
      "width": 0.573,
      "text": [
@@ -340,7 +340,7 @@
     },
     {
      "id": "kR9B",
-     "image": "img/albania/kR9B.webp",
+     "image": "data/img/albania/kR9B.webp",
      "mapsUrl": "https://goo.gl/maps/KmoytEmNYmM7QWXo6",
      "width": 0.573,
      "text": [
@@ -349,7 +349,7 @@
     },
     {
      "id": "FWHl",
-     "image": "img/albania/FWHl.webp",
+     "image": "data/img/albania/FWHl.webp",
      "mapsUrl": "https://goo.gl/maps/dTUc5NfVNyheTugT7",
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "0xYV",
-     "image": "img/albania/0xYV.webp",
+     "image": "data/img/albania/0xYV.webp",
      "mapsUrl": "https://goo.gl/maps/gsF85uUDmmT7MAmB9",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "Wxzu",
-     "image": "img/albania/Wxzu.webp",
+     "image": "data/img/albania/Wxzu.webp",
      "mapsUrl": "https://goo.gl/maps/ff2RMqY8rvXWD1Pc8",
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "TwNX",
-     "image": "img/albania/TwNX.webp",
+     "image": "data/img/albania/TwNX.webp",
      "mapsUrl": "https://goo.gl/maps/VeurhrCF3ma21fyo8",
      "width": 0.573,
      "text": [

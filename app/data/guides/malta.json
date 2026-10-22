@@ -3,7 +3,7 @@
  "title": "Malta",
  "code": "MT",
  "continent": "Europe",
- "hero": "img/malta/hero.webp",
+ "hero": "data/img/malta/hero.webp",
  "metaCount": 15,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "vABj",
-     "image": "img/malta/vABj.webp",
+     "image": "data/img/malta/vABj.webp",
      "mapsUrl": "https://maps.app.goo.gl/rfZ8SAafi1SBttnA9",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "0i5u",
-     "image": "img/malta/0i5u.webp",
+     "image": "data/img/malta/0i5u.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "ZuPI",
-     "image": "img/malta/ZuPI.webp",
+     "image": "data/img/malta/ZuPI.webp",
      "mapsUrl": "https://maps.app.goo.gl/T3QxnVYSJTAy2HE36",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "A85X",
-     "image": "img/malta/A85X.webp",
+     "image": "data/img/malta/A85X.webp",
      "mapsUrl": "https://maps.app.goo.gl/my8PqqA57SB2pbDc6#extra%5Btags%5D=yes",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "4s8H",
-     "image": "img/malta/4s8H.webp",
+     "image": "data/img/malta/4s8H.webp",
      "mapsUrl": "https://maps.app.goo.gl/e19YM7JpiyDN11a89",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "xVAC",
-     "image": "img/malta/xVAC.webp",
+     "image": "data/img/malta/xVAC.webp",
      "mapsUrl": "https://maps.app.goo.gl/yUJShYjxa1mhUeWN6",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "CkGF",
-     "image": "img/malta/CkGF.webp",
+     "image": "data/img/malta/CkGF.webp",
      "mapsUrl": "https://maps.app.goo.gl/MEuWmXYJ3izUoE2v5",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "v6Vj",
-     "image": "img/malta/v6Vj.webp",
+     "image": "data/img/malta/v6Vj.webp",
      "mapsUrl": "https://maps.app.goo.gl/i7LEyjPaARkUwj2x5",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "S9ac",
-     "image": "img/malta/S9ac.webp",
+     "image": "data/img/malta/S9ac.webp",
      "mapsUrl": "https://maps.app.goo.gl/FARDjAGrHppMShPQ7",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "eHEp",
-     "image": "img/malta/eHEp.webp",
+     "image": "data/img/malta/eHEp.webp",
      "mapsUrl": "https://maps.app.goo.gl/Dmr5UrfEJtx7krTx6#extra%5Btags%5D=eng",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "XUts",
-     "image": "img/malta/XUts.webp",
+     "image": "data/img/malta/XUts.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
    "metas": [
     {
      "id": "LOnP",
-     "image": "img/malta/LOnP.webp",
+     "image": "data/img/malta/LOnP.webp",
      "mapsUrl": "https://goo.gl/maps/xFtiRDcMLwNwoRvu6",
      "width": 0.573,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "rb2X",
-     "image": "img/malta/rb2X.webp",
+     "image": "data/img/malta/rb2X.webp",
      "mapsUrl": "https://goo.gl/maps/2F963MPw76pBqYAt7",
      "width": 0.573,
      "text": [
@@ -160,7 +160,7 @@
    "metas": [
     {
      "id": "CXV5",
-     "image": "img/malta/CXV5.webp",
+     "image": "data/img/malta/CXV5.webp",
      "mapsUrl": "https://goo.gl/maps/VRkErHz2kwSuYg1R8",
      "width": 0.573,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "aUAp",
-     "image": "img/malta/aUAp.webp",
+     "image": "data/img/malta/aUAp.webp",
      "mapsUrl": "https://goo.gl/maps/ndhsLqocWaJuh8Si7",
      "width": 0.573,
      "text": [

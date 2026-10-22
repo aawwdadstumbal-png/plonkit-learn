@@ -3,7 +3,7 @@
  "title": "Monaco",
  "code": "MC",
  "continent": "Europe",
- "hero": "img/monaco/hero.webp",
+ "hero": "data/img/monaco/hero.webp",
  "metaCount": 8,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "1Jgd",
-     "image": "img/monaco/1Jgd.webp",
+     "image": "data/img/monaco/1Jgd.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "dU2m",
-     "image": "img/monaco/dU2m.webp",
+     "image": "data/img/monaco/dU2m.webp",
      "mapsUrl": "https://goo.gl/maps/uigMhSwBe6SnCU4MA",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "c3Rx",
-     "image": "img/monaco/c3Rx.webp",
+     "image": "data/img/monaco/c3Rx.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "W7d3",
-     "image": "img/monaco/W7d3.webp",
+     "image": "data/img/monaco/W7d3.webp",
      "mapsUrl": "https://goo.gl/maps/3JveALZ5vX8AUkGH8",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "3BaL",
-     "image": "img/monaco/3BaL.webp",
+     "image": "data/img/monaco/3BaL.webp",
      "mapsUrl": "https://goo.gl/maps/mUwP7PCGfzLuZaWs6",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "6LyB",
-     "image": "img/monaco/6LyB.webp",
+     "image": "data/img/monaco/6LyB.webp",
      "mapsUrl": "https://goo.gl/maps/E3Y9ws3uw87UwoEe7",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "gJQj",
-     "image": "img/monaco/gJQj.webp",
+     "image": "data/img/monaco/gJQj.webp",
      "mapsUrl": "https://goo.gl/maps/EhdAvrCRYS7czP3y7",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
    "metas": [
     {
      "id": "Dzdt",
-     "image": "img/monaco/Dzdt.webp",
+     "image": "data/img/monaco/Dzdt.webp",
      "mapsUrl": "https://goo.gl/maps/v3st3FYK3yrp3wVc9",
      "width": 0.573,
      "text": [

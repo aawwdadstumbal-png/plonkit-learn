@@ -3,7 +3,7 @@
  "title": "Germany",
  "code": "DE",
  "continent": "Europe",
- "hero": "img/germany/hero.webp",
+ "hero": "data/img/germany/hero.webp",
  "metaCount": 71,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "7lT0",
-     "image": "img/germany/7lT0.webp",
+     "image": "data/img/germany/7lT0.webp",
      "mapsUrl": "https://goo.gl/maps/vjGrNRMPWzgiUQGt8",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "LIr8",
-     "image": "img/germany/LIr8.webp",
+     "image": "data/img/germany/LIr8.webp",
      "mapsUrl": "https://goo.gl/maps/pM4aUT6nYxs5sFtr6",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "1NkZ",
-     "image": "img/germany/1NkZ.webp",
+     "image": "data/img/germany/1NkZ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "vbHB",
-     "image": "img/germany/vbHB.webp",
+     "image": "data/img/germany/vbHB.webp",
      "mapsUrl": "https://goo.gl/maps/E1ardJppLVN2gp489",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "jrD6",
-     "image": "img/germany/jrD6.webp",
+     "image": "data/img/germany/jrD6.webp",
      "mapsUrl": "https://goo.gl/maps/Xx4mow8EHgbCNFux9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "2QHh",
-     "image": "img/germany/2QHh.webp",
+     "image": "data/img/germany/2QHh.webp",
      "mapsUrl": "https://goo.gl/maps/pJaEmDmkXeZdodMW6",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "4rEl",
-     "image": "img/germany/4rEl.webp",
+     "image": "data/img/germany/4rEl.webp",
      "mapsUrl": "https://goo.gl/maps/S7Nog51vjDD1TEG98",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "LVZN",
-     "image": "img/germany/LVZN.webp",
+     "image": "data/img/germany/LVZN.webp",
      "mapsUrl": "https://goo.gl/maps/qREwcFu1JdUuRxRs7",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "dJN6",
-     "image": "img/germany/dJN6.webp",
+     "image": "data/img/germany/dJN6.webp",
      "mapsUrl": "https://goo.gl/maps/R293VDUL7ynJUPGD7",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "iiZK",
-     "image": "img/germany/iiZK.webp",
+     "image": "data/img/germany/iiZK.webp",
      "mapsUrl": "https://maps.app.goo.gl/VcrL2r7HezectQ3u8",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "pJU0",
-     "image": "img/germany/pJU0.webp",
+     "image": "data/img/germany/pJU0.webp",
      "mapsUrl": "https://maps.app.goo.gl/BVEJ4Xyhciied5yv8",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "6qzp",
-     "image": "img/germany/6qzp.webp",
+     "image": "data/img/germany/6qzp.webp",
      "mapsUrl": "https://goo.gl/maps/nFgfZ28Z2ivDLzbg7",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "OO0W",
-     "image": "img/germany/OO0W.webp",
+     "image": "data/img/germany/OO0W.webp",
      "mapsUrl": "https://maps.app.goo.gl/cGeMLPGmRPP3ogc49",
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "gWFG",
-     "image": "img/germany/gWFG.webp",
+     "image": "data/img/germany/gWFG.webp",
      "mapsUrl": "https://goo.gl/maps/Hcf42uhPJwYEXDbt8",
      "width": 0.5,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "T3Bx",
-     "image": "img/germany/T3Bx.webp",
+     "image": "data/img/germany/T3Bx.webp",
      "mapsUrl": "https://maps.app.goo.gl/SJtBQvFWThVCGcPJA",
      "width": 0.5,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "iPnK",
-     "image": "img/germany/iPnK.webp",
+     "image": "data/img/germany/iPnK.webp",
      "mapsUrl": "https://www.google.com/maps/@52.3421616,7.3982002,3a,90y,36.82h,98.38t/data=!3m6!1e1!3m4!1s4R-h_igyc-piebt-M7pSJQ!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -197,7 +197,7 @@
    "metas": [
     {
      "id": "KfVL",
-     "image": "img/germany/KfVL.webp",
+     "image": "data/img/germany/KfVL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "CnFf",
-     "image": "img/germany/CnFf.webp",
+     "image": "data/img/germany/CnFf.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "0QTU",
-     "image": "img/germany/0QTU.webp",
+     "image": "data/img/germany/0QTU.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "0fgb",
-     "image": "img/germany/0fgb.webp",
+     "image": "data/img/germany/0fgb.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "aFr3",
-     "image": "img/germany/aFr3.webp",
+     "image": "data/img/germany/aFr3.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "8CJo",
-     "image": "img/germany/8CJo.webp",
+     "image": "data/img/germany/8CJo.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "O4bv",
-     "image": "img/germany/O4bv.webp",
+     "image": "data/img/germany/O4bv.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "n3r2",
-     "image": "img/germany/n3r2.webp",
+     "image": "data/img/germany/n3r2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -274,7 +274,7 @@
     },
     {
      "id": "FDU2",
-     "image": "img/germany/FDU2.webp",
+     "image": "data/img/germany/FDU2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "Yoh4",
-     "image": "img/germany/Yoh4.webp",
+     "image": "data/img/germany/Yoh4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "6w4I",
-     "image": "img/germany/6w4I.webp",
+     "image": "data/img/germany/6w4I.webp",
      "mapsUrl": "https://goo.gl/maps/9BBCrFRmW1TFJp4z5",
      "width": 0.573,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "jGsh",
-     "image": "img/germany/jGsh.webp",
+     "image": "data/img/germany/jGsh.webp",
      "mapsUrl": "https://goo.gl/maps/YDCBp4bwdo9xtbBR9",
      "width": 0.573,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "sp9A",
-     "image": "img/germany/sp9A.webp",
+     "image": "data/img/germany/sp9A.webp",
      "mapsUrl": "https://goo.gl/maps/V4jouuraREA9hMXK9",
      "width": 0.573,
      "text": [
@@ -323,7 +323,7 @@
     },
     {
      "id": "dPiq",
-     "image": "img/germany/dPiq.webp",
+     "image": "data/img/germany/dPiq.webp",
      "mapsUrl": "https://goo.gl/maps/SwFNtsex2XeFieS69",
      "width": 0.573,
      "text": [
@@ -332,7 +332,7 @@
     },
     {
      "id": "gUz2",
-     "image": "img/germany/gUz2.webp",
+     "image": "data/img/germany/gUz2.webp",
      "mapsUrl": "https://maps.app.goo.gl/XQR9CjaFpbV6AVkN7",
      "width": 0.573,
      "text": [
@@ -341,7 +341,7 @@
     },
     {
      "id": "fnjg",
-     "image": "img/germany/fnjg.webp",
+     "image": "data/img/germany/fnjg.webp",
      "mapsUrl": "https://goo.gl/maps/34tJekGzhvxxgURt5",
      "width": 0.573,
      "text": [
@@ -350,7 +350,7 @@
     },
     {
      "id": "vfTH",
-     "image": "img/germany/vfTH.webp",
+     "image": "data/img/germany/vfTH.webp",
      "mapsUrl": "https://goo.gl/maps/kdXtq7V2xMgxjRrm6",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "y24J",
-     "image": "img/germany/y24J.webp",
+     "image": "data/img/germany/y24J.webp",
      "mapsUrl": "https://goo.gl/maps/JBLtDr2uRSYaUVHW8",
      "width": 0.573,
      "text": [
@@ -369,7 +369,7 @@
     },
     {
      "id": "VVId",
-     "image": "img/germany/VVId.webp",
+     "image": "data/img/germany/VVId.webp",
      "mapsUrl": "https://maps.app.goo.gl/sgchPsNw1pHdA56V7",
      "width": 0.573,
      "text": [
@@ -378,7 +378,7 @@
     },
     {
      "id": "o1vB",
-     "image": "img/germany/o1vB.webp",
+     "image": "data/img/germany/o1vB.webp",
      "mapsUrl": "https://goo.gl/maps/KDzf6sRvjk7F6bpP6",
      "width": 0.573,
      "text": [
@@ -387,7 +387,7 @@
     },
     {
      "id": "0ZC9",
-     "image": "img/germany/0ZC9.webp",
+     "image": "data/img/germany/0ZC9.webp",
      "mapsUrl": "https://goo.gl/maps/EP8sUCYx3X66yKUD8",
      "width": 0.573,
      "text": [
@@ -396,7 +396,7 @@
     },
     {
      "id": "evf5",
-     "image": "img/germany/evf5.webp",
+     "image": "data/img/germany/evf5.webp",
      "mapsUrl": "https://goo.gl/maps/mdBfpi5ZBCF18AH39",
      "width": 0.573,
      "text": [
@@ -405,7 +405,7 @@
     },
     {
      "id": "EHw4",
-     "image": "img/germany/EHw4.webp",
+     "image": "data/img/germany/EHw4.webp",
      "mapsUrl": "https://maps.app.goo.gl/UyZZERYrcEW478zCA",
      "width": 0.573,
      "text": [
@@ -414,7 +414,7 @@
     },
     {
      "id": "443T",
-     "image": "img/germany/443T.webp",
+     "image": "data/img/germany/443T.webp",
      "mapsUrl": "https://goo.gl/maps/xgFFxJ1xGmSFiYGU6",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "rNPD",
-     "image": "img/germany/rNPD.webp",
+     "image": "data/img/germany/rNPD.webp",
      "mapsUrl": "https://goo.gl/maps/aUffPUcnE6mRidym9",
      "width": 0.573,
      "text": [
@@ -432,7 +432,7 @@
     },
     {
      "id": "agJb",
-     "image": "img/germany/agJb.webp",
+     "image": "data/img/germany/agJb.webp",
      "mapsUrl": "https://goo.gl/maps/XwRmqCBAZcvmA2Ap7",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "9QQL",
-     "image": "img/germany/9QQL.webp",
+     "image": "data/img/germany/9QQL.webp",
      "mapsUrl": "https://goo.gl/maps/PK36pRNsUm8ddmnV8",
      "width": 0.573,
      "text": [
@@ -450,7 +450,7 @@
     },
     {
      "id": "Lhfc",
-     "image": "img/germany/Lhfc.webp",
+     "image": "data/img/germany/Lhfc.webp",
      "mapsUrl": "https://goo.gl/maps/CNc2zqbqdW6yPGTN6",
      "width": 0.573,
      "text": [
@@ -459,7 +459,7 @@
     },
     {
      "id": "8sZa",
-     "image": "img/germany/8sZa.webp",
+     "image": "data/img/germany/8sZa.webp",
      "mapsUrl": "https://goo.gl/maps/ZdNbc1ADhAhDzPBJ7",
      "width": 0.573,
      "text": [
@@ -468,7 +468,7 @@
     },
     {
      "id": "vzOg",
-     "image": "img/germany/vzOg.webp",
+     "image": "data/img/germany/vzOg.webp",
      "mapsUrl": "https://goo.gl/maps/xF9j3dfaLFc8N92K8",
      "width": 0.573,
      "text": [
@@ -478,7 +478,7 @@
     },
     {
      "id": "8xMd",
-     "image": "img/germany/8xMd.webp",
+     "image": "data/img/germany/8xMd.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -493,7 +493,7 @@
     },
     {
      "id": "xKwF",
-     "image": "img/germany/xKwF.webp",
+     "image": "data/img/germany/xKwF.webp",
      "mapsUrl": "https://www.google.com/maps/@51.603439,12.0404523,3a,15y,97.51h,70.98t/data=!3m6!1e1!3m4!1s8kw4tqj8bAcKnhKbu_PN2w!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -502,7 +502,7 @@
     },
     {
      "id": "njj7",
-     "image": "img/germany/njj7.webp",
+     "image": "data/img/germany/njj7.webp",
      "mapsUrl": "https://goo.gl/maps/v6QgJWtoaNF5kWfS8",
      "width": 0.573,
      "text": [
@@ -511,7 +511,7 @@
     },
     {
      "id": "uRqh",
-     "image": "img/germany/uRqh.webp",
+     "image": "data/img/germany/uRqh.webp",
      "mapsUrl": "https://goo.gl/maps/vaUYXBYNpLKb77m47",
      "width": 0.573,
      "text": [
@@ -520,7 +520,7 @@
     },
     {
      "id": "ucwE",
-     "image": "img/germany/ucwE.webp",
+     "image": "data/img/germany/ucwE.webp",
      "mapsUrl": "https://goo.gl/maps/ddQgD66VnpLNafXH6",
      "width": 0.573,
      "text": [
@@ -529,7 +529,7 @@
     },
     {
      "id": "e2UJ",
-     "image": "img/germany/e2UJ.webp",
+     "image": "data/img/germany/e2UJ.webp",
      "mapsUrl": "https://goo.gl/maps/gLnuikoQhR1AKWXC8",
      "width": 0.573,
      "text": [
@@ -538,7 +538,7 @@
     },
     {
      "id": "ONji",
-     "image": "img/germany/ONji.webp",
+     "image": "data/img/germany/ONji.webp",
      "mapsUrl": "https://goo.gl/maps/bADuMPg8xKgRCy2PA",
      "width": 0.573,
      "text": [
@@ -547,7 +547,7 @@
     },
     {
      "id": "KxEL",
-     "image": "img/germany/KxEL.webp",
+     "image": "data/img/germany/KxEL.webp",
      "mapsUrl": "https://goo.gl/maps/zdEnJhpDKL9em3u37",
      "width": 0.573,
      "text": [
@@ -557,7 +557,7 @@
     },
     {
      "id": "2hc8",
-     "image": "img/germany/2hc8.webp",
+     "image": "data/img/germany/2hc8.webp",
      "mapsUrl": "https://goo.gl/maps/v9VuMzM5PFH6KVQRA",
      "width": 0.573,
      "text": [
@@ -566,7 +566,7 @@
     },
     {
      "id": "ygrs",
-     "image": "img/germany/ygrs.webp",
+     "image": "data/img/germany/ygrs.webp",
      "mapsUrl": "https://maps.app.goo.gl/saSuyXUY7zqj6BR57",
      "width": 0.573,
      "text": [
@@ -575,7 +575,7 @@
     },
     {
      "id": "np9D",
-     "image": "img/germany/np9D.webp",
+     "image": "data/img/germany/np9D.webp",
      "mapsUrl": "https://maps.app.goo.gl/rck65mXHXqQkgD4R8",
      "width": 0.573,
      "text": [
@@ -585,7 +585,7 @@
     },
     {
      "id": "FIDL",
-     "image": "img/germany/FIDL.webp",
+     "image": "data/img/germany/FIDL.webp",
      "mapsUrl": "https://goo.gl/maps/QKezD2VQE8DCc59CA",
      "width": 0.573,
      "text": [
@@ -594,7 +594,7 @@
     },
     {
      "id": "Lxxs",
-     "image": "img/germany/Lxxs.webp",
+     "image": "data/img/germany/Lxxs.webp",
      "mapsUrl": "https://maps.app.goo.gl/LcoHqczV4gSKRVHP7",
      "width": 0.573,
      "text": [
@@ -603,7 +603,7 @@
     },
     {
      "id": "fv7n",
-     "image": "img/germany/fv7n.webp",
+     "image": "data/img/germany/fv7n.webp",
      "mapsUrl": "https://www.google.com/maps/@53.5504424,9.9877419,3a,40.2y,235.31h,52.25t/data=!3m6!1e1!3m4!1st1K2SrmyyZ2K6G_QuqdW7A!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -613,7 +613,7 @@
     },
     {
      "id": "B2L8",
-     "image": "img/germany/B2L8.webp",
+     "image": "data/img/germany/B2L8.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -631,7 +631,7 @@
    "metas": [
     {
      "id": "SDqs",
-     "image": "img/germany/SDqs.webp",
+     "image": "data/img/germany/SDqs.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -652,7 +652,7 @@
     },
     {
      "id": "ZowM",
-     "image": "img/germany/ZowM.webp",
+     "image": "data/img/germany/ZowM.webp",
      "mapsUrl": "https://goo.gl/maps/jbPJ8pQQiEpkECWQ9",
      "width": 0.573,
      "text": [
@@ -661,7 +661,7 @@
     },
     {
      "id": "wnBA",
-     "image": "img/germany/wnBA.webp",
+     "image": "data/img/germany/wnBA.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -674,7 +674,7 @@
     },
     {
      "id": "sviz",
-     "image": "img/germany/sviz.webp",
+     "image": "data/img/germany/sviz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -687,7 +687,7 @@
     },
     {
      "id": "fv9L",
-     "image": "img/germany/fv9L.webp",
+     "image": "data/img/germany/fv9L.webp",
      "mapsUrl": "https://goo.gl/maps/pEQddGA7ZTMgfNzg7",
      "width": 0.573,
      "text": [
@@ -697,7 +697,7 @@
     },
     {
      "id": "MPmF",
-     "image": "img/germany/MPmF.webp",
+     "image": "data/img/germany/MPmF.webp",
      "mapsUrl": "https://goo.gl/maps/KzoXtTmMaeGPP2Nq9",
      "width": 0.573,
      "text": [
@@ -706,7 +706,7 @@
     },
     {
      "id": "FfPz",
-     "image": "img/germany/FfPz.webp",
+     "image": "data/img/germany/FfPz.webp",
      "mapsUrl": "https://goo.gl/maps/fxmn83orTqT55mdD6",
      "width": 0.573,
      "text": [
@@ -716,7 +716,7 @@
     },
     {
      "id": "H6Lb",
-     "image": "img/germany/H6Lb.webp",
+     "image": "data/img/germany/H6Lb.webp",
      "mapsUrl": "https://goo.gl/maps/LWF2i3tSvVg9nNtC7",
      "width": 0.573,
      "text": [
@@ -725,7 +725,7 @@
     },
     {
      "id": "Eveq",
-     "image": "img/germany/Eveq.webp",
+     "image": "data/img/germany/Eveq.webp",
      "mapsUrl": "https://goo.gl/maps/HwzqyrSMYkXYHNgb7",
      "width": 0.573,
      "text": [
@@ -736,7 +736,7 @@
     },
     {
      "id": "1pPN",
-     "image": "img/germany/1pPN.webp",
+     "image": "data/img/germany/1pPN.webp",
      "mapsUrl": "https://goo.gl/maps/2CpAdocFVwua84ju7",
      "width": 0.573,
      "text": [

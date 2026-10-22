@@ -3,7 +3,7 @@
  "title": "Alaska",
  "code": "US-AK",
  "continent": "North America",
- "hero": "img/alaska/hero.webp",
+ "hero": "data/img/alaska/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "lPaS",
-     "image": "img/alaska/lPaS.webp",
+     "image": "data/img/alaska/lPaS.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "M50F",
-     "image": "img/alaska/M50F.webp",
+     "image": "data/img/alaska/M50F.webp",
      "mapsUrl": "https://maps.app.goo.gl/z5cXcwCnaeAQb29v7",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "Lm2l",
-     "image": "img/alaska/Lm2l.webp",
+     "image": "data/img/alaska/Lm2l.webp",
      "mapsUrl": "https://goo.gl/maps/KVeG783M2iHDUbHA7",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "2Lfw",
-     "image": "img/alaska/2Lfw.webp",
+     "image": "data/img/alaska/2Lfw.webp",
      "mapsUrl": "https://goo.gl/maps/S3vTbtkaEdZAg31UA",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "DVQ7",
-     "image": "img/alaska/DVQ7.webp",
+     "image": "data/img/alaska/DVQ7.webp",
      "mapsUrl": "https://goo.gl/maps/5fQi6ikYaG2wmN9o8",
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
     },
     {
      "id": "eyVX",
-     "image": "img/alaska/eyVX.webp",
+     "image": "data/img/alaska/eyVX.webp",
      "mapsUrl": "https://maps.app.goo.gl/jbFAEToq1q7Szj3a7",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "jGan",
-     "image": "img/alaska/jGan.webp",
+     "image": "data/img/alaska/jGan.webp",
      "mapsUrl": "https://maps.app.goo.gl/EQi88wEVbY7J8eaM6",
      "width": 0.5,
      "text": [
@@ -92,7 +92,7 @@
    "metas": [
     {
      "id": "1Olq",
-     "image": "img/alaska/1Olq.webp",
+     "image": "data/img/alaska/1Olq.webp",
      "mapsUrl": "https://www.google.com/maps/@60.9334533,-149.3199227,3a,90y,251h,90t/data=!3m6!1e1!3m4!1s6BmwDwznNGUy6d0pBnYwuQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "S3bK",
-     "image": "img/alaska/S3bK.webp",
+     "image": "data/img/alaska/S3bK.webp",
      "mapsUrl": "https://maps.app.goo.gl/XQa4wp95zhGx9zxN7",
      "width": 0.573,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "TQHg",
-     "image": "img/alaska/TQHg.webp",
+     "image": "data/img/alaska/TQHg.webp",
      "mapsUrl": "https://goo.gl/maps/Wiwyd7z51jHBpzeb9",
      "width": 0.573,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "SXUe",
-     "image": "img/alaska/SXUe.webp",
+     "image": "data/img/alaska/SXUe.webp",
      "mapsUrl": "https://maps.app.goo.gl/FeF5pJPv68XJ4pc47",
      "width": 0.573,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "iRys",
-     "image": "img/alaska/iRys.webp",
+     "image": "data/img/alaska/iRys.webp",
      "mapsUrl": "https://maps.app.goo.gl/oyWqiGpMrqSRjJzc7",
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "mAUK",
-     "image": "img/alaska/mAUK.webp",
+     "image": "data/img/alaska/mAUK.webp",
      "mapsUrl": "https://maps.app.goo.gl/iCnMJg5nAMmiYAhe6",
      "width": 0.573,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "tYxw",
-     "image": "img/alaska/tYxw.webp",
+     "image": "data/img/alaska/tYxw.webp",
      "mapsUrl": "https://maps.app.goo.gl/9JCKevYP1EKecrBs5",
      "width": 0.573,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "j6hw",
-     "image": "img/alaska/j6hw.webp",
+     "image": "data/img/alaska/j6hw.webp",
      "mapsUrl": "https://goo.gl/maps/4Vdv4TvcSY9kct1z6",
      "width": 0.573,
      "text": [
@@ -175,7 +175,7 @@
    "metas": [
     {
      "id": "MbP1",
-     "image": "img/alaska/MbP1.webp",
+     "image": "data/img/alaska/MbP1.webp",
      "mapsUrl": "https://maps.app.goo.gl/X56mpB8DgNsGcyoR6",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "IDWK",
-     "image": "img/alaska/IDWK.webp",
+     "image": "data/img/alaska/IDWK.webp",
      "mapsUrl": "https://maps.app.goo.gl/4tosf16wCW4ZGxfY6",
      "width": 0.573,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "wvid",
-     "image": "img/alaska/wvid.webp",
+     "image": "data/img/alaska/wvid.webp",
      "mapsUrl": "https://maps.app.goo.gl/dxhjZqP54NF3FQTa7",
      "width": 0.573,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "v4UX",
-     "image": "img/alaska/v4UX.webp",
+     "image": "data/img/alaska/v4UX.webp",
      "mapsUrl": "https://goo.gl/maps/7gjXvfkWHa7WjbCp7",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "VTst",
-     "image": "img/alaska/VTst.webp",
+     "image": "data/img/alaska/VTst.webp",
      "mapsUrl": "https://maps.app.goo.gl/gM7xeQr4uNo9ZzB16",
      "width": 0.573,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "MD84",
-     "image": "img/alaska/MD84.webp",
+     "image": "data/img/alaska/MD84.webp",
      "mapsUrl": "https://goo.gl/maps/BqEu8v5MKPAvsi1d7",
      "width": 0.573,
      "text": [
@@ -230,7 +230,7 @@
     },
     {
      "id": "MBny",
-     "image": "img/alaska/MBny.webp",
+     "image": "data/img/alaska/MBny.webp",
      "mapsUrl": "https://goo.gl/maps/dzktYzJUAqZHS1PEA",
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "Cyms",
-     "image": "img/alaska/Cyms.webp",
+     "image": "data/img/alaska/Cyms.webp",
      "mapsUrl": "https://goo.gl/maps/Vyhtb9ZJCUAuAZf5A",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "9qqo",
-     "image": "img/alaska/9qqo.webp",
+     "image": "data/img/alaska/9qqo.webp",
      "mapsUrl": "https://goo.gl/maps/MXzTi8yw7y9fT3xz6",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "DnwM",
-     "image": "img/alaska/DnwM.webp",
+     "image": "data/img/alaska/DnwM.webp",
      "mapsUrl": "https://goo.gl/maps/efqLHvNVtEK2fGPNA",
      "width": 0.573,
      "text": [

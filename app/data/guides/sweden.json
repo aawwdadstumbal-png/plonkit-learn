@@ -3,7 +3,7 @@
  "title": "Sweden",
  "code": "SE",
  "continent": "Europe",
- "hero": "img/sweden/hero.webp",
+ "hero": "data/img/sweden/hero.webp",
  "metaCount": 121,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "AK7h",
-     "image": "img/sweden/AK7h.webp",
+     "image": "data/img/sweden/AK7h.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "TMZ2",
-     "image": "img/sweden/TMZ2.webp",
+     "image": "data/img/sweden/TMZ2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -43,7 +43,7 @@
     },
     {
      "id": "yImG",
-     "image": "img/sweden/yImG.webp",
+     "image": "data/img/sweden/yImG.webp",
      "mapsUrl": "https://goo.gl/maps/a1UTXZ6p1msj6tYR9",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "YHDK",
-     "image": "img/sweden/YHDK.webp",
+     "image": "data/img/sweden/YHDK.webp",
      "mapsUrl": "https://goo.gl/maps/LKskbN8HKCWJBUp68",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "mJ0O",
-     "image": "img/sweden/mJ0O.webp",
+     "image": "data/img/sweden/mJ0O.webp",
      "mapsUrl": "https://goo.gl/maps/WYuQ1JwxCv1ANoyK9",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "Wh27",
-     "image": "img/sweden/Wh27.webp",
+     "image": "data/img/sweden/Wh27.webp",
      "mapsUrl": "https://goo.gl/maps/o9YR2TynQoFXYxAc9",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "oUKS",
-     "image": "img/sweden/oUKS.webp",
+     "image": "data/img/sweden/oUKS.webp",
      "mapsUrl": "https://goo.gl/maps/7jfPnGF6sbvJCa5n8",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "mRCn",
-     "image": "img/sweden/mRCn.webp",
+     "image": "data/img/sweden/mRCn.webp",
      "mapsUrl": "https://maps.app.goo.gl/SPmTFFqBfuNf1QsY6",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "r30o",
-     "image": "img/sweden/r30o.webp",
+     "image": "data/img/sweden/r30o.webp",
      "mapsUrl": "https://maps.app.goo.gl/9E3eCnADrG4mgoZ56",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "YK4r",
-     "image": "img/sweden/YK4r.webp",
+     "image": "data/img/sweden/YK4r.webp",
      "mapsUrl": "https://goo.gl/maps/NmFG8Mcjsm4Fp5dk8",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "Nhg0",
-     "image": "img/sweden/Nhg0.webp",
+     "image": "data/img/sweden/Nhg0.webp",
      "mapsUrl": "https://goo.gl/maps/2tedXrHi1aBy3CRn7",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "JUZe",
-     "image": "img/sweden/JUZe.webp",
+     "image": "data/img/sweden/JUZe.webp",
      "mapsUrl": "https://goo.gl/maps/b8HHar6D5xA1Y2V77",
      "width": 0.5,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "sN4Z",
-     "image": "img/sweden/sN4Z.webp",
+     "image": "data/img/sweden/sN4Z.webp",
      "mapsUrl": "https://goo.gl/maps/pwpDwG9sTpcsfsF26",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "FJkx",
-     "image": "img/sweden/FJkx.webp",
+     "image": "data/img/sweden/FJkx.webp",
      "mapsUrl": "https://goo.gl/maps/DqYAkha51nY72ao49",
      "width": 0.5,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "esbg",
-     "image": "img/sweden/esbg.webp",
+     "image": "data/img/sweden/esbg.webp",
      "mapsUrl": "https://goo.gl/maps/hcqzadR8N5h29Vbd8",
      "width": 0.5,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "5n8T",
-     "image": "img/sweden/5n8T.webp",
+     "image": "data/img/sweden/5n8T.webp",
      "mapsUrl": "https://goo.gl/maps/6xZUH7miUcYThEqJ7",
      "width": 0.5,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "4Tj8",
-     "image": "img/sweden/4Tj8.webp",
+     "image": "data/img/sweden/4Tj8.webp",
      "mapsUrl": "https://goo.gl/maps/J3dbt5tHUitL5MaAA",
      "width": 0.5,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "GU16",
-     "image": "img/sweden/GU16.webp",
+     "image": "data/img/sweden/GU16.webp",
      "mapsUrl": "https://goo.gl/maps/qsovxNhaJCSsYr1Q8",
      "width": 0.5,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "B5Nf",
-     "image": "img/sweden/B5Nf.webp",
+     "image": "data/img/sweden/B5Nf.webp",
      "mapsUrl": "https://goo.gl/maps/NHWBZmw5U6SiaMdh9",
      "width": 0.5,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "gTIl",
-     "image": "img/sweden/gTIl.webp",
+     "image": "data/img/sweden/gTIl.webp",
      "mapsUrl": "https://maps.app.goo.gl/W1L4zugaPASugjok8",
      "width": 0.5,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "f9QK",
-     "image": "img/sweden/f9QK.webp",
+     "image": "data/img/sweden/f9QK.webp",
      "mapsUrl": "https://goo.gl/maps/5hjypFg6hturyxDB7",
      "width": 0.5,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "9JTA",
-     "image": "img/sweden/9JTA.webp",
+     "image": "data/img/sweden/9JTA.webp",
      "mapsUrl": "https://www.google.se/maps/@58.7437387,16.738162,3a,15y,231.07h,115.58t/data=!3m7!1e1!3m5!1siTkbN4H2IJwEz-bSLeOyBQ!2e0!5s20220901T000000!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "BgHS",
-     "image": "img/sweden/BgHS.webp",
+     "image": "data/img/sweden/BgHS.webp",
      "mapsUrl": "https://goo.gl/maps/9nndZhsoJLZbQabK8",
      "width": 0.5,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "GCla",
-     "image": "img/sweden/GCla.webp",
+     "image": "data/img/sweden/GCla.webp",
      "mapsUrl": "https://goo.gl/maps/anYXsMZyXGP4p8uB6",
      "width": 0.5,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "jsad",
-     "image": "img/sweden/jsad.webp",
+     "image": "data/img/sweden/jsad.webp",
      "mapsUrl": "https://maps.app.goo.gl/LMmYcVSVtmNkRM4j8",
      "width": 0.5,
      "text": [
@@ -293,7 +293,7 @@
    "metas": [
     {
      "id": "7nZT",
-     "image": "img/sweden/7nZT.webp",
+     "image": "data/img/sweden/7nZT.webp",
      "mapsUrl": "https://goo.gl/maps/jGTwkbnJjemQ33sN7",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "A5tj",
-     "image": "img/sweden/A5tj.webp",
+     "image": "data/img/sweden/A5tj.webp",
      "mapsUrl": "https://goo.gl/maps/gRRT7QJd9mzz4oCz6",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "zbLV",
-     "image": "img/sweden/zbLV.webp",
+     "image": "data/img/sweden/zbLV.webp",
      "mapsUrl": "https://goo.gl/maps/4o7w3AtGvjEp8A449",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "hG6f",
-     "image": "img/sweden/hG6f.webp",
+     "image": "data/img/sweden/hG6f.webp",
      "mapsUrl": "https://goo.gl/maps/s6TifuFenXiuJVKF6",
      "width": 0.573,
      "text": [
@@ -329,7 +329,7 @@
     },
     {
      "id": "Ugnu",
-     "image": "img/sweden/Ugnu.webp",
+     "image": "data/img/sweden/Ugnu.webp",
      "mapsUrl": "https://goo.gl/maps/VXThBpCfoH5jxrDV9",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "ZI20",
-     "image": "img/sweden/ZI20.webp",
+     "image": "data/img/sweden/ZI20.webp",
      "mapsUrl": "https://goo.gl/maps/FjSo3895pRdjZiRa6",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "dXFB",
-     "image": "img/sweden/dXFB.webp",
+     "image": "data/img/sweden/dXFB.webp",
      "mapsUrl": "https://goo.gl/maps/phgQrdDk3x2951MC6",
      "width": 0.573,
      "text": [
@@ -358,7 +358,7 @@
     },
     {
      "id": "HT91",
-     "image": "img/sweden/HT91.webp",
+     "image": "data/img/sweden/HT91.webp",
      "mapsUrl": "https://goo.gl/maps/uU83TXTXDBvUdAhu9",
      "width": 0.573,
      "text": [
@@ -367,7 +367,7 @@
     },
     {
      "id": "qE6m",
-     "image": "img/sweden/qE6m.webp",
+     "image": "data/img/sweden/qE6m.webp",
      "mapsUrl": "https://goo.gl/maps/CyXHX2d5fgtvhkFA7",
      "width": 0.573,
      "text": [
@@ -376,7 +376,7 @@
     },
     {
      "id": "izD7",
-     "image": "img/sweden/izD7.webp",
+     "image": "data/img/sweden/izD7.webp",
      "mapsUrl": "https://goo.gl/maps/tbRAEkbNauBqXWw47",
      "width": 0.573,
      "text": [
@@ -385,7 +385,7 @@
     },
     {
      "id": "76UZ",
-     "image": "img/sweden/76UZ.webp",
+     "image": "data/img/sweden/76UZ.webp",
      "mapsUrl": "https://goo.gl/maps/3hLRETQWSp6t3ryD8",
      "width": 0.573,
      "text": [
@@ -394,7 +394,7 @@
     },
     {
      "id": "wsCX",
-     "image": "img/sweden/wsCX.webp",
+     "image": "data/img/sweden/wsCX.webp",
      "mapsUrl": "https://goo.gl/maps/zx7YfWrCE6xN9gxs5",
      "width": 0.573,
      "text": [
@@ -403,7 +403,7 @@
     },
     {
      "id": "N8or",
-     "image": "img/sweden/N8or.webp",
+     "image": "data/img/sweden/N8or.webp",
      "mapsUrl": "https://maps.app.goo.gl/HbCuj2shNGviphzBA",
      "width": 0.573,
      "text": [
@@ -412,7 +412,7 @@
     },
     {
      "id": "gwEG",
-     "image": "img/sweden/gwEG.webp",
+     "image": "data/img/sweden/gwEG.webp",
      "mapsUrl": "https://goo.gl/maps/xTAZF9MBK94RJGp9A",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
     },
     {
      "id": "UzEZ",
-     "image": "img/sweden/UzEZ.webp",
+     "image": "data/img/sweden/UzEZ.webp",
      "mapsUrl": "https://goo.gl/maps/CgPKeoe8X84i25rb9",
      "width": 0.573,
      "text": [
@@ -430,7 +430,7 @@
     },
     {
      "id": "YJez",
-     "image": "img/sweden/YJez.webp",
+     "image": "data/img/sweden/YJez.webp",
      "mapsUrl": "https://goo.gl/maps/ZVBHuhjPJ4Gjn5Cx7",
      "width": 0.573,
      "text": [
@@ -439,7 +439,7 @@
     },
     {
      "id": "xUYC",
-     "image": "img/sweden/xUYC.webp",
+     "image": "data/img/sweden/xUYC.webp",
      "mapsUrl": "https://maps.app.goo.gl/cTc1ENBtit8zJ2667",
      "width": 0.573,
      "text": [
@@ -448,7 +448,7 @@
     },
     {
      "id": "SsmQ",
-     "image": "img/sweden/SsmQ.webp",
+     "image": "data/img/sweden/SsmQ.webp",
      "mapsUrl": "https://goo.gl/maps/faEtCp65r8HbxMnH9",
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "9iUB",
-     "image": "img/sweden/9iUB.webp",
+     "image": "data/img/sweden/9iUB.webp",
      "mapsUrl": "https://maps.app.goo.gl/pofZqkPaVsScLdr37",
      "width": 0.573,
      "text": [
@@ -466,7 +466,7 @@
     },
     {
      "id": "LvtG",
-     "image": "img/sweden/LvtG.webp",
+     "image": "data/img/sweden/LvtG.webp",
      "mapsUrl": "https://goo.gl/maps/NKHuCEYp8GD82dHx8",
      "width": 0.573,
      "text": [
@@ -475,7 +475,7 @@
     },
     {
      "id": "3eeu",
-     "image": "img/sweden/3eeu.webp",
+     "image": "data/img/sweden/3eeu.webp",
      "mapsUrl": "https://goo.gl/maps/kiomVwqcvB19nwTz8",
      "width": 0.573,
      "text": [
@@ -484,7 +484,7 @@
     },
     {
      "id": "BYNl",
-     "image": "img/sweden/BYNl.webp",
+     "image": "data/img/sweden/BYNl.webp",
      "mapsUrl": "https://www.google.com/maps/@67.6748848,21.6442878,3a,53.6y,54.32h,93.51t/data=!3m6!1e1!3m4!1sSvIal9AIkF9oLKsPPjOVWg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -493,7 +493,7 @@
     },
     {
      "id": "q7GI",
-     "image": "img/sweden/q7GI.webp",
+     "image": "data/img/sweden/q7GI.webp",
      "mapsUrl": "https://goo.gl/maps/NCwMja2eJRXx1wXg9",
      "width": 0.573,
      "text": [
@@ -502,7 +502,7 @@
     },
     {
      "id": "IsNb",
-     "image": "img/sweden/IsNb.webp",
+     "image": "data/img/sweden/IsNb.webp",
      "mapsUrl": "https://goo.gl/maps/dj8dUMUdvL6LB3Ed7",
      "width": 0.573,
      "text": [
@@ -511,7 +511,7 @@
     },
     {
      "id": "YpBE",
-     "image": "img/sweden/YpBE.webp",
+     "image": "data/img/sweden/YpBE.webp",
      "mapsUrl": "https://goo.gl/maps/g52SvNWfAkLbcUCJA",
      "width": 0.573,
      "text": [
@@ -521,7 +521,7 @@
     },
     {
      "id": "fnlS",
-     "image": "img/sweden/fnlS.webp",
+     "image": "data/img/sweden/fnlS.webp",
      "mapsUrl": "https://goo.gl/maps/BEubxGhfb2NMiPMY9",
      "width": 0.573,
      "text": [
@@ -530,7 +530,7 @@
     },
     {
      "id": "01TK",
-     "image": "img/sweden/01TK.webp",
+     "image": "data/img/sweden/01TK.webp",
      "mapsUrl": "https://goo.gl/maps/iX9u9bujCzuSgVTu9",
      "width": 0.573,
      "text": [
@@ -540,7 +540,7 @@
     },
     {
      "id": "KMWO",
-     "image": "img/sweden/KMWO.webp",
+     "image": "data/img/sweden/KMWO.webp",
      "mapsUrl": "https://goo.gl/maps/x1gB6JCkE98CtL8N7",
      "width": 0.573,
      "text": [
@@ -549,7 +549,7 @@
     },
     {
      "id": "f45P",
-     "image": "img/sweden/f45P.webp",
+     "image": "data/img/sweden/f45P.webp",
      "mapsUrl": "https://goo.gl/maps/hpM5QCoWYNBRZcvH8",
      "width": 0.573,
      "text": [
@@ -558,7 +558,7 @@
     },
     {
      "id": "g8uK",
-     "image": "img/sweden/g8uK.webp",
+     "image": "data/img/sweden/g8uK.webp",
      "mapsUrl": "https://goo.gl/maps/78MaxRrxsXD822v48",
      "width": 0.573,
      "text": [
@@ -568,7 +568,7 @@
     },
     {
      "id": "1W0U",
-     "image": "img/sweden/1W0U.webp",
+     "image": "data/img/sweden/1W0U.webp",
      "mapsUrl": "https://goo.gl/maps/GMBC1zgsv7jjXZ5ZA",
      "width": 0.573,
      "text": [
@@ -577,7 +577,7 @@
     },
     {
      "id": "4jd6",
-     "image": "img/sweden/4jd6.webp",
+     "image": "data/img/sweden/4jd6.webp",
      "mapsUrl": "https://goo.gl/maps/vMB8ztc5msN74RzS7",
      "width": 0.573,
      "text": [
@@ -586,7 +586,7 @@
     },
     {
      "id": "l14r",
-     "image": "img/sweden/l14r.webp",
+     "image": "data/img/sweden/l14r.webp",
      "mapsUrl": "https://goo.gl/maps/aXxRETbMFsoNAVnm8",
      "width": 0.573,
      "text": [
@@ -595,7 +595,7 @@
     },
     {
      "id": "x5PC",
-     "image": "img/sweden/x5PC.webp",
+     "image": "data/img/sweden/x5PC.webp",
      "mapsUrl": "https://goo.gl/maps/q5L3KtowK4QXCKjW8",
      "width": 0.573,
      "text": [
@@ -604,7 +604,7 @@
     },
     {
      "id": "LTfr",
-     "image": "img/sweden/LTfr.webp",
+     "image": "data/img/sweden/LTfr.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -614,7 +614,7 @@
     },
     {
      "id": "Kgx2",
-     "image": "img/sweden/Kgx2.webp",
+     "image": "data/img/sweden/Kgx2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -625,7 +625,7 @@
     },
     {
      "id": "Kd2Q",
-     "image": "img/sweden/Kd2Q.webp",
+     "image": "data/img/sweden/Kd2Q.webp",
      "mapsUrl": "/images/sweden/v_C3_A4gnummer.png",
      "width": 0.5,
      "text": [
@@ -635,7 +635,7 @@
     },
     {
      "id": "0ZfL",
-     "image": "img/sweden/0ZfL.webp",
+     "image": "data/img/sweden/0ZfL.webp",
      "mapsUrl": "https://maps.app.goo.gl/fRvcYuo6q2udbbVo9",
      "width": 0.573,
      "text": [
@@ -644,7 +644,7 @@
     },
     {
      "id": "gNOV",
-     "image": "img/sweden/gNOV.webp",
+     "image": "data/img/sweden/gNOV.webp",
      "mapsUrl": "https://goo.gl/maps/VoNExVas8ES2S88u5",
      "width": 0.573,
      "text": [
@@ -654,7 +654,7 @@
     },
     {
      "id": "dDlG",
-     "image": "img/sweden/dDlG.webp",
+     "image": "data/img/sweden/dDlG.webp",
      "mapsUrl": "https://goo.gl/maps/PsT4RxJJdBAReUKm8",
      "width": 0.573,
      "text": [
@@ -663,7 +663,7 @@
     },
     {
      "id": "ZGJn",
-     "image": "img/sweden/ZGJn.webp",
+     "image": "data/img/sweden/ZGJn.webp",
      "mapsUrl": "https://goo.gl/maps/kZxU8mtRh38diiXP6",
      "width": 0.573,
      "text": [
@@ -672,7 +672,7 @@
     },
     {
      "id": "5aMv",
-     "image": "img/sweden/5aMv.webp",
+     "image": "data/img/sweden/5aMv.webp",
      "mapsUrl": "https://goo.gl/maps/Hzdpy61j8fyitpG19",
      "width": 0.573,
      "text": [
@@ -681,7 +681,7 @@
     },
     {
      "id": "eFK9",
-     "image": "img/sweden/eFK9.webp",
+     "image": "data/img/sweden/eFK9.webp",
      "mapsUrl": "https://goo.gl/maps/7bAVk6sjuaNFgUyCA",
      "width": 0.573,
      "text": [
@@ -691,7 +691,7 @@
     },
     {
      "id": "9Rd5",
-     "image": "img/sweden/9Rd5.webp",
+     "image": "data/img/sweden/9Rd5.webp",
      "mapsUrl": "https://goo.gl/maps/sB7zJVRoxHxksnPF7",
      "width": 0.573,
      "text": [
@@ -701,7 +701,7 @@
     },
     {
      "id": "9XCt",
-     "image": "img/sweden/9XCt.webp",
+     "image": "data/img/sweden/9XCt.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -711,7 +711,7 @@
     },
     {
      "id": "wkVF",
-     "image": "img/sweden/wkVF.webp",
+     "image": "data/img/sweden/wkVF.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -723,7 +723,7 @@
     },
     {
      "id": "wyog",
-     "image": "img/sweden/wyog.webp",
+     "image": "data/img/sweden/wyog.webp",
      "mapsUrl": "https://goo.gl/maps/9xcRvAd1eVAb6GXeA",
      "width": 0.573,
      "text": [
@@ -732,7 +732,7 @@
     },
     {
      "id": "GOZR",
-     "image": "img/sweden/GOZR.webp",
+     "image": "data/img/sweden/GOZR.webp",
      "mapsUrl": "https://goo.gl/maps/PcLuX1cTpsixquzC6",
      "width": 0.573,
      "text": [
@@ -742,7 +742,7 @@
     },
     {
      "id": "WoV2",
-     "image": "img/sweden/WoV2.webp",
+     "image": "data/img/sweden/WoV2.webp",
      "mapsUrl": "https://goo.gl/maps/X3BVhr5EYgbh1vrP7",
      "width": 0.573,
      "text": [
@@ -752,7 +752,7 @@
     },
     {
      "id": "vZOl",
-     "image": "img/sweden/vZOl.webp",
+     "image": "data/img/sweden/vZOl.webp",
      "mapsUrl": "/images/sweden/Phone_numbers.png",
      "width": 0.5,
      "text": [
@@ -789,7 +789,7 @@
    "metas": [
     {
      "id": "leAt",
-     "image": "img/sweden/leAt.webp",
+     "image": "data/img/sweden/leAt.webp",
      "mapsUrl": "https://www.google.se/maps/@68.195916,19.7675117,3a,75y,341.16h,81.98t/data=!3m7!1e1!3m5!1szaIHlQdWhze9-KQvjL-Z7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DzaIHlQdWhze9-KQvjL-Z7g%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D223.72554%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -798,7 +798,7 @@
     },
     {
      "id": "91Xp",
-     "image": "img/sweden/91Xp.webp",
+     "image": "data/img/sweden/91Xp.webp",
      "mapsUrl": "https://www.google.com/maps/@68.1585573,23.0757815,3a,75y,308.55h,79.26t/data=!3m6!1e1!3m4!1sZo-8Pxt65yyRWHueCCZ_eQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -808,7 +808,7 @@
     },
     {
      "id": "1kzH",
-     "image": "img/sweden/1kzH.webp",
+     "image": "data/img/sweden/1kzH.webp",
      "mapsUrl": "https://maps.app.goo.gl/cqvPkDsGQTqcThzK8",
      "width": 0.573,
      "text": [
@@ -817,7 +817,7 @@
     },
     {
      "id": "pdD1",
-     "image": "img/sweden/pdD1.webp",
+     "image": "data/img/sweden/pdD1.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZDmfr7wDKom6i1ME9",
      "width": 0.573,
      "text": [
@@ -826,7 +826,7 @@
     },
     {
      "id": "vbvY",
-     "image": "img/sweden/vbvY.webp",
+     "image": "data/img/sweden/vbvY.webp",
      "mapsUrl": "https://maps.app.goo.gl/gvwR5cPZuiwVdkwZ8",
      "width": 0.573,
      "text": [
@@ -836,7 +836,7 @@
     },
     {
      "id": "WhIN",
-     "image": "img/sweden/WhIN.webp",
+     "image": "data/img/sweden/WhIN.webp",
      "mapsUrl": "https://goo.gl/maps/Wdp9S3boHEzBdnWo9",
      "width": 0.573,
      "text": [
@@ -845,7 +845,7 @@
     },
     {
      "id": "HBIA",
-     "image": "img/sweden/HBIA.webp",
+     "image": "data/img/sweden/HBIA.webp",
      "mapsUrl": "https://goo.gl/maps/G144z4vKVc1TwzCY7",
      "width": 0.573,
      "text": [
@@ -854,7 +854,7 @@
     },
     {
      "id": "ZdI8",
-     "image": "img/sweden/ZdI8.webp",
+     "image": "data/img/sweden/ZdI8.webp",
      "mapsUrl": "https://goo.gl/maps/1RgPqCk9eTkaHDXt5",
      "width": 0.573,
      "text": [
@@ -863,7 +863,7 @@
     },
     {
      "id": "pUwU",
-     "image": "img/sweden/pUwU.webp",
+     "image": "data/img/sweden/pUwU.webp",
      "mapsUrl": "https://goo.gl/maps/i26VMJoM1TkWYFSCA",
      "width": 0.573,
      "text": [
@@ -872,7 +872,7 @@
     },
     {
      "id": "41YA",
-     "image": "img/sweden/41YA.webp",
+     "image": "data/img/sweden/41YA.webp",
      "mapsUrl": "https://goo.gl/maps/L9XyEiAQrweWu7zW8",
      "width": 0.573,
      "text": [
@@ -881,7 +881,7 @@
     },
     {
      "id": "ju1G",
-     "image": "img/sweden/ju1G.webp",
+     "image": "data/img/sweden/ju1G.webp",
      "mapsUrl": "https://maps.app.goo.gl/3uvCDMdnBALW6jVH6",
      "width": 0.573,
      "text": [
@@ -891,7 +891,7 @@
     },
     {
      "id": "BvIc",
-     "image": "img/sweden/BvIc.webp",
+     "image": "data/img/sweden/BvIc.webp",
      "mapsUrl": "https://goo.gl/maps/CT9rnnkdVMjgUika8",
      "width": 0.573,
      "text": [
@@ -900,7 +900,7 @@
     },
     {
      "id": "pGFR",
-     "image": "img/sweden/pGFR.webp",
+     "image": "data/img/sweden/pGFR.webp",
      "mapsUrl": "https://goo.gl/maps/WTj4a7tcVngjZjVM7",
      "width": 0.573,
      "text": [
@@ -909,7 +909,7 @@
     },
     {
      "id": "nt94",
-     "image": "img/sweden/nt94.webp",
+     "image": "data/img/sweden/nt94.webp",
      "mapsUrl": "https://maps.app.goo.gl/zcNocTodYfQCx8rE7",
      "width": 0.573,
      "text": [
@@ -918,7 +918,7 @@
     },
     {
      "id": "NWKo",
-     "image": "img/sweden/NWKo.webp",
+     "image": "data/img/sweden/NWKo.webp",
      "mapsUrl": "https://maps.app.goo.gl/HipJoELa8WraGDPV6",
      "width": 0.573,
      "text": [
@@ -927,7 +927,7 @@
     },
     {
      "id": "GIKf",
-     "image": "img/sweden/GIKf.webp",
+     "image": "data/img/sweden/GIKf.webp",
      "mapsUrl": "https://maps.app.goo.gl/kh86sqCUgFnDgcv88",
      "width": 0.573,
      "text": [
@@ -936,7 +936,7 @@
     },
     {
      "id": "iQLp",
-     "image": "img/sweden/iQLp.webp",
+     "image": "data/img/sweden/iQLp.webp",
      "mapsUrl": "https://goo.gl/maps/Z48gDeVUj9Qqg3AEA",
      "width": 0.573,
      "text": [
@@ -945,7 +945,7 @@
     },
     {
      "id": "qM5X",
-     "image": "img/sweden/qM5X.webp",
+     "image": "data/img/sweden/qM5X.webp",
      "mapsUrl": "https://maps.app.goo.gl/wwSK85sgX9SP2Z2K7",
      "width": 0.573,
      "text": [
@@ -954,7 +954,7 @@
     },
     {
      "id": "Ixwk",
-     "image": "img/sweden/Ixwk.webp",
+     "image": "data/img/sweden/Ixwk.webp",
      "mapsUrl": "https://goo.gl/maps/tALrt3taSNHoqpNw7",
      "width": 0.573,
      "text": [
@@ -963,7 +963,7 @@
     },
     {
      "id": "GAXT",
-     "image": "img/sweden/GAXT.webp",
+     "image": "data/img/sweden/GAXT.webp",
      "mapsUrl": "https://goo.gl/maps/BM4gzYhN3UyPKrVS6",
      "width": 0.573,
      "text": [
@@ -972,7 +972,7 @@
     },
     {
      "id": "AWak",
-     "image": "img/sweden/AWak.webp",
+     "image": "data/img/sweden/AWak.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -983,7 +983,7 @@
     },
     {
      "id": "3eFT",
-     "image": "img/sweden/3eFT.webp",
+     "image": "data/img/sweden/3eFT.webp",
      "mapsUrl": "https://maps.app.goo.gl/kXRzuMVYmEKa1GAfA",
      "width": 0.573,
      "text": [
@@ -992,7 +992,7 @@
     },
     {
      "id": "vHIX",
-     "image": "img/sweden/vHIX.webp",
+     "image": "data/img/sweden/vHIX.webp",
      "mapsUrl": "https://goo.gl/maps/qu7WJj3xo4JCkmPHA",
      "width": 0.573,
      "text": [
@@ -1002,7 +1002,7 @@
     },
     {
      "id": "8cKu",
-     "image": "img/sweden/8cKu.webp",
+     "image": "data/img/sweden/8cKu.webp",
      "mapsUrl": "https://goo.gl/maps/mYaPyA2naZj6VbUZA",
      "width": 0.573,
      "text": [
@@ -1011,7 +1011,7 @@
     },
     {
      "id": "ZesW",
-     "image": "img/sweden/ZesW.webp",
+     "image": "data/img/sweden/ZesW.webp",
      "mapsUrl": "https://goo.gl/maps/VNzHq51yinQWSbGy6",
      "width": 0.573,
      "text": [
@@ -1020,7 +1020,7 @@
     },
     {
      "id": "aX6G",
-     "image": "img/sweden/aX6G.webp",
+     "image": "data/img/sweden/aX6G.webp",
      "mapsUrl": "https://goo.gl/maps/Cp4nXLNDPhfrTf9e9",
      "width": 0.573,
      "text": [
@@ -1030,7 +1030,7 @@
     },
     {
      "id": "mqbt",
-     "image": "img/sweden/mqbt.webp",
+     "image": "data/img/sweden/mqbt.webp",
      "mapsUrl": "https://goo.gl/maps/2CfvfhgWmYmyvJLq8",
      "width": 0.573,
      "text": [
@@ -1040,7 +1040,7 @@
     },
     {
      "id": "tJBR",
-     "image": "img/sweden/tJBR.webp",
+     "image": "data/img/sweden/tJBR.webp",
      "mapsUrl": "https://goo.gl/maps/hvYFeLREcv1GA49G9",
      "width": 0.573,
      "text": [
@@ -1049,7 +1049,7 @@
     },
     {
      "id": "gtqn",
-     "image": "img/sweden/gtqn.webp",
+     "image": "data/img/sweden/gtqn.webp",
      "mapsUrl": "https://goo.gl/maps/Jbjw7LgwMwnZYHi28",
      "width": 0.573,
      "text": [
@@ -1058,7 +1058,7 @@
     },
     {
      "id": "zhtp",
-     "image": "img/sweden/zhtp.webp",
+     "image": "data/img/sweden/zhtp.webp",
      "mapsUrl": "https://goo.gl/maps/z2WrZZDAjdQfCGJg6",
      "width": 0.573,
      "text": [
@@ -1067,7 +1067,7 @@
     },
     {
      "id": "TkCB",
-     "image": "img/sweden/TkCB.webp",
+     "image": "data/img/sweden/TkCB.webp",
      "mapsUrl": "https://goo.gl/maps/q9nZBTBvsKcrKBmm9",
      "width": 0.573,
      "text": [
@@ -1076,7 +1076,7 @@
     },
     {
      "id": "Dbca",
-     "image": "img/sweden/Dbca.webp",
+     "image": "data/img/sweden/Dbca.webp",
      "mapsUrl": "https://maps.app.goo.gl/jC9BrUQ6jFKgoFCt5",
      "width": 0.573,
      "text": [
@@ -1085,7 +1085,7 @@
     },
     {
      "id": "ktOj",
-     "image": "img/sweden/ktOj.webp",
+     "image": "data/img/sweden/ktOj.webp",
      "mapsUrl": "https://goo.gl/maps/U5JVSb9LAvCuPw4AA",
      "width": 0.573,
      "text": [
@@ -1094,7 +1094,7 @@
     },
     {
      "id": "lOhm",
-     "image": "img/sweden/lOhm.webp",
+     "image": "data/img/sweden/lOhm.webp",
      "mapsUrl": "https://goo.gl/maps/9SfH8zkRHuaGcdLY8",
      "width": 0.573,
      "text": [
@@ -1103,7 +1103,7 @@
     },
     {
      "id": "cfRa",
-     "image": "img/sweden/cfRa.webp",
+     "image": "data/img/sweden/cfRa.webp",
      "mapsUrl": "https://maps.app.goo.gl/g7C8LUiZsVdFMnHcA",
      "width": 0.573,
      "text": [
@@ -1112,7 +1112,7 @@
     },
     {
      "id": "d2KD",
-     "image": "img/sweden/d2KD.webp",
+     "image": "data/img/sweden/d2KD.webp",
      "mapsUrl": "https://maps.app.goo.gl/sRaanAaxgpFVjP9G6",
      "width": 0.573,
      "text": [
@@ -1121,7 +1121,7 @@
     },
     {
      "id": "OvOv",
-     "image": "img/sweden/OvOv.webp",
+     "image": "data/img/sweden/OvOv.webp",
      "mapsUrl": "https://goo.gl/maps/nyJ8kb71EXLbyFuR6",
      "width": 0.573,
      "text": [
@@ -1130,7 +1130,7 @@
     },
     {
      "id": "ZIJ8",
-     "image": "img/sweden/ZIJ8.webp",
+     "image": "data/img/sweden/ZIJ8.webp",
      "mapsUrl": "https://goo.gl/maps/hKo6YqyqGHr8Asm99",
      "width": 0.573,
      "text": [
@@ -1139,7 +1139,7 @@
     },
     {
      "id": "48zT",
-     "image": "img/sweden/48zT.webp",
+     "image": "data/img/sweden/48zT.webp",
      "mapsUrl": "https://goo.gl/maps/SV8xTfgdM2jw5Jkc6",
      "width": 0.573,
      "text": [
@@ -1148,7 +1148,7 @@
     },
     {
      "id": "hJxs",
-     "image": "img/sweden/hJxs.webp",
+     "image": "data/img/sweden/hJxs.webp",
      "mapsUrl": "https://goo.gl/maps/19E7RvadfUR35vmC8",
      "width": 0.573,
      "text": [
@@ -1157,7 +1157,7 @@
     },
     {
      "id": "zQ9U",
-     "image": "img/sweden/zQ9U.webp",
+     "image": "data/img/sweden/zQ9U.webp",
      "mapsUrl": "https://goo.gl/maps/hG7vv8uzvDxobpQy9",
      "width": 0.573,
      "text": [
@@ -1166,7 +1166,7 @@
     },
     {
      "id": "jhOZ",
-     "image": "img/sweden/jhOZ.webp",
+     "image": "data/img/sweden/jhOZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/FtPyq1Tm9DK8jboL8",
      "width": 0.573,
      "text": [
@@ -1175,7 +1175,7 @@
     },
     {
      "id": "sdJZ",
-     "image": "img/sweden/sdJZ.webp",
+     "image": "data/img/sweden/sdJZ.webp",
      "mapsUrl": "https://goo.gl/maps/UhnPqqi5WrzCu72j9",
      "width": 0.573,
      "text": [
@@ -1184,7 +1184,7 @@
     },
     {
      "id": "zim3",
-     "image": "img/sweden/zim3.webp",
+     "image": "data/img/sweden/zim3.webp",
      "mapsUrl": "https://goo.gl/maps/yRYqE7szMr6hmmvK8",
      "width": 0.573,
      "text": [
@@ -1193,7 +1193,7 @@
     },
     {
      "id": "43GR",
-     "image": "img/sweden/43GR.webp",
+     "image": "data/img/sweden/43GR.webp",
      "mapsUrl": "https://goo.gl/maps/RYqDay3Aq81vpabGA",
      "width": 0.573,
      "text": [
@@ -1203,7 +1203,7 @@
     },
     {
      "id": "5ceh",
-     "image": "img/sweden/5ceh.webp",
+     "image": "data/img/sweden/5ceh.webp",
      "mapsUrl": "https://goo.gl/maps/FUoYRhf2pcdWemYK8",
      "width": 0.573,
      "text": [

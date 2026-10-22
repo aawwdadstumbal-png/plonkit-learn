@@ -3,7 +3,7 @@
  "title": "Greenland",
  "code": "GL",
  "continent": "North America",
- "hero": "img/greenland/hero.webp",
+ "hero": "data/img/greenland/hero.webp",
  "metaCount": 52,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "EyQH",
-     "image": "img/greenland/EyQH.webp",
+     "image": "data/img/greenland/EyQH.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "gioP",
-     "image": "img/greenland/gioP.webp",
+     "image": "data/img/greenland/gioP.webp",
      "mapsUrl": "https://maps.app.goo.gl/HRUXfkQntxaS4KYv9",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "Mbzc",
-     "image": "img/greenland/Mbzc.webp",
+     "image": "data/img/greenland/Mbzc.webp",
      "mapsUrl": "https://maps.app.goo.gl/9z9ycaPx2UG72yee6",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "otNH",
-     "image": "img/greenland/otNH.webp",
+     "image": "data/img/greenland/otNH.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "c8bS",
-     "image": "img/greenland/c8bS.webp",
+     "image": "data/img/greenland/c8bS.webp",
      "mapsUrl": "https://www.google.com/maps/@62.0039014,-49.6662114,3a,75y,32.1h,94.97t,0.41r/data=!3m6!1e1!3m4!1s-sGrkMSkKSrE0u8GiR0AzQ!2e0!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "mmU2",
-     "image": "img/greenland/mmU2.webp",
+     "image": "data/img/greenland/mmU2.webp",
      "mapsUrl": "https://maps.app.goo.gl/facyQEgkg5Vupy8V8",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
    "metas": [
     {
      "id": "cDtt",
-     "image": "img/greenland/cDtt.webp",
+     "image": "data/img/greenland/cDtt.webp",
      "mapsUrl": "https://www.google.com/maps/@64.1816978,-51.7109836,3a,90y,29.39h,68.81t/data=!3m6!1e1!3m4!1sKEiI8rrvV-J5nBYEmECROg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "mRxQ",
-     "image": "img/greenland/mRxQ.webp",
+     "image": "data/img/greenland/mRxQ.webp",
      "mapsUrl": "https://goo.gl/maps/zPk4A2vs7jWNMBJR9",
      "width": 0.573,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "i8tg",
-     "image": "img/greenland/i8tg.webp",
+     "image": "data/img/greenland/i8tg.webp",
      "mapsUrl": "https://www.google.com/maps/@69.215414,-51.0989825,3a,90y,215.03h,78.77t/data=!3m6!1e1!3m4!1sXv4c_dmlEDYr9u_hIASKMA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "9zdx",
-     "image": "img/greenland/9zdx.webp",
+     "image": "data/img/greenland/9zdx.webp",
      "mapsUrl": "https://www.google.com/maps/@60.7187767,-46.0468802,3a,90y,99.27h,71.57t/data=!3m6!1e1!3m4!1sBYKS9CnZ_9h9sv7SpgrQlg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "KNcY",
-     "image": "img/greenland/KNcY.webp",
+     "image": "data/img/greenland/KNcY.webp",
      "mapsUrl": "https://www.google.com/maps/@68.7101754,-52.8388091,2a,90y,259h,56.05t/data=!3m6!1e1!3m4!1sGM7Y-aaCACI_MUVbCCojQA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "dUCI",
-     "image": "img/greenland/dUCI.webp",
+     "image": "data/img/greenland/dUCI.webp",
      "mapsUrl": "https://www.google.com/maps/@65.6168991,-37.6468925,3a,90y,180.47h,67.07t/data=!3m6!1e1!3m4!1sNi2xQAbu7QFhyyt8qEIIIw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "mCK8",
-     "image": "img/greenland/mCK8.webp",
+     "image": "data/img/greenland/mCK8.webp",
      "mapsUrl": "http://google.com/maps/@70.6739544,-52.1279547,3a,90y,69.35h,59.33t,356.48r/data=!3m6!1e1!3m4!1sgdxsb3Bl1CbbhYs93nNJsA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "Mja8",
-     "image": "img/greenland/Mja8.webp",
+     "image": "data/img/greenland/Mja8.webp",
      "mapsUrl": "https://www.google.com/maps/@60.9167485,-46.0524139,3a,90y,168.63h,73.54t/data=!3m6!1e1!3m4!1saOGTALR7r4QJUt_DNxQ5zw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "o1St",
-     "image": "img/greenland/o1St.webp",
+     "image": "data/img/greenland/o1St.webp",
      "mapsUrl": "https://goo.gl/maps/G8rzxwDRpm3A8KWn6",
      "width": 0.573,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "FXn2",
-     "image": "img/greenland/FXn2.webp",
+     "image": "data/img/greenland/FXn2.webp",
      "mapsUrl": "https://www.google.com/maps/@61.1671317,-45.4097747,3a,90y,314.61h,68.74t/data=!3m6!1e1!3m4!1s1JeUkpdblriRy6odNrpBDg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "C6JG",
-     "image": "img/greenland/C6JG.webp",
+     "image": "data/img/greenland/C6JG.webp",
      "mapsUrl": "https://www.google.com/maps/@61.1481078,-45.604282,3a,75y,242.29h,64.82t,0.87r/data=!3m6!1e1!3m4!1sXmbIsonItJf-1h_59aAcow!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -198,7 +198,7 @@
     },
     {
      "id": "iCnR",
-     "image": "img/greenland/iCnR.webp",
+     "image": "data/img/greenland/iCnR.webp",
      "mapsUrl": "https://www.google.com/maps/@69.2480047,-53.53092,2a,90y,24.45h,64.44t/data=!3m6!1e1!3m4!1s_MhPx0zrXD0c_gBe0NfvQQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -207,7 +207,7 @@
     },
     {
      "id": "mBWE",
-     "image": "img/greenland/mBWE.webp",
+     "image": "data/img/greenland/mBWE.webp",
      "mapsUrl": "https://www.google.com/maps/@70.4875997,-21.9691129,2a,90y,356.18h,84.19t/data=!3m6!1e1!3m4!1sL-12qgscTwjI0iCA-EZYuQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -216,7 +216,7 @@
     },
     {
      "id": "w6MY",
-     "image": "img/greenland/w6MY.webp",
+     "image": "data/img/greenland/w6MY.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=66.19157394060727&map_action=pano&pano=b9QWTuSy_yy4VPC1B4pj7w&pitch=-7.72381445856756&viewpoint=60.999981%2C-45.418621#extra%5Btags%5D=car%3A+green&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -225,7 +225,7 @@
     },
     {
      "id": "dIwn",
-     "image": "img/greenland/dIwn.webp",
+     "image": "data/img/greenland/dIwn.webp",
      "mapsUrl": "https://www.google.com/maps/@61.9942748,-49.6688419,3a,90y,149.09h,76.76t/data=!3m6!1e1!3m4!1sNfMABVNlJNmu99gF630RDA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -234,7 +234,7 @@
     },
     {
      "id": "BnZs",
-     "image": "img/greenland/BnZs.webp",
+     "image": "data/img/greenland/BnZs.webp",
      "mapsUrl": "https://www.google.com/maps/@67.0080975,-50.6962695,3a,90y,157.84h,109.3t/data=!3m6!1e1!3m4!1si6jr9OlX0FUR82mwjpVyLQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -243,7 +243,7 @@
     },
     {
      "id": "bFc4",
-     "image": "img/greenland/bFc4.webp",
+     "image": "data/img/greenland/bFc4.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=110.68085423645499&map_action=pano&pano=vzD76pqc4ErQZDjwHH9KLw&pitch=-18.582615046973856&viewpoint=67.002825%2C-50.655529#extra%5Btags%5D=car%3A+large%2C+white&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -252,7 +252,7 @@
     },
     {
      "id": "9zpv",
-     "image": "img/greenland/9zpv.webp",
+     "image": "data/img/greenland/9zpv.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=276.92008079082234&map_action=pano&pano=hMj07a51LCPe_EycBms7-g&pitch=6.224698549303369&viewpoint=66.958607%2C-51.173421#extra%5Btags%5D=sun%3A+w%2C+very+low&extra%5Btags%5D=ground%3A+snow&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -261,7 +261,7 @@
     },
     {
      "id": "uLDZ",
-     "image": "img/greenland/uLDZ.webp",
+     "image": "data/img/greenland/uLDZ.webp",
      "mapsUrl": "https://www.google.com/maps/@70.811864,-51.6313872,3a,90y,352.95h,95.96t/data=!3m6!1e1!3m4!1scDS8k4Ew29Vns3blP7CD_Q!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -270,7 +270,7 @@
     },
     {
      "id": "UFUr",
-     "image": "img/greenland/UFUr.webp",
+     "image": "data/img/greenland/UFUr.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=156.14370396775521&map_action=pano&pano=GhCGp3wGfPdIp2pxoo-rgA&pitch=-13.369755678759034&viewpoint=65.574651%2C-37.178623#extra%5Btags%5D=car%3A+red+rounded&extra%5Btags%5D=clouds%3A+no&extra%5Btags%5D=mountains%3A+ragged&extra%5Btags%5D=ground%3A+grey+sandy&extra%5Btags%5D=sun%3A+wnw%2C+very+low&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "W79I",
-     "image": "img/greenland/W79I.webp",
+     "image": "data/img/greenland/W79I.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=291.98213173967747&map_action=pano&pano=VUtwk2GAM3HpaA9VPiMxGg&pitch=9.431251486116807&viewpoint=68.310642%2C-53.459293#extra%5Btags%5D=ground%3A+snow&extra%5Btags%5D=clouds%3A+no&extra%5Btags%5D=village%3A+colourful&extra%5Btags%5D=sun%3A+w%2C+low&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -288,7 +288,7 @@
     },
     {
      "id": "qRJx",
-     "image": "img/greenland/qRJx.webp",
+     "image": "data/img/greenland/qRJx.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=285.25792960346047&map_action=pano&pano=_lJNkONmVm1hOjvXL8lSFQ&pitch=12.712587768431831&viewpoint=70.503049%2C-51.303339#extra%5Btags%5D=mountains%3A+distinct&extra%5Btags%5D=ground%3A+grass+tufts&extra%5Btags%5D=village%3A+small&extra%5Btags%5D=clouds%3A+yes&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "yWnN",
-     "image": "img/greenland/yWnN.webp",
+     "image": "data/img/greenland/yWnN.webp",
      "mapsUrl": "https://www.google.com/maps/@71.0493758,-51.8898999,3a,90y,120.83h,110.68t/data=!3m6!1e1!3m4!1s2Wo-jUxHotxErK-rqfgJqQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "kJuo",
-     "image": "img/greenland/kJuo.webp",
+     "image": "data/img/greenland/kJuo.webp",
      "mapsUrl": "https://www.google.com/maps/@65.8654527,-37.0085006,2a,90y,123.18h,105.16t/data=!3m6!1e1!3m4!1szeAwqxbPhJTnebDwJDcDHQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "3zSm",
-     "image": "img/greenland/3zSm.webp",
+     "image": "data/img/greenland/3zSm.webp",
      "mapsUrl": "https://www.google.com/maps/@65.8896331,-37.7786783,3a,90y,153.18h,102.06t/data=!3m6!1e1!3m4!1s3nKkDwRISVd3e7KhAiIs9w!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "M8Aj",
-     "image": "img/greenland/M8Aj.webp",
+     "image": "data/img/greenland/M8Aj.webp",
      "mapsUrl": "https://www.google.com/maps/@70.7900384,-53.6639057,3a,90y,184.83h,111.7t/data=!3m6!1e1!3m4!1sTOlbq0Y2S3qB6ga-0w-SYA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -333,7 +333,7 @@
     },
     {
      "id": "efSj",
-     "image": "img/greenland/efSj.webp",
+     "image": "data/img/greenland/efSj.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.16482449375943&heading=328.09347064501384&map_action=pano&pano=M_ygGMBDs9zZ7IW47EfmZw&pitch=12.157968591067387&viewpoint=77.784691%2C-70.62759#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "70nR",
-     "image": "img/greenland/70nR.webp",
+     "image": "data/img/greenland/70nR.webp",
      "mapsUrl": "https://www.google.com/maps/@77.4677281,-69.2310739,3a,75y,216.26h,88.25t,0.31r/data=!3m6!1e1!3m4!1sq1hxNxVWkaUEbGCg8muxpw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -352,7 +352,7 @@
     },
     {
      "id": "nAfG",
-     "image": "img/greenland/nAfG.webp",
+     "image": "data/img/greenland/nAfG.webp",
      "mapsUrl": "https://www.google.com/maps/@64.4321243,-50.2751421,3a,90y,205.81h,71.11t/data=!3m6!1e1!3m4!1sPkphiuV03-XZ4vo2E_vFhA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -361,7 +361,7 @@
     },
     {
      "id": "560C",
-     "image": "img/greenland/560C.webp",
+     "image": "data/img/greenland/560C.webp",
      "mapsUrl": "https://www.google.com/maps/@69.4864479,-53.9432798,2a,90y,140.3h,95.09t/data=!3m7!1e1!3m5!1saJWliwb81pfz8hPKcjam-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DaJWliwb81pfz8hPKcjam-A%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D320.0007%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -370,7 +370,7 @@
     },
     {
      "id": "hpPA",
-     "image": "img/greenland/hpPA.webp",
+     "image": "data/img/greenland/hpPA.webp",
      "mapsUrl": "https://www.google.com/maps/@64.1324861,-51.3760134,2a,90y,108.16h,106.89t/data=!3m6!1e1!3m4!1s-8-AT3MjN4X8cHSjm-8rFw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
     },
     {
      "id": "ECUX",
-     "image": "img/greenland/ECUX.webp",
+     "image": "data/img/greenland/ECUX.webp",
      "mapsUrl": "https://www.google.com/maps/@61.3978506,-45.1611752,2a,90y,347.43h,107.14t/data=!3m6!1e1!3m4!1sQpV-QhOEBI5LjDPpcqvllg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "XJSY",
-     "image": "img/greenland/XJSY.webp",
+     "image": "data/img/greenland/XJSY.webp",
      "mapsUrl": "https://goo.gl/maps/CiVwwEA4a91RgWRP6",
      "width": 0.573,
      "text": [
@@ -415,7 +415,7 @@
    "metas": [
     {
      "id": "35Vi",
-     "image": "img/greenland/35Vi.webp",
+     "image": "data/img/greenland/35Vi.webp",
      "mapsUrl": "https://www.google.com/maps/@68.713121,-52.8785625,2a,90y,330.77h,92.32t/data=!3m6!1e1!3m4!1stX-mOIvh2fLDT-BGGkBvhg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -424,7 +424,7 @@
     },
     {
      "id": "tksi",
-     "image": "img/greenland/tksi.webp",
+     "image": "data/img/greenland/tksi.webp",
      "mapsUrl": "https://www.google.com/maps/@69.473575,-54.0090546,2a,90y,260.54h,105.85t/data=!3m6!1e1!3m4!1sXj9Sk_g36oSQARB4cw68zw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -433,7 +433,7 @@
     },
     {
      "id": "yr0f",
-     "image": "img/greenland/yr0f.webp",
+     "image": "data/img/greenland/yr0f.webp",
      "mapsUrl": "https://www.google.com/maps/@70.4684059,-22.1743508,2a,75y,234.7h,84.46t,5.28r/data=!3m6!1e1!3m4!1s5PuinED48ExYDvbCWJgWbg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -442,7 +442,7 @@
     },
     {
      "id": "7jL5",
-     "image": "img/greenland/7jL5.webp",
+     "image": "data/img/greenland/7jL5.webp",
      "mapsUrl": "https://www.google.com/maps/@65.8320821,-38.0520657,2a,75y,279.44h,74.07t,-16.11r/data=!3m6!1e1!3m4!1swdeSD2q8gIME_nBmA0jLQQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -451,7 +451,7 @@
     },
     {
      "id": "FkCT",
-     "image": "img/greenland/FkCT.webp",
+     "image": "data/img/greenland/FkCT.webp",
      "mapsUrl": "https://www.google.com/maps/@65.5929081,-37.4892552,2a,90y,318.8h,92.08t/data=!3m6!1e1!3m4!1ssarbRy0jsFUSLhxKg2-B_g!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -460,7 +460,7 @@
     },
     {
      "id": "w021",
-     "image": "img/greenland/w021.webp",
+     "image": "data/img/greenland/w021.webp",
      "mapsUrl": "https://www.google.com/maps/@65.7061097,-37.9529788,2a,90y,358.37h,91.74t/data=!3m6!1e1!3m4!1sSkfEfjjXz9GOeTm8Lou8nQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -469,7 +469,7 @@
     },
     {
      "id": "fhpx",
-     "image": "img/greenland/fhpx.webp",
+     "image": "data/img/greenland/fhpx.webp",
      "mapsUrl": "https://www.google.com/maps/@65.5920905,-37.5892895,2a,90y,161.98h,66.67t/data=!3m6!1e1!3m4!1sYkvpBnwenEoVGVTdvgBqzA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -478,7 +478,7 @@
     },
     {
      "id": "32Hd",
-     "image": "img/greenland/32Hd.webp",
+     "image": "data/img/greenland/32Hd.webp",
      "mapsUrl": "https://www.google.com/maps/@74.4458858,-21.6155703,2a,90y,267.74h,80.47t/data=!3m6!1e1!3m4!1s0NjCimiK6cV59-6BVtYzyQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -487,7 +487,7 @@
     },
     {
      "id": "9o2x",
-     "image": "img/greenland/9o2x.webp",
+     "image": "data/img/greenland/9o2x.webp",
      "mapsUrl": "https://www.google.com/maps/@69.2114494,-51.1552805,2a,90y,212.85h,90.39t/data=!3m6!1e1!3m4!1sGS9pNrzVlmKMO4F0fFv3yA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -496,7 +496,7 @@
     },
     {
      "id": "tycC",
-     "image": "img/greenland/tycC.webp",
+     "image": "data/img/greenland/tycC.webp",
      "mapsUrl": "https://www.google.com/maps/@60.7316839,-45.943532,2a,90y,238.41h,64.3t/data=!3m6!1e1!3m4!1sUYr9hg-Byunk0qbxd6XjVg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -505,7 +505,7 @@
     },
     {
      "id": "elNN",
-     "image": "img/greenland/elNN.webp",
+     "image": "data/img/greenland/elNN.webp",
      "mapsUrl": "https://www.google.com/maps/@61.1466237,-45.4794865,2a,75y,274.66h,80.45t,0.69r/data=!3m6!1e1!3m4!1sijLOYfBfXeBcazd2n6wssA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -514,7 +514,7 @@
     },
     {
      "id": "TjyY",
-     "image": "img/greenland/TjyY.webp",
+     "image": "data/img/greenland/TjyY.webp",
      "mapsUrl": "https://www.google.com/maps/@64.1417206,-51.4017687,2a,90y,315.65h,86.86t/data=!3m6!1e1!3m4!1segxL6nAP4b9_5MW5OtbSaA!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -523,7 +523,7 @@
     },
     {
      "id": "kijo",
-     "image": "img/greenland/kijo.webp",
+     "image": "data/img/greenland/kijo.webp",
      "mapsUrl": "https://www.google.com/maps/@64.2309939,-51.4349962,2a,90y,263.32h,86.49t/data=!3m6!1e1!3m4!1sHhyYBa1FavziAlOVNRC6ww!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [

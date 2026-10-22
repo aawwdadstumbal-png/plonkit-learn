@@ -3,7 +3,7 @@
  "title": "Peru",
  "code": "PE",
  "continent": "South America",
- "hero": "img/peru/hero.webp",
+ "hero": "data/img/peru/hero.webp",
  "metaCount": 66,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "KObV",
-     "image": "img/peru/KObV.webp",
+     "image": "data/img/peru/KObV.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "YZbB",
-     "image": "img/peru/YZbB.webp",
+     "image": "data/img/peru/YZbB.webp",
      "mapsUrl": "https://goo.gl/maps/irAS8smcwbUbhGZ36",
      "width": 0.5,
      "text": [
@@ -43,7 +43,7 @@
     },
     {
      "id": "EoKI",
-     "image": "img/peru/EoKI.webp",
+     "image": "data/img/peru/EoKI.webp",
      "mapsUrl": "https://maps.app.goo.gl/k9EVAWUDYa76dGo59",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "2M5l",
-     "image": "img/peru/2M5l.webp",
+     "image": "data/img/peru/2M5l.webp",
      "mapsUrl": "https://maps.app.goo.gl/crPZGwXndSdfcFd6A",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "r5e9",
-     "image": "img/peru/r5e9.webp",
+     "image": "data/img/peru/r5e9.webp",
      "mapsUrl": "https://www.google.com/maps/@-12.5216103,-74.8972762,3a,90y,67.44h,59.55t/data=!3m6!1e1!3m4!1sE0Q5xJYiZpvxtuDfPcTCPQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "8cvB",
-     "image": "img/peru/8cvB.webp",
+     "image": "data/img/peru/8cvB.webp",
      "mapsUrl": "https://www.google.com/maps/@-13.498914,-72.4834524,3a,22.7y,317.17h,79.87t/data=!3m6!1e1!3m4!1s20VsX1gefo0_nUDl9Accvg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -82,7 +82,7 @@
     },
     {
      "id": "xFoX",
-     "image": "img/peru/xFoX.webp",
+     "image": "data/img/peru/xFoX.webp",
      "mapsUrl": "https://www.google.com/maps/@-5.1459651,-78.9289035,3a,24.9y,125.32h,74.63t/data=!3m6!1e1!3m4!1sfjHwtkm_quy9Ae2N0k8kMw!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "o1h4",
-     "image": "img/peru/o1h4.webp",
+     "image": "data/img/peru/o1h4.webp",
      "mapsUrl": "https://goo.gl/maps/FAvSyjzt8LKZfTFb9",
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "ILfq",
-     "image": "img/peru/ILfq.webp",
+     "image": "data/img/peru/ILfq.webp",
      "mapsUrl": "https://goo.gl/maps/XKqKBhwN2cLx6F5H9",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "sBQ3",
-     "image": "img/peru/sBQ3.webp",
+     "image": "data/img/peru/sBQ3.webp",
      "mapsUrl": "https://goo.gl/maps/PNJEShWFLrVj9eXT6",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "WEkO",
-     "image": "img/peru/WEkO.webp",
+     "image": "data/img/peru/WEkO.webp",
      "mapsUrl": "https://goo.gl/maps/Y9UJbrM25HeQBwTW6",
      "width": 0.5,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "1XZ8",
-     "image": "img/peru/1XZ8.webp",
+     "image": "data/img/peru/1XZ8.webp",
      "mapsUrl": "https://maps.app.goo.gl/NJ9Fy8f7mDJh64C4A",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "PfWF",
-     "image": "img/peru/PfWF.webp",
+     "image": "data/img/peru/PfWF.webp",
      "mapsUrl": "https://goo.gl/maps/AF17TKDqskfgSATv7",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "hRI9",
-     "image": "img/peru/hRI9.webp",
+     "image": "data/img/peru/hRI9.webp",
      "mapsUrl": "https://goo.gl/maps/8jQYarcyBsp4Xzwz9",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
     },
     {
      "id": "UBbs",
-     "image": "img/peru/UBbs.webp",
+     "image": "data/img/peru/UBbs.webp",
      "mapsUrl": "https://goo.gl/maps/gNRVrc2PknK98hBUA",
      "width": 0.5,
      "text": [
@@ -168,7 +168,7 @@
     },
     {
      "id": "lWmR",
-     "image": "img/peru/lWmR.webp",
+     "image": "data/img/peru/lWmR.webp",
      "mapsUrl": "https://maps.app.goo.gl/dTVEDeJvWsKdP1mw9",
      "width": 0.5,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "NelL",
-     "image": "img/peru/NelL.webp",
+     "image": "data/img/peru/NelL.webp",
      "mapsUrl": "https://maps.app.goo.gl/hUCCD6YTbA3hocnU7",
      "width": 0.5,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "DIQR",
-     "image": "img/peru/DIQR.webp",
+     "image": "data/img/peru/DIQR.webp",
      "mapsUrl": "https://www.google.com/maps/@-11.9455094,-77.0503097,3a,45.4y,165.81h,121.71t/data=!3m6!1e1!3m4!1s1WYl-FHCkq_DKAaUdZ4ZGg!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "Yqla",
-     "image": "img/peru/Yqla.webp",
+     "image": "data/img/peru/Yqla.webp",
      "mapsUrl": "https://goo.gl/maps/mZcFBVLyQoo7i11K9",
      "width": 0.5,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "akzm",
-     "image": "img/peru/akzm.webp",
+     "image": "data/img/peru/akzm.webp",
      "mapsUrl": "https://maps.app.goo.gl/FjKoEFYcGcof6pAG6#extra%5Btags%5D=northern+house",
      "width": 0.5,
      "text": [
@@ -225,7 +225,7 @@
    "metas": [
     {
      "id": "eOh8",
-     "image": "img/peru/eOh8.webp",
+     "image": "data/img/peru/eOh8.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "C4Zg",
-     "image": "img/peru/C4Zg.webp",
+     "image": "data/img/peru/C4Zg.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "0b4U",
-     "image": "img/peru/0b4U.webp",
+     "image": "data/img/peru/0b4U.webp",
      "mapsUrl": "/images/peru/2.climatemap.png",
      "width": 0.5,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "ztvL",
-     "image": "img/peru/ztvL.webp",
+     "image": "data/img/peru/ztvL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "IidK",
-     "image": "img/peru/IidK.webp",
+     "image": "data/img/peru/IidK.webp",
      "mapsUrl": "https://goo.gl/maps/uLhhPEdodqMsSfY86",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "40vq",
-     "image": "img/peru/40vq.webp",
+     "image": "data/img/peru/40vq.webp",
      "mapsUrl": "https://goo.gl/maps/uFN3Vf5n5HbanBUi9",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "OFne",
-     "image": "img/peru/OFne.webp",
+     "image": "data/img/peru/OFne.webp",
      "mapsUrl": "https://maps.app.goo.gl/fH9EWeN1Li4QPcF46",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "CeBf",
-     "image": "img/peru/CeBf.webp",
+     "image": "data/img/peru/CeBf.webp",
      "mapsUrl": "https://maps.app.goo.gl/qgNwUukwYViUR4v98",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "j7qH",
-     "image": "img/peru/j7qH.webp",
+     "image": "data/img/peru/j7qH.webp",
      "mapsUrl": "https://maps.app.goo.gl/VRXxeo5dSVNLFg2K7",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "Fr59",
-     "image": "img/peru/Fr59.webp",
+     "image": "data/img/peru/Fr59.webp",
      "mapsUrl": "https://maps.app.goo.gl/SFJKFRZdrQd18vyg6",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "CeXj",
-     "image": "img/peru/CeXj.webp",
+     "image": "data/img/peru/CeXj.webp",
      "mapsUrl": "https://maps.app.goo.gl/ghm4omS7AsuxfuM8A",
      "width": 0.573,
      "text": [
@@ -329,7 +329,7 @@
     },
     {
      "id": "e8pi",
-     "image": "img/peru/e8pi.webp",
+     "image": "data/img/peru/e8pi.webp",
      "mapsUrl": "https://goo.gl/maps/5jFSopKX8npBPkLd6",
      "width": 0.573,
      "text": [
@@ -339,7 +339,7 @@
     },
     {
      "id": "j9zr",
-     "image": "img/peru/j9zr.webp",
+     "image": "data/img/peru/j9zr.webp",
      "mapsUrl": "https://goo.gl/maps/bozF43bTcQBFbBm97",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "mbNm",
-     "image": "img/peru/mbNm.webp",
+     "image": "data/img/peru/mbNm.webp",
      "mapsUrl": "https://maps.app.goo.gl/6Ri7GfkgK51mWkVeA#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "Bs5J",
-     "image": "img/peru/Bs5J.webp",
+     "image": "data/img/peru/Bs5J.webp",
      "mapsUrl": "https://goo.gl/maps/vEAZb5TBrz7knPU4A",
      "width": 0.573,
      "text": [
@@ -366,7 +366,7 @@
     },
     {
      "id": "Zzyx",
-     "image": "img/peru/Zzyx.webp",
+     "image": "data/img/peru/Zzyx.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZVM3sau8aWE46rLS6",
      "width": 0.573,
      "text": [
@@ -375,7 +375,7 @@
     },
     {
      "id": "5e7H",
-     "image": "img/peru/5e7H.webp",
+     "image": "data/img/peru/5e7H.webp",
      "mapsUrl": "https://goo.gl/maps/7mMrUpToHFT7r3GT6",
      "width": 0.573,
      "text": [
@@ -385,7 +385,7 @@
     },
     {
      "id": "C6mO",
-     "image": "img/peru/C6mO.webp",
+     "image": "data/img/peru/C6mO.webp",
      "mapsUrl": "https://goo.gl/maps/DWp7FrSdzD8HYWSu9",
      "width": 0.573,
      "text": [
@@ -394,7 +394,7 @@
     },
     {
      "id": "0ozh",
-     "image": "img/peru/0ozh.webp",
+     "image": "data/img/peru/0ozh.webp",
      "mapsUrl": "https://goo.gl/maps/ZeDFBUatUSDSi63WA",
      "width": 0.573,
      "text": [
@@ -403,7 +403,7 @@
     },
     {
      "id": "REls",
-     "image": "img/peru/REls.webp",
+     "image": "data/img/peru/REls.webp",
      "mapsUrl": "https://goo.gl/maps/hDbXEqdqpwL2LduW9",
      "width": 0.573,
      "text": [
@@ -412,7 +412,7 @@
     },
     {
      "id": "n8zM",
-     "image": "img/peru/n8zM.webp",
+     "image": "data/img/peru/n8zM.webp",
      "mapsUrl": "https://maps.app.goo.gl/B1mvwbXC4ZicCsRU9",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
     },
     {
      "id": "LuyA",
-     "image": "img/peru/LuyA.webp",
+     "image": "data/img/peru/LuyA.webp",
      "mapsUrl": "https://maps.app.goo.gl/PKxJjrj758hN532y5",
      "width": 0.573,
      "text": [
@@ -431,7 +431,7 @@
     },
     {
      "id": "JcSb",
-     "image": "img/peru/JcSb.webp",
+     "image": "data/img/peru/JcSb.webp",
      "mapsUrl": "https://goo.gl/maps/P6anjxRDtM1rXWDg6",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "r51J",
-     "image": "img/peru/r51J.webp",
+     "image": "data/img/peru/r51J.webp",
      "mapsUrl": "https://maps.app.goo.gl/Tcz8RA8vL86EZkkT8",
      "width": 0.573,
      "text": [
@@ -450,7 +450,7 @@
     },
     {
      "id": "tRd3",
-     "image": "img/peru/tRd3.webp",
+     "image": "data/img/peru/tRd3.webp",
      "mapsUrl": "https://maps.app.goo.gl/cE3s3yHuZ6BFFo318",
      "width": 0.573,
      "text": [
@@ -461,7 +461,7 @@
     },
     {
      "id": "ENXi",
-     "image": "img/peru/ENXi.webp",
+     "image": "data/img/peru/ENXi.webp",
      "mapsUrl": "https://maps.app.goo.gl/bQ14ue3JBvp3aJha8",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "Aqvn",
-     "image": "img/peru/Aqvn.webp",
+     "image": "data/img/peru/Aqvn.webp",
      "mapsUrl": "https://maps.app.goo.gl/URZVpmZ6LievvMVh6",
      "width": 0.573,
      "text": [
@@ -482,7 +482,7 @@
     },
     {
      "id": "NIjJ",
-     "image": "img/peru/NIjJ.webp",
+     "image": "data/img/peru/NIjJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/ejYfN8iUDwhiG5oc8",
      "width": 0.573,
      "text": [
@@ -500,7 +500,7 @@
    "metas": [
     {
      "id": "uSmV",
-     "image": "img/peru/uSmV.webp",
+     "image": "data/img/peru/uSmV.webp",
      "mapsUrl": "https://goo.gl/maps/Wz8fjhZfCU7LgrGcA",
      "width": 0.573,
      "text": [
@@ -509,7 +509,7 @@
     },
     {
      "id": "Hw0b",
-     "image": "img/peru/Hw0b.webp",
+     "image": "data/img/peru/Hw0b.webp",
      "mapsUrl": "https://goo.gl/maps/mNSrKbcctX68kRmT9",
      "width": 0.573,
      "text": [
@@ -519,7 +519,7 @@
     },
     {
      "id": "8nBc",
-     "image": "img/peru/8nBc.webp",
+     "image": "data/img/peru/8nBc.webp",
      "mapsUrl": "https://maps.app.goo.gl/2xZP9v8wtH3ktEiQ9",
      "width": 0.573,
      "text": [
@@ -528,7 +528,7 @@
     },
     {
      "id": "aCtw",
-     "image": "img/peru/aCtw.webp",
+     "image": "data/img/peru/aCtw.webp",
      "mapsUrl": "https://maps.app.goo.gl/xn4hsSPinqzpSRvy9",
      "width": 0.573,
      "text": [
@@ -537,7 +537,7 @@
     },
     {
      "id": "nK4d",
-     "image": "img/peru/nK4d.webp",
+     "image": "data/img/peru/nK4d.webp",
      "mapsUrl": "https://www.google.com/maps/@-11.1302907,-69.5652304,3a,75y,5.79h,80.6t/data=!3m7!1e1!3m5!1sSRcdM981wm5ewUd5icsOIw!2e0!5s20130801T000000!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -546,7 +546,7 @@
     },
     {
      "id": "X2Hq",
-     "image": "img/peru/X2Hq.webp",
+     "image": "data/img/peru/X2Hq.webp",
      "mapsUrl": "https://maps.app.goo.gl/M69f7k5LUYCTccak9",
      "width": 0.573,
      "text": [
@@ -555,7 +555,7 @@
     },
     {
      "id": "5Huy",
-     "image": "img/peru/5Huy.webp",
+     "image": "data/img/peru/5Huy.webp",
      "mapsUrl": "https://maps.app.goo.gl/NLhrJLkAN7Dkryue8",
      "width": 0.573,
      "text": [
@@ -564,7 +564,7 @@
     },
     {
      "id": "592g",
-     "image": "img/peru/592g.webp",
+     "image": "data/img/peru/592g.webp",
      "mapsUrl": "https://maps.app.goo.gl/4XPTxHWxYgQoZhwo6",
      "width": 0.573,
      "text": [
@@ -573,7 +573,7 @@
     },
     {
      "id": "5xKh",
-     "image": "img/peru/5xKh.webp",
+     "image": "data/img/peru/5xKh.webp",
      "mapsUrl": "https://goo.gl/maps/XTwgVrPW511LTnLQ9",
      "width": 0.573,
      "text": [
@@ -582,7 +582,7 @@
     },
     {
      "id": "S1FS",
-     "image": "img/peru/S1FS.webp",
+     "image": "data/img/peru/S1FS.webp",
      "mapsUrl": "https://goo.gl/maps/k2AUpKGYwkns94fA9",
      "width": 0.573,
      "text": [
@@ -592,7 +592,7 @@
     },
     {
      "id": "qYbM",
-     "image": "img/peru/qYbM.webp",
+     "image": "data/img/peru/qYbM.webp",
      "mapsUrl": "https://goo.gl/maps/4cr966Zv3TyPdmyq8",
      "width": 0.573,
      "text": [
@@ -601,7 +601,7 @@
     },
     {
      "id": "q8YX",
-     "image": "img/peru/q8YX.webp",
+     "image": "data/img/peru/q8YX.webp",
      "mapsUrl": "https://goo.gl/maps/EeV5WUwQwgcBgLVn9",
      "width": 0.573,
      "text": [
@@ -611,7 +611,7 @@
     },
     {
      "id": "JGX2",
-     "image": "img/peru/JGX2.webp",
+     "image": "data/img/peru/JGX2.webp",
      "mapsUrl": "https://goo.gl/maps/15XBsC4Jgcyr9EA3A",
      "width": 0.573,
      "text": [
@@ -620,7 +620,7 @@
     },
     {
      "id": "Ig22",
-     "image": "img/peru/Ig22.webp",
+     "image": "data/img/peru/Ig22.webp",
      "mapsUrl": "https://goo.gl/maps/3CnPhcE5NHytk9dy7",
      "width": 0.573,
      "text": [
@@ -629,7 +629,7 @@
     },
     {
      "id": "CVON",
-     "image": "img/peru/CVON.webp",
+     "image": "data/img/peru/CVON.webp",
      "mapsUrl": "https://www.google.com/maps/@-17.994373,-70.2413411,3a,62.4y,306.64h,90.57t/data=!3m6!1e1!3m4!1s-Qjf71jwXVAiUk7VloVnbg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -638,7 +638,7 @@
     },
     {
      "id": "Lxep",
-     "image": "img/peru/Lxep.webp",
+     "image": "data/img/peru/Lxep.webp",
      "mapsUrl": "https://maps.app.goo.gl/FxzX4f8wvpkiwbmS6",
      "width": 0.573,
      "text": [
@@ -647,7 +647,7 @@
     },
     {
      "id": "YfpD",
-     "image": "img/peru/YfpD.webp",
+     "image": "data/img/peru/YfpD.webp",
      "mapsUrl": "https://goo.gl/maps/9Cgw8Ctnmwhe58cz9",
      "width": 0.573,
      "text": [
@@ -656,7 +656,7 @@
     },
     {
      "id": "RGbm",
-     "image": "img/peru/RGbm.webp",
+     "image": "data/img/peru/RGbm.webp",
      "mapsUrl": "https://goo.gl/maps/qdpKHDTqApgE7ZX17",
      "width": 0.573,
      "text": [

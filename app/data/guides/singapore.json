@@ -3,7 +3,7 @@
  "title": "Singapore",
  "code": "SG",
  "continent": "Asia",
- "hero": "img/singapore/hero.webp",
+ "hero": "data/img/singapore/hero.webp",
  "metaCount": 17,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "dONA",
-     "image": "img/singapore/dONA.webp",
+     "image": "data/img/singapore/dONA.webp",
      "mapsUrl": "https://goo.gl/maps/tXHdRe2JM6XexBhd6",
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "oACN",
-     "image": "img/singapore/oACN.webp",
+     "image": "data/img/singapore/oACN.webp",
      "mapsUrl": "https://goo.gl/maps/3gfo9dVeBnTvNSf4A",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "mfCc",
-     "image": "img/singapore/mfCc.webp",
+     "image": "data/img/singapore/mfCc.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "9Mue",
-     "image": "img/singapore/9Mue.webp",
+     "image": "data/img/singapore/9Mue.webp",
      "mapsUrl": "https://goo.gl/maps/DwfAaSALd9q2ToKAA",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "gJnM",
-     "image": "img/singapore/gJnM.webp",
+     "image": "data/img/singapore/gJnM.webp",
      "mapsUrl": "https://goo.gl/maps/i6H4a4yEEVqaccW8A",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "U9vA",
-     "image": "img/singapore/U9vA.webp",
+     "image": "data/img/singapore/U9vA.webp",
      "mapsUrl": "https://goo.gl/maps/6kBXjMZL9j9apCwn7",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "hevr",
-     "image": "img/singapore/hevr.webp",
+     "image": "data/img/singapore/hevr.webp",
      "mapsUrl": "https://goo.gl/maps/CJqw8NSgf2Sttiuy9",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "NOTm",
-     "image": "img/singapore/NOTm.webp",
+     "image": "data/img/singapore/NOTm.webp",
      "mapsUrl": "https://goo.gl/maps/TCozcHMoXvMiWzUNA",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "RNhX",
-     "image": "img/singapore/RNhX.webp",
+     "image": "data/img/singapore/RNhX.webp",
      "mapsUrl": "https://goo.gl/maps/ZJPL1kB5qake5EF59",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "su01",
-     "image": "img/singapore/su01.webp",
+     "image": "data/img/singapore/su01.webp",
      "mapsUrl": "https://goo.gl/maps/ghZxZiAc6UtZWKMe6",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "hHxa",
-     "image": "img/singapore/hHxa.webp",
+     "image": "data/img/singapore/hHxa.webp",
      "mapsUrl": "https://goo.gl/maps/7Km9vca4Vp9bjmQb7",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
    "metas": [
     {
      "id": "sB3c",
-     "image": "img/singapore/sB3c.webp",
+     "image": "data/img/singapore/sB3c.webp",
      "mapsUrl": "https://goo.gl/maps/amC7LH2dMUiJjRQ4A",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "nZF6",
-     "image": "img/singapore/nZF6.webp",
+     "image": "data/img/singapore/nZF6.webp",
      "mapsUrl": "https://goo.gl/maps/5j6PRBEvEwMorGEj7",
      "width": 0.573,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "KPH6",
-     "image": "img/singapore/KPH6.webp",
+     "image": "data/img/singapore/KPH6.webp",
      "mapsUrl": "https://goo.gl/maps/UE2VjN9xy4LfUbwA8",
      "width": 0.573,
      "text": [
@@ -171,7 +171,7 @@
    "metas": [
     {
      "id": "SP7M",
-     "image": "img/singapore/SP7M.webp",
+     "image": "data/img/singapore/SP7M.webp",
      "mapsUrl": "https://goo.gl/maps/BXgGkC9vDStCp4jp6",
      "width": 0.573,
      "text": [
@@ -180,7 +180,7 @@
     },
     {
      "id": "TWrN",
-     "image": "img/singapore/TWrN.webp",
+     "image": "data/img/singapore/TWrN.webp",
      "mapsUrl": "https://goo.gl/maps/yP92EMgBneCzLgLF9",
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "LCE7",
-     "image": "img/singapore/LCE7.webp",
+     "image": "data/img/singapore/LCE7.webp",
      "mapsUrl": "https://goo.gl/maps/RuaECmjmZbgJscC87",
      "width": 0.573,
      "text": [

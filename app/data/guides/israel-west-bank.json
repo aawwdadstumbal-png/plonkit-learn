@@ -3,7 +3,7 @@
  "title": "Israel & the West Bank",
  "code": "IL",
  "continent": "Asia",
- "hero": "img/israel-west-bank/hero.webp",
+ "hero": "data/img/israel-west-bank/hero.webp",
  "metaCount": 64,
  "sections": [
   {
@@ -24,7 +24,7 @@
    "metas": [
     {
      "id": "Lxx7",
-     "image": "img/israel-west-bank/Lxx7.webp",
+     "image": "data/img/israel-west-bank/Lxx7.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -34,7 +34,7 @@
     },
     {
      "id": "UXde",
-     "image": "img/israel-west-bank/UXde.webp",
+     "image": "data/img/israel-west-bank/UXde.webp",
      "mapsUrl": "https://goo.gl/maps/HKkcWapSvEt2eQqK7",
      "width": 0.5,
      "text": [
@@ -44,7 +44,7 @@
     },
     {
      "id": "26il",
-     "image": "img/israel-west-bank/26il.webp",
+     "image": "data/img/israel-west-bank/26il.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -53,7 +53,7 @@
     },
     {
      "id": "cY6B",
-     "image": "img/israel-west-bank/cY6B.webp",
+     "image": "data/img/israel-west-bank/cY6B.webp",
      "mapsUrl": "https://goo.gl/maps/hhScwquZcUzWESXW9",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "Xg52",
-     "image": "img/israel-west-bank/Xg52.webp",
+     "image": "data/img/israel-west-bank/Xg52.webp",
      "mapsUrl": "https://maps.app.goo.gl/tqduKCT4yWSuyqmU9",
      "width": 0.5,
      "text": [
@@ -71,7 +71,7 @@
     },
     {
      "id": "cn98",
-     "image": "img/israel-west-bank/cn98.webp",
+     "image": "data/img/israel-west-bank/cn98.webp",
      "mapsUrl": "https://goo.gl/maps/xkmsD4obYzcgY9TE9",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "OiB7",
-     "image": "img/israel-west-bank/OiB7.webp",
+     "image": "data/img/israel-west-bank/OiB7.webp",
      "mapsUrl": "https://goo.gl/maps/mJ43fQbgtLbgBhdA6",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "aDf0",
-     "image": "img/israel-west-bank/aDf0.webp",
+     "image": "data/img/israel-west-bank/aDf0.webp",
      "mapsUrl": "https://maps.app.goo.gl/PkfkPFXcEzUTqLLV7",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "LiS4",
-     "image": "img/israel-west-bank/LiS4.webp",
+     "image": "data/img/israel-west-bank/LiS4.webp",
      "mapsUrl": "https://goo.gl/maps/z8QaiRb6dxX6qdBfA",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "8sED",
-     "image": "img/israel-west-bank/8sED.webp",
+     "image": "data/img/israel-west-bank/8sED.webp",
      "mapsUrl": "https://goo.gl/maps/f9CSv2NjepEtSyuJ7",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "QlFr",
-     "image": "img/israel-west-bank/QlFr.webp",
+     "image": "data/img/israel-west-bank/QlFr.webp",
      "mapsUrl": "https://goo.gl/maps/EMEy9HCscujaXCzz9",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "ik9R",
-     "image": "img/israel-west-bank/ik9R.webp",
+     "image": "data/img/israel-west-bank/ik9R.webp",
      "mapsUrl": "https://goo.gl/maps/LXHfbNpdLbwJqFQbA",
      "width": 0.5,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "q6eN",
-     "image": "img/israel-west-bank/q6eN.webp",
+     "image": "data/img/israel-west-bank/q6eN.webp",
      "mapsUrl": "https://goo.gl/maps/B5DxzkHEwCVxpCiR6",
      "width": 0.5,
      "text": [
@@ -145,7 +145,7 @@
     },
     {
      "id": "5SOq",
-     "image": "img/israel-west-bank/5SOq.webp",
+     "image": "data/img/israel-west-bank/5SOq.webp",
      "mapsUrl": "https://goo.gl/maps/xvwWTaqLSTT8Hvs68",
      "width": 0.5,
      "text": [
@@ -163,7 +163,7 @@
    "metas": [
     {
      "id": "laqT",
-     "image": "img/israel-west-bank/laqT.webp",
+     "image": "data/img/israel-west-bank/laqT.webp",
      "mapsUrl": "/images/israel-west-bank/ilps_coverage.png",
      "width": 0.25,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "McC9",
-     "image": "img/israel-west-bank/McC9.webp",
+     "image": "data/img/israel-west-bank/McC9.webp",
      "mapsUrl": null,
      "width": 0.25,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "4Y89",
-     "image": "img/israel-west-bank/4Y89.webp",
+     "image": "data/img/israel-west-bank/4Y89.webp",
      "mapsUrl": "https://goo.gl/maps/rg94vCLJCmMKAWLe7",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "HUcN",
-     "image": "img/israel-west-bank/HUcN.webp",
+     "image": "data/img/israel-west-bank/HUcN.webp",
      "mapsUrl": "https://goo.gl/maps/RNk8F2LsWxDMJgVD6",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "dPE9",
-     "image": "img/israel-west-bank/dPE9.webp",
+     "image": "data/img/israel-west-bank/dPE9.webp",
      "mapsUrl": "https://goo.gl/maps/MVV1iCyrao6vyc9RA",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "XZS5",
-     "image": "img/israel-west-bank/XZS5.webp",
+     "image": "data/img/israel-west-bank/XZS5.webp",
      "mapsUrl": "https://goo.gl/maps/eQDpMa2zBoWHzE5f7",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "DjZZ",
-     "image": "img/israel-west-bank/DjZZ.webp",
+     "image": "data/img/israel-west-bank/DjZZ.webp",
      "mapsUrl": "https://goo.gl/maps/G6BQgcK88r3toJir6",
      "width": 0.573,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "5uEB",
-     "image": "img/israel-west-bank/5uEB.webp",
+     "image": "data/img/israel-west-bank/5uEB.webp",
      "mapsUrl": "https://goo.gl/maps/iJSjR7KCdPup1QHC7",
      "width": 0.573,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "cUXB",
-     "image": "img/israel-west-bank/cUXB.webp",
+     "image": "data/img/israel-west-bank/cUXB.webp",
      "mapsUrl": "https://goo.gl/maps/9YnBmm9MiU9dv7YB9",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "yoLh",
-     "image": "img/israel-west-bank/yoLh.webp",
+     "image": "data/img/israel-west-bank/yoLh.webp",
      "mapsUrl": "https://goo.gl/maps/3ouHpyxHgSiaJz717",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "l6Gd",
-     "image": "img/israel-west-bank/l6Gd.webp",
+     "image": "data/img/israel-west-bank/l6Gd.webp",
      "mapsUrl": "https://goo.gl/maps/E14v1onUfVCFCYBM7",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "bTSZ",
-     "image": "img/israel-west-bank/bTSZ.webp",
+     "image": "data/img/israel-west-bank/bTSZ.webp",
      "mapsUrl": "https://goo.gl/maps/i1QuZXupR7k7CeW96",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "8ktx",
-     "image": "img/israel-west-bank/8ktx.webp",
+     "image": "data/img/israel-west-bank/8ktx.webp",
      "mapsUrl": "https://goo.gl/maps/Ano5FHMymHTTryyU9",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "8SBk",
-     "image": "img/israel-west-bank/8SBk.webp",
+     "image": "data/img/israel-west-bank/8SBk.webp",
      "mapsUrl": "https://goo.gl/maps/6NrREqt9Dsp3kpDR6",
      "width": 0.573,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "6r1q",
-     "image": "img/israel-west-bank/6r1q.webp",
+     "image": "data/img/israel-west-bank/6r1q.webp",
      "mapsUrl": "https://goo.gl/maps/TQr8cV9ZA8REo1NK7",
      "width": 0.573,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "vYUO",
-     "image": "img/israel-west-bank/vYUO.webp",
+     "image": "data/img/israel-west-bank/vYUO.webp",
      "mapsUrl": "https://www.google.com/maps/@32.7675417,35.1001021,3a,75y,245.63h,85.59t/data=!3m6!1e1!3m4!1siG_WNEx2LKzuhR-vPuhr2g!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "LWEc",
-     "image": "img/israel-west-bank/LWEc.webp",
+     "image": "data/img/israel-west-bank/LWEc.webp",
      "mapsUrl": "https://www.google.com/maps/@32.4991773,35.4864055,3a,75y,259.27h,87.06t/data=!3m7!1e1!3m5!1s410LXPfVdPpF25et87jsfQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D410LXPfVdPpF25et87jsfQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D356.51886%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -323,7 +323,7 @@
     },
     {
      "id": "8gNf",
-     "image": "img/israel-west-bank/8gNf.webp",
+     "image": "data/img/israel-west-bank/8gNf.webp",
      "mapsUrl": "https://goo.gl/maps/vXdgc4GqrceYKohx7",
      "width": 0.573,
      "text": [
@@ -332,7 +332,7 @@
     },
     {
      "id": "isW8",
-     "image": "img/israel-west-bank/isW8.webp",
+     "image": "data/img/israel-west-bank/isW8.webp",
      "mapsUrl": "https://goo.gl/maps/EmGEvYsPGHrkzRun8",
      "width": 0.573,
      "text": [
@@ -342,7 +342,7 @@
     },
     {
      "id": "jBWo",
-     "image": "img/israel-west-bank/jBWo.webp",
+     "image": "data/img/israel-west-bank/jBWo.webp",
      "mapsUrl": "https://goo.gl/maps/bdpqi69cm1efcunK8",
      "width": 0.573,
      "text": [
@@ -351,7 +351,7 @@
     },
     {
      "id": "z5QI",
-     "image": "img/israel-west-bank/z5QI.webp",
+     "image": "data/img/israel-west-bank/z5QI.webp",
      "mapsUrl": "https://goo.gl/maps/a38qLgKhQomdi26x5",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "vqbJ",
-     "image": "img/israel-west-bank/vqbJ.webp",
+     "image": "data/img/israel-west-bank/vqbJ.webp",
      "mapsUrl": "https://goo.gl/maps/FkHz1cDrgoL7ZUhn8",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
    "metas": [
     {
      "id": "nIuy",
-     "image": "img/israel-west-bank/nIuy.webp",
+     "image": "data/img/israel-west-bank/nIuy.webp",
      "mapsUrl": "https://goo.gl/maps/EpTsbrLa5KGEgu8TA",
      "width": 0.573,
      "text": [
@@ -389,7 +389,7 @@
     },
     {
      "id": "qZaS",
-     "image": "img/israel-west-bank/qZaS.webp",
+     "image": "data/img/israel-west-bank/qZaS.webp",
      "mapsUrl": "https://www.google.com/maps/@29.7413908,35.007595,3a,75y,33.38h,86.1t/data=!3m7!1e1!3m5!1sdJRA9qfoAXZ-BCtZlI4anA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DdJRA9qfoAXZ-BCtZlI4anA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D104.547134%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -398,7 +398,7 @@
     },
     {
      "id": "SBtu",
-     "image": "img/israel-west-bank/SBtu.webp",
+     "image": "data/img/israel-west-bank/SBtu.webp",
      "mapsUrl": "https://www.google.com/maps/@32.7498986,34.9518176,3a,75y,2.39h,88.92t/data=!3m6!1e1!3m4!1sUt4eHtL5YHnk78xsYWxAPQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -408,7 +408,7 @@
     },
     {
      "id": "D6Hi",
-     "image": "img/israel-west-bank/D6Hi.webp",
+     "image": "data/img/israel-west-bank/D6Hi.webp",
      "mapsUrl": "https://goo.gl/maps/tphCsAKrSi5UxEyY8",
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "pTNG",
-     "image": "img/israel-west-bank/pTNG.webp",
+     "image": "data/img/israel-west-bank/pTNG.webp",
      "mapsUrl": "https://www.google.com/maps/@29.7883991,34.9728739,3a,90y,253.47h,91.28t/data=!3m6!1e1!3m4!1srQYeZ-dZHaU5W8yiJEZCwg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -426,7 +426,7 @@
     },
     {
      "id": "YgqZ",
-     "image": "img/israel-west-bank/YgqZ.webp",
+     "image": "data/img/israel-west-bank/YgqZ.webp",
      "mapsUrl": "https://www.google.com/maps/@29.5672287,34.9657281,3a,35.6y,115.87h,90.5t/data=!3m6!1e1!3m4!1sqRUy1UVGxfGle5kVYgchbg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "gafP",
-     "image": "img/israel-west-bank/gafP.webp",
+     "image": "data/img/israel-west-bank/gafP.webp",
      "mapsUrl": "https://goo.gl/maps/8sCuhVixZ8fLtng18",
      "width": 0.573,
      "text": [
@@ -445,7 +445,7 @@
     },
     {
      "id": "bhS4",
-     "image": "img/israel-west-bank/bhS4.webp",
+     "image": "data/img/israel-west-bank/bhS4.webp",
      "mapsUrl": "https://goo.gl/maps/wfBUmAiXe5txiGBD7",
      "width": 0.573,
      "text": [
@@ -454,7 +454,7 @@
     },
     {
      "id": "hFUY",
-     "image": "img/israel-west-bank/hFUY.webp",
+     "image": "data/img/israel-west-bank/hFUY.webp",
      "mapsUrl": "https://goo.gl/maps/mp1DsLhHH8rHavBJA",
      "width": 0.573,
      "text": [
@@ -464,7 +464,7 @@
     },
     {
      "id": "rMis",
-     "image": "img/israel-west-bank/rMis.webp",
+     "image": "data/img/israel-west-bank/rMis.webp",
      "mapsUrl": "https://www.google.com/maps/@31.7957494,35.2077627,3a,26.4y,2.29h,100.33t/data=!3m6!1e1!3m4!1sBCMv6RJvfbwDhEBN8DmgYw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -473,7 +473,7 @@
     },
     {
      "id": "NQSw",
-     "image": "img/israel-west-bank/NQSw.webp",
+     "image": "data/img/israel-west-bank/NQSw.webp",
      "mapsUrl": "https://goo.gl/maps/UxwfBqkZpgmhGxwd7",
      "width": 0.573,
      "text": [
@@ -482,7 +482,7 @@
     },
     {
      "id": "n3eR",
-     "image": "img/israel-west-bank/n3eR.webp",
+     "image": "data/img/israel-west-bank/n3eR.webp",
      "mapsUrl": "https://goo.gl/maps/PhMiK5g95CMAki9f7",
      "width": 0.573,
      "text": [
@@ -492,7 +492,7 @@
     },
     {
      "id": "x53j",
-     "image": "img/israel-west-bank/x53j.webp",
+     "image": "data/img/israel-west-bank/x53j.webp",
      "mapsUrl": "https://www.google.com/maps/@32.4601767,35.0436309,3a,49y,41.16h,102.28t/data=!3m6!1e1!3m4!1sUQBfK4jKH-Fk2KXivzMEEA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -501,7 +501,7 @@
     },
     {
      "id": "xiPx",
-     "image": "img/israel-west-bank/xiPx.webp",
+     "image": "data/img/israel-west-bank/xiPx.webp",
      "mapsUrl": "https://www.google.com/maps/@33.0089431,35.0978896,3a,42.9y,282.97h,86.43t/data=!3m6!1e1!3m4!1sliFC5p4zZ5m5TpmI-LO5tQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -510,7 +510,7 @@
     },
     {
      "id": "BogJ",
-     "image": "img/israel-west-bank/BogJ.webp",
+     "image": "data/img/israel-west-bank/BogJ.webp",
      "mapsUrl": "https://goo.gl/maps/kQmEWrXhY7Eob1TZA",
      "width": 0.573,
      "text": [
@@ -520,7 +520,7 @@
     },
     {
      "id": "87Ha",
-     "image": "img/israel-west-bank/87Ha.webp",
+     "image": "data/img/israel-west-bank/87Ha.webp",
      "mapsUrl": "https://www.google.com/maps/@31.4254348,34.5960231,3a,51.9y,174.24h,91.83t/data=!3m6!1e1!3m4!1sBWkwj08SL9bIy3-gnxEnTQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -529,7 +529,7 @@
     },
     {
      "id": "TTYJ",
-     "image": "img/israel-west-bank/TTYJ.webp",
+     "image": "data/img/israel-west-bank/TTYJ.webp",
      "mapsUrl": "https://goo.gl/maps/mEK5UDjicvFPYdLMA",
      "width": 0.573,
      "text": [
@@ -538,7 +538,7 @@
     },
     {
      "id": "5VTI",
-     "image": "img/israel-west-bank/5VTI.webp",
+     "image": "data/img/israel-west-bank/5VTI.webp",
      "mapsUrl": "https://goo.gl/maps/7a5J9PUkw8Uph9ocA",
      "width": 0.573,
      "text": [
@@ -547,7 +547,7 @@
     },
     {
      "id": "o2lV",
-     "image": "img/israel-west-bank/o2lV.webp",
+     "image": "data/img/israel-west-bank/o2lV.webp",
      "mapsUrl": "https://goo.gl/maps/u4uef4jWJnKak2Lc6",
      "width": 0.573,
      "text": [
@@ -556,7 +556,7 @@
     },
     {
      "id": "0SY5",
-     "image": "img/israel-west-bank/0SY5.webp",
+     "image": "data/img/israel-west-bank/0SY5.webp",
      "mapsUrl": "https://goo.gl/maps/8DW1NTcm7GbR5BQdA",
      "width": 0.573,
      "text": [
@@ -565,7 +565,7 @@
     },
     {
      "id": "wUDq",
-     "image": "img/israel-west-bank/wUDq.webp",
+     "image": "data/img/israel-west-bank/wUDq.webp",
      "mapsUrl": "https://goo.gl/maps/CL5WbWoEM2Xox64QA",
      "width": 0.573,
      "text": [
@@ -574,7 +574,7 @@
     },
     {
      "id": "B8PX",
-     "image": "img/israel-west-bank/B8PX.webp",
+     "image": "data/img/israel-west-bank/B8PX.webp",
      "mapsUrl": "https://goo.gl/maps/51TcLiNaqaY5ny3UA",
      "width": 0.573,
      "text": [
@@ -583,7 +583,7 @@
     },
     {
      "id": "algU",
-     "image": "img/israel-west-bank/algU.webp",
+     "image": "data/img/israel-west-bank/algU.webp",
      "mapsUrl": "https://www.google.com/maps/@32.1636082,34.8452915,3a,15y,274.43h,90.35t/data=!3m6!1e1!3m4!1sKCqd6MMHcmRKgiNpkFcDuQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -592,7 +592,7 @@
     },
     {
      "id": "OyOI",
-     "image": "img/israel-west-bank/OyOI.webp",
+     "image": "data/img/israel-west-bank/OyOI.webp",
      "mapsUrl": "https://goo.gl/maps/fkBXjudj1T29eJL57",
      "width": 0.573,
      "text": [
@@ -601,7 +601,7 @@
     },
     {
      "id": "ohFr",
-     "image": "img/israel-west-bank/ohFr.webp",
+     "image": "data/img/israel-west-bank/ohFr.webp",
      "mapsUrl": "https://goo.gl/maps/TghQA3fPPdXUqFGu5",
      "width": 0.573,
      "text": [
@@ -610,7 +610,7 @@
     },
     {
      "id": "WRHe",
-     "image": "img/israel-west-bank/WRHe.webp",
+     "image": "data/img/israel-west-bank/WRHe.webp",
      "mapsUrl": "https://goo.gl/maps/B6uNbaSr1Hg4sz5A8",
      "width": 0.573,
      "text": [
@@ -619,7 +619,7 @@
     },
     {
      "id": "fagW",
-     "image": "img/israel-west-bank/fagW.webp",
+     "image": "data/img/israel-west-bank/fagW.webp",
      "mapsUrl": "https://goo.gl/maps/dSofA6vuqb3CNgMh6",
      "width": 0.573,
      "text": [
@@ -628,7 +628,7 @@
     },
     {
      "id": "qG8X",
-     "image": "img/israel-west-bank/qG8X.webp",
+     "image": "data/img/israel-west-bank/qG8X.webp",
      "mapsUrl": "https://goo.gl/maps/vcj3pP9pRe7rasEN8",
      "width": 0.573,
      "text": [

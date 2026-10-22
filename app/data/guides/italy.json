@@ -3,7 +3,7 @@
  "title": "Italy",
  "code": "IT",
  "continent": "Europe",
- "hero": "img/italy/hero.webp",
+ "hero": "data/img/italy/hero.webp",
  "metaCount": 52,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "sYKL",
-     "image": "img/italy/sYKL.webp",
+     "image": "data/img/italy/sYKL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "BBrE",
-     "image": "img/italy/BBrE.webp",
+     "image": "data/img/italy/BBrE.webp",
      "mapsUrl": "https://www.google.com/maps/@40.288934,16.1033056,3a,16.8y,34.32h,67.46t/data=!3m6!1e1!3m4!1smYkIwHq2zcxWHBB7ozf2dA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "GY26",
-     "image": "img/italy/GY26.webp",
+     "image": "data/img/italy/GY26.webp",
      "mapsUrl": "https://www.google.com/maps/@43.1545993,13.3136322,3a,32.3y,181.46h,78.35t/data=!3m6!1e1!3m4!1s2Y1dZAQUnPKxupcs-Mr6vQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "clmq",
-     "image": "img/italy/clmq.webp",
+     "image": "data/img/italy/clmq.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "RTSX",
-     "image": "img/italy/RTSX.webp",
+     "image": "data/img/italy/RTSX.webp",
      "mapsUrl": "https://www.google.com/maps/@39.7300922,16.2181891,3a,90y,136.03h,84.85t/data=!3m6!1e1!3m4!1sy0sFKYuZqYqK_4ktD6N5Iw!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "CcGf",
-     "image": "img/italy/CcGf.webp",
+     "image": "data/img/italy/CcGf.webp",
      "mapsUrl": "https://goo.gl/maps/ziBLPgaatNKm3R3e7",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "NzGb",
-     "image": "img/italy/NzGb.webp",
+     "image": "data/img/italy/NzGb.webp",
      "mapsUrl": "https://goo.gl/maps/5d6wwiY2tQaS7M9n8",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "Qtgc",
-     "image": "img/italy/Qtgc.webp",
+     "image": "data/img/italy/Qtgc.webp",
      "mapsUrl": "https://www.google.com/maps/@45.4341139,9.7852735,3a,15y,63.56h,79.61t/data=!3m6!1e1!3m4!1sLRanBYphkVo8y5SZV8ssFA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "uuBU",
-     "image": "img/italy/uuBU.webp",
+     "image": "data/img/italy/uuBU.webp",
      "mapsUrl": "https://www.google.com/maps/@45.370783,9.3861825,3a,15y,44.72h,108.76t/data=!3m6!1e1!3m4!1syuAm0DeBq7QgQWioJblpTw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "6adv",
-     "image": "img/italy/6adv.webp",
+     "image": "data/img/italy/6adv.webp",
      "mapsUrl": "https://goo.gl/maps/ddN9HSR3xSiqwsbk6",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "qoV6",
-     "image": "img/italy/qoV6.webp",
+     "image": "data/img/italy/qoV6.webp",
      "mapsUrl": "https://goo.gl/maps/c3d1XtYw7CaCEewG8",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "gSjf",
-     "image": "img/italy/gSjf.webp",
+     "image": "data/img/italy/gSjf.webp",
      "mapsUrl": "https://maps.app.goo.gl/YEVfuhniWwcHUDZ59",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "RnwF",
-     "image": "img/italy/RnwF.webp",
+     "image": "data/img/italy/RnwF.webp",
      "mapsUrl": "https://www.google.com/maps/@41.672366,14.5534512,3a,15y,87.54h,91.02t/data=!3m6!1e1!3m4!1sYR39x-pYWeQ0QGj4PRBUuA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "hAqF",
-     "image": "img/italy/hAqF.webp",
+     "image": "data/img/italy/hAqF.webp",
      "mapsUrl": "https://www.google.com/maps/@44.5031356,11.4778607,3a,15y,304.19h,91.72t/data=!3m6!1e1!3m4!1sYrY5TP9Y_cgchZflBxjhVQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "7iSX",
-     "image": "img/italy/7iSX.webp",
+     "image": "data/img/italy/7iSX.webp",
      "mapsUrl": "https://www.google.com/maps/@43.3651319,12.2659977,3a,15y,117.01h,105.91t/data=!3m6!1e1!3m4!1s8MgRb4EagQmomNlNajRFIA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "q7lg",
-     "image": "img/italy/q7lg.webp",
+     "image": "data/img/italy/q7lg.webp",
      "mapsUrl": "https://www.google.com/maps/@39.5535301,8.9984201,3a,17.5y,230.9h,76.85t/data=!3m6!1e1!3m4!1sit0hjz2861rXqtaQ6RIqIQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "AHSj",
-     "image": "img/italy/AHSj.webp",
+     "image": "data/img/italy/AHSj.webp",
      "mapsUrl": "https://goo.gl/maps/9yy8Q3dSDhkk8Zid8",
      "width": 0.5,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "7zlG",
-     "image": "img/italy/7zlG.webp",
+     "image": "data/img/italy/7zlG.webp",
      "mapsUrl": "https://goo.gl/maps/Cgn37LcoYBWwVRQQ7",
      "width": 0.5,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "TyCh",
-     "image": "img/italy/TyCh.webp",
+     "image": "data/img/italy/TyCh.webp",
      "mapsUrl": "https://www.google.com/maps/@44.48621,11.2950161,3a,15y,45.57h,95.15t/data=!3m6!1e1!3m4!1sWvd14G8g1g6f_HkpUtWYGQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "TXiT",
-     "image": "img/italy/TXiT.webp",
+     "image": "data/img/italy/TXiT.webp",
      "mapsUrl": "https://maps.app.goo.gl/Yx616UzpafkhPtcDA",
      "width": 0.5,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "aDjA",
-     "image": "img/italy/aDjA.webp",
+     "image": "data/img/italy/aDjA.webp",
      "mapsUrl": "https://goo.gl/maps/nSj9euyXVVirJrGa7",
      "width": 0.5,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "dto7",
-     "image": "img/italy/dto7.webp",
+     "image": "data/img/italy/dto7.webp",
      "mapsUrl": "https://maps.app.goo.gl/PYxo2PM6vsZh1cLu7",
      "width": 0.5,
      "text": [
@@ -251,7 +251,7 @@
    "metas": [
     {
      "id": "mzWF",
-     "image": "img/italy/mzWF.webp",
+     "image": "data/img/italy/mzWF.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -260,7 +260,7 @@
     },
     {
      "id": "lfUH",
-     "image": "img/italy/lfUH.webp",
+     "image": "data/img/italy/lfUH.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "ZxGw",
-     "image": "img/italy/ZxGw.webp",
+     "image": "data/img/italy/ZxGw.webp",
      "mapsUrl": "https://www.google.com/maps/@46.7965067,11.9382695,3a,26.9y,358.82h,89.16t/data=!3m6!1e1!3m4!1seLRlRrvEqk7Wgkld-nSDIA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -278,7 +278,7 @@
     },
     {
      "id": "IZSl",
-     "image": "img/italy/IZSl.webp",
+     "image": "data/img/italy/IZSl.webp",
      "mapsUrl": "https://www.google.com/maps/@45.7380783,7.3130916,3a,17.5y,327.67h,98.62t/data=!3m6!1e1!3m4!1s0hpArT8W6yln_kkiFJMUEA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "T4R2",
-     "image": "img/italy/T4R2.webp",
+     "image": "data/img/italy/T4R2.webp",
      "mapsUrl": "https://www.google.com/maps/@44.8394643,11.4251828,3a,75y,221.31h,85.28t/data=!3m6!1e1!3m4!1sdtoZI_oQpeZAkf4bCrS_Qg!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "kMZN",
-     "image": "img/italy/kMZN.webp",
+     "image": "data/img/italy/kMZN.webp",
      "mapsUrl": "https://www.google.com/maps/@40.8368357,17.284796,3a,48y,27.25h,84.31t/data=!3m6!1e1!3m4!1sBnG6NGeAZlelJSg1o9069Q!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "8uch",
-     "image": "img/italy/8uch.webp",
+     "image": "data/img/italy/8uch.webp",
      "mapsUrl": "https://www.google.com/maps/@46.873111,12.1341985,3a,44.9y,349.63h,107.26t,0.12r/data=!3m6!1e1!3m4!1sz73o7-4PCTpMBP0OOFIOCQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "F3fZ",
-     "image": "img/italy/F3fZ.webp",
+     "image": "data/img/italy/F3fZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/yw8dVo9QGuYSDJKv6",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "5TiR",
-     "image": "img/italy/5TiR.webp",
+     "image": "data/img/italy/5TiR.webp",
      "mapsUrl": "https://www.google.com/maps/@40.937937,9.0551851,3a,65.4y,105.63h,103.71t/data=!3m6!1e1!3m4!1sESOqlfchN68em6yR9jOjLg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "dfcb",
-     "image": "img/italy/dfcb.webp",
+     "image": "data/img/italy/dfcb.webp",
      "mapsUrl": "https://www.google.com/maps/@37.713355,12.8929641,3a,71.8y,282.84h,81.86t/data=!3m6!1e1!3m4!1sRt04YaZslGmM0p8lN0S8Fg!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "zeHg",
-     "image": "img/italy/zeHg.webp",
+     "image": "data/img/italy/zeHg.webp",
      "mapsUrl": "https://goo.gl/maps/t292Xc37jGYV24p27",
      "width": 0.573,
      "text": [
@@ -352,7 +352,7 @@
     },
     {
      "id": "PYmb",
-     "image": "img/italy/PYmb.webp",
+     "image": "data/img/italy/PYmb.webp",
      "mapsUrl": "https://goo.gl/maps/dEGomwnefT9jjAPG7",
      "width": 0.573,
      "text": [
@@ -361,7 +361,7 @@
     },
     {
      "id": "WLd3",
-     "image": "img/italy/WLd3.webp",
+     "image": "data/img/italy/WLd3.webp",
      "mapsUrl": "https://www.google.com/maps/@43.4441439,11.8515988,3a,90y,168.73h,101.87t/data=!3m6!1e1!3m4!1scVyGvZL6R1m6k4EHQVJ9Zw!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -371,7 +371,7 @@
     },
     {
      "id": "tpUa",
-     "image": "img/italy/tpUa.webp",
+     "image": "data/img/italy/tpUa.webp",
      "mapsUrl": "https://goo.gl/maps/tyTUjdSkHUsWG8ueA",
      "width": 0.573,
      "text": [
@@ -380,7 +380,7 @@
     },
     {
      "id": "nLtP",
-     "image": "img/italy/nLtP.webp",
+     "image": "data/img/italy/nLtP.webp",
      "mapsUrl": "https://www.google.com/maps/@45.746944,7.0692512,3a,75y,270.38h,93.55t/data=!3m6!1e1!3m4!1snNQ5vPfFsemlk0O8eoNNoQ!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -390,7 +390,7 @@
     },
     {
      "id": "9MDD",
-     "image": "img/italy/9MDD.webp",
+     "image": "data/img/italy/9MDD.webp",
      "mapsUrl": "https://goo.gl/maps/qooBn7o8ehFs3xqy9",
      "width": 0.573,
      "text": [
@@ -399,7 +399,7 @@
     },
     {
      "id": "hndZ",
-     "image": "img/italy/hndZ.webp",
+     "image": "data/img/italy/hndZ.webp",
      "mapsUrl": "https://www.google.com/maps/@41.2003825,16.5975725,3a,90y,249.14h,106.17t/data=!3m6!1e1!3m4!1sGAYKyNDjw01P2Lq6OOlICA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -408,7 +408,7 @@
     },
     {
      "id": "zq9T",
-     "image": "img/italy/zq9T.webp",
+     "image": "data/img/italy/zq9T.webp",
      "mapsUrl": "https://www.google.com/maps/@40.7159307,17.3353136,3a,61.3y,254.82h,92.92t/data=!3m6!1e1!3m4!1s7EToRmiChBo7XxQWkWR1MQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -426,7 +426,7 @@
    "metas": [
     {
      "id": "UJSC",
-     "image": "img/italy/UJSC.webp",
+     "image": "data/img/italy/UJSC.webp",
      "mapsUrl": "https://goo.gl/maps/16H1fSAdxeLC8Kiw5",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "42k5",
-     "image": "img/italy/42k5.webp",
+     "image": "data/img/italy/42k5.webp",
      "mapsUrl": "https://goo.gl/maps/gUGC7LrhSp59TrLM7",
      "width": 0.573,
      "text": [
@@ -445,7 +445,7 @@
     },
     {
      "id": "AHUP",
-     "image": "img/italy/AHUP.webp",
+     "image": "data/img/italy/AHUP.webp",
      "mapsUrl": "https://goo.gl/maps/rBt3HFt26cyCu757A",
      "width": 0.573,
      "text": [
@@ -454,7 +454,7 @@
     },
     {
      "id": "s1Uh",
-     "image": "img/italy/s1Uh.webp",
+     "image": "data/img/italy/s1Uh.webp",
      "mapsUrl": "https://goo.gl/maps/iywQukk6y7FjmFyc9",
      "width": 0.573,
      "text": [
@@ -463,7 +463,7 @@
     },
     {
      "id": "KSAH",
-     "image": "img/italy/KSAH.webp",
+     "image": "data/img/italy/KSAH.webp",
      "mapsUrl": "https://www.google.com/maps/@45.4351637,12.3338675,3a,90y,152.54h,91.4t/data=!3m6!1e1!3m4!1sChJq4ATpG7R6BKn0hW4evw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -472,7 +472,7 @@
     },
     {
      "id": "s80c",
-     "image": "img/italy/s80c.webp",
+     "image": "data/img/italy/s80c.webp",
      "mapsUrl": "https://goo.gl/maps/z1ezWjg8snEqzqNR8",
      "width": 0.573,
      "text": [
@@ -481,7 +481,7 @@
     },
     {
      "id": "2pam",
-     "image": "img/italy/2pam.webp",
+     "image": "data/img/italy/2pam.webp",
      "mapsUrl": "https://goo.gl/maps/wAvJWetVmfYtchFP7",
      "width": 0.573,
      "text": [
@@ -490,7 +490,7 @@
     },
     {
      "id": "K2KL",
-     "image": "img/italy/K2KL.webp",
+     "image": "data/img/italy/K2KL.webp",
      "mapsUrl": "https://www.google.com/maps/@38.4709397,14.9423854,3a,84.2y,263.42h,88.82t/data=!3m6!1e1!3m4!1skFOlgbGceSuDusZkVI15eA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -500,7 +500,7 @@
     },
     {
      "id": "Q35Q",
-     "image": "img/italy/Q35Q.webp",
+     "image": "data/img/italy/Q35Q.webp",
      "mapsUrl": "https://goo.gl/maps/buueqCLDXi1qoo7GA",
      "width": 0.573,
      "text": [
@@ -509,7 +509,7 @@
     },
     {
      "id": "aA4U",
-     "image": "img/italy/aA4U.webp",
+     "image": "data/img/italy/aA4U.webp",
      "mapsUrl": "https://goo.gl/maps/QuxTR8pE9NKvqXNA9",
      "width": 0.573,
      "text": [
@@ -518,7 +518,7 @@
     },
     {
      "id": "a1vN",
-     "image": "img/italy/a1vN.webp",
+     "image": "data/img/italy/a1vN.webp",
      "mapsUrl": "https://goo.gl/maps/4hNDmXjPPo8HPXsM8",
      "width": 0.573,
      "text": [
@@ -529,7 +529,7 @@
     },
     {
      "id": "n7fO",
-     "image": "img/italy/n7fO.webp",
+     "image": "data/img/italy/n7fO.webp",
      "mapsUrl": "https://www.google.com/maps/@42.1157683,15.4905308,3a,90y,309.86h,84.17t/data=!3m6!1e1!3m4!1sMEHsBMdKG1EPpRxoBfGMgg!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Spain",
  "code": "ES",
  "continent": "Europe",
- "hero": "img/spain/hero.webp",
+ "hero": "data/img/spain/hero.webp",
  "metaCount": 120,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "bPCs",
-     "image": "img/spain/bPCs.webp",
+     "image": "data/img/spain/bPCs.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "v8wo",
-     "image": "img/spain/v8wo.webp",
+     "image": "data/img/spain/v8wo.webp",
      "mapsUrl": "https://goo.gl/maps/f39TkzykcUZ8ZmqaA",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "qBpO",
-     "image": "img/spain/qBpO.webp",
+     "image": "data/img/spain/qBpO.webp",
      "mapsUrl": "https://goo.gl/maps/b9iGeWrUo1v6XRBJ6",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "20Je",
-     "image": "img/spain/20Je.webp",
+     "image": "data/img/spain/20Je.webp",
      "mapsUrl": "https://goo.gl/maps/ZbqqMWFzWxYZ78Xy5",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "aLWf",
-     "image": "img/spain/aLWf.webp",
+     "image": "data/img/spain/aLWf.webp",
      "mapsUrl": "https://goo.gl/maps/ohasmeD8ikFRBtRm8",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "oE35",
-     "image": "img/spain/oE35.webp",
+     "image": "data/img/spain/oE35.webp",
      "mapsUrl": "https://goo.gl/maps/g5W1QhLR6gQpoHB38",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "0bDx",
-     "image": "img/spain/0bDx.webp",
+     "image": "data/img/spain/0bDx.webp",
      "mapsUrl": "https://goo.gl/maps/MZj8GHNroBUSrTr9A",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "okgv",
-     "image": "img/spain/okgv.webp",
+     "image": "data/img/spain/okgv.webp",
      "mapsUrl": "https://goo.gl/maps/shMgzeFPhLmZMiqX6",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "JLZT",
-     "image": "img/spain/JLZT.webp",
+     "image": "data/img/spain/JLZT.webp",
      "mapsUrl": "https://goo.gl/maps/tsQ3wkTxKwZuebwp9",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "xE7c",
-     "image": "img/spain/xE7c.webp",
+     "image": "data/img/spain/xE7c.webp",
      "mapsUrl": "https://goo.gl/maps/SUXT7FNpH5v8swEx5",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "lZxf",
-     "image": "img/spain/lZxf.webp",
+     "image": "data/img/spain/lZxf.webp",
      "mapsUrl": "https://goo.gl/maps/tKQ4odjgSCKWXY4K6",
      "width": 0.5,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "t0On",
-     "image": "img/spain/t0On.webp",
+     "image": "data/img/spain/t0On.webp",
      "mapsUrl": "https://goo.gl/maps/Q9uB8jo2xpJ7ayxF8",
      "width": 0.5,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "4Xxl",
-     "image": "img/spain/4Xxl.webp",
+     "image": "data/img/spain/4Xxl.webp",
      "mapsUrl": "https://goo.gl/maps/Low1oeKYDh4tgeWd8",
      "width": 0.5,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "4F9m",
-     "image": "img/spain/4F9m.webp",
+     "image": "data/img/spain/4F9m.webp",
      "mapsUrl": "https://goo.gl/maps/a6a8Lmd7TWGus1wu9",
      "width": 0.5,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "Pr6E",
-     "image": "img/spain/Pr6E.webp",
+     "image": "data/img/spain/Pr6E.webp",
      "mapsUrl": "https://goo.gl/maps/eSxQan5zqS16zN9c7",
      "width": 0.5,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "15qx",
-     "image": "img/spain/15qx.webp",
+     "image": "data/img/spain/15qx.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "gdaf",
-     "image": "img/spain/gdaf.webp",
+     "image": "data/img/spain/gdaf.webp",
      "mapsUrl": "https://goo.gl/maps/Lb6KPRC8c5nRiuTT8",
      "width": 0.5,
      "text": [
@@ -196,7 +196,7 @@
     },
     {
      "id": "Pfi5",
-     "image": "img/spain/Pfi5.webp",
+     "image": "data/img/spain/Pfi5.webp",
      "mapsUrl": "https://goo.gl/maps/ggB6ahzm9wQpcbV18",
      "width": 0.5,
      "text": [
@@ -207,7 +207,7 @@
     },
     {
      "id": "COji",
-     "image": "img/spain/COji.webp",
+     "image": "data/img/spain/COji.webp",
      "mapsUrl": "https://goo.gl/maps/hDzbVSrJbPSPQVnJ7",
      "width": 0.5,
      "text": [
@@ -216,7 +216,7 @@
     },
     {
      "id": "mAZ9",
-     "image": "img/spain/mAZ9.webp",
+     "image": "data/img/spain/mAZ9.webp",
      "mapsUrl": "https://goo.gl/maps/LEwY4TUekCVdWyzw7",
      "width": 0.5,
      "text": [
@@ -225,7 +225,7 @@
     },
     {
      "id": "wz9Z",
-     "image": "img/spain/wz9Z.webp",
+     "image": "data/img/spain/wz9Z.webp",
      "mapsUrl": "https://goo.gl/maps/JaBU6J9bD7NtPEbRA",
      "width": 0.5,
      "text": [
@@ -235,7 +235,7 @@
     },
     {
      "id": "ni44",
-     "image": "img/spain/ni44.webp",
+     "image": "data/img/spain/ni44.webp",
      "mapsUrl": "https://goo.gl/maps/Lp9G3bYicay2j1KGA",
      "width": 0.5,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "ejSh",
-     "image": "img/spain/ejSh.webp",
+     "image": "data/img/spain/ejSh.webp",
      "mapsUrl": "https://maps.app.goo.gl/RZagzwWrJNhXTS2m6",
      "width": 0.5,
      "text": [
@@ -253,7 +253,7 @@
     },
     {
      "id": "JopK",
-     "image": "img/spain/JopK.webp",
+     "image": "data/img/spain/JopK.webp",
      "mapsUrl": "https://maps.app.goo.gl/hv2AT9SvyV1Rr2a87",
      "width": 0.5,
      "text": [
@@ -308,7 +308,7 @@
    "metas": [
     {
      "id": "CAu9",
-     "image": "img/spain/CAu9.webp",
+     "image": "data/img/spain/CAu9.webp",
      "mapsUrl": "/images/spain/Spain-road-prefixes-final-version-hopefully.png",
      "width": 0.5,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "RiC9",
-     "image": "img/spain/RiC9.webp",
+     "image": "data/img/spain/RiC9.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -335,7 +335,7 @@
     },
     {
      "id": "yq2C",
-     "image": "img/spain/yq2C.webp",
+     "image": "data/img/spain/yq2C.webp",
      "mapsUrl": "/images/spain/Spain_languages2.png",
      "width": 0.573,
      "text": [
@@ -345,7 +345,7 @@
     },
     {
      "id": "Y8q6",
-     "image": "img/spain/Y8q6.webp",
+     "image": "data/img/spain/Y8q6.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "NHoP",
-     "image": "img/spain/NHoP.webp",
+     "image": "data/img/spain/NHoP.webp",
      "mapsUrl": "https://goo.gl/maps/vYS6MdsXbVuU13tU8",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "lQAo",
-     "image": "img/spain/lQAo.webp",
+     "image": "data/img/spain/lQAo.webp",
      "mapsUrl": "https://goo.gl/maps/epSS158R5h1HiiHd9",
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "yAfo",
-     "image": "img/spain/yAfo.webp",
+     "image": "data/img/spain/yAfo.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "rcrC",
-     "image": "img/spain/rcrC.webp",
+     "image": "data/img/spain/rcrC.webp",
      "mapsUrl": "https://goo.gl/maps/4UpRZLnzVKTNbNxHA",
      "width": 0.573,
      "text": [
@@ -397,7 +397,7 @@
     },
     {
      "id": "lFNR",
-     "image": "img/spain/lFNR.webp",
+     "image": "data/img/spain/lFNR.webp",
      "mapsUrl": "https://goo.gl/maps/X5BcsozteeLjGNBDA",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "4l5N",
-     "image": "img/spain/4l5N.webp",
+     "image": "data/img/spain/4l5N.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "NyOz",
-     "image": "img/spain/NyOz.webp",
+     "image": "data/img/spain/NyOz.webp",
      "mapsUrl": "https://goo.gl/maps/KMKB57aSYFRoRujs5",
      "width": 0.573,
      "text": [
@@ -426,7 +426,7 @@
     },
     {
      "id": "7jLe",
-     "image": "img/spain/7jLe.webp",
+     "image": "data/img/spain/7jLe.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=63.09341616260334&heading=279.28773509966504&map_action=pano&pano=IMJhyMjcVU8YpaM_KXsrpA&pitch=4.267219056162247&viewpoint=43.315836%2C-8.361698#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "H1IB",
-     "image": "img/spain/H1IB.webp",
+     "image": "data/img/spain/H1IB.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -445,7 +445,7 @@
     },
     {
      "id": "eqyH",
-     "image": "img/spain/eqyH.webp",
+     "image": "data/img/spain/eqyH.webp",
      "mapsUrl": "https://goo.gl/maps/NrDeepkEVq1kXCG49",
      "width": 0.5,
      "text": [
@@ -454,7 +454,7 @@
     },
     {
      "id": "Pgs1",
-     "image": "img/spain/Pgs1.webp",
+     "image": "data/img/spain/Pgs1.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Spain_topo.jpg",
      "width": 0.573,
      "text": [
@@ -467,7 +467,7 @@
     },
     {
      "id": "FDKM",
-     "image": "img/spain/FDKM.webp",
+     "image": "data/img/spain/FDKM.webp",
      "mapsUrl": "https://goo.gl/maps/eYzpg7ycDnLhghrF7",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "df4l",
-     "image": "img/spain/df4l.webp",
+     "image": "data/img/spain/df4l.webp",
      "mapsUrl": "https://goo.gl/maps/ke9G9833nL9NYqCy5",
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "rjCb",
-     "image": "img/spain/rjCb.webp",
+     "image": "data/img/spain/rjCb.webp",
      "mapsUrl": "https://goo.gl/maps/bFjSYDN2q9PSXsBo6",
      "width": 0.573,
      "text": [
@@ -495,7 +495,7 @@
     },
     {
      "id": "JhZA",
-     "image": "img/spain/JhZA.webp",
+     "image": "data/img/spain/JhZA.webp",
      "mapsUrl": "https://goo.gl/maps/kJLBSFvGbncmZBYa8",
      "width": 0.573,
      "text": [
@@ -504,7 +504,7 @@
     },
     {
      "id": "OutB",
-     "image": "img/spain/OutB.webp",
+     "image": "data/img/spain/OutB.webp",
      "mapsUrl": "https://goo.gl/maps/ZaUNCcymNruxxrvG8",
      "width": 0.573,
      "text": [
@@ -513,7 +513,7 @@
     },
     {
      "id": "TrLp",
-     "image": "img/spain/TrLp.webp",
+     "image": "data/img/spain/TrLp.webp",
      "mapsUrl": "https://goo.gl/maps/QgC8LU6YhtxwCsUAA",
      "width": 0.573,
      "text": [
@@ -522,7 +522,7 @@
     },
     {
      "id": "pz9i",
-     "image": "img/spain/pz9i.webp",
+     "image": "data/img/spain/pz9i.webp",
      "mapsUrl": "https://goo.gl/maps/XCdkqQ1DtBocG93u5",
      "width": 0.573,
      "text": [
@@ -532,7 +532,7 @@
     },
     {
      "id": "vbq8",
-     "image": "img/spain/vbq8.webp",
+     "image": "data/img/spain/vbq8.webp",
      "mapsUrl": "https://goo.gl/maps/ppr8Q74o2jsKJYCg7",
      "width": 0.573,
      "text": [
@@ -542,7 +542,7 @@
     },
     {
      "id": "FT9W",
-     "image": "img/spain/FT9W.webp",
+     "image": "data/img/spain/FT9W.webp",
      "mapsUrl": "https://goo.gl/maps/b4DxTDQwswDgrU97A",
      "width": 0.573,
      "text": [
@@ -552,7 +552,7 @@
     },
     {
      "id": "080h",
-     "image": "img/spain/080h.webp",
+     "image": "data/img/spain/080h.webp",
      "mapsUrl": "https://goo.gl/maps/DEJUca4LJ872HMfL9",
      "width": 0.573,
      "text": [
@@ -562,7 +562,7 @@
     },
     {
      "id": "zUkq",
-     "image": "img/spain/zUkq.webp",
+     "image": "data/img/spain/zUkq.webp",
      "mapsUrl": "https://goo.gl/maps/mJq9nGCerifikDxMA",
      "width": 0.573,
      "text": [
@@ -572,7 +572,7 @@
     },
     {
      "id": "9frM",
-     "image": "img/spain/9frM.webp",
+     "image": "data/img/spain/9frM.webp",
      "mapsUrl": "https://maps.app.goo.gl/5KsdEtTDPX14otEd9",
      "width": 0.573,
      "text": [
@@ -581,7 +581,7 @@
     },
     {
      "id": "2KLU",
-     "image": "img/spain/2KLU.webp",
+     "image": "data/img/spain/2KLU.webp",
      "mapsUrl": "https://goo.gl/maps/gdiMYjENFoed9D7m7",
      "width": 0.573,
      "text": [
@@ -590,7 +590,7 @@
     },
     {
      "id": "oi9R",
-     "image": "img/spain/oi9R.webp",
+     "image": "data/img/spain/oi9R.webp",
      "mapsUrl": "https://goo.gl/maps/CAKR7SobykgcJ3sK8",
      "width": 0.573,
      "text": [
@@ -599,7 +599,7 @@
     },
     {
      "id": "GkGj",
-     "image": "img/spain/GkGj.webp",
+     "image": "data/img/spain/GkGj.webp",
      "mapsUrl": "https://goo.gl/maps/JULxPQ9Ph1RjzvFx6",
      "width": 0.573,
      "text": [
@@ -609,7 +609,7 @@
     },
     {
      "id": "kVqr",
-     "image": "img/spain/kVqr.webp",
+     "image": "data/img/spain/kVqr.webp",
      "mapsUrl": "https://goo.gl/maps/mYFHjAJXm4LQU5d67",
      "width": 0.573,
      "text": [
@@ -618,7 +618,7 @@
     },
     {
      "id": "mvou",
-     "image": "img/spain/mvou.webp",
+     "image": "data/img/spain/mvou.webp",
      "mapsUrl": "https://goo.gl/maps/CqfJP3Xs7hScd7Ng6",
      "width": 0.573,
      "text": [
@@ -627,7 +627,7 @@
     },
     {
      "id": "pPsk",
-     "image": "img/spain/pPsk.webp",
+     "image": "data/img/spain/pPsk.webp",
      "mapsUrl": "https://goo.gl/maps/jArZTuXLeREpy9Zn9",
      "width": 0.573,
      "text": [
@@ -637,7 +637,7 @@
     },
     {
      "id": "pS3a",
-     "image": "img/spain/pS3a.webp",
+     "image": "data/img/spain/pS3a.webp",
      "mapsUrl": "https://goo.gl/maps/oCZsg2TwdDGmUmeC7",
      "width": 0.573,
      "text": [
@@ -646,7 +646,7 @@
     },
     {
      "id": "Pohw",
-     "image": "img/spain/Pohw.webp",
+     "image": "data/img/spain/Pohw.webp",
      "mapsUrl": "https://goo.gl/maps/NLfV5hgbUWpgGASr8",
      "width": 0.573,
      "text": [
@@ -655,7 +655,7 @@
     },
     {
      "id": "5Z5E",
-     "image": "img/spain/5Z5E.webp",
+     "image": "data/img/spain/5Z5E.webp",
      "mapsUrl": "https://goo.gl/maps/Wk4oKZr4bMc1KuqR8",
      "width": 0.573,
      "text": [
@@ -665,7 +665,7 @@
     },
     {
      "id": "rzeV",
-     "image": "img/spain/rzeV.webp",
+     "image": "data/img/spain/rzeV.webp",
      "mapsUrl": "https://goo.gl/maps/uNPn3mQ2k9x5njFu6",
      "width": 0.573,
      "text": [
@@ -674,7 +674,7 @@
     },
     {
      "id": "EBga",
-     "image": "img/spain/EBga.webp",
+     "image": "data/img/spain/EBga.webp",
      "mapsUrl": "https://goo.gl/maps/ERjpr3H4kE1WSAtw9",
      "width": 0.573,
      "text": [
@@ -684,7 +684,7 @@
     },
     {
      "id": "Hrj7",
-     "image": "img/spain/Hrj7.webp",
+     "image": "data/img/spain/Hrj7.webp",
      "mapsUrl": "https://goo.gl/maps/scmkov6nSQGomsg38",
      "width": 0.573,
      "text": [
@@ -694,7 +694,7 @@
     },
     {
      "id": "SBbI",
-     "image": "img/spain/SBbI.webp",
+     "image": "data/img/spain/SBbI.webp",
      "mapsUrl": "https://goo.gl/maps/gayB5YpffURv5XbV7",
      "width": 0.573,
      "text": [
@@ -704,7 +704,7 @@
     },
     {
      "id": "C47E",
-     "image": "img/spain/C47E.webp",
+     "image": "data/img/spain/C47E.webp",
      "mapsUrl": "https://goo.gl/maps/5qPFyyqvZo81MM5L7",
      "width": 0.573,
      "text": [
@@ -714,7 +714,7 @@
     },
     {
      "id": "Boq6",
-     "image": "img/spain/Boq6.webp",
+     "image": "data/img/spain/Boq6.webp",
      "mapsUrl": "https://goo.gl/maps/ZeayT99uGm7midUM8",
      "width": 0.573,
      "text": [
@@ -724,7 +724,7 @@
     },
     {
      "id": "DSs8",
-     "image": "img/spain/DSs8.webp",
+     "image": "data/img/spain/DSs8.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -737,7 +737,7 @@
     },
     {
      "id": "EYsT",
-     "image": "img/spain/EYsT.webp",
+     "image": "data/img/spain/EYsT.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -751,7 +751,7 @@
     },
     {
      "id": "LcNX",
-     "image": "img/spain/LcNX.webp",
+     "image": "data/img/spain/LcNX.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -762,7 +762,7 @@
     },
     {
      "id": "Sxg8",
-     "image": "img/spain/Sxg8.webp",
+     "image": "data/img/spain/Sxg8.webp",
      "mapsUrl": "https://goo.gl/maps/QSavtfceg9RkYsHZ9",
      "width": 0.573,
      "text": [
@@ -772,7 +772,7 @@
     },
     {
      "id": "H9Dc",
-     "image": "img/spain/H9Dc.webp",
+     "image": "data/img/spain/H9Dc.webp",
      "mapsUrl": "https://goo.gl/maps/UpTYb5CZmxNPPKSg9",
      "width": 0.573,
      "text": [
@@ -782,7 +782,7 @@
     },
     {
      "id": "PXQL",
-     "image": "img/spain/PXQL.webp",
+     "image": "data/img/spain/PXQL.webp",
      "mapsUrl": "https://goo.gl/maps/4Xhuh4E9rVjr7e4P6",
      "width": 0.573,
      "text": [
@@ -792,7 +792,7 @@
     },
     {
      "id": "3rNS",
-     "image": "img/spain/3rNS.webp",
+     "image": "data/img/spain/3rNS.webp",
      "mapsUrl": "https://goo.gl/maps/ZyEteJYS2Xy93kGr5",
      "width": 0.573,
      "text": [
@@ -801,7 +801,7 @@
     },
     {
      "id": "d6lH",
-     "image": "img/spain/d6lH.webp",
+     "image": "data/img/spain/d6lH.webp",
      "mapsUrl": "https://goo.gl/maps/4vo3GsLyZwTHtAk77",
      "width": 0.573,
      "text": [
@@ -812,7 +812,7 @@
     },
     {
      "id": "vcUq",
-     "image": "img/spain/vcUq.webp",
+     "image": "data/img/spain/vcUq.webp",
      "mapsUrl": "https://goo.gl/maps/VsTC4uo8tqGKt2or9",
      "width": 0.573,
      "text": [
@@ -823,7 +823,7 @@
     },
     {
      "id": "IRH5",
-     "image": "img/spain/IRH5.webp",
+     "image": "data/img/spain/IRH5.webp",
      "mapsUrl": "https://goo.gl/maps/woWJHSd2b4TVeEFp6",
      "width": 0.573,
      "text": [
@@ -832,7 +832,7 @@
     },
     {
      "id": "uZlj",
-     "image": "img/spain/uZlj.webp",
+     "image": "data/img/spain/uZlj.webp",
      "mapsUrl": "https://goo.gl/maps/mL2DFqqyKmqZwAtF6",
      "width": 0.573,
      "text": [
@@ -844,7 +844,7 @@
     },
     {
      "id": "Pptg",
-     "image": "img/spain/Pptg.webp",
+     "image": "data/img/spain/Pptg.webp",
      "mapsUrl": "https://maps.app.goo.gl/XwWATKRZJa4B8zk67",
      "width": 0.573,
      "text": [
@@ -853,7 +853,7 @@
     },
     {
      "id": "iLYe",
-     "image": "img/spain/iLYe.webp",
+     "image": "data/img/spain/iLYe.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ws1WpfKxYYqgWQQC8",
      "width": 0.573,
      "text": [
@@ -862,7 +862,7 @@
     },
     {
      "id": "0hzs",
-     "image": "img/spain/0hzs.webp",
+     "image": "data/img/spain/0hzs.webp",
      "mapsUrl": "https://goo.gl/maps/ycAkVESR4bqnKcP5A",
      "width": 0.573,
      "text": [
@@ -872,7 +872,7 @@
     },
     {
      "id": "Ghny",
-     "image": "img/spain/Ghny.webp",
+     "image": "data/img/spain/Ghny.webp",
      "mapsUrl": "https://goo.gl/maps/bNd56dntwaq7EPSE6",
      "width": 0.573,
      "text": [
@@ -881,7 +881,7 @@
     },
     {
      "id": "6msN",
-     "image": "img/spain/6msN.webp",
+     "image": "data/img/spain/6msN.webp",
      "mapsUrl": "https://goo.gl/maps/m2PYoipkkZ7A4YWb9",
      "width": 0.573,
      "text": [
@@ -890,7 +890,7 @@
     },
     {
      "id": "lRNZ",
-     "image": "img/spain/lRNZ.webp",
+     "image": "data/img/spain/lRNZ.webp",
      "mapsUrl": "https://goo.gl/maps/rgr76NxPTxtTaFQs8",
      "width": 0.573,
      "text": [
@@ -899,7 +899,7 @@
     },
     {
      "id": "Ug5F",
-     "image": "img/spain/Ug5F.webp",
+     "image": "data/img/spain/Ug5F.webp",
      "mapsUrl": "https://goo.gl/maps/J3W5obgqGsV8YMmd8",
      "width": 0.573,
      "text": [
@@ -909,7 +909,7 @@
     },
     {
      "id": "ckbR",
-     "image": "img/spain/ckbR.webp",
+     "image": "data/img/spain/ckbR.webp",
      "mapsUrl": "https://goo.gl/maps/FpkQ9iRL8Pt46agf6",
      "width": 0.573,
      "text": [
@@ -918,7 +918,7 @@
     },
     {
      "id": "MxpO",
-     "image": "img/spain/MxpO.webp",
+     "image": "data/img/spain/MxpO.webp",
      "mapsUrl": "https://goo.gl/maps/X2riv2Bw3goWX5sC8",
      "width": 0.573,
      "text": [
@@ -928,7 +928,7 @@
     },
     {
      "id": "D6m4",
-     "image": "img/spain/D6m4.webp",
+     "image": "data/img/spain/D6m4.webp",
      "mapsUrl": "https://goo.gl/maps/E3gzfJZBtm61fd9Y9",
      "width": 0.573,
      "text": [
@@ -938,7 +938,7 @@
     },
     {
      "id": "EV7o",
-     "image": "img/spain/EV7o.webp",
+     "image": "data/img/spain/EV7o.webp",
      "mapsUrl": "https://goo.gl/maps/BJ4xh4NSahrRbtPJ8",
      "width": 0.573,
      "text": [
@@ -947,7 +947,7 @@
     },
     {
      "id": "11lN",
-     "image": "img/spain/11lN.webp",
+     "image": "data/img/spain/11lN.webp",
      "mapsUrl": "https://goo.gl/maps/tAq6cQE2jd6sZh978",
      "width": 0.573,
      "text": [
@@ -957,7 +957,7 @@
     },
     {
      "id": "woK5",
-     "image": "img/spain/woK5.webp",
+     "image": "data/img/spain/woK5.webp",
      "mapsUrl": "https://goo.gl/maps/Sdv3U7z9YXkk9ceSA",
      "width": 0.573,
      "text": [
@@ -966,7 +966,7 @@
     },
     {
      "id": "ln7z",
-     "image": "img/spain/ln7z.webp",
+     "image": "data/img/spain/ln7z.webp",
      "mapsUrl": "https://goo.gl/maps/cvGcZP23XYpbA7zA7",
      "width": 0.573,
      "text": [
@@ -976,7 +976,7 @@
     },
     {
      "id": "7JxR",
-     "image": "img/spain/7JxR.webp",
+     "image": "data/img/spain/7JxR.webp",
      "mapsUrl": "https://goo.gl/maps/xwEPuuUaYZfzhCCSA",
      "width": 0.573,
      "text": [
@@ -986,7 +986,7 @@
     },
     {
      "id": "kZ8q",
-     "image": "img/spain/kZ8q.webp",
+     "image": "data/img/spain/kZ8q.webp",
      "mapsUrl": "https://goo.gl/maps/8awDBFdhfrrt6dL6A",
      "width": 0.573,
      "text": [
@@ -996,7 +996,7 @@
     },
     {
      "id": "RAmj",
-     "image": "img/spain/RAmj.webp",
+     "image": "data/img/spain/RAmj.webp",
      "mapsUrl": "https://maps.app.goo.gl/ki4oERN1z6hZCjqe6",
      "width": 0.573,
      "text": [
@@ -1006,7 +1006,7 @@
     },
     {
      "id": "XXLv",
-     "image": "img/spain/XXLv.webp",
+     "image": "data/img/spain/XXLv.webp",
      "mapsUrl": "https://goo.gl/maps/zyyVZpuMRz6S4BXo9",
      "width": 0.573,
      "text": [
@@ -1015,7 +1015,7 @@
     },
     {
      "id": "HdDf",
-     "image": "img/spain/HdDf.webp",
+     "image": "data/img/spain/HdDf.webp",
      "mapsUrl": "https://goo.gl/maps/odvfXqYQMNbVcbCx6",
      "width": 0.573,
      "text": [
@@ -1025,7 +1025,7 @@
     },
     {
      "id": "B90V",
-     "image": "img/spain/B90V.webp",
+     "image": "data/img/spain/B90V.webp",
      "mapsUrl": "https://goo.gl/maps/1cdJoVmc1sEV2Nb4A",
      "width": 0.573,
      "text": [
@@ -1034,7 +1034,7 @@
     },
     {
      "id": "WihJ",
-     "image": "img/spain/WihJ.webp",
+     "image": "data/img/spain/WihJ.webp",
      "mapsUrl": "https://goo.gl/maps/iaScHTA1ffRFwvYj9",
      "width": 0.573,
      "text": [
@@ -1043,7 +1043,7 @@
     },
     {
      "id": "Ci25",
-     "image": "img/spain/Ci25.webp",
+     "image": "data/img/spain/Ci25.webp",
      "mapsUrl": "https://goo.gl/maps/Tn4Ec1hfxbQR85At6",
      "width": 0.573,
      "text": [
@@ -1052,7 +1052,7 @@
     },
     {
      "id": "wOmb",
-     "image": "img/spain/wOmb.webp",
+     "image": "data/img/spain/wOmb.webp",
      "mapsUrl": "https://goo.gl/maps/LAi1w18oncrhaJFfA",
      "width": 0.573,
      "text": [
@@ -1061,7 +1061,7 @@
     },
     {
      "id": "Ozxq",
-     "image": "img/spain/Ozxq.webp",
+     "image": "data/img/spain/Ozxq.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -1071,7 +1071,7 @@
     },
     {
      "id": "pq0v",
-     "image": "img/spain/pq0v.webp",
+     "image": "data/img/spain/pq0v.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -1081,7 +1081,7 @@
     },
     {
      "id": "Npdc",
-     "image": "img/spain/Npdc.webp",
+     "image": "data/img/spain/Npdc.webp",
      "mapsUrl": "https://goo.gl/maps/KAjMHdMDrEMepECQ7",
      "width": 0.573,
      "text": [
@@ -1091,7 +1091,7 @@
     },
     {
      "id": "DtCL",
-     "image": "img/spain/DtCL.webp",
+     "image": "data/img/spain/DtCL.webp",
      "mapsUrl": "https://maps.app.goo.gl/6xuWw5RxuiKj1ACo7",
      "width": 0.573,
      "text": [
@@ -1100,7 +1100,7 @@
     },
     {
      "id": "QsFO",
-     "image": "img/spain/QsFO.webp",
+     "image": "data/img/spain/QsFO.webp",
      "mapsUrl": "https://goo.gl/maps/uSyWhSZcGbTVX4dU8",
      "width": 0.573,
      "text": [
@@ -1112,7 +1112,7 @@
     },
     {
      "id": "b7or",
-     "image": "img/spain/b7or.webp",
+     "image": "data/img/spain/b7or.webp",
      "mapsUrl": "https://goo.gl/maps/qXCJVJWXDKmUvh2j8",
      "width": 0.573,
      "text": [
@@ -1121,7 +1121,7 @@
     },
     {
      "id": "kpT2",
-     "image": "img/spain/kpT2.webp",
+     "image": "data/img/spain/kpT2.webp",
      "mapsUrl": "https://goo.gl/maps/XXUakF2Vcs1ykdg49",
      "width": 0.573,
      "text": [
@@ -1130,7 +1130,7 @@
     },
     {
      "id": "k10w",
-     "image": "img/spain/k10w.webp",
+     "image": "data/img/spain/k10w.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -1139,7 +1139,7 @@
     },
     {
      "id": "TrmZ",
-     "image": "img/spain/TrmZ.webp",
+     "image": "data/img/spain/TrmZ.webp",
      "mapsUrl": "https://goo.gl/maps/GpqBoCF1ddhKsR5T8",
      "width": 0.573,
      "text": [
@@ -1149,7 +1149,7 @@
     },
     {
      "id": "k4DO",
-     "image": "img/spain/k4DO.webp",
+     "image": "data/img/spain/k4DO.webp",
      "mapsUrl": "https://goo.gl/maps/GLrit3j6NQireMCk9",
      "width": 0.573,
      "text": [
@@ -1158,7 +1158,7 @@
     },
     {
      "id": "EW4H",
-     "image": "img/spain/EW4H.webp",
+     "image": "data/img/spain/EW4H.webp",
      "mapsUrl": "https://goo.gl/maps/cp4XhCwxPTJ2McRA6",
      "width": 0.573,
      "text": [
@@ -1167,7 +1167,7 @@
     },
     {
      "id": "m1NG",
-     "image": "img/spain/m1NG.webp",
+     "image": "data/img/spain/m1NG.webp",
      "mapsUrl": "https://goo.gl/maps/2aqse7QqfQgSKeoQ6",
      "width": 0.573,
      "text": [
@@ -1186,7 +1186,7 @@
    "metas": [
     {
      "id": "RGJT",
-     "image": "img/spain/RGJT.webp",
+     "image": "data/img/spain/RGJT.webp",
      "mapsUrl": "https://goo.gl/maps/uUgkTvG5bKepKaA2A",
      "width": 0.573,
      "text": [
@@ -1198,7 +1198,7 @@
     },
     {
      "id": "yHR2",
-     "image": "img/spain/yHR2.webp",
+     "image": "data/img/spain/yHR2.webp",
      "mapsUrl": "https://goo.gl/maps/rhRLbpVHghzhQfSo8",
      "width": 0.573,
      "text": [
@@ -1208,7 +1208,7 @@
     },
     {
      "id": "IsPo",
-     "image": "img/spain/IsPo.webp",
+     "image": "data/img/spain/IsPo.webp",
      "mapsUrl": "https://maps.app.goo.gl/g41Ea3yUR3nJ15Sh7",
      "width": 0.573,
      "text": [
@@ -1217,7 +1217,7 @@
     },
     {
      "id": "NrMX",
-     "image": "img/spain/NrMX.webp",
+     "image": "data/img/spain/NrMX.webp",
      "mapsUrl": "https://goo.gl/maps/RSepeAC9qJ7Ezosv5",
      "width": 0.573,
      "text": [
@@ -1226,7 +1226,7 @@
     },
     {
      "id": "ATBx",
-     "image": "img/spain/ATBx.webp",
+     "image": "data/img/spain/ATBx.webp",
      "mapsUrl": "https://goo.gl/maps/YtjprEmcrf8DhdAR7",
      "width": 0.573,
      "text": [
@@ -1236,7 +1236,7 @@
     },
     {
      "id": "bzWl",
-     "image": "img/spain/bzWl.webp",
+     "image": "data/img/spain/bzWl.webp",
      "mapsUrl": "https://goo.gl/maps/rmLxhUUjG6WfnyFY7",
      "width": 0.573,
      "text": [
@@ -1245,7 +1245,7 @@
     },
     {
      "id": "GGQR",
-     "image": "img/spain/GGQR.webp",
+     "image": "data/img/spain/GGQR.webp",
      "mapsUrl": "https://goo.gl/maps/FS8h1bCUaAjQRdD78",
      "width": 0.573,
      "text": [
@@ -1254,7 +1254,7 @@
     },
     {
      "id": "VJKm",
-     "image": "img/spain/VJKm.webp",
+     "image": "data/img/spain/VJKm.webp",
      "mapsUrl": "https://www.google.com/maps/@37.1374522,-6.4325362,2a,90y,137.89h,93.95t/data=!3m6!1e1!3m4!1sUm_rzvXsliXcGy93pRqtoQ!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [

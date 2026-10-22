@@ -3,7 +3,7 @@
  "title": "Falkland Islands",
  "code": "FK",
  "continent": "South America",
- "hero": "img/falkland-islands/hero.webp",
+ "hero": "data/img/falkland-islands/hero.webp",
  "metaCount": 7,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "6TmE",
-     "image": "img/falkland-islands/6TmE.webp",
+     "image": "data/img/falkland-islands/6TmE.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Location_map_of_the_Falklands_%E2%80%93_Alternative_version_4.svg/1280px-Location_map_of_the_Falklands_%E2%80%93_Alternative_version_4.svg.png",
      "width": 0.5,
      "text": [
@@ -43,7 +43,7 @@
    "metas": [
     {
      "id": "YLmC",
-     "image": "img/falkland-islands/YLmC.webp",
+     "image": "data/img/falkland-islands/YLmC.webp",
      "mapsUrl": "https://goo.gl/maps/b3Dro8BA9QT1UhQr9",
      "width": 0.5,
      "text": [
@@ -53,7 +53,7 @@
     },
     {
      "id": "2ull",
-     "image": "img/falkland-islands/2ull.webp",
+     "image": "data/img/falkland-islands/2ull.webp",
      "mapsUrl": "https://goo.gl/maps/8wZdNvZ4BWe9ewUp7",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "CyBk",
-     "image": "img/falkland-islands/CyBk.webp",
+     "image": "data/img/falkland-islands/CyBk.webp",
      "mapsUrl": "https://goo.gl/maps/VgNNhDfA3pJQpohR7",
      "width": 0.5,
      "text": [
@@ -71,7 +71,7 @@
     },
     {
      "id": "Kg1F",
-     "image": "img/falkland-islands/Kg1F.webp",
+     "image": "data/img/falkland-islands/Kg1F.webp",
      "mapsUrl": "https://goo.gl/maps/67ENwgrMULMYYUcv6",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "oIoA",
-     "image": "img/falkland-islands/oIoA.webp",
+     "image": "data/img/falkland-islands/oIoA.webp",
      "mapsUrl": "https://goo.gl/maps/g4c98CFw5MHgU15BA",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "CKJ1",
-     "image": "img/falkland-islands/CKJ1.webp",
+     "image": "data/img/falkland-islands/CKJ1.webp",
      "mapsUrl": "https://goo.gl/maps/vGxi34vi9qFJedpZ6",
      "width": 0.5,
      "text": [

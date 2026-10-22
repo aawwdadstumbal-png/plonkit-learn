@@ -3,7 +3,7 @@
  "title": "Croatia",
  "code": "HR",
  "continent": "Europe",
- "hero": "img/croatia/hero.webp",
+ "hero": "data/img/croatia/hero.webp",
  "metaCount": 33,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "OmRw",
-     "image": "img/croatia/OmRw.webp",
+     "image": "data/img/croatia/OmRw.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "asMp",
-     "image": "img/croatia/asMp.webp",
+     "image": "data/img/croatia/asMp.webp",
      "mapsUrl": "https://goo.gl/maps/otJfSAyLgUKdnS8AA",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "M3t0",
-     "image": "img/croatia/M3t0.webp",
+     "image": "data/img/croatia/M3t0.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "eUrn",
-     "image": "img/croatia/eUrn.webp",
+     "image": "data/img/croatia/eUrn.webp",
      "mapsUrl": "https://goo.gl/maps/x5SeUr9RSXiNm2tz5",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "qtTT",
-     "image": "img/croatia/qtTT.webp",
+     "image": "data/img/croatia/qtTT.webp",
      "mapsUrl": "https://goo.gl/maps/wbAEbA8oBYsZfjmJ7",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "sx0i",
-     "image": "img/croatia/sx0i.webp",
+     "image": "data/img/croatia/sx0i.webp",
      "mapsUrl": "https://goo.gl/maps/FfoksiH3oq1QLjqG8",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "5dX0",
-     "image": "img/croatia/5dX0.webp",
+     "image": "data/img/croatia/5dX0.webp",
      "mapsUrl": "https://goo.gl/maps/awmnYbXpxo9LrtUi9",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "MZYL",
-     "image": "img/croatia/MZYL.webp",
+     "image": "data/img/croatia/MZYL.webp",
      "mapsUrl": "https://maps.app.goo.gl/qjgLDkr2m6GwcjDLA",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "KLL9",
-     "image": "img/croatia/KLL9.webp",
+     "image": "data/img/croatia/KLL9.webp",
      "mapsUrl": "https://maps.app.goo.gl/24VTV3ZrWcy9XTqQ8",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "t3Rl",
-     "image": "img/croatia/t3Rl.webp",
+     "image": "data/img/croatia/t3Rl.webp",
      "mapsUrl": "https://goo.gl/maps/41QU4bwKbJcWqh8p6",
      "width": 0.5,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "uILw",
-     "image": "img/croatia/uILw.webp",
+     "image": "data/img/croatia/uILw.webp",
      "mapsUrl": "https://goo.gl/maps/UwRgqSfgwHqSzDSE6",
      "width": 0.5,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "FJLL",
-     "image": "img/croatia/FJLL.webp",
+     "image": "data/img/croatia/FJLL.webp",
      "mapsUrl": "https://goo.gl/maps/14H3ancaShKQKrUC6",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "m4wI",
-     "image": "img/croatia/m4wI.webp",
+     "image": "data/img/croatia/m4wI.webp",
      "mapsUrl": "https://goo.gl/maps/mrt8YkuJGjY9ZhBbA",
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "R9QL",
-     "image": "img/croatia/R9QL.webp",
+     "image": "data/img/croatia/R9QL.webp",
      "mapsUrl": "https://goo.gl/maps/SYjs6bE5sHjeZzK46",
      "width": 0.5,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "mubM",
-     "image": "img/croatia/mubM.webp",
+     "image": "data/img/croatia/mubM.webp",
      "mapsUrl": "https://goo.gl/maps/cD9GoZaSWcTx7qRg9",
      "width": 0.5,
      "text": [
@@ -168,7 +168,7 @@
     },
     {
      "id": "x9Iz",
-     "image": "img/croatia/x9Iz.webp",
+     "image": "data/img/croatia/x9Iz.webp",
      "mapsUrl": "https://goo.gl/maps/JvJTUodoeX9WQgH77",
      "width": 0.5,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "FWfo",
-     "image": "img/croatia/FWfo.webp",
+     "image": "data/img/croatia/FWfo.webp",
      "mapsUrl": "https://goo.gl/maps/cPhvkPuv9C6W4ZaP7",
      "width": 0.5,
      "text": [
@@ -197,7 +197,7 @@
    "metas": [
     {
      "id": "b8co",
-     "image": "img/croatia/b8co.webp",
+     "image": "data/img/croatia/b8co.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "iF5g",
-     "image": "img/croatia/iF5g.webp",
+     "image": "data/img/croatia/iF5g.webp",
      "mapsUrl": "https://goo.gl/maps/76BVKpj4AfLqYsrt7",
      "width": 0.573,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "9d6r",
-     "image": "img/croatia/9d6r.webp",
+     "image": "data/img/croatia/9d6r.webp",
      "mapsUrl": "https://goo.gl/maps/QjtwpW6EsVLEGSPh7",
      "width": 0.573,
      "text": [
@@ -224,7 +224,7 @@
     },
     {
      "id": "ELIq",
-     "image": "img/croatia/ELIq.webp",
+     "image": "data/img/croatia/ELIq.webp",
      "mapsUrl": "https://goo.gl/maps/N8JgCgFa6BP6tks17",
      "width": 0.573,
      "text": [
@@ -233,7 +233,7 @@
     },
     {
      "id": "hHNn",
-     "image": "img/croatia/hHNn.webp",
+     "image": "data/img/croatia/hHNn.webp",
      "mapsUrl": "https://goo.gl/maps/3DJamyp9WYosjhvA9",
      "width": 0.573,
      "text": [
@@ -243,7 +243,7 @@
     },
     {
      "id": "fguV",
-     "image": "img/croatia/fguV.webp",
+     "image": "data/img/croatia/fguV.webp",
      "mapsUrl": "https://goo.gl/maps/WLxSFw6H5PRLs2Kq9",
      "width": 0.573,
      "text": [
@@ -252,7 +252,7 @@
     },
     {
      "id": "79X3",
-     "image": "img/croatia/79X3.webp",
+     "image": "data/img/croatia/79X3.webp",
      "mapsUrl": "https://goo.gl/maps/uw2x4PdMaqHEoEDn9",
      "width": 0.573,
      "text": [
@@ -261,7 +261,7 @@
     },
     {
      "id": "KPaC",
-     "image": "img/croatia/KPaC.webp",
+     "image": "data/img/croatia/KPaC.webp",
      "mapsUrl": "https://goo.gl/maps/ZSqmMoGpVuuhAMTx9",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
    "metas": [
     {
      "id": "O1bS",
-     "image": "img/croatia/O1bS.webp",
+     "image": "data/img/croatia/O1bS.webp",
      "mapsUrl": "https://goo.gl/maps/tYzVscsQ7T1fEnHH9",
      "width": 0.573,
      "text": [
@@ -289,7 +289,7 @@
     },
     {
      "id": "qQB2",
-     "image": "img/croatia/qQB2.webp",
+     "image": "data/img/croatia/qQB2.webp",
      "mapsUrl": "https://goo.gl/maps/b8KiaANX7YRz3fGB8",
      "width": 0.573,
      "text": [
@@ -298,7 +298,7 @@
     },
     {
      "id": "kv7I",
-     "image": "img/croatia/kv7I.webp",
+     "image": "data/img/croatia/kv7I.webp",
      "mapsUrl": "https://goo.gl/maps/k2tsuhYRdJJcD4Vx7",
      "width": 0.573,
      "text": [
@@ -307,7 +307,7 @@
     },
     {
      "id": "AwCI",
-     "image": "img/croatia/AwCI.webp",
+     "image": "data/img/croatia/AwCI.webp",
      "mapsUrl": "https://goo.gl/maps/P7jfMhVpiLzvnZVj9",
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
     },
     {
      "id": "ffan",
-     "image": "img/croatia/ffan.webp",
+     "image": "data/img/croatia/ffan.webp",
      "mapsUrl": "https://goo.gl/maps/HNyMVsjf2FA54gPt5",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "cTVj",
-     "image": "img/croatia/cTVj.webp",
+     "image": "data/img/croatia/cTVj.webp",
      "mapsUrl": "https://goo.gl/maps/Ar3MPd6Kf9UJcw7h8",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "7sgJ",
-     "image": "img/croatia/7sgJ.webp",
+     "image": "data/img/croatia/7sgJ.webp",
      "mapsUrl": "https://goo.gl/maps/D5oruJYfqox1UFzb9",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "hPMC",
-     "image": "img/croatia/hPMC.webp",
+     "image": "data/img/croatia/hPMC.webp",
      "mapsUrl": "https://goo.gl/maps/zWxsrtyeZnJ4Vtw58",
      "width": 0.573,
      "text": [

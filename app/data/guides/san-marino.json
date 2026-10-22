@@ -3,7 +3,7 @@
  "title": "San Marino",
  "code": "SM",
  "continent": "Europe",
- "hero": "img/san-marino/hero.webp",
+ "hero": "data/img/san-marino/hero.webp",
  "metaCount": 10,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "nbvK",
-     "image": "img/san-marino/nbvK.webp",
+     "image": "data/img/san-marino/nbvK.webp",
      "mapsUrl": "https://maps.app.goo.gl/vUPiUkLWrGB1KzXC8",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "Fpf0",
-     "image": "img/san-marino/Fpf0.webp",
+     "image": "data/img/san-marino/Fpf0.webp",
      "mapsUrl": "https://maps.app.goo.gl/1cqVe47FmXH9gp6bA",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "B9B0",
-     "image": "img/san-marino/B9B0.webp",
+     "image": "data/img/san-marino/B9B0.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "9e8C",
-     "image": "img/san-marino/9e8C.webp",
+     "image": "data/img/san-marino/9e8C.webp",
      "mapsUrl": "https://maps.app.goo.gl/5VD2pzJLT1RXj8PCA",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "8OjL",
-     "image": "img/san-marino/8OjL.webp",
+     "image": "data/img/san-marino/8OjL.webp",
      "mapsUrl": "https://maps.app.goo.gl/we7AJ1yxXcfgqLLz9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "XqN5",
-     "image": "img/san-marino/XqN5.webp",
+     "image": "data/img/san-marino/XqN5.webp",
      "mapsUrl": "https://maps.app.goo.gl/bM4E51AfrGfBSFaX8",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "RCBb",
-     "image": "img/san-marino/RCBb.webp",
+     "image": "data/img/san-marino/RCBb.webp",
      "mapsUrl": "https://maps.app.goo.gl/JNpdbvUsjLXyrEuW8",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "HAjS",
-     "image": "img/san-marino/HAjS.webp",
+     "image": "data/img/san-marino/HAjS.webp",
      "mapsUrl": "https://maps.app.goo.gl/Jr3mAXsrTXH3BojV7",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
    "metas": [
     {
      "id": "7HE9",
-     "image": "img/san-marino/7HE9.webp",
+     "image": "data/img/san-marino/7HE9.webp",
      "mapsUrl": "https://maps.app.goo.gl/i8B3TJE5iChF9pWt8",
      "width": 0.573,
      "text": [
@@ -122,7 +122,7 @@
    "metas": [
     {
      "id": "nInM",
-     "image": "img/san-marino/nInM.webp",
+     "image": "data/img/san-marino/nInM.webp",
      "mapsUrl": "https://goo.gl/maps/gyyhejECLchJdGQs5",
      "width": 0.573,
      "text": [

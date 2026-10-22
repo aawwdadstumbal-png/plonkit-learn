@@ -3,7 +3,7 @@
  "title": "Namibia",
  "code": "NA",
  "continent": "Africa",
- "hero": "img/namibia/hero.webp",
+ "hero": "data/img/namibia/hero.webp",
  "metaCount": 80,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "WPiJ",
-     "image": "img/namibia/WPiJ.webp",
+     "image": "data/img/namibia/WPiJ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "Hg72",
-     "image": "img/namibia/Hg72.webp",
+     "image": "data/img/namibia/Hg72.webp",
      "mapsUrl": "https://maps.app.goo.gl/xcTAfUCqYWD4ApwTA",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "eNdi",
-     "image": "img/namibia/eNdi.webp",
+     "image": "data/img/namibia/eNdi.webp",
      "mapsUrl": "https://maps.app.goo.gl/FLz6EG2oFiey54cMA",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "IkJb",
-     "image": "img/namibia/IkJb.webp",
+     "image": "data/img/namibia/IkJb.webp",
      "mapsUrl": "https://maps.app.goo.gl/NSTzQw2GM3XcXHyXA",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "7cMz",
-     "image": "img/namibia/7cMz.webp",
+     "image": "data/img/namibia/7cMz.webp",
      "mapsUrl": "https://i.imgur.com/vq2Kwki.jpeg",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "nVdM",
-     "image": "img/namibia/nVdM.webp",
+     "image": "data/img/namibia/nVdM.webp",
      "mapsUrl": "https://maps.app.goo.gl/Y2nFJTqGq5zxWkqcA",
      "width": 0.5,
      "text": [
@@ -81,7 +81,7 @@
     },
     {
      "id": "TqEE",
-     "image": "img/namibia/TqEE.webp",
+     "image": "data/img/namibia/TqEE.webp",
      "mapsUrl": "https://maps.app.goo.gl/wjGZsaqNkseoF1ut5",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "ZaFJ",
-     "image": "img/namibia/ZaFJ.webp",
+     "image": "data/img/namibia/ZaFJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/X78Pg7m4JTdBUkoeA",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
    "metas": [
     {
      "id": "VnA8",
-     "image": "img/namibia/VnA8.webp",
+     "image": "data/img/namibia/VnA8.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "ZRAe",
-     "image": "img/namibia/ZRAe.webp",
+     "image": "data/img/namibia/ZRAe.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "dVuf",
-     "image": "img/namibia/dVuf.webp",
+     "image": "data/img/namibia/dVuf.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "X6Ct",
-     "image": "img/namibia/X6Ct.webp",
+     "image": "data/img/namibia/X6Ct.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "ANJr",
-     "image": "img/namibia/ANJr.webp",
+     "image": "data/img/namibia/ANJr.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "o3qt",
-     "image": "img/namibia/o3qt.webp",
+     "image": "data/img/namibia/o3qt.webp",
      "mapsUrl": "https://maps.app.goo.gl/cgTtFp5QSxsfyovF9",
      "width": 0.573,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "BXmN",
-     "image": "img/namibia/BXmN.webp",
+     "image": "data/img/namibia/BXmN.webp",
      "mapsUrl": "https://maps.app.goo.gl/SMy2pH8fmWTahzgJA",
      "width": 0.573,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "GV6Y",
-     "image": "img/namibia/GV6Y.webp",
+     "image": "data/img/namibia/GV6Y.webp",
      "mapsUrl": "https://maps.app.goo.gl/9p5xKDLNLppPU5R77",
      "width": 0.573,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "i6Sl",
-     "image": "img/namibia/i6Sl.webp",
+     "image": "data/img/namibia/i6Sl.webp",
      "mapsUrl": "https://maps.app.goo.gl/8XD4rPpHKgqUgPBU6",
      "width": 0.573,
      "text": [
@@ -196,7 +196,7 @@
     },
     {
      "id": "da0h",
-     "image": "img/namibia/da0h.webp",
+     "image": "data/img/namibia/da0h.webp",
      "mapsUrl": "https://maps.app.goo.gl/bJd3LPu5e5iSXNEa6",
      "width": 0.573,
      "text": [
@@ -205,7 +205,7 @@
     },
     {
      "id": "ke6W",
-     "image": "img/namibia/ke6W.webp",
+     "image": "data/img/namibia/ke6W.webp",
      "mapsUrl": "https://maps.app.goo.gl/1rNGATqaYhttbdGH8",
      "width": 0.573,
      "text": [
@@ -214,7 +214,7 @@
     },
     {
      "id": "t3Ad",
-     "image": "img/namibia/t3Ad.webp",
+     "image": "data/img/namibia/t3Ad.webp",
      "mapsUrl": "https://maps.app.goo.gl/gP2NUFdAVb3Q6yG29",
      "width": 0.573,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "xMHW",
-     "image": "img/namibia/xMHW.webp",
+     "image": "data/img/namibia/xMHW.webp",
      "mapsUrl": "https://maps.app.goo.gl/qqcT1kzwgKrqe8Qv8",
      "width": 0.573,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "nfvM",
-     "image": "img/namibia/nfvM.webp",
+     "image": "data/img/namibia/nfvM.webp",
      "mapsUrl": "https://maps.app.goo.gl/dzqn16gTzU2zXEd36",
      "width": 0.573,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "QN1P",
-     "image": "img/namibia/QN1P.webp",
+     "image": "data/img/namibia/QN1P.webp",
      "mapsUrl": "https://maps.app.goo.gl/ohyWqkwV2LVHKCi59",
      "width": 0.573,
      "text": [
@@ -272,7 +272,7 @@
    "metas": [
     {
      "id": "vIAf",
-     "image": "img/namibia/vIAf.webp",
+     "image": "data/img/namibia/vIAf.webp",
      "mapsUrl": "https://maps.app.goo.gl/QxDqbNcciS2QcEyG6",
      "width": 0.573,
      "text": [
@@ -281,7 +281,7 @@
     },
     {
      "id": "JGXq",
-     "image": "img/namibia/JGXq.webp",
+     "image": "data/img/namibia/JGXq.webp",
      "mapsUrl": "https://maps.app.goo.gl/VRB7DhpuEqmoBnpq7",
      "width": 0.573,
      "text": [
@@ -290,7 +290,7 @@
     },
     {
      "id": "05Av",
-     "image": "img/namibia/05Av.webp",
+     "image": "data/img/namibia/05Av.webp",
      "mapsUrl": "https://maps.app.goo.gl/SgrLNm9VAapacYj86",
      "width": 0.573,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "hXYJ",
-     "image": "img/namibia/hXYJ.webp",
+     "image": "data/img/namibia/hXYJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/H9K9ZD1WTTJmjsEp7",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "qoqD",
-     "image": "img/namibia/qoqD.webp",
+     "image": "data/img/namibia/qoqD.webp",
      "mapsUrl": "https://maps.app.goo.gl/4CT9yk2C96GtS9Uw8",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "sBG0",
-     "image": "img/namibia/sBG0.webp",
+     "image": "data/img/namibia/sBG0.webp",
      "mapsUrl": "https://maps.app.goo.gl/WbvauGR4UyL43JGRA",
      "width": 0.573,
      "text": [
@@ -329,7 +329,7 @@
     },
     {
      "id": "0a8T",
-     "image": "img/namibia/0a8T.webp",
+     "image": "data/img/namibia/0a8T.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ys5Nx1Ru5BtBpoAZ8",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "3tsw",
-     "image": "img/namibia/3tsw.webp",
+     "image": "data/img/namibia/3tsw.webp",
      "mapsUrl": "https://maps.app.goo.gl/pmfrXSxyHUayB3Xe6",
      "width": 0.573,
      "text": [
@@ -347,7 +347,7 @@
     },
     {
      "id": "py4w",
-     "image": "img/namibia/py4w.webp",
+     "image": "data/img/namibia/py4w.webp",
      "mapsUrl": "https://maps.app.goo.gl/7f5cXhDzuwWMVZbU9",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "ZNXA",
-     "image": "img/namibia/ZNXA.webp",
+     "image": "data/img/namibia/ZNXA.webp",
      "mapsUrl": "https://maps.app.goo.gl/i422WyCqVwV9KFav6",
      "width": 0.573,
      "text": [
@@ -366,7 +366,7 @@
     },
     {
      "id": "gR4V",
-     "image": "img/namibia/gR4V.webp",
+     "image": "data/img/namibia/gR4V.webp",
      "mapsUrl": "https://maps.app.goo.gl/FdLq7K7uf1YmDJoy7",
      "width": 0.573,
      "text": [
@@ -375,7 +375,7 @@
     },
     {
      "id": "J97p",
-     "image": "img/namibia/J97p.webp",
+     "image": "data/img/namibia/J97p.webp",
      "mapsUrl": "https://maps.app.goo.gl/G8rzkWVyAaTsgF5z5",
      "width": 0.573,
      "text": [
@@ -384,7 +384,7 @@
     },
     {
      "id": "WwD3",
-     "image": "img/namibia/WwD3.webp",
+     "image": "data/img/namibia/WwD3.webp",
      "mapsUrl": "https://maps.app.goo.gl/1jTBYvJfSoZvaTNj7",
      "width": 0.573,
      "text": [
@@ -394,7 +394,7 @@
     },
     {
      "id": "ldeC",
-     "image": "img/namibia/ldeC.webp",
+     "image": "data/img/namibia/ldeC.webp",
      "mapsUrl": "https://maps.app.goo.gl/UshK34JyyyT873pt9",
      "width": 0.573,
      "text": [
@@ -403,7 +403,7 @@
     },
     {
      "id": "2yzK",
-     "image": "img/namibia/2yzK.webp",
+     "image": "data/img/namibia/2yzK.webp",
      "mapsUrl": "https://maps.app.goo.gl/93mCMVJtiDhuySi29",
      "width": 0.573,
      "text": [
@@ -412,7 +412,7 @@
     },
     {
      "id": "IOve",
-     "image": "img/namibia/IOve.webp",
+     "image": "data/img/namibia/IOve.webp",
      "mapsUrl": "https://maps.app.goo.gl/iVoPaEwhN5VPzEmm7",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
     },
     {
      "id": "kzLO",
-     "image": "img/namibia/kzLO.webp",
+     "image": "data/img/namibia/kzLO.webp",
      "mapsUrl": "https://maps.app.goo.gl/fewGtHm1oQL2CfwbA",
      "width": 0.573,
      "text": [
@@ -430,7 +430,7 @@
     },
     {
      "id": "yt7p",
-     "image": "img/namibia/yt7p.webp",
+     "image": "data/img/namibia/yt7p.webp",
      "mapsUrl": "https://maps.app.goo.gl/o1tRsgdSNZkj7pFC8",
      "width": 0.573,
      "text": [
@@ -440,7 +440,7 @@
     },
     {
      "id": "cT5i",
-     "image": "img/namibia/cT5i.webp",
+     "image": "data/img/namibia/cT5i.webp",
      "mapsUrl": "https://maps.app.goo.gl/ujnhpKcKx7qu1pjBA",
      "width": 0.573,
      "text": [
@@ -449,7 +449,7 @@
     },
     {
      "id": "et4Z",
-     "image": "img/namibia/et4Z.webp",
+     "image": "data/img/namibia/et4Z.webp",
      "mapsUrl": "https://maps.app.goo.gl/eMU9TTAsyRXBncUEA",
      "width": 0.573,
      "text": [
@@ -458,7 +458,7 @@
     },
     {
      "id": "1eVI",
-     "image": "img/namibia/1eVI.webp",
+     "image": "data/img/namibia/1eVI.webp",
      "mapsUrl": "https://maps.app.goo.gl/Uhf3jvVSYxzHSx6g8",
      "width": 0.573,
      "text": [
@@ -468,7 +468,7 @@
     },
     {
      "id": "LMYZ",
-     "image": "img/namibia/LMYZ.webp",
+     "image": "data/img/namibia/LMYZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/zfSeEfqZBvqthzR5A",
      "width": 0.573,
      "text": [
@@ -477,7 +477,7 @@
     },
     {
      "id": "5v5U",
-     "image": "img/namibia/5v5U.webp",
+     "image": "data/img/namibia/5v5U.webp",
      "mapsUrl": "https://maps.app.goo.gl/bGkBiLZ59B3Z62tUA",
      "width": 0.573,
      "text": [
@@ -487,7 +487,7 @@
     },
     {
      "id": "HyM3",
-     "image": "img/namibia/HyM3.webp",
+     "image": "data/img/namibia/HyM3.webp",
      "mapsUrl": "https://maps.app.goo.gl/wL6VUXx7e2iwXz9u9",
      "width": 0.573,
      "text": [
@@ -497,7 +497,7 @@
     },
     {
      "id": "OYpy",
-     "image": "img/namibia/OYpy.webp",
+     "image": "data/img/namibia/OYpy.webp",
      "mapsUrl": "https://maps.app.goo.gl/ys917tUSZ7V6umZy8",
      "width": 0.573,
      "text": [
@@ -506,7 +506,7 @@
     },
     {
      "id": "4SGm",
-     "image": "img/namibia/4SGm.webp",
+     "image": "data/img/namibia/4SGm.webp",
      "mapsUrl": "https://maps.app.goo.gl/dfqw43RpAZPY4zYx5",
      "width": 0.573,
      "text": [
@@ -515,7 +515,7 @@
     },
     {
      "id": "fza8",
-     "image": "img/namibia/fza8.webp",
+     "image": "data/img/namibia/fza8.webp",
      "mapsUrl": "https://maps.app.goo.gl/GhCgjLxtEQVDtnVJ6",
      "width": 0.573,
      "text": [
@@ -524,7 +524,7 @@
     },
     {
      "id": "kvIP",
-     "image": "img/namibia/kvIP.webp",
+     "image": "data/img/namibia/kvIP.webp",
      "mapsUrl": "https://maps.app.goo.gl/GhCgjLxtEQVDtnVJ6",
      "width": 0.573,
      "text": [
@@ -533,7 +533,7 @@
     },
     {
      "id": "axbq",
-     "image": "img/namibia/axbq.webp",
+     "image": "data/img/namibia/axbq.webp",
      "mapsUrl": "https://maps.app.goo.gl/oDtV1kAsjRuoZybd9",
      "width": 0.573,
      "text": [
@@ -542,7 +542,7 @@
     },
     {
      "id": "NUQc",
-     "image": "img/namibia/NUQc.webp",
+     "image": "data/img/namibia/NUQc.webp",
      "mapsUrl": "https://maps.app.goo.gl/Z1jk3zZHkDCeb2kE6",
      "width": 0.573,
      "text": [
@@ -551,7 +551,7 @@
     },
     {
      "id": "KlCK",
-     "image": "img/namibia/KlCK.webp",
+     "image": "data/img/namibia/KlCK.webp",
      "mapsUrl": "https://maps.app.goo.gl/XUagEhfXUnF7Hjoe8",
      "width": 0.573,
      "text": [
@@ -560,7 +560,7 @@
     },
     {
      "id": "kwl9",
-     "image": "img/namibia/kwl9.webp",
+     "image": "data/img/namibia/kwl9.webp",
      "mapsUrl": "https://maps.app.goo.gl/ajUmYvLsrKszyjxn6",
      "width": 0.573,
      "text": [
@@ -569,7 +569,7 @@
     },
     {
      "id": "jDkd",
-     "image": "img/namibia/jDkd.webp",
+     "image": "data/img/namibia/jDkd.webp",
      "mapsUrl": "https://maps.app.goo.gl/C2Dr9Khprz9izMoQ7",
      "width": 0.573,
      "text": [
@@ -579,7 +579,7 @@
     },
     {
      "id": "TsmB",
-     "image": "img/namibia/TsmB.webp",
+     "image": "data/img/namibia/TsmB.webp",
      "mapsUrl": "https://maps.app.goo.gl/r5zP8DpE2vY8qD8H7",
      "width": 0.573,
      "text": [
@@ -588,7 +588,7 @@
     },
     {
      "id": "BbVk",
-     "image": "img/namibia/BbVk.webp",
+     "image": "data/img/namibia/BbVk.webp",
      "mapsUrl": "https://maps.app.goo.gl/CvYEeAgLcMqUHZvz7",
      "width": 0.573,
      "text": [
@@ -598,7 +598,7 @@
     },
     {
      "id": "RnXY",
-     "image": "img/namibia/RnXY.webp",
+     "image": "data/img/namibia/RnXY.webp",
      "mapsUrl": "https://maps.app.goo.gl/QiUk96HbTngicNrp8",
      "width": 0.573,
      "text": [
@@ -607,7 +607,7 @@
     },
     {
      "id": "0izS",
-     "image": "img/namibia/0izS.webp",
+     "image": "data/img/namibia/0izS.webp",
      "mapsUrl": "https://maps.app.goo.gl/AkbZ6ote1SxzEAax5",
      "width": 0.573,
      "text": [
@@ -617,7 +617,7 @@
     },
     {
      "id": "EuPn",
-     "image": "img/namibia/EuPn.webp",
+     "image": "data/img/namibia/EuPn.webp",
      "mapsUrl": "https://maps.app.goo.gl/t5kgn64ULUxLePA47",
      "width": 0.573,
      "text": [
@@ -626,7 +626,7 @@
     },
     {
      "id": "B9nv",
-     "image": "img/namibia/B9nv.webp",
+     "image": "data/img/namibia/B9nv.webp",
      "mapsUrl": "https://maps.app.goo.gl/wjBBbWPgauQn4jnS7",
      "width": 0.573,
      "text": [
@@ -640,7 +640,7 @@
     },
     {
      "id": "HF3M",
-     "image": "img/namibia/HF3M.webp",
+     "image": "data/img/namibia/HF3M.webp",
      "mapsUrl": "https://maps.app.goo.gl/DYcioXTHVP9q34xy9",
      "width": 0.573,
      "text": [
@@ -650,7 +650,7 @@
     },
     {
      "id": "CqNa",
-     "image": "img/namibia/CqNa.webp",
+     "image": "data/img/namibia/CqNa.webp",
      "mapsUrl": "https://maps.app.goo.gl/RVdrwH5FYBjQNk8c6",
      "width": 0.573,
      "text": [
@@ -659,7 +659,7 @@
     },
     {
      "id": "nOBK",
-     "image": "img/namibia/nOBK.webp",
+     "image": "data/img/namibia/nOBK.webp",
      "mapsUrl": "https://maps.app.goo.gl/7fLcGm8PLgh44Uk37",
      "width": 0.573,
      "text": [
@@ -670,7 +670,7 @@
     },
     {
      "id": "G6vI",
-     "image": "img/namibia/G6vI.webp",
+     "image": "data/img/namibia/G6vI.webp",
      "mapsUrl": "https://maps.app.goo.gl/EQE5KQoit2FED37s7",
      "width": 0.573,
      "text": [
@@ -680,7 +680,7 @@
     },
     {
      "id": "PiB6",
-     "image": "img/namibia/PiB6.webp",
+     "image": "data/img/namibia/PiB6.webp",
      "mapsUrl": "https://maps.app.goo.gl/stCsjFDmv1B5w3Tp9",
      "width": 0.573,
      "text": [
@@ -689,7 +689,7 @@
     },
     {
      "id": "cKwP",
-     "image": "img/namibia/cKwP.webp",
+     "image": "data/img/namibia/cKwP.webp",
      "mapsUrl": "https://maps.app.goo.gl/kKEgNqVFjuoe1Vgc7",
      "width": 0.573,
      "text": [
@@ -698,7 +698,7 @@
     },
     {
      "id": "ZxG0",
-     "image": "img/namibia/ZxG0.webp",
+     "image": "data/img/namibia/ZxG0.webp",
      "mapsUrl": "https://maps.app.goo.gl/Li7PrUx5c7512FKx8",
      "width": 0.573,
      "text": [
@@ -707,7 +707,7 @@
     },
     {
      "id": "veEz",
-     "image": "img/namibia/veEz.webp",
+     "image": "data/img/namibia/veEz.webp",
      "mapsUrl": "https://maps.app.goo.gl/FRzxFZ3G2mm7wntB8",
      "width": 0.573,
      "text": [
@@ -716,7 +716,7 @@
     },
     {
      "id": "q0wQ",
-     "image": "img/namibia/q0wQ.webp",
+     "image": "data/img/namibia/q0wQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/H1X8hQjuXbrY5YWH8",
      "width": 0.573,
      "text": [
@@ -725,7 +725,7 @@
     },
     {
      "id": "ksca",
-     "image": "img/namibia/ksca.webp",
+     "image": "data/img/namibia/ksca.webp",
      "mapsUrl": "https://maps.app.goo.gl/MPgSipRYBmiSjryD7",
      "width": 0.573,
      "text": [
@@ -734,7 +734,7 @@
     },
     {
      "id": "KiJ5",
-     "image": "img/namibia/KiJ5.webp",
+     "image": "data/img/namibia/KiJ5.webp",
      "mapsUrl": "https://maps.app.goo.gl/6nKHJbyWFWJ7GWhZ6",
      "width": 0.573,
      "text": [
@@ -743,7 +743,7 @@
     },
     {
      "id": "uGWG",
-     "image": "img/namibia/uGWG.webp",
+     "image": "data/img/namibia/uGWG.webp",
      "mapsUrl": "https://maps.app.goo.gl/KTVvqFcfiVFS7kiw8",
      "width": 0.573,
      "text": [
@@ -752,7 +752,7 @@
     },
     {
      "id": "G0pP",
-     "image": "img/namibia/G0pP.webp",
+     "image": "data/img/namibia/G0pP.webp",
      "mapsUrl": "https://maps.app.goo.gl/TtfhMgJeDQJ9TmAC8",
      "width": 0.573,
      "text": [
@@ -761,7 +761,7 @@
     },
     {
      "id": "NXKT",
-     "image": "img/namibia/NXKT.webp",
+     "image": "data/img/namibia/NXKT.webp",
      "mapsUrl": "https://maps.app.goo.gl/phj5bUjTFhDoUyZ2A",
      "width": 0.573,
      "text": [
@@ -770,7 +770,7 @@
     },
     {
      "id": "8tHZ",
-     "image": "img/namibia/8tHZ.webp",
+     "image": "data/img/namibia/8tHZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/W8PsZ63pg8wooGWX7",
      "width": 0.573,
      "text": [
@@ -779,7 +779,7 @@
     },
     {
      "id": "GQP9",
-     "image": "img/namibia/GQP9.webp",
+     "image": "data/img/namibia/GQP9.webp",
      "mapsUrl": "https://maps.app.goo.gl/HXAfs2Pz5A4BkBv49",
      "width": 0.573,
      "text": [
@@ -788,7 +788,7 @@
     },
     {
      "id": "of42",
-     "image": "img/namibia/of42.webp",
+     "image": "data/img/namibia/of42.webp",
      "mapsUrl": "https://maps.app.goo.gl/w6jgiXbguBHfcdug6",
      "width": 0.573,
      "text": [
@@ -797,7 +797,7 @@
     },
     {
      "id": "7T8C",
-     "image": "img/namibia/7T8C.webp",
+     "image": "data/img/namibia/7T8C.webp",
      "mapsUrl": "https://maps.app.goo.gl/cSqW6g2XCHaLRGqN9",
      "width": 0.573,
      "text": [

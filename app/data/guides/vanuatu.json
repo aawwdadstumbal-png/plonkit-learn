@@ -3,7 +3,7 @@
  "title": "Vanuatu",
  "code": "VU",
  "continent": "Oceania",
- "hero": "img/vanuatu/hero.webp",
+ "hero": "data/img/vanuatu/hero.webp",
  "metaCount": 11,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "BJP0",
-     "image": "img/vanuatu/BJP0.webp",
+     "image": "data/img/vanuatu/BJP0.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "Bssm",
-     "image": "img/vanuatu/Bssm.webp",
+     "image": "data/img/vanuatu/Bssm.webp",
      "mapsUrl": "https://maps.app.goo.gl/MXbHWAVxi6XCVG6T9",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "G1Ko",
-     "image": "img/vanuatu/G1Ko.webp",
+     "image": "data/img/vanuatu/G1Ko.webp",
      "mapsUrl": "https://maps.app.goo.gl/iF2z775sCKFQC32C7",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "2S4i",
-     "image": "img/vanuatu/2S4i.webp",
+     "image": "data/img/vanuatu/2S4i.webp",
      "mapsUrl": "https://maps.app.goo.gl/n1F9nneDAhLeEjvy6",
      "width": 0.5,
      "text": [
@@ -65,7 +65,7 @@
    "metas": [
     {
      "id": "HJp5",
-     "image": "img/vanuatu/HJp5.webp",
+     "image": "data/img/vanuatu/HJp5.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "8ppR",
-     "image": "img/vanuatu/8ppR.webp",
+     "image": "data/img/vanuatu/8ppR.webp",
      "mapsUrl": "https://goo.gl/maps/TUdAm2qNf4gVrSXaA",
      "width": 0.573,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "pVls",
-     "image": "img/vanuatu/pVls.webp",
+     "image": "data/img/vanuatu/pVls.webp",
      "mapsUrl": "https://goo.gl/maps/XtQPKEUtEh6N8ZEGA",
      "width": 0.573,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "ees3",
-     "image": "img/vanuatu/ees3.webp",
+     "image": "data/img/vanuatu/ees3.webp",
      "mapsUrl": "https://goo.gl/maps/SwFibjUdmAbs2qoN7",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "g0KZ",
-     "image": "img/vanuatu/g0KZ.webp",
+     "image": "data/img/vanuatu/g0KZ.webp",
      "mapsUrl": "https://goo.gl/maps/V4XG6xGXdyLNzJd99",
      "width": 0.573,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "wjW2",
-     "image": "img/vanuatu/wjW2.webp",
+     "image": "data/img/vanuatu/wjW2.webp",
      "mapsUrl": "https://goo.gl/maps/Tv2MdcJnNgLrmzAt6",
      "width": 0.573,
      "text": [
@@ -119,7 +119,7 @@
     },
     {
      "id": "DTRR",
-     "image": "img/vanuatu/DTRR.webp",
+     "image": "data/img/vanuatu/DTRR.webp",
      "mapsUrl": "https://goo.gl/maps/TGSzVWFb2dnVy1wn8",
      "width": 0.573,
      "text": [

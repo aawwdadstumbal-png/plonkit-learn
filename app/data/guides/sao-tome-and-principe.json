@@ -3,7 +3,7 @@
  "title": "São Tomé and Príncipe",
  "code": "ST",
  "continent": "Africa",
- "hero": "img/sao-tome-and-principe/hero.webp",
+ "hero": "data/img/sao-tome-and-principe/hero.webp",
  "metaCount": 12,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "mteu",
-     "image": "img/sao-tome-and-principe/mteu.webp",
+     "image": "data/img/sao-tome-and-principe/mteu.webp",
      "mapsUrl": "https://goo.gl/maps/LTkTMgjD7rxFCcgE8",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "EmV2",
-     "image": "img/sao-tome-and-principe/EmV2.webp",
+     "image": "data/img/sao-tome-and-principe/EmV2.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "8u6S",
-     "image": "img/sao-tome-and-principe/8u6S.webp",
+     "image": "data/img/sao-tome-and-principe/8u6S.webp",
      "mapsUrl": "https://goo.gl/maps/4ojwFdj6pSKUkbeF8",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "Iix7",
-     "image": "img/sao-tome-and-principe/Iix7.webp",
+     "image": "data/img/sao-tome-and-principe/Iix7.webp",
      "mapsUrl": "https://goo.gl/maps/qjvx6rFCZPN7M3QdA",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "ij58",
-     "image": "img/sao-tome-and-principe/ij58.webp",
+     "image": "data/img/sao-tome-and-principe/ij58.webp",
      "mapsUrl": "https://maps.app.goo.gl/4VeKVBatyNNenp8y9",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "0mhZ",
-     "image": "img/sao-tome-and-principe/0mhZ.webp",
+     "image": "data/img/sao-tome-and-principe/0mhZ.webp",
      "mapsUrl": "https://goo.gl/maps/6x7TkiEeH4v4XSGL7",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "1MAM",
-     "image": "img/sao-tome-and-principe/1MAM.webp",
+     "image": "data/img/sao-tome-and-principe/1MAM.webp",
      "mapsUrl": "https://maps.app.goo.gl/JkNYuG5P1kwrHWMa8",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
    "metas": [
     {
      "id": "oaFS",
-     "image": "img/sao-tome-and-principe/oaFS.webp",
+     "image": "data/img/sao-tome-and-principe/oaFS.webp",
      "mapsUrl": "https://maps.app.goo.gl/rMu2eGbM2tD2KF719",
      "width": 0.573,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "YviS",
-     "image": "img/sao-tome-and-principe/YviS.webp",
+     "image": "data/img/sao-tome-and-principe/YviS.webp",
      "mapsUrl": "https://maps.app.goo.gl/gFGYZg3wL1LP4acT9",
      "width": 0.573,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "5DnQ",
-     "image": "img/sao-tome-and-principe/5DnQ.webp",
+     "image": "data/img/sao-tome-and-principe/5DnQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/XNmPyAVxnjhpm81n7",
      "width": 0.573,
      "text": [
@@ -130,7 +130,7 @@
    "metas": [
     {
      "id": "1vUE",
-     "image": "img/sao-tome-and-principe/1vUE.webp",
+     "image": "data/img/sao-tome-and-principe/1vUE.webp",
      "mapsUrl": "https://goo.gl/maps/13XwZpCMeKqxn6wG7",
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "5C59",
-     "image": "img/sao-tome-and-principe/5C59.webp",
+     "image": "data/img/sao-tome-and-principe/5C59.webp",
      "mapsUrl": "https://goo.gl/maps/1Aty7JQDMLYERf7N8",
      "width": 0.573,
      "text": [

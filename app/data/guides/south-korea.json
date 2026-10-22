@@ -3,7 +3,7 @@
  "title": "South Korea",
  "code": "KR",
  "continent": "Asia",
- "hero": "img/south-korea/hero.webp",
+ "hero": "data/img/south-korea/hero.webp",
  "metaCount": 27,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "N0GR",
-     "image": "img/south-korea/N0GR.webp",
+     "image": "data/img/south-korea/N0GR.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "WNFu",
-     "image": "img/south-korea/WNFu.webp",
+     "image": "data/img/south-korea/WNFu.webp",
      "mapsUrl": "https://goo.gl/maps/tbTZukSFkqn1N1MZ8",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "rh1W",
-     "image": "img/south-korea/rh1W.webp",
+     "image": "data/img/south-korea/rh1W.webp",
      "mapsUrl": "https://goo.gl/maps/osSQAwfsgfckrB1XA",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "H0At",
-     "image": "img/south-korea/H0At.webp",
+     "image": "data/img/south-korea/H0At.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "2ft9",
-     "image": "img/south-korea/2ft9.webp",
+     "image": "data/img/south-korea/2ft9.webp",
      "mapsUrl": "https://goo.gl/maps/TkNb7qgTUZSZgnUc9",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "12vs",
-     "image": "img/south-korea/12vs.webp",
+     "image": "data/img/south-korea/12vs.webp",
      "mapsUrl": "https://goo.gl/maps/prrmMmj6T2xSXCbo7",
      "width": 0.5,
      "text": [
@@ -81,7 +81,7 @@
     },
     {
      "id": "VrkV",
-     "image": "img/south-korea/VrkV.webp",
+     "image": "data/img/south-korea/VrkV.webp",
      "mapsUrl": "https://goo.gl/maps/v4Jk9hdDcM8Wr9tc6",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "Jwgp",
-     "image": "img/south-korea/Jwgp.webp",
+     "image": "data/img/south-korea/Jwgp.webp",
      "mapsUrl": "https://goo.gl/maps/ZpxGHeTxVh1PJPkz9",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "syDX",
-     "image": "img/south-korea/syDX.webp",
+     "image": "data/img/south-korea/syDX.webp",
      "mapsUrl": "https://goo.gl/maps/9vPs9pKCLm6Uamza7",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "58U2",
-     "image": "img/south-korea/58U2.webp",
+     "image": "data/img/south-korea/58U2.webp",
      "mapsUrl": "https://goo.gl/maps/5jqQBFFuqsHZKpFv6",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "8REn",
-     "image": "img/south-korea/8REn.webp",
+     "image": "data/img/south-korea/8REn.webp",
      "mapsUrl": "https://goo.gl/maps/vY72thgUtoGCszoP9",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "eD76",
-     "image": "img/south-korea/eD76.webp",
+     "image": "data/img/south-korea/eD76.webp",
      "mapsUrl": "https://goo.gl/maps/hNg8VMHZfqwncfy36",
      "width": 0.5,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "1jir",
-     "image": "img/south-korea/1jir.webp",
+     "image": "data/img/south-korea/1jir.webp",
      "mapsUrl": "https://goo.gl/maps/NSKv8YjTzn1ZbJQ66",
      "width": 0.5,
      "text": [
@@ -145,7 +145,7 @@
     },
     {
      "id": "emG8",
-     "image": "img/south-korea/emG8.webp",
+     "image": "data/img/south-korea/emG8.webp",
      "mapsUrl": "https://goo.gl/maps/k47ebKQ4Gw79EuA79",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "oOJ9",
-     "image": "img/south-korea/oOJ9.webp",
+     "image": "data/img/south-korea/oOJ9.webp",
      "mapsUrl": "https://goo.gl/maps/2GHGKRZix5fWNu586",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "uhX5",
-     "image": "img/south-korea/uhX5.webp",
+     "image": "data/img/south-korea/uhX5.webp",
      "mapsUrl": "https://goo.gl/maps/eQxAo1Wsp27Uijsd6",
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "Yc5y",
-     "image": "img/south-korea/Yc5y.webp",
+     "image": "data/img/south-korea/Yc5y.webp",
      "mapsUrl": "https://goo.gl/maps/Gj8yUq1ZqxRonkit8",
      "width": 0.5,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "uvcQ",
-     "image": "img/south-korea/uvcQ.webp",
+     "image": "data/img/south-korea/uvcQ.webp",
      "mapsUrl": "https://goo.gl/maps/UjfepaaR8g7rJWdm9",
      "width": 0.5,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "Mihv",
-     "image": "img/south-korea/Mihv.webp",
+     "image": "data/img/south-korea/Mihv.webp",
      "mapsUrl": "https://goo.gl/maps/7oS2zUZX1Pzd2djo8",
      "width": 0.5,
      "text": [
@@ -209,7 +209,7 @@
    "metas": [
     {
      "id": "rElj",
-     "image": "img/south-korea/rElj.webp",
+     "image": "data/img/south-korea/rElj.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "9dSM",
-     "image": "img/south-korea/9dSM.webp",
+     "image": "data/img/south-korea/9dSM.webp",
      "mapsUrl": "/images/south-korea/kr_phonecodes.png",
      "width": 0.5,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "Z2aO",
-     "image": "img/south-korea/Z2aO.webp",
+     "image": "data/img/south-korea/Z2aO.webp",
      "mapsUrl": "https://www.google.com/maps/@35.2380562,129.0137196,3a,90y,173.36h,88.35t/data=!3m6!1e1!3m4!1s6ChCjLvrWfAixJSzJTDwsg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -236,7 +236,7 @@
     },
     {
      "id": "B9By",
-     "image": "img/south-korea/B9By.webp",
+     "image": "data/img/south-korea/B9By.webp",
      "mapsUrl": "https://www.google.com/maps/@36.0162173,129.5038044,3a,27.9y,346.77h,57.84t/data=!3m6!1e1!3m4!1sovkxxZFe9VslU8BLU4CyDQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "ncQh",
-     "image": "img/south-korea/ncQh.webp",
+     "image": "data/img/south-korea/ncQh.webp",
      "mapsUrl": "https://goo.gl/maps/NmJ6Uhd37RMPhN1NA",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "k7Qt",
-     "image": "img/south-korea/k7Qt.webp",
+     "image": "data/img/south-korea/k7Qt.webp",
      "mapsUrl": "https://goo.gl/maps/U1rumCx5sPaMssQbA",
      "width": 0.573,
      "text": [
@@ -272,7 +272,7 @@
    "metas": [
     {
      "id": "fM0T",
-     "image": "img/south-korea/fM0T.webp",
+     "image": "data/img/south-korea/fM0T.webp",
      "mapsUrl": "https://goo.gl/maps/1tqULULv3YHhS8SP7",
      "width": 0.573,
      "text": [
@@ -281,7 +281,7 @@
     },
     {
      "id": "zUjA",
-     "image": "img/south-korea/zUjA.webp",
+     "image": "data/img/south-korea/zUjA.webp",
      "mapsUrl": "https://goo.gl/maps/Fzkc7Sf4kW3UkNqo7",
      "width": 0.573,
      "text": [

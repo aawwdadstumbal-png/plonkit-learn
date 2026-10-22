@@ -3,7 +3,7 @@
  "title": "Pitcairn Islands",
  "code": "PN",
  "continent": "Oceania",
- "hero": "img/pitcairn-islands/hero.webp",
+ "hero": "data/img/pitcairn-islands/hero.webp",
  "metaCount": 8,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "jfvK",
-     "image": "img/pitcairn-islands/jfvK.webp",
+     "image": "data/img/pitcairn-islands/jfvK.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pitcairn_Islands_in_United_Kingdom.svg/2560px-Pitcairn_Islands_in_United_Kingdom.svg.png",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "98o5",
-     "image": "img/pitcairn-islands/98o5.webp",
+     "image": "data/img/pitcairn-islands/98o5.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "No2U",
-     "image": "img/pitcairn-islands/No2U.webp",
+     "image": "data/img/pitcairn-islands/No2U.webp",
      "mapsUrl": "https://goo.gl/maps/X4hZWbMktK2t2wGU6",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
     },
     {
      "id": "Vx9G",
-     "image": "img/pitcairn-islands/Vx9G.webp",
+     "image": "data/img/pitcairn-islands/Vx9G.webp",
      "mapsUrl": "https://goo.gl/maps/uNGm97hA1hBZ6W47A",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "NJg9",
-     "image": "img/pitcairn-islands/NJg9.webp",
+     "image": "data/img/pitcairn-islands/NJg9.webp",
      "mapsUrl": "https://goo.gl/maps/fisP3ezsmwp3B9ZH6",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
    "metas": [
     {
      "id": "YjoB",
-     "image": "img/pitcairn-islands/YjoB.webp",
+     "image": "data/img/pitcairn-islands/YjoB.webp",
      "mapsUrl": "https://goo.gl/maps/p17dnjEF3Q1FRo4S6",
      "width": 0.573,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "wWlg",
-     "image": "img/pitcairn-islands/wWlg.webp",
+     "image": "data/img/pitcairn-islands/wWlg.webp",
      "mapsUrl": "https://goo.gl/maps/DQwKDcto6R5jDH4D7",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
    "metas": [
     {
      "id": "rcoG",
-     "image": "img/pitcairn-islands/rcoG.webp",
+     "image": "data/img/pitcairn-islands/rcoG.webp",
      "mapsUrl": "https://goo.gl/maps/pNFtNFBajCSrPX8G7",
      "width": 0.573,
      "text": [

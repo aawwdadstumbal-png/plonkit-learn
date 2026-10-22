@@ -3,7 +3,7 @@
  "title": "Mongolia",
  "code": "MN",
  "continent": "Asia",
- "hero": "img/mongolia/hero.webp",
+ "hero": "data/img/mongolia/hero.webp",
  "metaCount": 83,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "000d",
-     "image": "img/mongolia/000d.webp",
+     "image": "data/img/mongolia/000d.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "DNBa",
-     "image": "img/mongolia/DNBa.webp",
+     "image": "data/img/mongolia/DNBa.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "qUOB",
-     "image": "img/mongolia/qUOB.webp",
+     "image": "data/img/mongolia/qUOB.webp",
      "mapsUrl": "https://www.google.com/maps/@47.9471,107.454371,3a,133.2y,6.4h,64.16t/data=!3m4!1e1!3m2!1swkaW-DRHfDyiYfvRFHZbsA!2e0",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "dntg",
-     "image": "img/mongolia/dntg.webp",
+     "image": "data/img/mongolia/dntg.webp",
      "mapsUrl": "https://goo.gl/maps/L1szF87VMQ4nhju7A",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "U3HS",
-     "image": "img/mongolia/U3HS.webp",
+     "image": "data/img/mongolia/U3HS.webp",
      "mapsUrl": "https://goo.gl/maps/8QWwFTRm3GdMW1i36",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "2q6G",
-     "image": "img/mongolia/2q6G.webp",
+     "image": "data/img/mongolia/2q6G.webp",
      "mapsUrl": "https://goo.gl/maps/9PQz4ZE2JqpcadDz9",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "LCSK",
-     "image": "img/mongolia/LCSK.webp",
+     "image": "data/img/mongolia/LCSK.webp",
      "mapsUrl": "https://www.google.com/maps/@47.47954,101.438107,3a,113.4y,255.6h,89.69t/data=!3m4!1e1!3m2!1sH9-UgAdcCf7ANOqQ_nfLxQ!2e0",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "ITbP",
-     "image": "img/mongolia/ITbP.webp",
+     "image": "data/img/mongolia/ITbP.webp",
      "mapsUrl": "https://goo.gl/maps/7tFEYEJ3yBdYER3C9",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "cIAF",
-     "image": "img/mongolia/cIAF.webp",
+     "image": "data/img/mongolia/cIAF.webp",
      "mapsUrl": "https://www.google.com/maps/@50.5179715,100.1170732,2a,90y,228.4h,86.41t/data=!3m6!1e1!3m4!1sNqz_KldLGYEHdRRowCeNig!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "IJMM",
-     "image": "img/mongolia/IJMM.webp",
+     "image": "data/img/mongolia/IJMM.webp",
      "mapsUrl": "https://maps.app.goo.gl/1nMUzoe7gLdqdq1m9",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
    "metas": [
     {
      "id": "nIEA",
-     "image": "img/mongolia/nIEA.webp",
+     "image": "data/img/mongolia/nIEA.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "UEmk",
-     "image": "img/mongolia/UEmk.webp",
+     "image": "data/img/mongolia/UEmk.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "RIyc",
-     "image": "img/mongolia/RIyc.webp",
+     "image": "data/img/mongolia/RIyc.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -181,7 +181,7 @@
     },
     {
      "id": "NW0E",
-     "image": "img/mongolia/NW0E.webp",
+     "image": "data/img/mongolia/NW0E.webp",
      "mapsUrl": "https://www.google.com/maps/@49.805178,107.656488,3a,133.2y,261.5h,94.39t/data=!3m4!1e1!3m2!1sQWpewDBRr3knruhZypPOHw!2e0",
      "width": 0.573,
      "text": [
@@ -190,7 +190,7 @@
     },
     {
      "id": "Lu1H",
-     "image": "img/mongolia/Lu1H.webp",
+     "image": "data/img/mongolia/Lu1H.webp",
      "mapsUrl": "https://goo.gl/maps/Vpvfucc2cd1we6769",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "K0eK",
-     "image": "img/mongolia/K0eK.webp",
+     "image": "data/img/mongolia/K0eK.webp",
      "mapsUrl": "https://goo.gl/maps/LKNfK1gVWwR86qrb6",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "da1W",
-     "image": "img/mongolia/da1W.webp",
+     "image": "data/img/mongolia/da1W.webp",
      "mapsUrl": "https://goo.gl/maps/v2rrwJ7orAt9aVYK9",
      "width": 0.573,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "l0eQ",
-     "image": "img/mongolia/l0eQ.webp",
+     "image": "data/img/mongolia/l0eQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/Rzgyhywm8hHWps4N7",
      "width": 0.573,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "hdnu",
-     "image": "img/mongolia/hdnu.webp",
+     "image": "data/img/mongolia/hdnu.webp",
      "mapsUrl": "https://maps.app.goo.gl/ncqLHYiKEzt4VLQbA",
      "width": 0.573,
      "text": [
@@ -236,7 +236,7 @@
     },
     {
      "id": "IpnP",
-     "image": "img/mongolia/IpnP.webp",
+     "image": "data/img/mongolia/IpnP.webp",
      "mapsUrl": "https://www.google.com/maps/@48.1765869,99.7438341,2a,90y,139.9h,86.01t/data=!3m6!1e1!3m4!1szdYOpec0WWXVKZK0aOevQQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "vB6O",
-     "image": "img/mongolia/vB6O.webp",
+     "image": "data/img/mongolia/vB6O.webp",
      "mapsUrl": "https://www.google.com/maps/@47.443922,104.568896,3a,133.2y,33.3h,91.90t/data=!3m4!1e1!3m2!1sxtB6UakyGAZmdSYFL0jUUA!2e0",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "Jkr2",
-     "image": "img/mongolia/Jkr2.webp",
+     "image": "data/img/mongolia/Jkr2.webp",
      "mapsUrl": "https://www.google.com/maps/@50.506422,100.113305,3a,133.2y,181.2h,96.54t/data=!3m4!1e1!3m2!1s0MksN_ZTKHgyLIYsNNjVzg!2e0",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "Ac9z",
-     "image": "img/mongolia/Ac9z.webp",
+     "image": "data/img/mongolia/Ac9z.webp",
      "mapsUrl": "https://www.google.com/maps/@49.3254285,107.1437798,2a,90y,215.7h,88.27t/data=!3m6!1e1!3m4!1sGZfnwhxPftj3s3MojdNygA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -274,7 +274,7 @@
     },
     {
      "id": "2TeD",
-     "image": "img/mongolia/2TeD.webp",
+     "image": "data/img/mongolia/2TeD.webp",
      "mapsUrl": "https://www.google.com/maps/@47.792951,105.87635,3a,24.2y,308.5h,89.39t/data=!3m4!1e1!3m2!1syGB4edORvYGpFuuBz5qY-g!2e0",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
     },
     {
      "id": "pyL0",
-     "image": "img/mongolia/pyL0.webp",
+     "image": "data/img/mongolia/pyL0.webp",
      "mapsUrl": "https://www.google.com/maps/@47.909788,106.924898,3a,73.7y,333.8h,91.02t/data=!3m4!1e1!3m2!1shBHxn_jTOWEeMTsa0tJT5w!2e0",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "oLiH",
-     "image": "img/mongolia/oLiH.webp",
+     "image": "data/img/mongolia/oLiH.webp",
      "mapsUrl": "https://goo.gl/maps/3s6VfGEfM6mCkA8L6",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "9LhD",
-     "image": "img/mongolia/9LhD.webp",
+     "image": "data/img/mongolia/9LhD.webp",
      "mapsUrl": "https://www.google.com/maps/@45.5471635,105.8464778,2a,90y,44.5h,84.98t/data=!3m6!1e1!3m4!1skfPagXXQ_JMtU4jQbOmMLw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "8IlN",
-     "image": "img/mongolia/8IlN.webp",
+     "image": "data/img/mongolia/8IlN.webp",
      "mapsUrl": "https://goo.gl/maps/qK63H3My8Y15v7Cw5",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "sZZF",
-     "image": "img/mongolia/sZZF.webp",
+     "image": "data/img/mongolia/sZZF.webp",
      "mapsUrl": "https://www.google.com/maps/@47.846901,104.261694,3a,133.2y,273.4h,90.00t/data=!3m4!1e1!3m2!1sZ40lQt4D5NhAs5koWTg34g!2e0",
      "width": 0.573,
      "text": [
@@ -329,7 +329,7 @@
     },
     {
      "id": "IjJW",
-     "image": "img/mongolia/IjJW.webp",
+     "image": "data/img/mongolia/IjJW.webp",
      "mapsUrl": "https://www.google.com/maps/@49.1380051,105.2854567,3a,90y,95.3h,87.73t/data=!3m6!1e1!3m4!1s1qTN2TFvZRknCW4vV701og!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -338,7 +338,7 @@
     },
     {
      "id": "HYQF",
-     "image": "img/mongolia/HYQF.webp",
+     "image": "data/img/mongolia/HYQF.webp",
      "mapsUrl": "https://www.google.com/maps/@46.762467,112.948232,3a,133.2y,302.6h,83.43t/data=!3m4!1e1!3m2!1sDZoXGbvX54e_fh3ZUrYBdA!2e0",
      "width": 0.573,
      "text": [
@@ -347,7 +347,7 @@
     },
     {
      "id": "vYFN",
-     "image": "img/mongolia/vYFN.webp",
+     "image": "data/img/mongolia/vYFN.webp",
      "mapsUrl": "https://www.google.com/maps/@49.8139723,106.5085284,2a,90y,136.08h,89.53t/data=!3m6!1e1!3m4!1sq5N8MFQiPLUD4reiFV7s0g!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "WGaz",
-     "image": "img/mongolia/WGaz.webp",
+     "image": "data/img/mongolia/WGaz.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -367,7 +367,7 @@
     },
     {
      "id": "d8af",
-     "image": "img/mongolia/d8af.webp",
+     "image": "data/img/mongolia/d8af.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -381,7 +381,7 @@
     },
     {
      "id": "qNm9",
-     "image": "img/mongolia/qNm9.webp",
+     "image": "data/img/mongolia/qNm9.webp",
      "mapsUrl": "https://www.google.com/maps/@48.268709,114.290541,3a,133.2y,320.8h,51.98t/data=!3m4!1e1!3m2!1s3XwTnNRjmM19-UPrIMEQEg!2e0",
      "width": 0.573,
      "text": [
@@ -390,7 +390,7 @@
     },
     {
      "id": "sQ4c",
-     "image": "img/mongolia/sQ4c.webp",
+     "image": "data/img/mongolia/sQ4c.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -401,7 +401,7 @@
     },
     {
      "id": "wyCn",
-     "image": "img/mongolia/wyCn.webp",
+     "image": "data/img/mongolia/wyCn.webp",
      "mapsUrl": "https://www.google.com/maps/@47.320447,110.658322,3a,70.0y,79.7h,50.54t/data=!3m4!1e1!3m2!1syMBgH3Pa2frV7zOD0myV5Q!2e0",
      "width": 0.573,
      "text": [
@@ -411,7 +411,7 @@
     },
     {
      "id": "rcbr",
-     "image": "img/mongolia/rcbr.webp",
+     "image": "data/img/mongolia/rcbr.webp",
      "mapsUrl": "https://www.google.com/maps/@49.799815,107.690255,3a,133.2y,226.0h,62.80t/data=!3m4!1e1!3m2!1sK5dQ3XG3_pSmHynf6A8uCw!2e0",
      "width": 0.573,
      "text": [
@@ -421,7 +421,7 @@
     },
     {
      "id": "g9D1",
-     "image": "img/mongolia/g9D1.webp",
+     "image": "data/img/mongolia/g9D1.webp",
      "mapsUrl": "https://www.google.com/maps/@47.913499,106.316351,3a,133.2y,274.4h,45.38t/data=!3m4!1e1!3m2!1syCohAX8C24XfcExqL5ec5g!2e0",
      "width": 0.573,
      "text": [
@@ -431,7 +431,7 @@
     },
     {
      "id": "KUPP",
-     "image": "img/mongolia/KUPP.webp",
+     "image": "data/img/mongolia/KUPP.webp",
      "mapsUrl": "https://www.google.com/maps/@47.417832,102.077275,3a,131.8y,286.5h,76.03t/data=!3m4!1e1!3m2!1skv88ipzdg_0DOySOCUWucQ!2e0",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "Fk6T",
-     "image": "img/mongolia/Fk6T.webp",
+     "image": "data/img/mongolia/Fk6T.webp",
      "mapsUrl": "https://www.google.com/maps/@48.114477,95.753488,3a,122.1y,124.9h,40.50t/data=!3m4!1e1!3m2!1svitICWnhctJHIyPmgbeZDA!2e0",
      "width": 0.573,
      "text": [
@@ -450,7 +450,7 @@
     },
     {
      "id": "UQH7",
-     "image": "img/mongolia/UQH7.webp",
+     "image": "data/img/mongolia/UQH7.webp",
      "mapsUrl": "https://www.google.com/maps/@45.984283,93.270605,3a,133.2y,227.2h,75.91t/data=!3m4!1e1!3m2!1sIh3bG11dAH1EQquIipKrVw!2e0",
      "width": 0.573,
      "text": [
@@ -459,7 +459,7 @@
     },
     {
      "id": "NJSE",
-     "image": "img/mongolia/NJSE.webp",
+     "image": "data/img/mongolia/NJSE.webp",
      "mapsUrl": "https://www.google.com/maps/@48.538124,90.135243,3a,133.2y,300.5h,54.56t/data=!3m4!1e1!3m2!1svf6t9etyDMbhgR366VxR6Q!2e0",
      "width": 0.573,
      "text": [
@@ -468,7 +468,7 @@
     },
     {
      "id": "Zafg",
-     "image": "img/mongolia/Zafg.webp",
+     "image": "data/img/mongolia/Zafg.webp",
      "mapsUrl": "https://www.google.com/maps/@47.065876,106.183335,3a,133.2y,243.9h,52.83t/data=!3m4!1e1!3m2!1sPtGZEaJQ5NqhcQ6RKEW6pQ!2e0",
      "width": 0.573,
      "text": [
@@ -478,7 +478,7 @@
     },
     {
      "id": "SCt6",
-     "image": "img/mongolia/SCt6.webp",
+     "image": "data/img/mongolia/SCt6.webp",
      "mapsUrl": "https://www.google.com/maps/@47.918944,107.449284,3a,133.2y,355.2h,78.63t/data=!3m4!1e1!3m2!1smK-88Jih1bfOYeF2tjMvsw!2e0",
      "width": 0.573,
      "text": [
@@ -487,7 +487,7 @@
     },
     {
      "id": "akFr",
-     "image": "img/mongolia/akFr.webp",
+     "image": "data/img/mongolia/akFr.webp",
      "mapsUrl": "https://maps.app.goo.gl/KvsWK5bp6S2JJzYs6",
      "width": 0.573,
      "text": [
@@ -496,7 +496,7 @@
     },
     {
      "id": "SagU",
-     "image": "img/mongolia/SagU.webp",
+     "image": "data/img/mongolia/SagU.webp",
      "mapsUrl": "https://maps.app.goo.gl/GjaGxHbHw8ECvnyB7",
      "width": 0.573,
      "text": [
@@ -505,7 +505,7 @@
     },
     {
      "id": "Oefv",
-     "image": "img/mongolia/Oefv.webp",
+     "image": "data/img/mongolia/Oefv.webp",
      "mapsUrl": "https://maps.app.goo.gl/odAqTQcdMap9hJYYA",
      "width": 0.573,
      "text": [
@@ -515,7 +515,7 @@
     },
     {
      "id": "gz04",
-     "image": "img/mongolia/gz04.webp",
+     "image": "data/img/mongolia/gz04.webp",
      "mapsUrl": "https://maps.app.goo.gl/jnuvddX6vzj4Abf46",
      "width": 0.573,
      "text": [
@@ -524,7 +524,7 @@
     },
     {
      "id": "JhMx",
-     "image": "img/mongolia/JhMx.webp",
+     "image": "data/img/mongolia/JhMx.webp",
      "mapsUrl": "https://maps.app.goo.gl/rNu6yXnGGEfsMcAq9",
      "width": 0.573,
      "text": [
@@ -533,7 +533,7 @@
     },
     {
      "id": "62RZ",
-     "image": "img/mongolia/62RZ.webp",
+     "image": "data/img/mongolia/62RZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/nsxUkPTFhM5N6kHW8",
      "width": 0.573,
      "text": [
@@ -542,7 +542,7 @@
     },
     {
      "id": "gdTt",
-     "image": "img/mongolia/gdTt.webp",
+     "image": "data/img/mongolia/gdTt.webp",
      "mapsUrl": "https://maps.app.goo.gl/TR5gr1u84YkWit8b6",
      "width": 0.573,
      "text": [
@@ -569,7 +569,7 @@
    "metas": [
     {
      "id": "lmEn",
-     "image": "img/mongolia/lmEn.webp",
+     "image": "data/img/mongolia/lmEn.webp",
      "mapsUrl": "https://www.google.com/maps/@49.027989,104.046817,3a,133.2y,65.7h,92.97t/data=!3m4!1e1!3m2!1sgR3O4GBtsIXq946khUZDzw!2e0",
      "width": 0.573,
      "text": [
@@ -579,7 +579,7 @@
     },
     {
      "id": "SZ7K",
-     "image": "img/mongolia/SZ7K.webp",
+     "image": "data/img/mongolia/SZ7K.webp",
      "mapsUrl": "https://goo.gl/maps/q27EsprHzd3EBR9u9",
      "width": 0.573,
      "text": [
@@ -589,7 +589,7 @@
     },
     {
      "id": "Mp7y",
-     "image": "img/mongolia/Mp7y.webp",
+     "image": "data/img/mongolia/Mp7y.webp",
      "mapsUrl": "https://www.google.com/maps/@50.231402,106.210842,3a,133.2y,144.3h,93.66t/data=!3m4!1e1!3m2!1sa16kbLtmsPfGfD9MrlJYPw!2e0",
      "width": 0.573,
      "text": [
@@ -599,7 +599,7 @@
     },
     {
      "id": "TGzK",
-     "image": "img/mongolia/TGzK.webp",
+     "image": "data/img/mongolia/TGzK.webp",
      "mapsUrl": "https://www.google.com/maps/@47.319951,110.645821,3a,133.2y,113.9h,89.24t/data=!3m4!1e1!3m2!1sgYly4pvzsnusNk2A3QIVhw!2e0",
      "width": 0.573,
      "text": [
@@ -609,7 +609,7 @@
     },
     {
      "id": "vVxd",
-     "image": "img/mongolia/vVxd.webp",
+     "image": "data/img/mongolia/vVxd.webp",
      "mapsUrl": "https://goo.gl/maps/xC5BBV4M3EKYccQh9",
      "width": 0.573,
      "text": [
@@ -618,7 +618,7 @@
     },
     {
      "id": "oR6b",
-     "image": "img/mongolia/oR6b.webp",
+     "image": "data/img/mongolia/oR6b.webp",
      "mapsUrl": "https://goo.gl/maps/EynSuqbruYscamJAA",
      "width": 0.573,
      "text": [
@@ -628,7 +628,7 @@
     },
     {
      "id": "4wVe",
-     "image": "img/mongolia/4wVe.webp",
+     "image": "data/img/mongolia/4wVe.webp",
      "mapsUrl": "https://goo.gl/maps/PjZiCT1tTSSqNVaC7",
      "width": 0.573,
      "text": [
@@ -637,7 +637,7 @@
     },
     {
      "id": "Znnn",
-     "image": "img/mongolia/Znnn.webp",
+     "image": "data/img/mongolia/Znnn.webp",
      "mapsUrl": "https://goo.gl/maps/DimgdZe4hRTqJwKx6",
      "width": 0.573,
      "text": [
@@ -646,7 +646,7 @@
     },
     {
      "id": "iKWh",
-     "image": "img/mongolia/iKWh.webp",
+     "image": "data/img/mongolia/iKWh.webp",
      "mapsUrl": "https://www.google.com/maps/@44.899106,110.137048,3a,97.3y,5.1h,93.48t/data=!3m4!1e1!3m2!1sD-Jc4hHli5ooLw3iUEA2eA!2e0",
      "width": 0.573,
      "text": [
@@ -655,7 +655,7 @@
     },
     {
      "id": "HXZm",
-     "image": "img/mongolia/HXZm.webp",
+     "image": "data/img/mongolia/HXZm.webp",
      "mapsUrl": "https://goo.gl/maps/44BzSDiLtTsXuWy18",
      "width": 0.573,
      "text": [
@@ -665,7 +665,7 @@
     },
     {
      "id": "VeQ6",
-     "image": "img/mongolia/VeQ6.webp",
+     "image": "data/img/mongolia/VeQ6.webp",
      "mapsUrl": "https://www.google.com/maps/@45.7683669,106.275897,2a,90y,246.56h,93.65t/data=!3m6!1e1!3m4!1sZJgef6nxEtNefxCzTwrpvA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -674,7 +674,7 @@
     },
     {
      "id": "cnjf",
-     "image": "img/mongolia/cnjf.webp",
+     "image": "data/img/mongolia/cnjf.webp",
      "mapsUrl": "https://www.google.com/maps/@43.57522,104.4388,3a,133.2y,253.4h,92.01t/data=!3m4!1e1!3m2!1s7tyK2TLEcby2H74Ylx6PPQ!2e0",
      "width": 0.573,
      "text": [
@@ -683,7 +683,7 @@
     },
     {
      "id": "CNFX",
-     "image": "img/mongolia/CNFX.webp",
+     "image": "data/img/mongolia/CNFX.webp",
      "mapsUrl": "https://maps.app.goo.gl/nP2tHtofwedBwRS79",
      "width": 0.573,
      "text": [
@@ -693,7 +693,7 @@
     },
     {
      "id": "soGu",
-     "image": "img/mongolia/soGu.webp",
+     "image": "data/img/mongolia/soGu.webp",
      "mapsUrl": "https://maps.app.goo.gl/2T9Z769baeUxrQbw9",
      "width": 0.573,
      "text": [
@@ -703,7 +703,7 @@
     },
     {
      "id": "JXlt",
-     "image": "img/mongolia/JXlt.webp",
+     "image": "data/img/mongolia/JXlt.webp",
      "mapsUrl": "https://maps.app.goo.gl/YdkFyotxhDRsB4s29",
      "width": 0.573,
      "text": [
@@ -712,7 +712,7 @@
     },
     {
      "id": "JqMp",
-     "image": "img/mongolia/JqMp.webp",
+     "image": "data/img/mongolia/JqMp.webp",
      "mapsUrl": "https://www.google.com/maps/@49.6502142,100.1657857,2a,90y,359.4h,88.09t/data=!3m6!1e1!3m4!1sfa3xQA4_CZCdgP-YVJ_1Yw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -722,7 +722,7 @@
     },
     {
      "id": "niLB",
-     "image": "img/mongolia/niLB.webp",
+     "image": "data/img/mongolia/niLB.webp",
      "mapsUrl": "https://www.google.com/maps/@50.452804,100.170608,3a,133.2y,26.5h,93.21t/data=!3m4!1e1!3m2!1sbXpcbgeeyty8vhtOEDDk9A!2e0",
      "width": 0.573,
      "text": [
@@ -731,7 +731,7 @@
     },
     {
      "id": "iRdb",
-     "image": "img/mongolia/iRdb.webp",
+     "image": "data/img/mongolia/iRdb.webp",
      "mapsUrl": "https://maps.app.goo.gl/dTpZUAcdSt8jnRsM9",
      "width": 0.573,
      "text": [
@@ -740,7 +740,7 @@
     },
     {
      "id": "N0GU",
-     "image": "img/mongolia/N0GU.webp",
+     "image": "data/img/mongolia/N0GU.webp",
      "mapsUrl": "https://maps.app.goo.gl/PVYV8pVazg9bDasD6",
      "width": 0.573,
      "text": [
@@ -749,7 +749,7 @@
     },
     {
      "id": "7X35",
-     "image": "img/mongolia/7X35.webp",
+     "image": "data/img/mongolia/7X35.webp",
      "mapsUrl": "https://maps.app.goo.gl/Tp77VmNKMcK51QTE8",
      "width": 0.573,
      "text": [
@@ -759,7 +759,7 @@
     },
     {
      "id": "F9MC",
-     "image": "img/mongolia/F9MC.webp",
+     "image": "data/img/mongolia/F9MC.webp",
      "mapsUrl": "https://maps.app.goo.gl/Z35XeAkTmqefRCA88",
      "width": 0.573,
      "text": [
@@ -769,7 +769,7 @@
     },
     {
      "id": "pIrI",
-     "image": "img/mongolia/pIrI.webp",
+     "image": "data/img/mongolia/pIrI.webp",
      "mapsUrl": "https://maps.app.goo.gl/iq7UN3KbxQdeJNBF6",
      "width": 0.573,
      "text": [
@@ -778,7 +778,7 @@
     },
     {
      "id": "IIJa",
-     "image": "img/mongolia/IIJa.webp",
+     "image": "data/img/mongolia/IIJa.webp",
      "mapsUrl": "https://maps.app.goo.gl/DzNz5GKbUyHDf5fy9",
      "width": 0.573,
      "text": [
@@ -788,7 +788,7 @@
     },
     {
      "id": "6YM0",
-     "image": "img/mongolia/6YM0.webp",
+     "image": "data/img/mongolia/6YM0.webp",
      "mapsUrl": "https://www.google.com/maps/@49.139413,87.97756,3a,83.5y,261.9h,93.11t/data=!3m4!1e1!3m2!1sx69M3ZW-hzOc43K9_ma8Pw!2e0",
      "width": 0.573,
      "text": [
@@ -797,7 +797,7 @@
     },
     {
      "id": "ZHC6",
-     "image": "img/mongolia/ZHC6.webp",
+     "image": "data/img/mongolia/ZHC6.webp",
      "mapsUrl": "https://www.google.com/maps/@49.967838,94.676156,3a,133.2y,60.6h,91.60t/data=!3m4!1e1!3m2!1sMu01-Z3pIb4pI4D_t8EKAQ!2e0",
      "width": 0.573,
      "text": [
@@ -807,7 +807,7 @@
     },
     {
      "id": "QUem",
-     "image": "img/mongolia/QUem.webp",
+     "image": "data/img/mongolia/QUem.webp",
      "mapsUrl": "https://www.google.com/maps/@49.4869911,94.9787609,2a,90y,148.13h,79.26t/data=!3m6!1e1!3m4!1s1RQmCX1_jLdXVtFobPU7jw!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -818,7 +818,7 @@
     },
     {
      "id": "R6l0",
-     "image": "img/mongolia/R6l0.webp",
+     "image": "data/img/mongolia/R6l0.webp",
      "mapsUrl": "https://www.google.com/maps/@43.452213,99.895723,3a,133.2y,305.6h,88.94t/data=!3m4!1e1!3m2!1ssC5fADuvY33ktVR-iMUF3g!2e0",
      "width": 0.573,
      "text": [
@@ -827,7 +827,7 @@
     },
     {
      "id": "rqJk",
-     "image": "img/mongolia/rqJk.webp",
+     "image": "data/img/mongolia/rqJk.webp",
      "mapsUrl": "https://www.google.com/maps/@43.526593,104.032149,3a,133.2y,11.0h,91.89t/data=!3m4!1e1!3m2!1shkJultpysH1TeZXm7pf3EQ!2e0",
      "width": 0.573,
      "text": [
@@ -836,7 +836,7 @@
     },
     {
      "id": "yu6W",
-     "image": "img/mongolia/yu6W.webp",
+     "image": "data/img/mongolia/yu6W.webp",
      "mapsUrl": "https://www.google.com/maps/@50.7913686,99.5193598,2a,90y,142.22h,93.83t/data=!3m7!1e1!3m5!1sRwmPSmtm6CVXsvcJ1drvaQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRwmPSmtm6CVXsvcJ1drvaQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D74.94592%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -845,7 +845,7 @@
     },
     {
      "id": "Mm6D",
-     "image": "img/mongolia/Mm6D.webp",
+     "image": "data/img/mongolia/Mm6D.webp",
      "mapsUrl": "https://www.google.com/maps/@49.7129977,99.9776108,2a,90y,132.8h,91.17t/data=!3m6!1e1!3m4!1s_3c_NUBlQ49TJmQgMsbYDg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -859,7 +859,7 @@
     },
     {
      "id": "tCNu",
-     "image": "img/mongolia/tCNu.webp",
+     "image": "data/img/mongolia/tCNu.webp",
      "mapsUrl": "https://maps.app.goo.gl/pVgSEVP43irZMmyk6",
      "width": 0.573,
      "text": [

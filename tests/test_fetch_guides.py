@@ -73,7 +73,10 @@ class ReshapeTests(unittest.TestCase):
         with_image = [m for s in self.japan["sections"] for m in s["metas"] if m["image"]]
         self.assertTrue(with_image)
         for meta in with_image:
-            self.assertTrue(meta["image"].startswith("img/japan/"))
+            # The path is relative to the app root, where the images live
+            # under data/img, so the browser and the service worker resolve
+            # it the same way.
+            self.assertTrue(meta["image"].startswith("data/img/japan/"))
             self.assertTrue(meta["image"].endswith(".webp"))
 
     def test_a_meta_without_an_image_is_null(self):

@@ -3,7 +3,7 @@
  "title": "Norway",
  "code": "NO",
  "continent": "Europe",
- "hero": "img/norway/hero.webp",
+ "hero": "data/img/norway/hero.webp",
  "metaCount": 55,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "TPpp",
-     "image": "img/norway/TPpp.webp",
+     "image": "data/img/norway/TPpp.webp",
      "mapsUrl": "https://www.google.com/maps/@62.5518285,7.6617184,3a,34.4y,282.53h,91.09t/data=!3m7!1e1!3m5!1sv5IEcPN5rPfaHRJf47kr0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dv5IEcPN5rPfaHRJf47kr0Q%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D279.89542%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "OjhH",
-     "image": "img/norway/OjhH.webp",
+     "image": "data/img/norway/OjhH.webp",
      "mapsUrl": "https://www.google.com/maps/@62.3097764,6.9385467,3a,49.8y,108.85h,92.53t/data=!3m6!1e1!3m4!1sPW4o-yfsbGXs1Ve3drgcZw!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "A0UC",
-     "image": "img/norway/A0UC.webp",
+     "image": "data/img/norway/A0UC.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "JxsR",
-     "image": "img/norway/JxsR.webp",
+     "image": "data/img/norway/JxsR.webp",
      "mapsUrl": "https://www.google.com/maps/@59.9868255,6.5664947,3a,42.8y,13.56h,76.22t/data=!3m7!1e1!3m5!1sOteIwj4-wJSQIE7ZoqX2MQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOteIwj4-wJSQIE7ZoqX2MQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D279.01422%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "zQPw",
-     "image": "img/norway/zQPw.webp",
+     "image": "data/img/norway/zQPw.webp",
      "mapsUrl": "https://goo.gl/maps/9xNiRBAdK8y8BLan6",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "u4g0",
-     "image": "img/norway/u4g0.webp",
+     "image": "data/img/norway/u4g0.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "0MXz",
-     "image": "img/norway/0MXz.webp",
+     "image": "data/img/norway/0MXz.webp",
      "mapsUrl": "https://www.google.com/maps/@59.8397993,9.5389419,3a,23y,112.64h,61.22t/data=!3m6!1e1!3m4!1sTTZQaZX_4EbrAimUZps1UA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "Yvvo",
-     "image": "img/norway/Yvvo.webp",
+     "image": "data/img/norway/Yvvo.webp",
      "mapsUrl": "https://www.google.com/maps/@66.0846859,13.8288148,3a,23.7y,22.33h,78.15t/data=!3m6!1e1!3m4!1sIHy1FLxJSQbwLOym2zeNpg!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "6F9C",
-     "image": "img/norway/6F9C.webp",
+     "image": "data/img/norway/6F9C.webp",
      "mapsUrl": "https://www.google.com/maps/@59.6443006,7.4602825,3a,43.4y,191.66h,72.4t/data=!3m7!1e1!3m5!1sp4MX3VFkYJoCgPca8HOjiA!2e0!5s20190901T000000!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "O5ze",
-     "image": "img/norway/O5ze.webp",
+     "image": "data/img/norway/O5ze.webp",
      "mapsUrl": "https://goo.gl/maps/bgBbTqWnQyDS1wG48",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "hWzL",
-     "image": "img/norway/hWzL.webp",
+     "image": "data/img/norway/hWzL.webp",
      "mapsUrl": "https://www.google.com/maps/@60.3745741,5.2001785,3a,15y,314.67h,91.63t/data=!3m6!1e1!3m4!1so0tPS0sEyf9IUjIAhmbvww!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "MAXX",
-     "image": "img/norway/MAXX.webp",
+     "image": "data/img/norway/MAXX.webp",
      "mapsUrl": "https://www.google.se/maps/@68.5367423,17.2160245,3a,19.9y,169.49h,94.46t/data=!3m6!1e1!3m4!1s6FAxT0UGPZXJjuwAVb66bA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
     },
     {
      "id": "HlLb",
-     "image": "img/norway/HlLb.webp",
+     "image": "data/img/norway/HlLb.webp",
      "mapsUrl": "https://goo.gl/maps/45MUScYavRFiwyPv8",
      "width": 0.5,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "hUl3",
-     "image": "img/norway/hUl3.webp",
+     "image": "data/img/norway/hUl3.webp",
      "mapsUrl": "https://goo.gl/maps/bDrJQoRMETpg66FJ9",
      "width": 0.5,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "0UKk",
-     "image": "img/norway/0UKk.webp",
+     "image": "data/img/norway/0UKk.webp",
      "mapsUrl": "https://goo.gl/maps/YvJoS6oa8Cifye6m8",
      "width": 0.5,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "dZk6",
-     "image": "img/norway/dZk6.webp",
+     "image": "data/img/norway/dZk6.webp",
      "mapsUrl": "https://www.google.com/maps/@60.3989197,5.3282393,3a,15y,61.21h,100.75t/data=!3m6!1e1!3m4!1sS3foVfd95KVJKP139aYT3w!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -181,7 +181,7 @@
     },
     {
      "id": "0YsK",
-     "image": "img/norway/0YsK.webp",
+     "image": "data/img/norway/0YsK.webp",
      "mapsUrl": "https://goo.gl/maps/THNC9c8sWtXr6p1t8",
      "width": 0.5,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "oDKo",
-     "image": "img/norway/oDKo.webp",
+     "image": "data/img/norway/oDKo.webp",
      "mapsUrl": "https://www.google.com/maps/@59.8374188,6.8352332,3a,15y,49.42h,87.01t/data=!3m6!1e1!3m4!1s8hYnbSrPzZkAVvO0tHePTg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "IYC5",
-     "image": "img/norway/IYC5.webp",
+     "image": "data/img/norway/IYC5.webp",
      "mapsUrl": "https://goo.gl/maps/toq5t1P8mn5herbA8",
      "width": 0.5,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "FI4P",
-     "image": "img/norway/FI4P.webp",
+     "image": "data/img/norway/FI4P.webp",
      "mapsUrl": "https://goo.gl/maps/pz3oQgGxuTrCqvJw5",
      "width": 0.5,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "Yy1U",
-     "image": "img/norway/Yy1U.webp",
+     "image": "data/img/norway/Yy1U.webp",
      "mapsUrl": "https://www.google.com/maps/@60.8778279,10.5023417,3a,15y,351h,89.03t/data=!3m6!1e1!3m4!1sIgb1ZTMWKb9idWHiRLjjbw!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "raUu",
-     "image": "img/norway/raUu.webp",
+     "image": "data/img/norway/raUu.webp",
      "mapsUrl": "https://www.google.com/maps/@61.8783547,5.1160063,3a,23.6y,358.76h,73.2t/data=!3m6!1e1!3m4!1sXOmH7HMlbVV8Ll5asnnKrQ!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "qjon",
-     "image": "img/norway/qjon.webp",
+     "image": "data/img/norway/qjon.webp",
      "mapsUrl": "https://www.google.com/maps/@66.3338719,13.3648318,3a,63.8y,349.34h,85.8t/data=!3m7!1e1!3m5!1svCUTRjlzWXmb9RSv6DcYzw!2e0!5s20190901T000000!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "SSKX",
-     "image": "img/norway/SSKX.webp",
+     "image": "data/img/norway/SSKX.webp",
      "mapsUrl": "https://maps.app.goo.gl/mQQp65gq3iRjrtuP9",
      "width": 0.5,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "jmxl",
-     "image": "img/norway/jmxl.webp",
+     "image": "data/img/norway/jmxl.webp",
      "mapsUrl": "https://www.google.com/maps/@62.3540386,6.8040252,3a,39.5y,279.37h,95.33t/data=!3m6!1e1!3m4!1sKydbqM2WzOJR5Celafsq5w!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -268,7 +268,7 @@
     },
     {
      "id": "x2Iy",
-     "image": "img/norway/x2Iy.webp",
+     "image": "data/img/norway/x2Iy.webp",
      "mapsUrl": "https://maps.app.goo.gl/c2QDwTtUuUYfKFty6",
      "width": 0.5,
      "text": [
@@ -287,7 +287,7 @@
    "metas": [
     {
      "id": "HrQE",
-     "image": "img/norway/HrQE.webp",
+     "image": "data/img/norway/HrQE.webp",
      "mapsUrl": "/images/norway/no_roadnumbers.png",
      "width": 0.5,
      "text": [
@@ -298,7 +298,7 @@
     },
     {
      "id": "4foM",
-     "image": "img/norway/4foM.webp",
+     "image": "data/img/norway/4foM.webp",
      "mapsUrl": "https://www.google.se/maps/@69.4726669,25.5031048,3a,35.6y,332.01h,94.58t/data=!3m7!1e1!3m5!1sJ6HBFp6anRUoXm3ccJcgqA!2e0!5s20220801T000000!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "HfAL",
-     "image": "img/norway/HfAL.webp",
+     "image": "data/img/norway/HfAL.webp",
      "mapsUrl": "https://goo.gl/maps/aUZDo5SzgFM8fB6f7",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
     },
     {
      "id": "FTW1",
-     "image": "img/norway/FTW1.webp",
+     "image": "data/img/norway/FTW1.webp",
      "mapsUrl": "https://www.google.se/maps/@60.8279254,10.0246924,3a,75y,170.52h,117.38t/data=!3m6!1e1!3m4!1s14aC5mfZc9_CIRYmQga6qQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -326,7 +326,7 @@
     },
     {
      "id": "RLu2",
-     "image": "img/norway/RLu2.webp",
+     "image": "data/img/norway/RLu2.webp",
      "mapsUrl": "https://goo.gl/maps/xxgwkVPFWpiB8E1J9",
      "width": 0.573,
      "text": [
@@ -335,7 +335,7 @@
     },
     {
      "id": "Oub6",
-     "image": "img/norway/Oub6.webp",
+     "image": "data/img/norway/Oub6.webp",
      "mapsUrl": "https://goo.gl/maps/xmxGejQJynBpRuFG6",
      "width": 0.573,
      "text": [
@@ -344,7 +344,7 @@
     },
     {
      "id": "cISF",
-     "image": "img/norway/cISF.webp",
+     "image": "data/img/norway/cISF.webp",
      "mapsUrl": "https://goo.gl/maps/BSYkW2RjYmJ9edUt7",
      "width": 0.573,
      "text": [
@@ -353,7 +353,7 @@
     },
     {
      "id": "OM8Z",
-     "image": "img/norway/OM8Z.webp",
+     "image": "data/img/norway/OM8Z.webp",
      "mapsUrl": "https://www.google.com/maps/@61.6946414,10.1578229,3a,75y,340.59h,81.34t/data=!3m6!1e1!3m4!1sWNDPX2TUZfXNt0NG5aVZtg!2e0!7i16384!8i8192?entry=tts",
      "width": 0.573,
      "text": [
@@ -362,7 +362,7 @@
     },
     {
      "id": "x4nu",
-     "image": "img/norway/x4nu.webp",
+     "image": "data/img/norway/x4nu.webp",
      "mapsUrl": "https://www.google.com/maps/@59.4659982,11.3154143,3a,75y,199.53h,76.31t/data=!3m7!1e1!3m5!1sWTMScch7dw6MNM0m_RNzOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DWTMScch7dw6MNM0m_RNzOw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D206.0333%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -372,7 +372,7 @@
     },
     {
      "id": "7dqj",
-     "image": "img/norway/7dqj.webp",
+     "image": "data/img/norway/7dqj.webp",
      "mapsUrl": "https://www.google.com/maps/@60.1254802,11.5110884,3a,75y,217.32h,82.47t/data=!3m6!1e1!3m4!1sqUvpOWxpC0-vFoMYlAQrnQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -381,7 +381,7 @@
     },
     {
      "id": "Leu7",
-     "image": "img/norway/Leu7.webp",
+     "image": "data/img/norway/Leu7.webp",
      "mapsUrl": "https://www.google.com/maps/@63.5009821,10.8633563,3a,53.1y,75.45h,89.47t/data=!3m6!1e1!3m4!1s_bcR-sIF29AOiiqiPaJMuA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -390,7 +390,7 @@
     },
     {
      "id": "0DaH",
-     "image": "img/norway/0DaH.webp",
+     "image": "data/img/norway/0DaH.webp",
      "mapsUrl": "https://www.google.com/maps/@58.8217428,5.6169829,3a,50.2y,51.18h,85.19t/data=!3m6!1e1!3m4!1sxXHf9dCVobkYw7IwEit56g!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -399,7 +399,7 @@
     },
     {
      "id": "xAUQ",
-     "image": "img/norway/xAUQ.webp",
+     "image": "data/img/norway/xAUQ.webp",
      "mapsUrl": "https://goo.gl/maps/f27r9ZKbwo1prbdr6",
      "width": 0.573,
      "text": [
@@ -408,7 +408,7 @@
     },
     {
      "id": "Iw1G",
-     "image": "img/norway/Iw1G.webp",
+     "image": "data/img/norway/Iw1G.webp",
      "mapsUrl": "https://www.google.co.uk/maps/@68.0542568,13.1827848,3a,75y,251.15h,97.83t/data=!3m6!1e1!3m4!1swbt1_2ISiECCKxhIHs4ptw!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "A94U",
-     "image": "img/norway/A94U.webp",
+     "image": "data/img/norway/A94U.webp",
      "mapsUrl": "https://www.google.com/maps/@69.6527737,29.4505666,3a,56.8y,226.97h,82.7t/data=!3m6!1e1!3m4!1s6qeNxKJN0mAHiUrPGKZArg!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -426,7 +426,7 @@
     },
     {
      "id": "hBEv",
-     "image": "img/norway/hBEv.webp",
+     "image": "data/img/norway/hBEv.webp",
      "mapsUrl": "https://www.google.com/maps/@62.0290078,8.9597392,3a,90y,228.97h,97.48t/data=!3m6!1e1!3m4!1syckq0vF9_WpurUviUOLW6Q!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "xl0F",
-     "image": "img/norway/xl0F.webp",
+     "image": "data/img/norway/xl0F.webp",
      "mapsUrl": "https://goo.gl/maps/4yQqyLD22SdCHmcR8",
      "width": 0.573,
      "text": [
@@ -444,7 +444,7 @@
     },
     {
      "id": "HH6f",
-     "image": "img/norway/HH6f.webp",
+     "image": "data/img/norway/HH6f.webp",
      "mapsUrl": "https://goo.gl/maps/WqdhAsFuVP5papYW8",
      "width": 0.573,
      "text": [
@@ -453,7 +453,7 @@
     },
     {
      "id": "W3mj",
-     "image": "img/norway/W3mj.webp",
+     "image": "data/img/norway/W3mj.webp",
      "mapsUrl": "https://goo.gl/maps/DpaVeTLsdCztoEfX7",
      "width": 0.573,
      "text": [
@@ -462,7 +462,7 @@
     },
     {
      "id": "VlO3",
-     "image": "img/norway/VlO3.webp",
+     "image": "data/img/norway/VlO3.webp",
      "mapsUrl": "https://www.google.se/maps/@62.1751624,5.740403,3a,22.6y,284.88h,66.08t/data=!3m6!1e1!3m4!1saMg509wUU5d3_xIfi3U1-g!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "9ScA",
-     "image": "img/norway/9ScA.webp",
+     "image": "data/img/norway/9ScA.webp",
      "mapsUrl": "https://goo.gl/maps/FDa3toJaisGnKUV47",
      "width": 0.573,
      "text": [
@@ -480,7 +480,7 @@
     },
     {
      "id": "c3nG",
-     "image": "img/norway/c3nG.webp",
+     "image": "data/img/norway/c3nG.webp",
      "mapsUrl": "https://goo.gl/maps/bmN9hZmPt5q8MPDg6",
      "width": 0.573,
      "text": [
@@ -489,7 +489,7 @@
     },
     {
      "id": "9ybH",
-     "image": "img/norway/9ybH.webp",
+     "image": "data/img/norway/9ybH.webp",
      "mapsUrl": "/images/norway/Svalbard_in_Europe__28-mini_map_-rivers_29.svg.png",
      "width": 0.5,
      "text": [
@@ -508,7 +508,7 @@
    "metas": [
     {
      "id": "NRTp",
-     "image": "img/norway/NRTp.webp",
+     "image": "data/img/norway/NRTp.webp",
      "mapsUrl": "https://goo.gl/maps/snBSas9NVqKhTa4B7",
      "width": 0.573,
      "text": [
@@ -517,7 +517,7 @@
     },
     {
      "id": "8i89",
-     "image": "img/norway/8i89.webp",
+     "image": "data/img/norway/8i89.webp",
      "mapsUrl": "https://goo.gl/maps/ntdWmAVZpkQoDxhU6",
      "width": 0.573,
      "text": [
@@ -526,7 +526,7 @@
     },
     {
      "id": "p8gR",
-     "image": "img/norway/p8gR.webp",
+     "image": "data/img/norway/p8gR.webp",
      "mapsUrl": "https://goo.gl/maps/6M3wWGiub6J1Yj4E8",
      "width": 0.573,
      "text": [
@@ -535,7 +535,7 @@
     },
     {
      "id": "wQZ6",
-     "image": "img/norway/wQZ6.webp",
+     "image": "data/img/norway/wQZ6.webp",
      "mapsUrl": "https://goo.gl/maps/PQvtKwuVJVgxo3STA",
      "width": 0.573,
      "text": [
@@ -544,7 +544,7 @@
     },
     {
      "id": "0l1i",
-     "image": "img/norway/0l1i.webp",
+     "image": "data/img/norway/0l1i.webp",
      "mapsUrl": "https://goo.gl/maps/xVDBDXAGth3ziLhJ6",
      "width": 0.573,
      "text": [
@@ -553,7 +553,7 @@
     },
     {
      "id": "lXDj",
-     "image": "img/norway/lXDj.webp",
+     "image": "data/img/norway/lXDj.webp",
      "mapsUrl": "https://goo.gl/maps/1N2u7FDANtvaepAi8",
      "width": 0.573,
      "text": [

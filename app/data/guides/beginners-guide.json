@@ -3,7 +3,7 @@
  "title": "Beginner's Guide to Geoguessr",
  "code": "XX-BEGINNERS",
  "continent": "General",
- "hero": "img/beginners-guide/hero.webp",
+ "hero": "data/img/beginners-guide/hero.webp",
  "metaCount": 0,
  "sections": [
   {

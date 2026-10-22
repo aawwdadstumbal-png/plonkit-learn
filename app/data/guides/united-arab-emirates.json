@@ -3,7 +3,7 @@
  "title": "United Arab Emirates",
  "code": "AE",
  "continent": "Asia",
- "hero": "img/united-arab-emirates/hero.webp",
+ "hero": "data/img/united-arab-emirates/hero.webp",
  "metaCount": 24,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "uy32",
-     "image": "img/united-arab-emirates/uy32.webp",
+     "image": "data/img/united-arab-emirates/uy32.webp",
      "mapsUrl": "https://maps.app.goo.gl/VNePq383S8THMzvK9",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "HIpw",
-     "image": "img/united-arab-emirates/HIpw.webp",
+     "image": "data/img/united-arab-emirates/HIpw.webp",
      "mapsUrl": "https://maps.app.goo.gl/GV3fzE8unLEPjDDm6",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "jc6S",
-     "image": "img/united-arab-emirates/jc6S.webp",
+     "image": "data/img/united-arab-emirates/jc6S.webp",
      "mapsUrl": "https://goo.gl/maps/48v58xgVdQb64m2e6",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "1rPJ",
-     "image": "img/united-arab-emirates/1rPJ.webp",
+     "image": "data/img/united-arab-emirates/1rPJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/iKpxf8krJdtA16MBA",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "43f2",
-     "image": "img/united-arab-emirates/43f2.webp",
+     "image": "data/img/united-arab-emirates/43f2.webp",
      "mapsUrl": "https://maps.app.goo.gl/FwkQNmdyYHL74xj8A",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "oJYL",
-     "image": "img/united-arab-emirates/oJYL.webp",
+     "image": "data/img/united-arab-emirates/oJYL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "z1O8",
-     "image": "img/united-arab-emirates/z1O8.webp",
+     "image": "data/img/united-arab-emirates/z1O8.webp",
      "mapsUrl": "https://goo.gl/maps/NvUYm7ieMn9DArty5",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "lRZb",
-     "image": "img/united-arab-emirates/lRZb.webp",
+     "image": "data/img/united-arab-emirates/lRZb.webp",
      "mapsUrl": "https://www.google.com/maps/@25.0611912,55.707767,3a,15y,60.49h,82.37t/data=!3m6!1e1!3m4!1swL1j3pr02vFm9tlwF_OqpA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "AD1q",
-     "image": "img/united-arab-emirates/AD1q.webp",
+     "image": "data/img/united-arab-emirates/AD1q.webp",
      "mapsUrl": "https://maps.app.goo.gl/xc3nWyoNAAB282bt6",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "Lxlq",
-     "image": "img/united-arab-emirates/Lxlq.webp",
+     "image": "data/img/united-arab-emirates/Lxlq.webp",
      "mapsUrl": "https://goo.gl/maps/6cSPp9Gkvxqonzna8",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "RONH",
-     "image": "img/united-arab-emirates/RONH.webp",
+     "image": "data/img/united-arab-emirates/RONH.webp",
      "mapsUrl": "https://maps.app.goo.gl/SutBev8evrttFCzJA",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "nA0w",
-     "image": "img/united-arab-emirates/nA0w.webp",
+     "image": "data/img/united-arab-emirates/nA0w.webp",
      "mapsUrl": "https://maps.app.goo.gl/jodYR8yVoZGDboudA",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "28Pr",
-     "image": "img/united-arab-emirates/28Pr.webp",
+     "image": "data/img/united-arab-emirates/28Pr.webp",
      "mapsUrl": "https://goo.gl/maps/wdeVJfVcqZrg6iaT7",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
    "metas": [
     {
      "id": "r48B",
-     "image": "img/united-arab-emirates/r48B.webp",
+     "image": "data/img/united-arab-emirates/r48B.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "YjWs",
-     "image": "img/united-arab-emirates/YjWs.webp",
+     "image": "data/img/united-arab-emirates/YjWs.webp",
      "mapsUrl": "https://maps.app.goo.gl/o1QUCUumRMJSeryQ7",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "hV8q",
-     "image": "img/united-arab-emirates/hV8q.webp",
+     "image": "data/img/united-arab-emirates/hV8q.webp",
      "mapsUrl": "https://maps.app.goo.gl/qu584qCbnNes1GQ36",
      "width": 0.573,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "M22T",
-     "image": "img/united-arab-emirates/M22T.webp",
+     "image": "data/img/united-arab-emirates/M22T.webp",
      "mapsUrl": "https://goo.gl/maps/1B3KYMU5tXCFow9f6",
      "width": 0.573,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "SEgX",
-     "image": "img/united-arab-emirates/SEgX.webp",
+     "image": "data/img/united-arab-emirates/SEgX.webp",
      "mapsUrl": "https://maps.app.goo.gl/V49TXbk3K4RWqp736",
      "width": 0.573,
      "text": [
@@ -209,7 +209,7 @@
    "metas": [
     {
      "id": "9WlQ",
-     "image": "img/united-arab-emirates/9WlQ.webp",
+     "image": "data/img/united-arab-emirates/9WlQ.webp",
      "mapsUrl": "https://goo.gl/maps/jNvE6bwu1SykMSKh9",
      "width": 0.573,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "eQKo",
-     "image": "img/united-arab-emirates/eQKo.webp",
+     "image": "data/img/united-arab-emirates/eQKo.webp",
      "mapsUrl": "https://goo.gl/maps/548ZpVchkR3jcGju7",
      "width": 0.573,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "b44v",
-     "image": "img/united-arab-emirates/b44v.webp",
+     "image": "data/img/united-arab-emirates/b44v.webp",
      "mapsUrl": "https://goo.gl/maps/pqM2HBPmEjp7WEdp7",
      "width": 0.573,
      "text": [
@@ -236,7 +236,7 @@
     },
     {
      "id": "k0FZ",
-     "image": "img/united-arab-emirates/k0FZ.webp",
+     "image": "data/img/united-arab-emirates/k0FZ.webp",
      "mapsUrl": "https://goo.gl/maps/xCZKgEXBKALugf2J6",
      "width": 0.573,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "GHHD",
-     "image": "img/united-arab-emirates/GHHD.webp",
+     "image": "data/img/united-arab-emirates/GHHD.webp",
      "mapsUrl": "https://goo.gl/maps/aS9bsLjJ6cYhLGdH9",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "A3rG",
-     "image": "img/united-arab-emirates/A3rG.webp",
+     "image": "data/img/united-arab-emirates/A3rG.webp",
      "mapsUrl": "https://goo.gl/maps/mG5v9HXoYZzx9MSN8",
      "width": 0.573,
      "text": [

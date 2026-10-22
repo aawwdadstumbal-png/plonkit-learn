@@ -3,7 +3,7 @@
  "title": "Reunion",
  "code": "RE",
  "continent": "Africa",
- "hero": "img/reunion/hero.webp",
+ "hero": "data/img/reunion/hero.webp",
  "metaCount": 14,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "gdWo",
-     "image": "img/reunion/gdWo.webp",
+     "image": "data/img/reunion/gdWo.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/D%C3%A9partement_974_in_France_%28zoom%29.svg/1920px-D%C3%A9partement_974_in_France_%28zoom%29.svg.png",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "4ixl",
-     "image": "img/reunion/4ixl.webp",
+     "image": "data/img/reunion/4ixl.webp",
      "mapsUrl": "https://goo.gl/maps/5gnLtSY41NNVVNWZA",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "TYj8",
-     "image": "img/reunion/TYj8.webp",
+     "image": "data/img/reunion/TYj8.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "Ccd5",
-     "image": "img/reunion/Ccd5.webp",
+     "image": "data/img/reunion/Ccd5.webp",
      "mapsUrl": "https://goo.gl/maps/6D7LZ65gmsPn3YYt8",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
    "metas": [
     {
      "id": "HNMA",
-     "image": "img/reunion/HNMA.webp",
+     "image": "data/img/reunion/HNMA.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "oFny",
-     "image": "img/reunion/oFny.webp",
+     "image": "data/img/reunion/oFny.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "5wwx",
-     "image": "img/reunion/5wwx.webp",
+     "image": "data/img/reunion/5wwx.webp",
      "mapsUrl": "https://goo.gl/maps/n4M58X5gveDDB4Uv6",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "m512",
-     "image": "img/reunion/m512.webp",
+     "image": "data/img/reunion/m512.webp",
      "mapsUrl": "https://goo.gl/maps/LHdNKQSPkAtC7kTB8",
      "width": 0.573,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "nllT",
-     "image": "img/reunion/nllT.webp",
+     "image": "data/img/reunion/nllT.webp",
      "mapsUrl": "https://goo.gl/maps/N4vNKy2BDwfFgFbt8",
      "width": 0.573,
      "text": [
@@ -128,7 +128,7 @@
    "metas": [
     {
      "id": "gOIT",
-     "image": "img/reunion/gOIT.webp",
+     "image": "data/img/reunion/gOIT.webp",
      "mapsUrl": "https://goo.gl/maps/Ji1Bk5ZmKSJ772it6",
      "width": 0.573,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "e1PC",
-     "image": "img/reunion/e1PC.webp",
+     "image": "data/img/reunion/e1PC.webp",
      "mapsUrl": "https://goo.gl/maps/GFdiB9nbVJPF54Bc7",
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "aap9",
-     "image": "img/reunion/aap9.webp",
+     "image": "data/img/reunion/aap9.webp",
      "mapsUrl": "https://goo.gl/maps/m4EWBbcsSnBRhLeCA",
      "width": 0.573,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "UMXJ",
-     "image": "img/reunion/UMXJ.webp",
+     "image": "data/img/reunion/UMXJ.webp",
      "mapsUrl": "https://goo.gl/maps/1vJBXBfvwwi8YyB37",
      "width": 0.573,
      "text": [
@@ -165,7 +165,7 @@
     },
     {
      "id": "UhQa",
-     "image": "img/reunion/UhQa.webp",
+     "image": "data/img/reunion/UhQa.webp",
      "mapsUrl": "https://goo.gl/maps/BCFWSpgwGXQNRTZG7",
      "width": 0.573,
      "text": [

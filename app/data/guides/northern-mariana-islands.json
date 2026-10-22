@@ -3,7 +3,7 @@
  "title": "Northern Mariana Islands",
  "code": "MP",
  "continent": "Oceania",
- "hero": "img/northern-mariana-islands/hero.webp",
+ "hero": "data/img/northern-mariana-islands/hero.webp",
  "metaCount": 11,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "4Uer",
-     "image": "img/northern-mariana-islands/4Uer.webp",
+     "image": "data/img/northern-mariana-islands/4Uer.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Northern_Mariana_Islands_in_Oceania_%28-mini_map_-rivers%29.svg/2388px-Northern_Mariana_Islands_in_Oceania_%28-mini_map_-rivers%29.svg.png",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "QEJK",
-     "image": "img/northern-mariana-islands/QEJK.webp",
+     "image": "data/img/northern-mariana-islands/QEJK.webp",
      "mapsUrl": "https://goo.gl/maps/e1TVSUpRgtRetpM26",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "H2l8",
-     "image": "img/northern-mariana-islands/H2l8.webp",
+     "image": "data/img/northern-mariana-islands/H2l8.webp",
      "mapsUrl": "https://goo.gl/maps/WcWY9Maj3jL19JjD9",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "jle0",
-     "image": "img/northern-mariana-islands/jle0.webp",
+     "image": "data/img/northern-mariana-islands/jle0.webp",
      "mapsUrl": "https://maps.app.goo.gl/3E6PHtcJLSiYhBBMA",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "7SWm",
-     "image": "img/northern-mariana-islands/7SWm.webp",
+     "image": "data/img/northern-mariana-islands/7SWm.webp",
      "mapsUrl": "https://goo.gl/maps/iqpm75XrCW6PDLw9A",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "c1Di",
-     "image": "img/northern-mariana-islands/c1Di.webp",
+     "image": "data/img/northern-mariana-islands/c1Di.webp",
      "mapsUrl": "https://goo.gl/maps/tnw3drhwSREqtCtc6",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "2NSb",
-     "image": "img/northern-mariana-islands/2NSb.webp",
+     "image": "data/img/northern-mariana-islands/2NSb.webp",
      "mapsUrl": "https://goo.gl/maps/UWyusyAu8qRihpKg9",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "lSGS",
-     "image": "img/northern-mariana-islands/lSGS.webp",
+     "image": "data/img/northern-mariana-islands/lSGS.webp",
      "mapsUrl": "https://goo.gl/maps/Mv91ffZwXQdu9UBe6",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
    "metas": [
     {
      "id": "H5Sf",
-     "image": "img/northern-mariana-islands/H5Sf.webp",
+     "image": "data/img/northern-mariana-islands/H5Sf.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "sU1n",
-     "image": "img/northern-mariana-islands/sU1n.webp",
+     "image": "data/img/northern-mariana-islands/sU1n.webp",
      "mapsUrl": "https://goo.gl/maps/3ismHgYegwwX6C6a8",
      "width": 0.573,
      "text": [
@@ -131,7 +131,7 @@
    "metas": [
     {
      "id": "MPiv",
-     "image": "img/northern-mariana-islands/MPiv.webp",
+     "image": "data/img/northern-mariana-islands/MPiv.webp",
      "mapsUrl": "https://goo.gl/maps/abcbroprRxLYZe9y8",
      "width": 0.573,
      "text": [

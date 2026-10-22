@@ -3,7 +3,7 @@
  "title": "India",
  "code": "IN",
  "continent": "Asia",
- "hero": "img/india/hero.webp",
+ "hero": "data/img/india/hero.webp",
  "metaCount": 104,
  "sections": [
   {
@@ -23,7 +23,7 @@
    "metas": [
     {
      "id": "DXqu",
-     "image": "img/india/DXqu.webp",
+     "image": "data/img/india/DXqu.webp",
      "mapsUrl": "https://goo.gl/maps/72iSAvoELCGHYoC36",
      "width": 0.5,
      "text": [
@@ -33,7 +33,7 @@
     },
     {
      "id": "DjKX",
-     "image": "img/india/DjKX.webp",
+     "image": "data/img/india/DjKX.webp",
      "mapsUrl": "https://maps.app.goo.gl/Eg7twaY1pJcxKuhD9",
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
     },
     {
      "id": "JCqV",
-     "image": "img/india/JCqV.webp",
+     "image": "data/img/india/JCqV.webp",
      "mapsUrl": "https://www.google.com/maps/@28.3597213,75.5836665,3a,90y,33.87h,71.53t/data=!3m6!1e1!3m4!1svwLubjQkMOT3owdrmGl1VQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "sqHz",
-     "image": "img/india/sqHz.webp",
+     "image": "data/img/india/sqHz.webp",
      "mapsUrl": "https://goo.gl/maps/Hv56NAKUdpxjJkpV8",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "aEYi",
-     "image": "img/india/aEYi.webp",
+     "image": "data/img/india/aEYi.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "pdE8",
-     "image": "img/india/pdE8.webp",
+     "image": "data/img/india/pdE8.webp",
      "mapsUrl": "https://goo.gl/maps/vvte9WFbaWkHZdRt9",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "rS5H",
-     "image": "img/india/rS5H.webp",
+     "image": "data/img/india/rS5H.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "vs2g",
-     "image": "img/india/vs2g.webp",
+     "image": "data/img/india/vs2g.webp",
      "mapsUrl": "https://maps.app.goo.gl/QNKgV1VpwQCNX9st7",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "ohMv",
-     "image": "img/india/ohMv.webp",
+     "image": "data/img/india/ohMv.webp",
      "mapsUrl": "https://goo.gl/maps/75qKNLyDDm1G8fTx6",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
    "metas": [
     {
      "id": "6dEm",
-     "image": "img/india/6dEm.webp",
+     "image": "data/img/india/6dEm.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "EN0e",
-     "image": "img/india/EN0e.webp",
+     "image": "data/img/india/EN0e.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "hONE",
-     "image": "img/india/hONE.webp",
+     "image": "data/img/india/hONE.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -165,7 +165,7 @@
     },
     {
      "id": "DSvA",
-     "image": "img/india/DSvA.webp",
+     "image": "data/img/india/DSvA.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "ex3H",
-     "image": "img/india/ex3H.webp",
+     "image": "data/img/india/ex3H.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "F2x8",
-     "image": "img/india/F2x8.webp",
+     "image": "data/img/india/F2x8.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "ljSa",
-     "image": "img/india/ljSa.webp",
+     "image": "data/img/india/ljSa.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "0bOF",
-     "image": "img/india/0bOF.webp",
+     "image": "data/img/india/0bOF.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "b5Ry",
-     "image": "img/india/b5Ry.webp",
+     "image": "data/img/india/b5Ry.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "3DgL",
-     "image": "img/india/3DgL.webp",
+     "image": "data/img/india/3DgL.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -230,7 +230,7 @@
     },
     {
      "id": "WJAr",
-     "image": "img/india/WJAr.webp",
+     "image": "data/img/india/WJAr.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "TTvA",
-     "image": "img/india/TTvA.webp",
+     "image": "data/img/india/TTvA.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "J22J",
-     "image": "img/india/J22J.webp",
+     "image": "data/img/india/J22J.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "joq6",
-     "image": "img/india/joq6.webp",
+     "image": "data/img/india/joq6.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "nEx6",
-     "image": "img/india/nEx6.webp",
+     "image": "data/img/india/nEx6.webp",
      "mapsUrl": "https://maps.app.goo.gl/2Gw6HMXW9gMK7tva9",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "71TX",
-     "image": "img/india/71TX.webp",
+     "image": "data/img/india/71TX.webp",
      "mapsUrl": "https://goo.gl/maps/ZJzrw5eN3QUoRXZT9",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "sjLQ",
-     "image": "img/india/sjLQ.webp",
+     "image": "data/img/india/sjLQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/cqbiMWmv2anycYGM7",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "jOuK",
-     "image": "img/india/jOuK.webp",
+     "image": "data/img/india/jOuK.webp",
      "mapsUrl": "https://goo.gl/maps/6waj7DaQLQ6ujQ1U6",
      "width": 0.573,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "58wO",
-     "image": "img/india/58wO.webp",
+     "image": "data/img/india/58wO.webp",
      "mapsUrl": "https://goo.gl/maps/BPyDz9DSgoDQ6qEk7",
      "width": 0.573,
      "text": [
@@ -314,7 +314,7 @@
     },
     {
      "id": "ahUu",
-     "image": "img/india/ahUu.webp",
+     "image": "data/img/india/ahUu.webp",
      "mapsUrl": "https://goo.gl/maps/yKjudHk625Tcbxvq6",
      "width": 0.573,
      "text": [
@@ -323,7 +323,7 @@
     },
     {
      "id": "xtEg",
-     "image": "img/india/xtEg.webp",
+     "image": "data/img/india/xtEg.webp",
      "mapsUrl": "https://maps.app.goo.gl/Sr13NmALFkyGYDpP9",
      "width": 0.573,
      "text": [
@@ -332,7 +332,7 @@
     },
     {
      "id": "lduR",
-     "image": "img/india/lduR.webp",
+     "image": "data/img/india/lduR.webp",
      "mapsUrl": "https://www.google.com/maps/@30.8679955,75.4565896,3a,47.5y,93.71h,104.16t/data=!3m6!1e1!3m4!1sCcVp1F0YnoTU0QXKU2_0Dg!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -341,7 +341,7 @@
     },
     {
      "id": "5g5P",
-     "image": "img/india/5g5P.webp",
+     "image": "data/img/india/5g5P.webp",
      "mapsUrl": "https://maps.app.goo.gl/YVjVbjstcGjycFpC7",
      "width": 0.573,
      "text": [
@@ -350,7 +350,7 @@
     },
     {
      "id": "MbN7",
-     "image": "img/india/MbN7.webp",
+     "image": "data/img/india/MbN7.webp",
      "mapsUrl": "https://maps.app.goo.gl/cEM9ERykoPsgvg1h9",
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "Coga",
-     "image": "img/india/Coga.webp",
+     "image": "data/img/india/Coga.webp",
      "mapsUrl": "https://maps.app.goo.gl/ACh7gHkmGGsPCRQU8",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "zGL3",
-     "image": "img/india/zGL3.webp",
+     "image": "data/img/india/zGL3.webp",
      "mapsUrl": "https://www.google.com/maps/@22.6939185,76.0879571,3a,15y,287.68h,104.26t/data=!3m6!1e1!3m4!1sEL2Qj72d30EJK47L7jgUCw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "FXS4",
-     "image": "img/india/FXS4.webp",
+     "image": "data/img/india/FXS4.webp",
      "mapsUrl": "https://maps.app.goo.gl/z69FHD72NMZcD4L16",
      "width": 0.573,
      "text": [
@@ -387,7 +387,7 @@
     },
     {
      "id": "idcC",
-     "image": "img/india/idcC.webp",
+     "image": "data/img/india/idcC.webp",
      "mapsUrl": "https://www.google.com/maps/@23.3492024,87.9926895,3a,51.3y,114.9h,98.98t,0.04r/data=!3m6!1e1!3m4!1sYAWlazhEmb0Rm8KR8tbxog!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -396,7 +396,7 @@
     },
     {
      "id": "8xSH",
-     "image": "img/india/8xSH.webp",
+     "image": "data/img/india/8xSH.webp",
      "mapsUrl": "https://www.google.com/maps/@26.7169303,88.3723515,3a,15y,3.03h,111.1t/data=!3m6!1e1!3m4!1ssfXrg3MXbElLvg0DiJ4VYw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -405,7 +405,7 @@
     },
     {
      "id": "luxm",
-     "image": "img/india/luxm.webp",
+     "image": "data/img/india/luxm.webp",
      "mapsUrl": "https://www.google.com/maps/@26.3444736,91.7174389,3a,48.2y,317.19h,101.06t/data=!3m6!1e1!3m4!1sqB7aY4yvk4Mdgho3Q4TpzA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -414,7 +414,7 @@
     },
     {
      "id": "zBTL",
-     "image": "img/india/zBTL.webp",
+     "image": "data/img/india/zBTL.webp",
      "mapsUrl": "https://goo.gl/maps/hdVvMog689WKRVrn9",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "JQjD",
-     "image": "img/india/JQjD.webp",
+     "image": "data/img/india/JQjD.webp",
      "mapsUrl": "https://www.google.com/maps/@25.5279405,91.257113,3a,15y,202h,129.43t/data=!3m6!1e1!3m4!1sZiZBgXKG99pdeuSqLFYDOw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -433,7 +433,7 @@
     },
     {
      "id": "m0b1",
-     "image": "img/india/m0b1.webp",
+     "image": "data/img/india/m0b1.webp",
      "mapsUrl": "https://www.google.com/maps/@26.2364099,91.535192,3a,15y,270.37h,115.32t/data=!3m6!1e1!3m4!1s-fyTz9q7uxR6S1WBEV5gJQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -442,7 +442,7 @@
     },
     {
      "id": "TlL9",
-     "image": "img/india/TlL9.webp",
+     "image": "data/img/india/TlL9.webp",
      "mapsUrl": "https://www.google.com/maps/@15.6381828,73.8727868,3a,15y,152.2h,105.94t/data=!3m6!1e1!3m4!1sCHmu8Qy6fvZfVbrzW5oGRw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -451,7 +451,7 @@
     },
     {
      "id": "EI08",
-     "image": "img/india/EI08.webp",
+     "image": "data/img/india/EI08.webp",
      "mapsUrl": "https://maps.app.goo.gl/PzXbp9tizuZsogit5",
      "width": 0.573,
      "text": [
@@ -460,7 +460,7 @@
     },
     {
      "id": "ov4H",
-     "image": "img/india/ov4H.webp",
+     "image": "data/img/india/ov4H.webp",
      "mapsUrl": "https://www.google.com/maps/@28.6785261,77.2294066,3a,15y,211.16h,70.18t/data=!3m6!1e1!3m4!1s4qd1HCXHKhhRfw-wDkxfoA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -469,7 +469,7 @@
     },
     {
      "id": "uZ19",
-     "image": "img/india/uZ19.webp",
+     "image": "data/img/india/uZ19.webp",
      "mapsUrl": "https://goo.gl/maps/iDHog1SWhVrKcBVE9",
      "width": 0.573,
      "text": [
@@ -478,7 +478,7 @@
     },
     {
      "id": "Ha4e",
-     "image": "img/india/Ha4e.webp",
+     "image": "data/img/india/Ha4e.webp",
      "mapsUrl": "https://maps.app.goo.gl/JrMsgretZCbjqkSc9",
      "width": 0.573,
      "text": [
@@ -487,7 +487,7 @@
     },
     {
      "id": "FkZ8",
-     "image": "img/india/FkZ8.webp",
+     "image": "data/img/india/FkZ8.webp",
      "mapsUrl": "https://goo.gl/maps/ESQjNYrS6gc2RHCQ7",
      "width": 0.573,
      "text": [
@@ -497,7 +497,7 @@
     },
     {
      "id": "cIYN",
-     "image": "img/india/cIYN.webp",
+     "image": "data/img/india/cIYN.webp",
      "mapsUrl": "https://goo.gl/maps/j7fsc638mKAdftuU6",
      "width": 0.573,
      "text": [
@@ -506,7 +506,7 @@
     },
     {
      "id": "RBjJ",
-     "image": "img/india/RBjJ.webp",
+     "image": "data/img/india/RBjJ.webp",
      "mapsUrl": "https://goo.gl/maps/2MUsjRW7wXiJFYCE8",
      "width": 0.573,
      "text": [
@@ -516,7 +516,7 @@
     },
     {
      "id": "sV6b",
-     "image": "img/india/sV6b.webp",
+     "image": "data/img/india/sV6b.webp",
      "mapsUrl": "https://maps.app.goo.gl/Lqyc1ih2LUL7cQA9A",
      "width": 0.573,
      "text": [
@@ -525,7 +525,7 @@
     },
     {
      "id": "3sOG",
-     "image": "img/india/3sOG.webp",
+     "image": "data/img/india/3sOG.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZJrm8H5Lwj2eLCW39",
      "width": 0.573,
      "text": [
@@ -534,7 +534,7 @@
     },
     {
      "id": "tANX",
-     "image": "img/india/tANX.webp",
+     "image": "data/img/india/tANX.webp",
      "mapsUrl": "https://goo.gl/maps/MdAmzPB3CNw8xFyj9",
      "width": 0.573,
      "text": [
@@ -543,7 +543,7 @@
     },
     {
      "id": "uMaZ",
-     "image": "img/india/uMaZ.webp",
+     "image": "data/img/india/uMaZ.webp",
      "mapsUrl": "https://goo.gl/maps/2EKtrZGKsTvtVTcT6",
      "width": 0.573,
      "text": [
@@ -552,7 +552,7 @@
     },
     {
      "id": "OA5s",
-     "image": "img/india/OA5s.webp",
+     "image": "data/img/india/OA5s.webp",
      "mapsUrl": "https://goo.gl/maps/kzVojHKUKbsSn9hN7",
      "width": 0.573,
      "text": [
@@ -561,7 +561,7 @@
     },
     {
      "id": "0Uhr",
-     "image": "img/india/0Uhr.webp",
+     "image": "data/img/india/0Uhr.webp",
      "mapsUrl": "https://goo.gl/maps/yDbDxYYDjk6CfFPm7",
      "width": 0.573,
      "text": [
@@ -570,7 +570,7 @@
     },
     {
      "id": "m582",
-     "image": "img/india/m582.webp",
+     "image": "data/img/india/m582.webp",
      "mapsUrl": "https://maps.app.goo.gl/QeRBuUG2T8dULUNt6",
      "width": 0.573,
      "text": [
@@ -579,7 +579,7 @@
     },
     {
      "id": "TUVo",
-     "image": "img/india/TUVo.webp",
+     "image": "data/img/india/TUVo.webp",
      "mapsUrl": "https://goo.gl/maps/GRc5GtfY1ZaqR1Kw8",
      "width": 0.573,
      "text": [
@@ -588,7 +588,7 @@
     },
     {
      "id": "lQsr",
-     "image": "img/india/lQsr.webp",
+     "image": "data/img/india/lQsr.webp",
      "mapsUrl": "https://goo.gl/maps/nBGCK7qn9pcqhpHR8",
      "width": 0.573,
      "text": [
@@ -597,7 +597,7 @@
     },
     {
      "id": "2HRA",
-     "image": "img/india/2HRA.webp",
+     "image": "data/img/india/2HRA.webp",
      "mapsUrl": "https://goo.gl/maps/RfCHZQQfAk8vVfb39",
      "width": 0.573,
      "text": [
@@ -606,7 +606,7 @@
     },
     {
      "id": "lI6D",
-     "image": "img/india/lI6D.webp",
+     "image": "data/img/india/lI6D.webp",
      "mapsUrl": "https://goo.gl/maps/cdxVREcJnVZtcDeP9",
      "width": 0.573,
      "text": [
@@ -615,7 +615,7 @@
     },
     {
      "id": "OsUg",
-     "image": "img/india/OsUg.webp",
+     "image": "data/img/india/OsUg.webp",
      "mapsUrl": "https://goo.gl/maps/kAjsctSxQJdDkDNb8",
      "width": 0.573,
      "text": [
@@ -624,7 +624,7 @@
     },
     {
      "id": "9N7d",
-     "image": "img/india/9N7d.webp",
+     "image": "data/img/india/9N7d.webp",
      "mapsUrl": "https://goo.gl/maps/MZgFMVzm3TKdERjWA",
      "width": 0.573,
      "text": [
@@ -633,7 +633,7 @@
     },
     {
      "id": "RdbC",
-     "image": "img/india/RdbC.webp",
+     "image": "data/img/india/RdbC.webp",
      "mapsUrl": "https://goo.gl/maps/YAsWpWS7gLvnwRKy9",
      "width": 0.573,
      "text": [
@@ -642,7 +642,7 @@
     },
     {
      "id": "ju41",
-     "image": "img/india/ju41.webp",
+     "image": "data/img/india/ju41.webp",
      "mapsUrl": "https://www.google.com/maps/@26.9980908,88.69648,3a,44.7y,94.06h,83.49t/data=!3m6!1e1!3m4!1sCPxlS_zQ8V5b70DUUAoMuw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -652,7 +652,7 @@
     },
     {
      "id": "5UcB",
-     "image": "img/india/5UcB.webp",
+     "image": "data/img/india/5UcB.webp",
      "mapsUrl": "https://www.google.com/maps/@31.5897055,75.615012,3a,57.4y,94.59h,72.2t/data=!3m6!1e1!3m4!1sSVdJvGRPXdrQPWn4SqxlOQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -661,7 +661,7 @@
     },
     {
      "id": "offm",
-     "image": "img/india/offm.webp",
+     "image": "data/img/india/offm.webp",
      "mapsUrl": "https://goo.gl/maps/k3FPpxUZRW9DqaPS6",
      "width": 0.573,
      "text": [
@@ -670,7 +670,7 @@
     },
     {
      "id": "YMCx",
-     "image": "img/india/YMCx.webp",
+     "image": "data/img/india/YMCx.webp",
      "mapsUrl": "https://goo.gl/maps/isrohyrGenKjXT3X6",
      "width": 0.573,
      "text": [
@@ -679,7 +679,7 @@
     },
     {
      "id": "AOWS",
-     "image": "img/india/AOWS.webp",
+     "image": "data/img/india/AOWS.webp",
      "mapsUrl": "https://www.google.com/maps/@30.1717194,80.2497689,3a,90y,71.23h,92.27t/data=!3m6!1e1!3m4!1s7FzcnRjbaxU7Xw6rAUDO4Q!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -688,7 +688,7 @@
     },
     {
      "id": "XHTM",
-     "image": "img/india/XHTM.webp",
+     "image": "data/img/india/XHTM.webp",
      "mapsUrl": "https://maps.app.goo.gl/of2MJUeCPW2yK9QD7",
      "width": 0.573,
      "text": [
@@ -697,7 +697,7 @@
     },
     {
      "id": "txPI",
-     "image": "img/india/txPI.webp",
+     "image": "data/img/india/txPI.webp",
      "mapsUrl": "https://goo.gl/maps/SVcQHs2osKEQUFJG9",
      "width": 0.573,
      "text": [
@@ -706,7 +706,7 @@
     },
     {
      "id": "rfjr",
-     "image": "img/india/rfjr.webp",
+     "image": "data/img/india/rfjr.webp",
      "mapsUrl": "https://goo.gl/maps/1FXUpX7rQPNxdB2g6",
      "width": 0.573,
      "text": [
@@ -715,7 +715,7 @@
     },
     {
      "id": "xTJB",
-     "image": "img/india/xTJB.webp",
+     "image": "data/img/india/xTJB.webp",
      "mapsUrl": "https://goo.gl/maps/ccF6gS6urzD92tju5",
      "width": 0.573,
      "text": [
@@ -724,7 +724,7 @@
     },
     {
      "id": "creX",
-     "image": "img/india/creX.webp",
+     "image": "data/img/india/creX.webp",
      "mapsUrl": "https://www.google.com/maps/@26.7904109,70.5274009,3a,90y,67.21h,82.98t/data=!3m6!1e1!3m4!1sVv7nGvVoieBBviRK2TgRCQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -733,7 +733,7 @@
     },
     {
      "id": "LNOp",
-     "image": "img/india/LNOp.webp",
+     "image": "data/img/india/LNOp.webp",
      "mapsUrl": "https://goo.gl/maps/JXviYMKMQKpNFXTJ9",
      "width": 0.573,
      "text": [
@@ -743,7 +743,7 @@
     },
     {
      "id": "N2o3",
-     "image": "img/india/N2o3.webp",
+     "image": "data/img/india/N2o3.webp",
      "mapsUrl": "https://goo.gl/maps/1Po4qMmFtb3emfDT9",
      "width": 0.573,
      "text": [
@@ -753,7 +753,7 @@
     },
     {
      "id": "AFUm",
-     "image": "img/india/AFUm.webp",
+     "image": "data/img/india/AFUm.webp",
      "mapsUrl": "https://goo.gl/maps/YNT65hK64UXCQXbK8",
      "width": 0.573,
      "text": [
@@ -763,7 +763,7 @@
     },
     {
      "id": "kBP5",
-     "image": "img/india/kBP5.webp",
+     "image": "data/img/india/kBP5.webp",
      "mapsUrl": "https://goo.gl/maps/SxkpXTjcqGga2v6g6",
      "width": 0.573,
      "text": [
@@ -772,7 +772,7 @@
     },
     {
      "id": "dvg8",
-     "image": "img/india/dvg8.webp",
+     "image": "data/img/india/dvg8.webp",
      "mapsUrl": "https://goo.gl/maps/7RJ5AGRwpQKSSswJ9",
      "width": 0.573,
      "text": [
@@ -790,7 +790,7 @@
    "metas": [
     {
      "id": "qGEO",
-     "image": "img/india/qGEO.webp",
+     "image": "data/img/india/qGEO.webp",
      "mapsUrl": "https://maps.app.goo.gl/WD279TxuJEnzi3Yu7",
      "width": 0.573,
      "text": [
@@ -799,7 +799,7 @@
     },
     {
      "id": "RjU1",
-     "image": "img/india/RjU1.webp",
+     "image": "data/img/india/RjU1.webp",
      "mapsUrl": "https://goo.gl/maps/HHMRtZe7manzMd6B9",
      "width": 0.573,
      "text": [
@@ -809,7 +809,7 @@
     },
     {
      "id": "0XWk",
-     "image": "img/india/0XWk.webp",
+     "image": "data/img/india/0XWk.webp",
      "mapsUrl": "https://www.google.com/maps/@28.6668316,77.2296716,3a,43.7y,280.14h,84.52t/data=!3m6!1e1!3m4!1s_EVaCAuBQqdKEi08MONaDQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -818,7 +818,7 @@
     },
     {
      "id": "Cjpf",
-     "image": "img/india/Cjpf.webp",
+     "image": "data/img/india/Cjpf.webp",
      "mapsUrl": "https://www.google.com/maps/@23.0672848,72.5716625,3a,64y,151.84h,76.36t/data=!3m6!1e1!3m4!1sK8s2pGavQ1rOP9krPaub1Q!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -827,7 +827,7 @@
     },
     {
      "id": "sf3g",
-     "image": "img/india/sf3g.webp",
+     "image": "data/img/india/sf3g.webp",
      "mapsUrl": "https://www.google.com/maps/@25.5363539,91.8886807,3a,17.6y,261.3h,78.82t/data=!3m6!1e1!3m4!1sKcbqCBMvtej9z_ScuysthA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -836,7 +836,7 @@
     },
     {
      "id": "Ib52",
-     "image": "img/india/Ib52.webp",
+     "image": "data/img/india/Ib52.webp",
      "mapsUrl": "https://goo.gl/maps/uLsdZNyZrmu5Jgb18",
      "width": 0.573,
      "text": [
@@ -845,7 +845,7 @@
     },
     {
      "id": "t17C",
-     "image": "img/india/t17C.webp",
+     "image": "data/img/india/t17C.webp",
      "mapsUrl": "https://goo.gl/maps/7qCEaD7xpXmNDZHA6",
      "width": 0.573,
      "text": [
@@ -862,7 +862,7 @@
     },
     {
      "id": "lVvh",
-     "image": "img/india/lVvh.webp",
+     "image": "data/img/india/lVvh.webp",
      "mapsUrl": "https://goo.gl/maps/HwdcbZM6GT85wVct6",
      "width": 0.573,
      "text": [
@@ -871,7 +871,7 @@
     },
     {
      "id": "Q9xQ",
-     "image": "img/india/Q9xQ.webp",
+     "image": "data/img/india/Q9xQ.webp",
      "mapsUrl": "https://goo.gl/maps/8xpU1WbsavcZExZf6",
      "width": 0.573,
      "text": [
@@ -880,7 +880,7 @@
     },
     {
      "id": "f8wS",
-     "image": "img/india/f8wS.webp",
+     "image": "data/img/india/f8wS.webp",
      "mapsUrl": "https://maps.app.goo.gl/DaeYCBzxppCXNq1u7",
      "width": 0.573,
      "text": [
@@ -889,7 +889,7 @@
     },
     {
      "id": "jEYq",
-     "image": "img/india/jEYq.webp",
+     "image": "data/img/india/jEYq.webp",
      "mapsUrl": "https://goo.gl/maps/NVdXAhrowoGqTKnS9",
      "width": 0.573,
      "text": [
@@ -898,7 +898,7 @@
     },
     {
      "id": "z2vE",
-     "image": "img/india/z2vE.webp",
+     "image": "data/img/india/z2vE.webp",
      "mapsUrl": "https://goo.gl/maps/8aS3x6RRZ5eT5z5t5",
      "width": 0.573,
      "text": [
@@ -907,7 +907,7 @@
     },
     {
      "id": "pFp5",
-     "image": "img/india/pFp5.webp",
+     "image": "data/img/india/pFp5.webp",
      "mapsUrl": "https://goo.gl/maps/yoEYSTNN614ALVvr7",
      "width": 0.573,
      "text": [
@@ -916,7 +916,7 @@
     },
     {
      "id": "mlRC",
-     "image": "img/india/mlRC.webp",
+     "image": "data/img/india/mlRC.webp",
      "mapsUrl": "https://goo.gl/maps/oTBMCPsHnny1VhPc6",
      "width": 0.573,
      "text": [
@@ -925,7 +925,7 @@
     },
     {
      "id": "ZCB2",
-     "image": "img/india/ZCB2.webp",
+     "image": "data/img/india/ZCB2.webp",
      "mapsUrl": "https://maps.app.goo.gl/5YJfpMuJMVNooMzR9",
      "width": 0.573,
      "text": [
@@ -934,7 +934,7 @@
     },
     {
      "id": "lRZg",
-     "image": "img/india/lRZg.webp",
+     "image": "data/img/india/lRZg.webp",
      "mapsUrl": "https://goo.gl/maps/wU8UV5xgNH7gn73u9",
      "width": 0.573,
      "text": [
@@ -943,7 +943,7 @@
     },
     {
      "id": "EpYR",
-     "image": "img/india/EpYR.webp",
+     "image": "data/img/india/EpYR.webp",
      "mapsUrl": "https://www.google.com/maps/@28.5721701,94.1572446,3a,40.1y,357.75h,91.55t/data=!3m6!1e1!3m4!1sm0X-KrQ1lU-N2Xx9Ze-17g!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -952,7 +952,7 @@
     },
     {
      "id": "9Tsu",
-     "image": "img/india/9Tsu.webp",
+     "image": "data/img/india/9Tsu.webp",
      "mapsUrl": "https://goo.gl/maps/MwJZSkkE7R6g6csw5",
      "width": 0.573,
      "text": [
@@ -961,7 +961,7 @@
     },
     {
      "id": "sTsG",
-     "image": "img/india/sTsG.webp",
+     "image": "data/img/india/sTsG.webp",
      "mapsUrl": "https://goo.gl/maps/jB3AUCHg4aPo8k6a6",
      "width": 0.573,
      "text": [
@@ -971,7 +971,7 @@
     },
     {
      "id": "vWlV",
-     "image": "img/india/vWlV.webp",
+     "image": "data/img/india/vWlV.webp",
      "mapsUrl": "https://goo.gl/maps/QiakhjnjJ6rTKyGh7",
      "width": 0.573,
      "text": [
@@ -981,7 +981,7 @@
     },
     {
      "id": "ZN7M",
-     "image": "img/india/ZN7M.webp",
+     "image": "data/img/india/ZN7M.webp",
      "mapsUrl": "https://goo.gl/maps/PdyKQNnW2KoWDj1P6",
      "width": 0.573,
      "text": [
@@ -990,7 +990,7 @@
     },
     {
      "id": "OQp6",
-     "image": "img/india/OQp6.webp",
+     "image": "data/img/india/OQp6.webp",
      "mapsUrl": "https://www.google.com/maps/@8.2796065,77.8620669,3a,63.6y,271.69h,83.01t/data=!3m6!1e1!3m4!1sGy17OWIsreJ3d1aoSYOJ7g!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -999,7 +999,7 @@
     },
     {
      "id": "2aSl",
-     "image": "img/india/2aSl.webp",
+     "image": "data/img/india/2aSl.webp",
      "mapsUrl": "https://maps.app.goo.gl/UBs11BpLPzHxgQ17A",
      "width": 0.573,
      "text": [
@@ -1008,7 +1008,7 @@
     },
     {
      "id": "q0Vn",
-     "image": "img/india/q0Vn.webp",
+     "image": "data/img/india/q0Vn.webp",
      "mapsUrl": "https://goo.gl/maps/cYoXFdt73GdSwQU39",
      "width": 0.573,
      "text": [
@@ -1017,7 +1017,7 @@
     },
     {
      "id": "XLIO",
-     "image": "img/india/XLIO.webp",
+     "image": "data/img/india/XLIO.webp",
      "mapsUrl": "https://goo.gl/maps/wWvfkoZXbeMUEeTLA",
      "width": 0.573,
      "text": [

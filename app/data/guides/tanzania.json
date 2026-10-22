@@ -3,7 +3,7 @@
  "title": "Tanzania",
  "code": "TZ",
  "continent": "Africa",
- "hero": "img/tanzania/hero.webp",
+ "hero": "data/img/tanzania/hero.webp",
  "metaCount": 8,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "VyY8",
-     "image": "img/tanzania/VyY8.webp",
+     "image": "data/img/tanzania/VyY8.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -53,7 +53,7 @@
    "metas": [
     {
      "id": "JhL0",
-     "image": "img/tanzania/JhL0.webp",
+     "image": "data/img/tanzania/JhL0.webp",
      "mapsUrl": "https://goo.gl/maps/C7Bta9Y2a5XE6Xsb9",
      "width": 0.573,
      "text": [
@@ -64,7 +64,7 @@
     },
     {
      "id": "5uTb",
-     "image": "img/tanzania/5uTb.webp",
+     "image": "data/img/tanzania/5uTb.webp",
      "mapsUrl": "https://maps.app.goo.gl/6nEMUutTxgnpHitx7",
      "width": 0.573,
      "text": [
@@ -73,7 +73,7 @@
     },
     {
      "id": "zdnx",
-     "image": "img/tanzania/zdnx.webp",
+     "image": "data/img/tanzania/zdnx.webp",
      "mapsUrl": "https://www.google.com/maps/@-4.6717493,29.631431,2a,90y,113.95h,87.99t,5.87r/data=!3m6!1e1!3m4!1srsC7a-j_n5oCYhQCXQvqlw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "B3Lv",
-     "image": "img/tanzania/B3Lv.webp",
+     "image": "data/img/tanzania/B3Lv.webp",
      "mapsUrl": "https://www.google.com/maps/@-4.7501457,29.6234708,2a,90y,124.03h,95.17t,1.3r/data=!3m6!1e1!3m4!1s129ji_QR5ZVfE_2YH2xAzA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "byuh",
-     "image": "img/tanzania/byuh.webp",
+     "image": "data/img/tanzania/byuh.webp",
      "mapsUrl": "https://goo.gl/maps/Lq8FcDDWQYzE8UYx9",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "zbUq",
-     "image": "img/tanzania/zbUq.webp",
+     "image": "data/img/tanzania/zbUq.webp",
      "mapsUrl": "https://goo.gl/maps/Bd2o9o7pn5bMwHDv7",
      "width": 0.573,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "eCS1",
-     "image": "img/tanzania/eCS1.webp",
+     "image": "data/img/tanzania/eCS1.webp",
      "mapsUrl": "https://goo.gl/maps/TfizzQ9dwZg5jgN27",
      "width": 0.573,
      "text": [

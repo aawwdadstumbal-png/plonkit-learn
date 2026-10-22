@@ -3,7 +3,7 @@
  "title": "Madagascar",
  "code": "MG",
  "continent": "Africa",
- "hero": "img/madagascar/hero.webp",
+ "hero": "data/img/madagascar/hero.webp",
  "metaCount": 52,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "lIiH",
-     "image": "img/madagascar/lIiH.webp",
+     "image": "data/img/madagascar/lIiH.webp",
      "mapsUrl": "https://maps.app.goo.gl/frRWbiv7GeXtx95T7",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "WE2E",
-     "image": "img/madagascar/WE2E.webp",
+     "image": "data/img/madagascar/WE2E.webp",
      "mapsUrl": "https://maps.app.goo.gl/wbKeUEGWDr4WGSK27",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "uY1o",
-     "image": "img/madagascar/uY1o.webp",
+     "image": "data/img/madagascar/uY1o.webp",
      "mapsUrl": "https://maps.app.goo.gl/oth6AfGeaPvaQakw6",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "V2nD",
-     "image": "img/madagascar/V2nD.webp",
+     "image": "data/img/madagascar/V2nD.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "peJo",
-     "image": "img/madagascar/peJo.webp",
+     "image": "data/img/madagascar/peJo.webp",
      "mapsUrl": "https://goo.gl/maps/oREEK9BsshuXYJMA6",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
    "metas": [
     {
      "id": "jaEx",
-     "image": "img/madagascar/jaEx.webp",
+     "image": "data/img/madagascar/jaEx.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "3Ucb",
-     "image": "img/madagascar/3Ucb.webp",
+     "image": "data/img/madagascar/3Ucb.webp",
      "mapsUrl": "https://goo.gl/maps/E9sPyJ5hmuFaC91e6",
      "width": 0.573,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "VJ9Z",
-     "image": "img/madagascar/VJ9Z.webp",
+     "image": "data/img/madagascar/VJ9Z.webp",
      "mapsUrl": "https://goo.gl/maps/LLaopm5Cm2AFYsrK8",
      "width": 0.573,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "jwVN",
-     "image": "img/madagascar/jwVN.webp",
+     "image": "data/img/madagascar/jwVN.webp",
      "mapsUrl": "https://goo.gl/maps/QksDwurC9U4NjXUH9",
      "width": 0.573,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "8VEn",
-     "image": "img/madagascar/8VEn.webp",
+     "image": "data/img/madagascar/8VEn.webp",
      "mapsUrl": "https://goo.gl/maps/qEQJhsjUmyV9XM757",
      "width": 0.573,
      "text": [
@@ -122,7 +122,7 @@
     },
     {
      "id": "8jw5",
-     "image": "img/madagascar/8jw5.webp",
+     "image": "data/img/madagascar/8jw5.webp",
      "mapsUrl": "https://goo.gl/maps/aqTtcGGc2REAannR9",
      "width": 0.573,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "Zrpg",
-     "image": "img/madagascar/Zrpg.webp",
+     "image": "data/img/madagascar/Zrpg.webp",
      "mapsUrl": "https://goo.gl/maps/xjdwBoDp1CipKKar5",
      "width": 0.573,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "hzyJ",
-     "image": "img/madagascar/hzyJ.webp",
+     "image": "data/img/madagascar/hzyJ.webp",
      "mapsUrl": "https://goo.gl/maps/7ECT8qsFUujiweFL6",
      "width": 0.573,
      "text": [
@@ -149,7 +149,7 @@
     },
     {
      "id": "Ma9o",
-     "image": "img/madagascar/Ma9o.webp",
+     "image": "data/img/madagascar/Ma9o.webp",
      "mapsUrl": "https://goo.gl/maps/B9KNyDUk7Ty78u777",
      "width": 0.573,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "6Icy",
-     "image": "img/madagascar/6Icy.webp",
+     "image": "data/img/madagascar/6Icy.webp",
      "mapsUrl": "https://goo.gl/maps/8pEr2QoxVqHv5Cyp9",
      "width": 0.573,
      "text": [
@@ -168,7 +168,7 @@
     },
     {
      "id": "U5fc",
-     "image": "img/madagascar/U5fc.webp",
+     "image": "data/img/madagascar/U5fc.webp",
      "mapsUrl": "https://goo.gl/maps/zMjGpQNnpkn9Bt937",
      "width": 0.573,
      "text": [
@@ -177,7 +177,7 @@
     },
     {
      "id": "8CI7",
-     "image": "img/madagascar/8CI7.webp",
+     "image": "data/img/madagascar/8CI7.webp",
      "mapsUrl": "https://goo.gl/maps/p2U3GirJTU1HKqxu5",
      "width": 0.573,
      "text": [
@@ -186,7 +186,7 @@
     },
     {
      "id": "AmoS",
-     "image": "img/madagascar/AmoS.webp",
+     "image": "data/img/madagascar/AmoS.webp",
      "mapsUrl": "https://goo.gl/maps/e3UeZJKNqGMMvfPn9",
      "width": 0.573,
      "text": [
@@ -195,7 +195,7 @@
     },
     {
      "id": "Kgz7",
-     "image": "img/madagascar/Kgz7.webp",
+     "image": "data/img/madagascar/Kgz7.webp",
      "mapsUrl": "https://goo.gl/maps/K1v6g3eBSXfCftDs5",
      "width": 0.573,
      "text": [
@@ -204,7 +204,7 @@
     },
     {
      "id": "KdDD",
-     "image": "img/madagascar/KdDD.webp",
+     "image": "data/img/madagascar/KdDD.webp",
      "mapsUrl": "https://goo.gl/maps/e9W7SziAobnRgC4Z9",
      "width": 0.573,
      "text": [
@@ -213,7 +213,7 @@
     },
     {
      "id": "FAEV",
-     "image": "img/madagascar/FAEV.webp",
+     "image": "data/img/madagascar/FAEV.webp",
      "mapsUrl": "https://goo.gl/maps/THerVSLhcT4G9DSz7",
      "width": 0.573,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "D7s5",
-     "image": "img/madagascar/D7s5.webp",
+     "image": "data/img/madagascar/D7s5.webp",
      "mapsUrl": "https://goo.gl/maps/qxk32S57zpF2XTVJ7",
      "width": 0.573,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "JKHg",
-     "image": "img/madagascar/JKHg.webp",
+     "image": "data/img/madagascar/JKHg.webp",
      "mapsUrl": "https://goo.gl/maps/RNJzzqahmtkMcgr97",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "QWtV",
-     "image": "img/madagascar/QWtV.webp",
+     "image": "data/img/madagascar/QWtV.webp",
      "mapsUrl": "https://goo.gl/maps/FHYxcfNS9SjFBWrTA",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "x1Ap",
-     "image": "img/madagascar/x1Ap.webp",
+     "image": "data/img/madagascar/x1Ap.webp",
      "mapsUrl": "https://goo.gl/maps/jca6snnJZDGqVP3S6",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "4v0Z",
-     "image": "img/madagascar/4v0Z.webp",
+     "image": "data/img/madagascar/4v0Z.webp",
      "mapsUrl": "https://goo.gl/maps/iTkGBR487YNV7xKG6",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "xeXN",
-     "image": "img/madagascar/xeXN.webp",
+     "image": "data/img/madagascar/xeXN.webp",
      "mapsUrl": "https://goo.gl/maps/Ncshhyq8bc8jkS4B7",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "61Nb",
-     "image": "img/madagascar/61Nb.webp",
+     "image": "data/img/madagascar/61Nb.webp",
      "mapsUrl": "https://goo.gl/maps/r9nrbKdZ1T9n7fDT6",
      "width": 0.573,
      "text": [
@@ -285,7 +285,7 @@
     },
     {
      "id": "MGm7",
-     "image": "img/madagascar/MGm7.webp",
+     "image": "data/img/madagascar/MGm7.webp",
      "mapsUrl": "https://goo.gl/maps/95V9sPQUaTforCch7",
      "width": 0.573,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "NzF4",
-     "image": "img/madagascar/NzF4.webp",
+     "image": "data/img/madagascar/NzF4.webp",
      "mapsUrl": "https://goo.gl/maps/deLjHt5KZnGx3TBdA",
      "width": 0.573,
      "text": [
@@ -303,7 +303,7 @@
     },
     {
      "id": "8VYx",
-     "image": "img/madagascar/8VYx.webp",
+     "image": "data/img/madagascar/8VYx.webp",
      "mapsUrl": "https://goo.gl/maps/XtkfEffuj5nRpzEW9",
      "width": 0.573,
      "text": [
@@ -312,7 +312,7 @@
     },
     {
      "id": "IywX",
-     "image": "img/madagascar/IywX.webp",
+     "image": "data/img/madagascar/IywX.webp",
      "mapsUrl": "https://goo.gl/maps/6PgQu68fpaeLSZDf8",
      "width": 0.573,
      "text": [
@@ -321,7 +321,7 @@
     },
     {
      "id": "YZcR",
-     "image": "img/madagascar/YZcR.webp",
+     "image": "data/img/madagascar/YZcR.webp",
      "mapsUrl": "https://goo.gl/maps/9YjEZDy9C2ifNMSs7",
      "width": 0.573,
      "text": [
@@ -330,7 +330,7 @@
     },
     {
      "id": "Vjwp",
-     "image": "img/madagascar/Vjwp.webp",
+     "image": "data/img/madagascar/Vjwp.webp",
      "mapsUrl": "https://goo.gl/maps/WUs69U3cWT9uMevy7",
      "width": 0.573,
      "text": [
@@ -339,7 +339,7 @@
     },
     {
      "id": "Gu8N",
-     "image": "img/madagascar/Gu8N.webp",
+     "image": "data/img/madagascar/Gu8N.webp",
      "mapsUrl": "https://goo.gl/maps/VifCsrrm76Xq4WpdA",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "trNX",
-     "image": "img/madagascar/trNX.webp",
+     "image": "data/img/madagascar/trNX.webp",
      "mapsUrl": "https://goo.gl/maps/j7t2LR5ddEbMV7f19",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "X1Fm",
-     "image": "img/madagascar/X1Fm.webp",
+     "image": "data/img/madagascar/X1Fm.webp",
      "mapsUrl": "https://goo.gl/maps/qQeNKpxietji1FW97",
      "width": 0.573,
      "text": [
@@ -366,7 +366,7 @@
     },
     {
      "id": "M3tI",
-     "image": "img/madagascar/M3tI.webp",
+     "image": "data/img/madagascar/M3tI.webp",
      "mapsUrl": "https://goo.gl/maps/UitR6Mq17nB4GaXp8",
      "width": 0.573,
      "text": [
@@ -375,7 +375,7 @@
     },
     {
      "id": "bzxa",
-     "image": "img/madagascar/bzxa.webp",
+     "image": "data/img/madagascar/bzxa.webp",
      "mapsUrl": "https://goo.gl/maps/P19fcNBiLyt4psMK8",
      "width": 0.573,
      "text": [
@@ -384,7 +384,7 @@
     },
     {
      "id": "TxsK",
-     "image": "img/madagascar/TxsK.webp",
+     "image": "data/img/madagascar/TxsK.webp",
      "mapsUrl": "https://goo.gl/maps/xzHMWY2ZNMcZvMqw7",
      "width": 0.573,
      "text": [
@@ -393,7 +393,7 @@
     },
     {
      "id": "Sm22",
-     "image": "img/madagascar/Sm22.webp",
+     "image": "data/img/madagascar/Sm22.webp",
      "mapsUrl": "https://goo.gl/maps/fSuchhnkiZPVzqZi9",
      "width": 0.573,
      "text": [
@@ -402,7 +402,7 @@
     },
     {
      "id": "puA3",
-     "image": "img/madagascar/puA3.webp",
+     "image": "data/img/madagascar/puA3.webp",
      "mapsUrl": "https://goo.gl/maps/qgmaet88X3n7vDPb9",
      "width": 0.573,
      "text": [
@@ -411,7 +411,7 @@
     },
     {
      "id": "0dG7",
-     "image": "img/madagascar/0dG7.webp",
+     "image": "data/img/madagascar/0dG7.webp",
      "mapsUrl": "https://goo.gl/maps/asy8KS3hur3SadB86",
      "width": 0.573,
      "text": [
@@ -420,7 +420,7 @@
     },
     {
      "id": "2sOi",
-     "image": "img/madagascar/2sOi.webp",
+     "image": "data/img/madagascar/2sOi.webp",
      "mapsUrl": "https://goo.gl/maps/6iV3M2rWg9tJyQdH7",
      "width": 0.573,
      "text": [
@@ -438,7 +438,7 @@
    "metas": [
     {
      "id": "wCgg",
-     "image": "img/madagascar/wCgg.webp",
+     "image": "data/img/madagascar/wCgg.webp",
      "mapsUrl": "https://goo.gl/maps/UF32nTMUhZTBCHHo9",
      "width": 0.573,
      "text": [
@@ -447,7 +447,7 @@
     },
     {
      "id": "6fjx",
-     "image": "img/madagascar/6fjx.webp",
+     "image": "data/img/madagascar/6fjx.webp",
      "mapsUrl": "https://goo.gl/maps/3rVXyhyvnv8d8YyM6",
      "width": 0.573,
      "text": [
@@ -456,7 +456,7 @@
     },
     {
      "id": "iNsg",
-     "image": "img/madagascar/iNsg.webp",
+     "image": "data/img/madagascar/iNsg.webp",
      "mapsUrl": "https://goo.gl/maps/wUSTz9V5NThaDBt99",
      "width": 0.573,
      "text": [
@@ -465,7 +465,7 @@
     },
     {
      "id": "k6M6",
-     "image": "img/madagascar/k6M6.webp",
+     "image": "data/img/madagascar/k6M6.webp",
      "mapsUrl": "https://goo.gl/maps/Wn34AQtQJsw2skCu5",
      "width": 0.573,
      "text": [
@@ -474,7 +474,7 @@
     },
     {
      "id": "ih6i",
-     "image": "img/madagascar/ih6i.webp",
+     "image": "data/img/madagascar/ih6i.webp",
      "mapsUrl": "https://goo.gl/maps/wgYsFa1PmSdqhU5d8",
      "width": 0.573,
      "text": [
@@ -483,7 +483,7 @@
     },
     {
      "id": "7g5M",
-     "image": "img/madagascar/7g5M.webp",
+     "image": "data/img/madagascar/7g5M.webp",
      "mapsUrl": "https://goo.gl/maps/uMiH6m7QsjMHcsWn9",
      "width": 0.573,
      "text": [
@@ -492,7 +492,7 @@
     },
     {
      "id": "dsgX",
-     "image": "img/madagascar/dsgX.webp",
+     "image": "data/img/madagascar/dsgX.webp",
      "mapsUrl": "https://goo.gl/maps/D93FjdpSdSSeWNkQ8",
      "width": 0.573,
      "text": [
@@ -501,7 +501,7 @@
     },
     {
      "id": "FYx3",
-     "image": "img/madagascar/FYx3.webp",
+     "image": "data/img/madagascar/FYx3.webp",
      "mapsUrl": "https://goo.gl/maps/38xSseYnJShRbpSH6",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Madeira",
  "code": "PT-MA",
  "continent": "Europe",
- "hero": "img/madeira/hero.webp",
+ "hero": "data/img/madeira/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "qA1O",
-     "image": "img/madeira/qA1O.webp",
+     "image": "data/img/madeira/qA1O.webp",
      "mapsUrl": "https://maps.app.goo.gl/QSNfkgN7LANPhUCN9",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "KlHM",
-     "image": "img/madeira/KlHM.webp",
+     "image": "data/img/madeira/KlHM.webp",
      "mapsUrl": "https://maps.app.goo.gl/41JPij9UnTJsCuAM6",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "Fnoy",
-     "image": "img/madeira/Fnoy.webp",
+     "image": "data/img/madeira/Fnoy.webp",
      "mapsUrl": "https://maps.app.goo.gl/FwkVnBF3ix2NXvCV7",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "FT2D",
-     "image": "img/madeira/FT2D.webp",
+     "image": "data/img/madeira/FT2D.webp",
      "mapsUrl": "https://goo.gl/maps/MNkdm3oBapEHumEL7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "J3BX",
-     "image": "img/madeira/J3BX.webp",
+     "image": "data/img/madeira/J3BX.webp",
      "mapsUrl": "https://maps.app.goo.gl/AwdUTB8HNkyLbYPy7",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "06MA",
-     "image": "img/madeira/06MA.webp",
+     "image": "data/img/madeira/06MA.webp",
      "mapsUrl": "https://goo.gl/maps/QaJAevbyTGxGxzb89",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "TwjW",
-     "image": "img/madeira/TwjW.webp",
+     "image": "data/img/madeira/TwjW.webp",
      "mapsUrl": "https://goo.gl/maps/3QqqAv19X51gCrZv7",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "CWY3",
-     "image": "img/madeira/CWY3.webp",
+     "image": "data/img/madeira/CWY3.webp",
      "mapsUrl": "https://goo.gl/maps/KEEefHMfub39Ph1J8",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "uInB",
-     "image": "img/madeira/uInB.webp",
+     "image": "data/img/madeira/uInB.webp",
      "mapsUrl": "https://maps.app.goo.gl/dJLHQmXgxYLqWTKU9",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "yIaR",
-     "image": "img/madeira/yIaR.webp",
+     "image": "data/img/madeira/yIaR.webp",
      "mapsUrl": "https://goo.gl/maps/yiJz18fiFxZ2Ccjw6",
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "vS4A",
-     "image": "img/madeira/vS4A.webp",
+     "image": "data/img/madeira/vS4A.webp",
      "mapsUrl": "https://goo.gl/maps/rAVHCMf7Yquv24Z56",
      "width": 0.5,
      "text": [
@@ -122,7 +122,7 @@
     },
     {
      "id": "CXPS",
-     "image": "img/madeira/CXPS.webp",
+     "image": "data/img/madeira/CXPS.webp",
      "mapsUrl": "https://goo.gl/maps/xyfUdDksmemiVzZC9",
      "width": 0.5,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "18cP",
-     "image": "img/madeira/18cP.webp",
+     "image": "data/img/madeira/18cP.webp",
      "mapsUrl": "https://goo.gl/maps/NrEw7f7DBQSWeg1Y7",
      "width": 0.5,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "kfwz",
-     "image": "img/madeira/kfwz.webp",
+     "image": "data/img/madeira/kfwz.webp",
      "mapsUrl": "https://goo.gl/maps/9WsW3s9HXkEsfEJN9",
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
     },
     {
      "id": "WqRe",
-     "image": "img/madeira/WqRe.webp",
+     "image": "data/img/madeira/WqRe.webp",
      "mapsUrl": "https://goo.gl/maps/g7daTKYSA7xgVyuu7",
      "width": 0.5,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "PWVC",
-     "image": "img/madeira/PWVC.webp",
+     "image": "data/img/madeira/PWVC.webp",
      "mapsUrl": "https://goo.gl/maps/ZfMWg6ud6GPdbmfTA",
      "width": 0.5,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "VNQl",
-     "image": "img/madeira/VNQl.webp",
+     "image": "data/img/madeira/VNQl.webp",
      "mapsUrl": "https://goo.gl/maps/NUz5W62gYm77vkhv9",
      "width": 0.5,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "uLdi",
-     "image": "img/madeira/uLdi.webp",
+     "image": "data/img/madeira/uLdi.webp",
      "mapsUrl": "https://goo.gl/maps/mAQwjzWGamp9W3Ev6",
      "width": 0.5,
      "text": [
@@ -185,7 +185,7 @@
     },
     {
      "id": "ooPx",
-     "image": "img/madeira/ooPx.webp",
+     "image": "data/img/madeira/ooPx.webp",
      "mapsUrl": "https://goo.gl/maps/ab7ZPXmEh7koSLyW9",
      "width": 0.5,
      "text": [
@@ -195,7 +195,7 @@
     },
     {
      "id": "4VKJ",
-     "image": "img/madeira/4VKJ.webp",
+     "image": "data/img/madeira/4VKJ.webp",
      "mapsUrl": "https://goo.gl/maps/oiFhyo2vLr4MsQcP7",
      "width": 0.5,
      "text": [
@@ -204,7 +204,7 @@
     },
     {
      "id": "PUaV",
-     "image": "img/madeira/PUaV.webp",
+     "image": "data/img/madeira/PUaV.webp",
      "mapsUrl": "https://maps.app.goo.gl/m9xxVWr6aUJNLif89",
      "width": 0.5,
      "text": [
@@ -223,7 +223,7 @@
    "metas": [
     {
      "id": "nSn4",
-     "image": "img/madeira/nSn4.webp",
+     "image": "data/img/madeira/nSn4.webp",
      "mapsUrl": "https://goo.gl/maps/G7cTcbwHQXvFVZtG8",
      "width": 0.573,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "7hDE",
-     "image": "img/madeira/7hDE.webp",
+     "image": "data/img/madeira/7hDE.webp",
      "mapsUrl": "https://goo.gl/maps/AaeHpvh4sgNVbjTE6",
      "width": 0.573,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "BGSE",
-     "image": "img/madeira/BGSE.webp",
+     "image": "data/img/madeira/BGSE.webp",
      "mapsUrl": "https://goo.gl/maps/cfVAMKAKQteoXVx6A",
      "width": 0.573,
      "text": [
@@ -250,7 +250,7 @@
     },
     {
      "id": "Pezj",
-     "image": "img/madeira/Pezj.webp",
+     "image": "data/img/madeira/Pezj.webp",
      "mapsUrl": "https://goo.gl/maps/quRixFnePLW1Ni2m9",
      "width": 0.573,
      "text": [
@@ -268,7 +268,7 @@
    "metas": [
     {
      "id": "MaYa",
-     "image": "img/madeira/MaYa.webp",
+     "image": "data/img/madeira/MaYa.webp",
      "mapsUrl": "https://goo.gl/maps/gZbnzRV2nqsLE6CM9",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "KKWQ",
-     "image": "img/madeira/KKWQ.webp",
+     "image": "data/img/madeira/KKWQ.webp",
      "mapsUrl": "https://goo.gl/maps/xUAgh1vKjc7SBUd89",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "Hntd",
-     "image": "img/madeira/Hntd.webp",
+     "image": "data/img/madeira/Hntd.webp",
      "mapsUrl": "https://goo.gl/maps/5VuTsXT9on7PnBe4A",
      "width": 0.573,
      "text": [
@@ -295,7 +295,7 @@
     },
     {
      "id": "6mIy",
-     "image": "img/madeira/6mIy.webp",
+     "image": "data/img/madeira/6mIy.webp",
      "mapsUrl": "https://goo.gl/maps/CfHZTNMjvbmTBosF6",
      "width": 0.573,
      "text": [
@@ -304,7 +304,7 @@
     },
     {
      "id": "5Kfy",
-     "image": "img/madeira/5Kfy.webp",
+     "image": "data/img/madeira/5Kfy.webp",
      "mapsUrl": "https://goo.gl/maps/9cQHv1txhbk1r1KL6",
      "width": 0.573,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "2DE7",
-     "image": "img/madeira/2DE7.webp",
+     "image": "data/img/madeira/2DE7.webp",
      "mapsUrl": "https://goo.gl/maps/MuJFryLgnWnhzK1B6",
      "width": 0.573,
      "text": [
@@ -322,7 +322,7 @@
     },
     {
      "id": "8zkm",
-     "image": "img/madeira/8zkm.webp",
+     "image": "data/img/madeira/8zkm.webp",
      "mapsUrl": "https://goo.gl/maps/7dukH3FcvwFZkjgw5",
      "width": 0.573,
      "text": [

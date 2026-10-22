@@ -3,7 +3,7 @@
  "title": "Montenegro",
  "code": "ME",
  "continent": "Europe",
- "hero": "img/montenegro/hero.webp",
+ "hero": "data/img/montenegro/hero.webp",
  "metaCount": 20,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "y5eW",
-     "image": "img/montenegro/y5eW.webp",
+     "image": "data/img/montenegro/y5eW.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "ioMs",
-     "image": "img/montenegro/ioMs.webp",
+     "image": "data/img/montenegro/ioMs.webp",
      "mapsUrl": "https://maps.app.goo.gl/V5keL7wo8wTLPob2A",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "9laJ",
-     "image": "img/montenegro/9laJ.webp",
+     "image": "data/img/montenegro/9laJ.webp",
      "mapsUrl": "https://goo.gl/maps/nBStGcWwiueoKNMeA",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "MYa5",
-     "image": "img/montenegro/MYa5.webp",
+     "image": "data/img/montenegro/MYa5.webp",
      "mapsUrl": "https://goo.gl/maps/pT9NELG1DBfQSQPW6",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "ESKL",
-     "image": "img/montenegro/ESKL.webp",
+     "image": "data/img/montenegro/ESKL.webp",
      "mapsUrl": "https://goo.gl/maps/srqvrAqnXsduxmQ2A",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "31mF",
-     "image": "img/montenegro/31mF.webp",
+     "image": "data/img/montenegro/31mF.webp",
      "mapsUrl": "https://goo.gl/maps/xCFeMUx5kzSGjNnK9",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "RPvd",
-     "image": "img/montenegro/RPvd.webp",
+     "image": "data/img/montenegro/RPvd.webp",
      "mapsUrl": "https://goo.gl/maps/fZCnn3jPH4By45ph7",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "gPE6",
-     "image": "img/montenegro/gPE6.webp",
+     "image": "data/img/montenegro/gPE6.webp",
      "mapsUrl": "https://goo.gl/maps/VrWsPuy8C64NzCzg9",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "gh0p",
-     "image": "img/montenegro/gh0p.webp",
+     "image": "data/img/montenegro/gh0p.webp",
      "mapsUrl": "https://goo.gl/maps/o1wjizUD3kztzsDx8",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
    "metas": [
     {
      "id": "62xq",
-     "image": "img/montenegro/62xq.webp",
+     "image": "data/img/montenegro/62xq.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "vHGt",
-     "image": "img/montenegro/vHGt.webp",
+     "image": "data/img/montenegro/vHGt.webp",
      "mapsUrl": "https://goo.gl/maps/htTTVbKzA9K3Y2ow5",
      "width": 0.573,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "arxV",
-     "image": "img/montenegro/arxV.webp",
+     "image": "data/img/montenegro/arxV.webp",
      "mapsUrl": "https://goo.gl/maps/wQTpxodbUY8yvnhQ6",
      "width": 0.573,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "YLJY",
-     "image": "img/montenegro/YLJY.webp",
+     "image": "data/img/montenegro/YLJY.webp",
      "mapsUrl": "https://goo.gl/maps/TGaMkU8n3PmRYJjG9",
      "width": 0.573,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "59VX",
-     "image": "img/montenegro/59VX.webp",
+     "image": "data/img/montenegro/59VX.webp",
      "mapsUrl": "https://goo.gl/maps/fcV95Ag3DvaRvumW8",
      "width": 0.573,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "BFX1",
-     "image": "img/montenegro/BFX1.webp",
+     "image": "data/img/montenegro/BFX1.webp",
      "mapsUrl": "https://goo.gl/maps/7GCLxvZuqhZvirtm7",
      "width": 0.573,
      "text": [
@@ -181,7 +181,7 @@
    "metas": [
     {
      "id": "cJhu",
-     "image": "img/montenegro/cJhu.webp",
+     "image": "data/img/montenegro/cJhu.webp",
      "mapsUrl": "https://maps.app.goo.gl/9vHZ897uz8CH4aDZ6",
      "width": 0.573,
      "text": [
@@ -190,7 +190,7 @@
     },
     {
      "id": "9667",
-     "image": "img/montenegro/9667.webp",
+     "image": "data/img/montenegro/9667.webp",
      "mapsUrl": "https://goo.gl/maps/hpaZgRNU6371p6zA9",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "Ifx0",
-     "image": "img/montenegro/Ifx0.webp",
+     "image": "data/img/montenegro/Ifx0.webp",
      "mapsUrl": "https://goo.gl/maps/x2m7QpiP1XfEWfeF8",
      "width": 0.573,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "VuAe",
-     "image": "img/montenegro/VuAe.webp",
+     "image": "data/img/montenegro/VuAe.webp",
      "mapsUrl": "https://goo.gl/maps/FRE4iNRCzNh5mzbS9",
      "width": 0.573,
      "text": [
@@ -217,7 +217,7 @@
     },
     {
      "id": "CFIQ",
-     "image": "img/montenegro/CFIQ.webp",
+     "image": "data/img/montenegro/CFIQ.webp",
      "mapsUrl": "https://goo.gl/maps/MyqMw8aQzMNYvq8j7",
      "width": 0.573,
      "text": [

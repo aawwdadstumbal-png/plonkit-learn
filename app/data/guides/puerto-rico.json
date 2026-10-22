@@ -3,7 +3,7 @@
  "title": "Puerto Rico",
  "code": "PR",
  "continent": "North America",
- "hero": "img/puerto-rico/hero.webp",
+ "hero": "data/img/puerto-rico/hero.webp",
  "metaCount": 18,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "4QdF",
-     "image": "img/puerto-rico/4QdF.webp",
+     "image": "data/img/puerto-rico/4QdF.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "TIjg",
-     "image": "img/puerto-rico/TIjg.webp",
+     "image": "data/img/puerto-rico/TIjg.webp",
      "mapsUrl": "https://maps.app.goo.gl/eQdjniizrupUUBz36",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "Npkn",
-     "image": "img/puerto-rico/Npkn.webp",
+     "image": "data/img/puerto-rico/Npkn.webp",
      "mapsUrl": "https://goo.gl/maps/NXmiAHeWMVyfFkiM9",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "zV2D",
-     "image": "img/puerto-rico/zV2D.webp",
+     "image": "data/img/puerto-rico/zV2D.webp",
      "mapsUrl": "https://goo.gl/maps/c5woYioMXSNS7QMm7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "avsT",
-     "image": "img/puerto-rico/avsT.webp",
+     "image": "data/img/puerto-rico/avsT.webp",
      "mapsUrl": "https://goo.gl/maps/rgSkTr7vuEFKSLp17",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "FSsp",
-     "image": "img/puerto-rico/FSsp.webp",
+     "image": "data/img/puerto-rico/FSsp.webp",
      "mapsUrl": "https://maps.app.goo.gl/7368T1Utmknzh55m6",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "x00D",
-     "image": "img/puerto-rico/x00D.webp",
+     "image": "data/img/puerto-rico/x00D.webp",
      "mapsUrl": "https://goo.gl/maps/Dv17hkE1s3JA2dCr7",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "eA8V",
-     "image": "img/puerto-rico/eA8V.webp",
+     "image": "data/img/puerto-rico/eA8V.webp",
      "mapsUrl": "https://maps.app.goo.gl/dcpvRpnoagL5vh4Q8",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "8rin",
-     "image": "img/puerto-rico/8rin.webp",
+     "image": "data/img/puerto-rico/8rin.webp",
      "mapsUrl": "https://goo.gl/maps/2qTDNEJpRPh93m1m7",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "nXMf",
-     "image": "img/puerto-rico/nXMf.webp",
+     "image": "data/img/puerto-rico/nXMf.webp",
      "mapsUrl": "https://maps.app.goo.gl/GV7WxMkUFjqu1hcg9",
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "MALI",
-     "image": "img/puerto-rico/MALI.webp",
+     "image": "data/img/puerto-rico/MALI.webp",
      "mapsUrl": "https://goo.gl/maps/Qxx6bqmh4Ue4p7mJA",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "sbGW",
-     "image": "img/puerto-rico/sbGW.webp",
+     "image": "data/img/puerto-rico/sbGW.webp",
      "mapsUrl": "https://www.google.com/maps/@18.4165794,-66.2039447,3a,15y,96.7h,81.91t/data=!3m6!1e1!3m4!1sEN3aXJNxB1W7vWHzo5uTRQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "m45n",
-     "image": "img/puerto-rico/m45n.webp",
+     "image": "data/img/puerto-rico/m45n.webp",
      "mapsUrl": "https://maps.app.goo.gl/mVRvCuBvfpcBt1Vb9",
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
    "metas": [
     {
      "id": "1NMP",
-     "image": "img/puerto-rico/1NMP.webp",
+     "image": "data/img/puerto-rico/1NMP.webp",
      "mapsUrl": "https://goo.gl/maps/pCVQg39tidmNgyTp9",
      "width": 0.573,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "2LXU",
-     "image": "img/puerto-rico/2LXU.webp",
+     "image": "data/img/puerto-rico/2LXU.webp",
      "mapsUrl": "https://goo.gl/maps/3di5Mm2psE9B9b8S9",
      "width": 0.573,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "CcDj",
-     "image": "img/puerto-rico/CcDj.webp",
+     "image": "data/img/puerto-rico/CcDj.webp",
      "mapsUrl": "https://goo.gl/maps/vgjYUS9mrXCgDUKR9",
      "width": 0.573,
      "text": [
@@ -187,7 +187,7 @@
    "metas": [
     {
      "id": "nsPb",
-     "image": "img/puerto-rico/nsPb.webp",
+     "image": "data/img/puerto-rico/nsPb.webp",
      "mapsUrl": "https://maps.app.goo.gl/jnc3Ayet8VhEEKZ88",
      "width": 0.573,
      "text": [
@@ -196,7 +196,7 @@
     },
     {
      "id": "hatM",
-     "image": "img/puerto-rico/hatM.webp",
+     "image": "data/img/puerto-rico/hatM.webp",
      "mapsUrl": "https://maps.app.goo.gl/Zo23AuhfLA9z3tYd7",
      "width": 0.573,
      "text": [

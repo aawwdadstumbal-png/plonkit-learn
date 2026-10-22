@@ -3,7 +3,7 @@
  "title": "Brazil",
  "code": "BR",
  "continent": "South America",
- "hero": "img/brazil/hero.webp",
+ "hero": "data/img/brazil/hero.webp",
  "metaCount": 104,
  "sections": [
   {
@@ -24,7 +24,7 @@
    "metas": [
     {
      "id": "1lVl",
-     "image": "img/brazil/1lVl.webp",
+     "image": "data/img/brazil/1lVl.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -33,7 +33,7 @@
     },
     {
      "id": "nX3d",
-     "image": "img/brazil/nX3d.webp",
+     "image": "data/img/brazil/nX3d.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
     },
     {
      "id": "oNlC",
-     "image": "img/brazil/oNlC.webp",
+     "image": "data/img/brazil/oNlC.webp",
      "mapsUrl": "https://goo.gl/maps/f7ioYhJZuhKPRrFa6",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "YM9a",
-     "image": "img/brazil/YM9a.webp",
+     "image": "data/img/brazil/YM9a.webp",
      "mapsUrl": "https://www.google.com/maps/@-24.9571126,-53.4509432,3a,90y,210.01h,106.39t/data=!3m6!1e1!3m4!1s5lhJHp3bn7bMpsWZg81SCA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -62,7 +62,7 @@
     },
     {
      "id": "dpxG",
-     "image": "img/brazil/dpxG.webp",
+     "image": "data/img/brazil/dpxG.webp",
      "mapsUrl": "https://goo.gl/maps/143MAmoWube3G7rt6",
      "width": 0.5,
      "text": [
@@ -72,7 +72,7 @@
     },
     {
      "id": "e3Yr",
-     "image": "img/brazil/e3Yr.webp",
+     "image": "data/img/brazil/e3Yr.webp",
      "mapsUrl": "https://goo.gl/maps/Deg85umMeQ4MGHzn8",
      "width": 0.5,
      "text": [
@@ -81,7 +81,7 @@
     },
     {
      "id": "N06x",
-     "image": "img/brazil/N06x.webp",
+     "image": "data/img/brazil/N06x.webp",
      "mapsUrl": "https://goo.gl/maps/MKFEtgz85v7epbvv7",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "2B6I",
-     "image": "img/brazil/2B6I.webp",
+     "image": "data/img/brazil/2B6I.webp",
      "mapsUrl": "https://goo.gl/maps/NLfa3R3x6HeYKjPi6",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "8AoE",
-     "image": "img/brazil/8AoE.webp",
+     "image": "data/img/brazil/8AoE.webp",
      "mapsUrl": "https://goo.gl/maps/S1CB98FhhmfFSwMz6",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "rdVZ",
-     "image": "img/brazil/rdVZ.webp",
+     "image": "data/img/brazil/rdVZ.webp",
      "mapsUrl": "https://goo.gl/maps/KcYzQgBDhLRRpNAC6",
      "width": 0.5,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "Cwjn",
-     "image": "img/brazil/Cwjn.webp",
+     "image": "data/img/brazil/Cwjn.webp",
      "mapsUrl": "https://goo.gl/maps/K7nxFxHKUmx418Ec7",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "oot8",
-     "image": "img/brazil/oot8.webp",
+     "image": "data/img/brazil/oot8.webp",
      "mapsUrl": "https://goo.gl/maps/Yx7jVHxygB8Mquoj9",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "y0J7",
-     "image": "img/brazil/y0J7.webp",
+     "image": "data/img/brazil/y0J7.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "l5MR",
-     "image": "img/brazil/l5MR.webp",
+     "image": "data/img/brazil/l5MR.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "bnN1",
-     "image": "img/brazil/bnN1.webp",
+     "image": "data/img/brazil/bnN1.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZDE2DDVr5TS4zGn77",
      "width": 0.5,
      "text": [
@@ -200,7 +200,7 @@
    "metas": [
     {
      "id": "YNbb",
-     "image": "img/brazil/YNbb.webp",
+     "image": "data/img/brazil/YNbb.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "otjB",
-     "image": "img/brazil/otjB.webp",
+     "image": "data/img/brazil/otjB.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "avhC",
-     "image": "img/brazil/avhC.webp",
+     "image": "data/img/brazil/avhC.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -230,7 +230,7 @@
     },
     {
      "id": "sjAl",
-     "image": "img/brazil/sjAl.webp",
+     "image": "data/img/brazil/sjAl.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "3jxg",
-     "image": "img/brazil/3jxg.webp",
+     "image": "data/img/brazil/3jxg.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "cZMu",
-     "image": "img/brazil/cZMu.webp",
+     "image": "data/img/brazil/cZMu.webp",
      "mapsUrl": "https://goo.gl/maps/j1cCqLxKWXdAenr68",
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "BuMI",
-     "image": "img/brazil/BuMI.webp",
+     "image": "data/img/brazil/BuMI.webp",
      "mapsUrl": "https://goo.gl/maps/eiS8scMBj8Z6nHmm8",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "aYGO",
-     "image": "img/brazil/aYGO.webp",
+     "image": "data/img/brazil/aYGO.webp",
      "mapsUrl": "https://goo.gl/maps/zaUQ57C3VCLVxVaQ6",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "rQrQ",
-     "image": "img/brazil/rQrQ.webp",
+     "image": "data/img/brazil/rQrQ.webp",
      "mapsUrl": "https://goo.gl/maps/smpdyVYMrkq5Grpo9",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "vUCq",
-     "image": "img/brazil/vUCq.webp",
+     "image": "data/img/brazil/vUCq.webp",
      "mapsUrl": "https://goo.gl/maps/9pPmBGwKYkAT1YPa8",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "ejN1",
-     "image": "img/brazil/ejN1.webp",
+     "image": "data/img/brazil/ejN1.webp",
      "mapsUrl": "https://goo.gl/maps/LMwyZYBwooy6FpDU6",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "OvbB",
-     "image": "img/brazil/OvbB.webp",
+     "image": "data/img/brazil/OvbB.webp",
      "mapsUrl": "https://goo.gl/maps/4B5ZLWBPwyEMtQhdA",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "JlDz",
-     "image": "img/brazil/JlDz.webp",
+     "image": "data/img/brazil/JlDz.webp",
      "mapsUrl": "https://goo.gl/maps/DRkDJASiJ3va7ejTA",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "FOZn",
-     "image": "img/brazil/FOZn.webp",
+     "image": "data/img/brazil/FOZn.webp",
      "mapsUrl": "https://goo.gl/maps/YwF2QH3JNL23XGAu9",
      "width": 0.573,
      "text": [
@@ -330,7 +330,7 @@
     },
     {
      "id": "X9sq",
-     "image": "img/brazil/X9sq.webp",
+     "image": "data/img/brazil/X9sq.webp",
      "mapsUrl": "https://goo.gl/maps/akhtASxxFEmjphJZ6",
      "width": 0.573,
      "text": [
@@ -339,7 +339,7 @@
     },
     {
      "id": "xH0Y",
-     "image": "img/brazil/xH0Y.webp",
+     "image": "data/img/brazil/xH0Y.webp",
      "mapsUrl": "https://goo.gl/maps/BpwS7ZX9JGf2GL9JA",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "j038",
-     "image": "img/brazil/j038.webp",
+     "image": "data/img/brazil/j038.webp",
      "mapsUrl": "https://goo.gl/maps/dWhR34GopEFGbvy6A",
      "width": 0.573,
      "text": [
@@ -358,7 +358,7 @@
     },
     {
      "id": "OGxZ",
-     "image": "img/brazil/OGxZ.webp",
+     "image": "data/img/brazil/OGxZ.webp",
      "mapsUrl": "https://goo.gl/maps/FC3kSKvyyNo8TXbN6",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "dEAg",
-     "image": "img/brazil/dEAg.webp",
+     "image": "data/img/brazil/dEAg.webp",
      "mapsUrl": "https://maps.app.goo.gl/ghbJ2ceJgfSR27cV9",
      "width": 0.573,
      "text": [
@@ -378,7 +378,7 @@
     },
     {
      "id": "yPwJ",
-     "image": "img/brazil/yPwJ.webp",
+     "image": "data/img/brazil/yPwJ.webp",
      "mapsUrl": "https://goo.gl/maps/seDoq4e2crD3ipmB6",
      "width": 0.573,
      "text": [
@@ -387,7 +387,7 @@
     },
     {
      "id": "ipTk",
-     "image": "img/brazil/ipTk.webp",
+     "image": "data/img/brazil/ipTk.webp",
      "mapsUrl": "https://goo.gl/maps/SfuMeJGXe3neKS6B6",
      "width": 0.573,
      "text": [
@@ -396,7 +396,7 @@
     },
     {
      "id": "Dz8D",
-     "image": "img/brazil/Dz8D.webp",
+     "image": "data/img/brazil/Dz8D.webp",
      "mapsUrl": "https://goo.gl/maps/rzfG527SvLMXiGHg9",
      "width": 0.573,
      "text": [
@@ -405,7 +405,7 @@
     },
     {
      "id": "iILP",
-     "image": "img/brazil/iILP.webp",
+     "image": "data/img/brazil/iILP.webp",
      "mapsUrl": "https://goo.gl/maps/GH5p7d7mwu5Xe1Xp6",
      "width": 0.573,
      "text": [
@@ -414,7 +414,7 @@
     },
     {
      "id": "xjGP",
-     "image": "img/brazil/xjGP.webp",
+     "image": "data/img/brazil/xjGP.webp",
      "mapsUrl": "https://goo.gl/maps/tLkPUoSYFJ1BPvqK7",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "6UVb",
-     "image": "img/brazil/6UVb.webp",
+     "image": "data/img/brazil/6UVb.webp",
      "mapsUrl": "https://goo.gl/maps/jYJPP4CsJxtdcinz6",
      "width": 0.573,
      "text": [
@@ -432,7 +432,7 @@
     },
     {
      "id": "ySa0",
-     "image": "img/brazil/ySa0.webp",
+     "image": "data/img/brazil/ySa0.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -442,7 +442,7 @@
     },
     {
      "id": "X2iV",
-     "image": "img/brazil/X2iV.webp",
+     "image": "data/img/brazil/X2iV.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -451,7 +451,7 @@
     },
     {
      "id": "PvkL",
-     "image": "img/brazil/PvkL.webp",
+     "image": "data/img/brazil/PvkL.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -461,7 +461,7 @@
     },
     {
      "id": "P82L",
-     "image": "img/brazil/P82L.webp",
+     "image": "data/img/brazil/P82L.webp",
      "mapsUrl": "https://maps.app.goo.gl/WcwMBFNxV42o1Rs26",
      "width": 0.573,
      "text": [
@@ -470,7 +470,7 @@
     },
     {
      "id": "GWCv",
-     "image": "img/brazil/GWCv.webp",
+     "image": "data/img/brazil/GWCv.webp",
      "mapsUrl": "https://goo.gl/maps/F1YUU4dL2MCrDFVK9",
      "width": 0.573,
      "text": [
@@ -479,7 +479,7 @@
     },
     {
      "id": "iKjV",
-     "image": "img/brazil/iKjV.webp",
+     "image": "data/img/brazil/iKjV.webp",
      "mapsUrl": "https://goo.gl/maps/M2cYpviU5PsZ9S8c8",
      "width": 0.573,
      "text": [
@@ -488,7 +488,7 @@
     },
     {
      "id": "PA88",
-     "image": "img/brazil/PA88.webp",
+     "image": "data/img/brazil/PA88.webp",
      "mapsUrl": "https://goo.gl/maps/fCRXbKrzDHWLN9KG9",
      "width": 0.573,
      "text": [
@@ -497,7 +497,7 @@
     },
     {
      "id": "zZ1A",
-     "image": "img/brazil/zZ1A.webp",
+     "image": "data/img/brazil/zZ1A.webp",
      "mapsUrl": "https://goo.gl/maps/GAgiqiwUX5veFbYz7",
      "width": 0.573,
      "text": [
@@ -506,7 +506,7 @@
     },
     {
      "id": "kO6H",
-     "image": "img/brazil/kO6H.webp",
+     "image": "data/img/brazil/kO6H.webp",
      "mapsUrl": "https://goo.gl/maps/m1C4VJGayQW7W9S46",
      "width": 0.573,
      "text": [
@@ -515,7 +515,7 @@
     },
     {
      "id": "UO4B",
-     "image": "img/brazil/UO4B.webp",
+     "image": "data/img/brazil/UO4B.webp",
      "mapsUrl": "https://goo.gl/maps/d5MturZ4SJ5ujasA8",
      "width": 0.573,
      "text": [
@@ -524,7 +524,7 @@
     },
     {
      "id": "6v5Y",
-     "image": "img/brazil/6v5Y.webp",
+     "image": "data/img/brazil/6v5Y.webp",
      "mapsUrl": "https://maps.app.goo.gl/oxhdz83wNttza3gE6",
      "width": 0.573,
      "text": [
@@ -533,7 +533,7 @@
     },
     {
      "id": "u4vX",
-     "image": "img/brazil/u4vX.webp",
+     "image": "data/img/brazil/u4vX.webp",
      "mapsUrl": "https://maps.app.goo.gl/zLxbd5F1YkDpmMjX8",
      "width": 0.573,
      "text": [
@@ -543,7 +543,7 @@
     },
     {
      "id": "VBQt",
-     "image": "img/brazil/VBQt.webp",
+     "image": "data/img/brazil/VBQt.webp",
      "mapsUrl": "https://maps.app.goo.gl/yy5oCChLroCqjbJo8",
      "width": 0.573,
      "text": [
@@ -552,7 +552,7 @@
     },
     {
      "id": "CZb8",
-     "image": "img/brazil/CZb8.webp",
+     "image": "data/img/brazil/CZb8.webp",
      "mapsUrl": "https://goo.gl/maps/uisPPRi6mRFnvw7H7",
      "width": 0.573,
      "text": [
@@ -561,7 +561,7 @@
     },
     {
      "id": "mIAJ",
-     "image": "img/brazil/mIAJ.webp",
+     "image": "data/img/brazil/mIAJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/ujnYHRLBugsqHxyEA",
      "width": 0.573,
      "text": [
@@ -571,7 +571,7 @@
     },
     {
      "id": "OfZt",
-     "image": "img/brazil/OfZt.webp",
+     "image": "data/img/brazil/OfZt.webp",
      "mapsUrl": "https://maps.app.goo.gl/gTrFCY5J37z1UA1t7",
      "width": 0.573,
      "text": [
@@ -581,7 +581,7 @@
     },
     {
      "id": "r5UP",
-     "image": "img/brazil/r5UP.webp",
+     "image": "data/img/brazil/r5UP.webp",
      "mapsUrl": "https://goo.gl/maps/eG9RWoaHFbD3WEfbA",
      "width": 0.573,
      "text": [
@@ -590,7 +590,7 @@
     },
     {
      "id": "vAH9",
-     "image": "img/brazil/vAH9.webp",
+     "image": "data/img/brazil/vAH9.webp",
      "mapsUrl": "https://goo.gl/maps/S7u7ymZnyNeSdGyg8",
      "width": 0.573,
      "text": [
@@ -599,7 +599,7 @@
     },
     {
      "id": "XgcO",
-     "image": "img/brazil/XgcO.webp",
+     "image": "data/img/brazil/XgcO.webp",
      "mapsUrl": "https://goo.gl/maps/kxqR6mL7iUiWT1U76",
      "width": 0.573,
      "text": [
@@ -608,7 +608,7 @@
     },
     {
      "id": "5T9U",
-     "image": "img/brazil/5T9U.webp",
+     "image": "data/img/brazil/5T9U.webp",
      "mapsUrl": "https://goo.gl/maps/p4kR8JTcuwQ1MVyCA",
      "width": 0.573,
      "text": [
@@ -617,7 +617,7 @@
     },
     {
      "id": "3Oaz",
-     "image": "img/brazil/3Oaz.webp",
+     "image": "data/img/brazil/3Oaz.webp",
      "mapsUrl": "https://goo.gl/maps/hPt9Ju4NRda1TK9K6",
      "width": 0.573,
      "text": [
@@ -626,7 +626,7 @@
     },
     {
      "id": "nqxg",
-     "image": "img/brazil/nqxg.webp",
+     "image": "data/img/brazil/nqxg.webp",
      "mapsUrl": "https://goo.gl/maps/ramjW1hBrNb3Dmvb6",
      "width": 0.573,
      "text": [
@@ -635,7 +635,7 @@
     },
     {
      "id": "z5v9",
-     "image": "img/brazil/z5v9.webp",
+     "image": "data/img/brazil/z5v9.webp",
      "mapsUrl": "https://goo.gl/maps/VmQ6UGEKDSsfdMuc8",
      "width": 0.573,
      "text": [
@@ -644,7 +644,7 @@
     },
     {
      "id": "DS2b",
-     "image": "img/brazil/DS2b.webp",
+     "image": "data/img/brazil/DS2b.webp",
      "mapsUrl": "https://goo.gl/maps/GfSdbRv2X3a4EEmZA",
      "width": 0.573,
      "text": [
@@ -654,7 +654,7 @@
     },
     {
      "id": "CDnw",
-     "image": "img/brazil/CDnw.webp",
+     "image": "data/img/brazil/CDnw.webp",
      "mapsUrl": "https://maps.app.goo.gl/96QsZZGhxJTZEXdr7",
      "width": 0.573,
      "text": [
@@ -663,7 +663,7 @@
     },
     {
      "id": "UEBs",
-     "image": "img/brazil/UEBs.webp",
+     "image": "data/img/brazil/UEBs.webp",
      "mapsUrl": "https://goo.gl/maps/RzqyWeStn32fysfd8",
      "width": 0.573,
      "text": [
@@ -672,7 +672,7 @@
     },
     {
      "id": "JTd6",
-     "image": "img/brazil/JTd6.webp",
+     "image": "data/img/brazil/JTd6.webp",
      "mapsUrl": "https://goo.gl/maps/Wnfj29hYgHQyXyqF9",
      "width": 0.573,
      "text": [
@@ -681,7 +681,7 @@
     },
     {
      "id": "XAyk",
-     "image": "img/brazil/XAyk.webp",
+     "image": "data/img/brazil/XAyk.webp",
      "mapsUrl": "https://maps.app.goo.gl/nC9UK3828x2ovmmy7",
      "width": 0.573,
      "text": [
@@ -690,7 +690,7 @@
     },
     {
      "id": "zcD0",
-     "image": "img/brazil/zcD0.webp",
+     "image": "data/img/brazil/zcD0.webp",
      "mapsUrl": "https://goo.gl/maps/QmBTbXv9EbS8KVCg9",
      "width": 0.573,
      "text": [
@@ -699,7 +699,7 @@
     },
     {
      "id": "s2pM",
-     "image": "img/brazil/s2pM.webp",
+     "image": "data/img/brazil/s2pM.webp",
      "mapsUrl": "https://goo.gl/maps/NV56XDz9w8mX5gy19",
      "width": 0.573,
      "text": [
@@ -708,7 +708,7 @@
     },
     {
      "id": "aO5N",
-     "image": "img/brazil/aO5N.webp",
+     "image": "data/img/brazil/aO5N.webp",
      "mapsUrl": "https://goo.gl/maps/8VWUFbJQQtn6SnTa7",
      "width": 0.573,
      "text": [
@@ -717,7 +717,7 @@
     },
     {
      "id": "XPWf",
-     "image": "img/brazil/XPWf.webp",
+     "image": "data/img/brazil/XPWf.webp",
      "mapsUrl": "https://goo.gl/maps/kYzkP7x6CZTbjiXr8",
      "width": 0.573,
      "text": [
@@ -726,7 +726,7 @@
     },
     {
      "id": "NGXo",
-     "image": "img/brazil/NGXo.webp",
+     "image": "data/img/brazil/NGXo.webp",
      "mapsUrl": "https://goo.gl/maps/MckB245goyAT61DeA",
      "width": 0.573,
      "text": [
@@ -735,7 +735,7 @@
     },
     {
      "id": "BAUZ",
-     "image": "img/brazil/BAUZ.webp",
+     "image": "data/img/brazil/BAUZ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -744,7 +744,7 @@
     },
     {
      "id": "zJtI",
-     "image": "img/brazil/zJtI.webp",
+     "image": "data/img/brazil/zJtI.webp",
      "mapsUrl": "https://goo.gl/maps/AAJf669hRUgGftPMA",
      "width": 0.573,
      "text": [
@@ -753,7 +753,7 @@
     },
     {
      "id": "3Pyz",
-     "image": "img/brazil/3Pyz.webp",
+     "image": "data/img/brazil/3Pyz.webp",
      "mapsUrl": "https://goo.gl/maps/7do2nnCEtUs9K8oVA",
      "width": 0.573,
      "text": [
@@ -762,7 +762,7 @@
     },
     {
      "id": "IcSJ",
-     "image": "img/brazil/IcSJ.webp",
+     "image": "data/img/brazil/IcSJ.webp",
      "mapsUrl": "https://goo.gl/maps/nbrVUdWPtQ1px9JW6",
      "width": 0.573,
      "text": [
@@ -771,7 +771,7 @@
     },
     {
      "id": "fnGk",
-     "image": "img/brazil/fnGk.webp",
+     "image": "data/img/brazil/fnGk.webp",
      "mapsUrl": "https://goo.gl/maps/CKLk3b2yvemvhmh9A",
      "width": 0.573,
      "text": [
@@ -780,7 +780,7 @@
     },
     {
      "id": "XwFc",
-     "image": "img/brazil/XwFc.webp",
+     "image": "data/img/brazil/XwFc.webp",
      "mapsUrl": "https://goo.gl/maps/dUYVByAv63qgdgTT9",
      "width": 0.573,
      "text": [
@@ -789,7 +789,7 @@
     },
     {
      "id": "m0g3",
-     "image": "img/brazil/m0g3.webp",
+     "image": "data/img/brazil/m0g3.webp",
      "mapsUrl": "https://goo.gl/maps/HPn3zs2Y5SLbNztx5",
      "width": 0.573,
      "text": [
@@ -799,7 +799,7 @@
     },
     {
      "id": "PCLq",
-     "image": "img/brazil/PCLq.webp",
+     "image": "data/img/brazil/PCLq.webp",
      "mapsUrl": "https://goo.gl/maps/pa7Ly6M1wtZA4GPj8",
      "width": 0.573,
      "text": [
@@ -808,7 +808,7 @@
     },
     {
      "id": "kfSE",
-     "image": "img/brazil/kfSE.webp",
+     "image": "data/img/brazil/kfSE.webp",
      "mapsUrl": "https://goo.gl/maps/bQcUQcVNugZzETYz5",
      "width": 0.573,
      "text": [
@@ -817,7 +817,7 @@
     },
     {
      "id": "qiaH",
-     "image": "img/brazil/qiaH.webp",
+     "image": "data/img/brazil/qiaH.webp",
      "mapsUrl": "https://goo.gl/maps/KZQUzyJ1KygjdGXG6",
      "width": 0.573,
      "text": [
@@ -827,7 +827,7 @@
     },
     {
      "id": "kmTs",
-     "image": "img/brazil/kmTs.webp",
+     "image": "data/img/brazil/kmTs.webp",
      "mapsUrl": "https://goo.gl/maps/TNgnZM7sdfKtnUg89",
      "width": 0.573,
      "text": [
@@ -837,7 +837,7 @@
     },
     {
      "id": "6VbT",
-     "image": "img/brazil/6VbT.webp",
+     "image": "data/img/brazil/6VbT.webp",
      "mapsUrl": "https://goo.gl/maps/tLuoeuV2xauC5Uoc7",
      "width": 0.573,
      "text": [
@@ -846,7 +846,7 @@
     },
     {
      "id": "JkSy",
-     "image": "img/brazil/JkSy.webp",
+     "image": "data/img/brazil/JkSy.webp",
      "mapsUrl": "https://goo.gl/maps/zWwzhZYRw5ZKL8297",
      "width": 0.573,
      "text": [
@@ -891,7 +891,7 @@
    "metas": [
     {
      "id": "BSvK",
-     "image": "img/brazil/BSvK.webp",
+     "image": "data/img/brazil/BSvK.webp",
      "mapsUrl": "https://goo.gl/maps/FNvyMySmwt4HWnUU9",
      "width": 0.573,
      "text": [
@@ -900,7 +900,7 @@
     },
     {
      "id": "kq8r",
-     "image": "img/brazil/kq8r.webp",
+     "image": "data/img/brazil/kq8r.webp",
      "mapsUrl": "https://goo.gl/maps/XqQWffwdN9wiZQYH7",
      "width": 0.573,
      "text": [
@@ -909,7 +909,7 @@
     },
     {
      "id": "vMha",
-     "image": "img/brazil/vMha.webp",
+     "image": "data/img/brazil/vMha.webp",
      "mapsUrl": "https://maps.app.goo.gl/L12WdwhfbuRrW8dB6",
      "width": 0.573,
      "text": [
@@ -918,7 +918,7 @@
     },
     {
      "id": "B0KY",
-     "image": "img/brazil/B0KY.webp",
+     "image": "data/img/brazil/B0KY.webp",
      "mapsUrl": "https://goo.gl/maps/SbhHdZNnQw6tWps3A",
      "width": 0.573,
      "text": [
@@ -927,7 +927,7 @@
     },
     {
      "id": "CeyJ",
-     "image": "img/brazil/CeyJ.webp",
+     "image": "data/img/brazil/CeyJ.webp",
      "mapsUrl": "https://goo.gl/maps/n5PLrNd8pqfyNt266",
      "width": 0.573,
      "text": [
@@ -936,7 +936,7 @@
     },
     {
      "id": "MfEn",
-     "image": "img/brazil/MfEn.webp",
+     "image": "data/img/brazil/MfEn.webp",
      "mapsUrl": "https://goo.gl/maps/j8e7bCncUhMrV61XA",
      "width": 0.573,
      "text": [
@@ -945,7 +945,7 @@
     },
     {
      "id": "AThg",
-     "image": "img/brazil/AThg.webp",
+     "image": "data/img/brazil/AThg.webp",
      "mapsUrl": "https://goo.gl/maps/bP6rWChW4MMmzJS18",
      "width": 0.573,
      "text": [
@@ -954,7 +954,7 @@
     },
     {
      "id": "2DzR",
-     "image": "img/brazil/2DzR.webp",
+     "image": "data/img/brazil/2DzR.webp",
      "mapsUrl": "https://goo.gl/maps/b6vqNHVc4YrsdBqT9",
      "width": 0.573,
      "text": [
@@ -963,7 +963,7 @@
     },
     {
      "id": "5M2t",
-     "image": "img/brazil/5M2t.webp",
+     "image": "data/img/brazil/5M2t.webp",
      "mapsUrl": "https://goo.gl/maps/kb3zrqgYoCsy73xz7",
      "width": 0.573,
      "text": [
@@ -972,7 +972,7 @@
     },
     {
      "id": "WTWV",
-     "image": "img/brazil/WTWV.webp",
+     "image": "data/img/brazil/WTWV.webp",
      "mapsUrl": "https://goo.gl/maps/6jT48exBoqaGENbk8",
      "width": 0.573,
      "text": [
@@ -981,7 +981,7 @@
     },
     {
      "id": "gsKs",
-     "image": "img/brazil/gsKs.webp",
+     "image": "data/img/brazil/gsKs.webp",
      "mapsUrl": "https://goo.gl/maps/1jnXMgChb33T5RJE7",
      "width": 0.573,
      "text": [
@@ -990,7 +990,7 @@
     },
     {
      "id": "90g6",
-     "image": "img/brazil/90g6.webp",
+     "image": "data/img/brazil/90g6.webp",
      "mapsUrl": "https://goo.gl/maps/qSjNMZ1XS3ZnrQP46",
      "width": 0.573,
      "text": [
@@ -1000,7 +1000,7 @@
     },
     {
      "id": "H1T8",
-     "image": "img/brazil/H1T8.webp",
+     "image": "data/img/brazil/H1T8.webp",
      "mapsUrl": "https://goo.gl/maps/4Wm5b9TQP7ioozsH9",
      "width": 0.573,
      "text": [
@@ -1009,7 +1009,7 @@
     },
     {
      "id": "wqhj",
-     "image": "img/brazil/wqhj.webp",
+     "image": "data/img/brazil/wqhj.webp",
      "mapsUrl": "https://maps.app.goo.gl/Lewkj9Gk3BZRGeo56",
      "width": 0.573,
      "text": [
@@ -1018,7 +1018,7 @@
     },
     {
      "id": "n1ox",
-     "image": "img/brazil/n1ox.webp",
+     "image": "data/img/brazil/n1ox.webp",
      "mapsUrl": "https://goo.gl/maps/mYF2DQyC48f62Dk76",
      "width": 0.573,
      "text": [
@@ -1027,7 +1027,7 @@
     },
     {
      "id": "GV3p",
-     "image": "img/brazil/GV3p.webp",
+     "image": "data/img/brazil/GV3p.webp",
      "mapsUrl": "https://goo.gl/maps/brfp9Ew56tvHeEsv8",
      "width": 0.573,
      "text": [
@@ -1036,7 +1036,7 @@
     },
     {
      "id": "ctHo",
-     "image": "img/brazil/ctHo.webp",
+     "image": "data/img/brazil/ctHo.webp",
      "mapsUrl": "https://goo.gl/maps/5qFfYA4fFpVuyUzP8",
      "width": 0.573,
      "text": [
@@ -1045,7 +1045,7 @@
     },
     {
      "id": "Jc9u",
-     "image": "img/brazil/Jc9u.webp",
+     "image": "data/img/brazil/Jc9u.webp",
      "mapsUrl": "https://www.google.com.au/maps/@-3.845899,-32.4116046,2a,75y,238.14h,44.56t/data=!3m7!1e1!3m5!1ssbaAFPNxsj86OT_bbw-Fmg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DsbaAFPNxsj86OT_bbw-Fmg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D124.53145%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [

@@ -4,6 +4,11 @@
  * It caches the app shell so the app opens with no connection, and it can be
  * asked to cache the guide data and images so a country works offline.
  *
+ * This is a plain classic script, not a module, so it runs in every browser.
+ * The list of shell files lives in data/shell.json rather than in this file,
+ * because a classic script cannot export anything and the same list is
+ * checked by the tests.
+ *
  * Every path is relative to the directory the app is served from, because the
  * app lives in a subdirectory on GitHub Pages.
  */
@@ -11,36 +16,13 @@
 const CACHE_NAME = 'plonkit-learn-v1';
 const DATA_PREFIX = 'data/';
 
-/** The files that make up the app itself. */
-export function shellAssets() {
-  return [
-    './',
-    'index.html',
-    'styles.css',
-    'app.js',
-    'manifest.webmanifest',
-    'js/dom.js',
-    'js/router.js',
-    'js/prefs.js',
-    'js/screens.js',
-    'js/data.js',
-    'js/store.js',
-    'js/md.js',
-    'js/quiz.js',
-    'js/srs.js',
-    'js/stats.js',
-    'icons/icon-192.png',
-    'icons/icon-512.png',
-    'icons/icon-maskable-512.png',
-    'data/index.json',
-  ];
-}
-
 const isServiceWorker =
   typeof self !== 'undefined' && typeof caches !== 'undefined' && typeof self.skipWaiting === 'function';
 
 if (isServiceWorker) {
-  const BASE = new URL('./', self.location).pathname;
+  // The base has to be an absolute URL, not a pathname, or every URL built
+  // from it throws. It carries the subdirectory the app is served from.
+  const BASE = new URL('./', self.location).href;
 
   const resolve = (path) => new URL(path, BASE).toString();
 
@@ -48,8 +30,15 @@ if (isServiceWorker) {
     event.waitUntil(
       (async () => {
         const cache = await caches.open(CACHE_NAME);
+        let assets = [];
+        try {
+          const response = await fetch(resolve('data/shell.json'), { cache: 'reload' });
+          if (response.ok) assets = await response.json();
+        } catch {
+          // Without the list the shell is simply not precached.
+        }
         await Promise.all(
-          shellAssets().map(async (path) => {
+          assets.map(async (path) => {
             try {
               const response = await fetch(resolve(path), { cache: 'reload' });
               if (response.ok) await cache.put(resolve(path), response.clone());

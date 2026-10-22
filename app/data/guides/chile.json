@@ -3,7 +3,7 @@
  "title": "Chile",
  "code": "CL",
  "continent": "South America",
- "hero": "img/chile/hero.webp",
+ "hero": "data/img/chile/hero.webp",
  "metaCount": 64,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "oPtv",
-     "image": "img/chile/oPtv.webp",
+     "image": "data/img/chile/oPtv.webp",
      "mapsUrl": "https://goo.gl/maps/VhAPUMuHCE5DBEGn8",
      "width": 0.5,
      "text": [
@@ -33,7 +33,7 @@
     },
     {
      "id": "cQZV",
-     "image": "img/chile/cQZV.webp",
+     "image": "data/img/chile/cQZV.webp",
      "mapsUrl": "https://goo.gl/maps/PbfTRJSm8EKRi7Y88",
      "width": 0.5,
      "text": [
@@ -46,7 +46,7 @@
     },
     {
      "id": "y9xj",
-     "image": "img/chile/y9xj.webp",
+     "image": "data/img/chile/y9xj.webp",
      "mapsUrl": "https://goo.gl/maps/WxRpuTbuzC5W8zsVA",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "SjoP",
-     "image": "img/chile/SjoP.webp",
+     "image": "data/img/chile/SjoP.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "dkLn",
-     "image": "img/chile/dkLn.webp",
+     "image": "data/img/chile/dkLn.webp",
      "mapsUrl": "https://goo.gl/maps/i3K1P7vz84c6BX6P9",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "fmHE",
-     "image": "img/chile/fmHE.webp",
+     "image": "data/img/chile/fmHE.webp",
      "mapsUrl": "https://maps.app.goo.gl/23cfpeUMuf1nrZ7P8",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "tCeP",
-     "image": "img/chile/tCeP.webp",
+     "image": "data/img/chile/tCeP.webp",
      "mapsUrl": "https://goo.gl/maps/R34MsRbL6RxhF4HY8",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "DbSe",
-     "image": "img/chile/DbSe.webp",
+     "image": "data/img/chile/DbSe.webp",
      "mapsUrl": "https://goo.gl/maps/PNoXXNqv4QDUh3rF9",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "uW2V",
-     "image": "img/chile/uW2V.webp",
+     "image": "data/img/chile/uW2V.webp",
      "mapsUrl": "https://goo.gl/maps/nPpsUWs4uuPDVjSc7",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
    "metas": [
     {
      "id": "fFHl",
-     "image": "img/chile/fFHl.webp",
+     "image": "data/img/chile/fFHl.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chile_map_of_K%C3%B6ppen_climate_classification_with_new_classification_types.svg/2048px-Chile_map_of_K%C3%B6ppen_climate_classification_with_new_classification_types.svg.png",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "JwjE",
-     "image": "img/chile/JwjE.webp",
+     "image": "data/img/chile/JwjE.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "GhN0",
-     "image": "img/chile/GhN0.webp",
+     "image": "data/img/chile/GhN0.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "DDG0",
-     "image": "img/chile/DDG0.webp",
+     "image": "data/img/chile/DDG0.webp",
      "mapsUrl": "https://goo.gl/maps/DjsTsUnvvDHE1rTXA",
      "width": 0.573,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "UfwZ",
-     "image": "img/chile/UfwZ.webp",
+     "image": "data/img/chile/UfwZ.webp",
      "mapsUrl": "https://goo.gl/maps/vL6uzWGMby1tNPJx8",
      "width": 0.573,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "8vz6",
-     "image": "img/chile/8vz6.webp",
+     "image": "data/img/chile/8vz6.webp",
      "mapsUrl": "https://goo.gl/maps/CaUwY8rLKgR9YaCAA",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "hgxy",
-     "image": "img/chile/hgxy.webp",
+     "image": "data/img/chile/hgxy.webp",
      "mapsUrl": "https://goo.gl/maps/CHMtHiiy1tQacC587",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "ylGg",
-     "image": "img/chile/ylGg.webp",
+     "image": "data/img/chile/ylGg.webp",
      "mapsUrl": "https://goo.gl/maps/zYK8vTz7dntHaSqP6",
      "width": 0.573,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "rsYl",
-     "image": "img/chile/rsYl.webp",
+     "image": "data/img/chile/rsYl.webp",
      "mapsUrl": "https://maps.app.goo.gl/E7YdsuR5wzCQppER9",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "2h86",
-     "image": "img/chile/2h86.webp",
+     "image": "data/img/chile/2h86.webp",
      "mapsUrl": "https://maps.app.goo.gl/gZwrojTtSbknhDmo9",
      "width": 0.573,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "1mL6",
-     "image": "img/chile/1mL6.webp",
+     "image": "data/img/chile/1mL6.webp",
      "mapsUrl": "https://goo.gl/maps/bpUgaQY6RqpyJufy8",
      "width": 0.573,
      "text": [
@@ -230,7 +230,7 @@
     },
     {
      "id": "dcv9",
-     "image": "img/chile/dcv9.webp",
+     "image": "data/img/chile/dcv9.webp",
      "mapsUrl": "https://goo.gl/maps/Z1HFbyH8mVW22YJeA",
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "Jl4B",
-     "image": "img/chile/Jl4B.webp",
+     "image": "data/img/chile/Jl4B.webp",
      "mapsUrl": "https://goo.gl/maps/JeHErTZvKEZKGqPX6",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "Dq9Y",
-     "image": "img/chile/Dq9Y.webp",
+     "image": "data/img/chile/Dq9Y.webp",
      "mapsUrl": "https://goo.gl/maps/8pgpdLa2PBzvDgeKA",
      "width": 0.573,
      "text": [
@@ -259,7 +259,7 @@
     },
     {
      "id": "Gw6y",
-     "image": "img/chile/Gw6y.webp",
+     "image": "data/img/chile/Gw6y.webp",
      "mapsUrl": "https://goo.gl/maps/fKBjAveb1dYtz8Yf9",
      "width": 0.573,
      "text": [
@@ -268,7 +268,7 @@
     },
     {
      "id": "C3HY",
-     "image": "img/chile/C3HY.webp",
+     "image": "data/img/chile/C3HY.webp",
      "mapsUrl": "https://maps.app.goo.gl/jgF9W2ZUAnx4nKV27",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "CYSq",
-     "image": "img/chile/CYSq.webp",
+     "image": "data/img/chile/CYSq.webp",
      "mapsUrl": "https://goo.gl/maps/EnzfXixtbLdBa4Mm9",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "nN6I",
-     "image": "img/chile/nN6I.webp",
+     "image": "data/img/chile/nN6I.webp",
      "mapsUrl": "https://maps.app.goo.gl/EFDmCcZLhdSCP3599",
      "width": 0.573,
      "text": [
@@ -339,7 +339,7 @@
    "metas": [
     {
      "id": "BUtb",
-     "image": "img/chile/BUtb.webp",
+     "image": "data/img/chile/BUtb.webp",
      "mapsUrl": "https://goo.gl/maps/mFNjpjmaCpnHqqKF9",
      "width": 0.573,
      "text": [
@@ -348,7 +348,7 @@
     },
     {
      "id": "vasL",
-     "image": "img/chile/vasL.webp",
+     "image": "data/img/chile/vasL.webp",
      "mapsUrl": "https://goo.gl/maps/H22evjrYceQvBdRW6",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "90Z1",
-     "image": "img/chile/90Z1.webp",
+     "image": "data/img/chile/90Z1.webp",
      "mapsUrl": "https://goo.gl/maps/xnZVwVczikasUdqP6",
      "width": 0.573,
      "text": [
@@ -367,7 +367,7 @@
     },
     {
      "id": "Zgh9",
-     "image": "img/chile/Zgh9.webp",
+     "image": "data/img/chile/Zgh9.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "s7lU",
-     "image": "img/chile/s7lU.webp",
+     "image": "data/img/chile/s7lU.webp",
      "mapsUrl": "https://goo.gl/maps/QRgjeXoyz2GdfcS79",
      "width": 0.573,
      "text": [
@@ -386,7 +386,7 @@
     },
     {
      "id": "0Utw",
-     "image": "img/chile/0Utw.webp",
+     "image": "data/img/chile/0Utw.webp",
      "mapsUrl": "https://goo.gl/maps/43tBTJL8c9o2Bkn27",
      "width": 0.573,
      "text": [
@@ -395,7 +395,7 @@
     },
     {
      "id": "vcdo",
-     "image": "img/chile/vcdo.webp",
+     "image": "data/img/chile/vcdo.webp",
      "mapsUrl": "https://maps.app.goo.gl/4muBTL7PdEf2vghe7",
      "width": 0.573,
      "text": [
@@ -405,7 +405,7 @@
     },
     {
      "id": "mOVz",
-     "image": "img/chile/mOVz.webp",
+     "image": "data/img/chile/mOVz.webp",
      "mapsUrl": "https://goo.gl/maps/nQFNWkg5gTXxuAXR7",
      "width": 0.573,
      "text": [
@@ -414,7 +414,7 @@
     },
     {
      "id": "jabn",
-     "image": "img/chile/jabn.webp",
+     "image": "data/img/chile/jabn.webp",
      "mapsUrl": "https://goo.gl/maps/fMm9HPQ1x245f8L98",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "96JZ",
-     "image": "img/chile/96JZ.webp",
+     "image": "data/img/chile/96JZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/FHUmhtU7ZWJK7pej7",
      "width": 0.573,
      "text": [
@@ -432,7 +432,7 @@
     },
     {
      "id": "nGYF",
-     "image": "img/chile/nGYF.webp",
+     "image": "data/img/chile/nGYF.webp",
      "mapsUrl": "https://goo.gl/maps/4LjMG6AdTP2Sz9un9",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "exGJ",
-     "image": "img/chile/exGJ.webp",
+     "image": "data/img/chile/exGJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/VUMjTsMeg4WaBT7PA",
      "width": 0.573,
      "text": [
@@ -451,7 +451,7 @@
     },
     {
      "id": "R9PE",
-     "image": "img/chile/R9PE.webp",
+     "image": "data/img/chile/R9PE.webp",
      "mapsUrl": "https://goo.gl/maps/vyQdbTpi3NKK7PSY9",
      "width": 0.573,
      "text": [
@@ -461,7 +461,7 @@
     },
     {
      "id": "nARv",
-     "image": "img/chile/nARv.webp",
+     "image": "data/img/chile/nARv.webp",
      "mapsUrl": "https://goo.gl/maps/ugDgkhN1ziUumbPY7",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "Imir",
-     "image": "img/chile/Imir.webp",
+     "image": "data/img/chile/Imir.webp",
      "mapsUrl": "https://goo.gl/maps/CiG5tKSCzU3nJ1hE9",
      "width": 0.573,
      "text": [
@@ -480,7 +480,7 @@
     },
     {
      "id": "rTlS",
-     "image": "img/chile/rTlS.webp",
+     "image": "data/img/chile/rTlS.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZtsVrtA4eBF7CVdc7",
      "width": 0.573,
      "text": [
@@ -489,7 +489,7 @@
     },
     {
      "id": "tcEu",
-     "image": "img/chile/tcEu.webp",
+     "image": "data/img/chile/tcEu.webp",
      "mapsUrl": "https://maps.app.goo.gl/mjz5uizLMw75VKdz8",
      "width": 0.573,
      "text": [
@@ -498,7 +498,7 @@
     },
     {
      "id": "Pjto",
-     "image": "img/chile/Pjto.webp",
+     "image": "data/img/chile/Pjto.webp",
      "mapsUrl": "https://goo.gl/maps/ZsA5U5DqrdCLC5Zx7",
      "width": 0.573,
      "text": [
@@ -507,7 +507,7 @@
     },
     {
      "id": "ejML",
-     "image": "img/chile/ejML.webp",
+     "image": "data/img/chile/ejML.webp",
      "mapsUrl": "https://goo.gl/maps/Rdab9qz9NjJoDFFH8",
      "width": 0.573,
      "text": [
@@ -516,7 +516,7 @@
     },
     {
      "id": "jKZj",
-     "image": "img/chile/jKZj.webp",
+     "image": "data/img/chile/jKZj.webp",
      "mapsUrl": "https://goo.gl/maps/3xTKLP1xgNezJmab8",
      "width": 0.573,
      "text": [
@@ -525,7 +525,7 @@
     },
     {
      "id": "c7Jz",
-     "image": "img/chile/c7Jz.webp",
+     "image": "data/img/chile/c7Jz.webp",
      "mapsUrl": "https://maps.app.goo.gl/CoQmJmvhNpF24FPf7",
      "width": 0.573,
      "text": [
@@ -534,7 +534,7 @@
     },
     {
      "id": "0n0t",
-     "image": "img/chile/0n0t.webp",
+     "image": "data/img/chile/0n0t.webp",
      "mapsUrl": "https://goo.gl/maps/JcJXFTavR3Gj6DKD8",
      "width": 0.573,
      "text": [
@@ -544,7 +544,7 @@
     },
     {
      "id": "YjE4",
-     "image": "img/chile/YjE4.webp",
+     "image": "data/img/chile/YjE4.webp",
      "mapsUrl": "https://goo.gl/maps/bHkJ1g7jCgEZwveM8",
      "width": 0.573,
      "text": [
@@ -553,7 +553,7 @@
     },
     {
      "id": "EIJH",
-     "image": "img/chile/EIJH.webp",
+     "image": "data/img/chile/EIJH.webp",
      "mapsUrl": "https://goo.gl/maps/ZkJYQXYkE9mrnsUu9",
      "width": 0.573,
      "text": [
@@ -562,7 +562,7 @@
     },
     {
      "id": "nI4v",
-     "image": "img/chile/nI4v.webp",
+     "image": "data/img/chile/nI4v.webp",
      "mapsUrl": "https://goo.gl/maps/UuMtjsAuieicfLtd9",
      "width": 0.573,
      "text": [
@@ -571,7 +571,7 @@
     },
     {
      "id": "DujH",
-     "image": "img/chile/DujH.webp",
+     "image": "data/img/chile/DujH.webp",
      "mapsUrl": "https://goo.gl/maps/uk3EgmmanPoSCNpV8",
      "width": 0.573,
      "text": [
@@ -580,7 +580,7 @@
     },
     {
      "id": "6sv4",
-     "image": "img/chile/6sv4.webp",
+     "image": "data/img/chile/6sv4.webp",
      "mapsUrl": "https://goo.gl/maps/b28G24k8vf6iCsv57",
      "width": 0.573,
      "text": [
@@ -589,7 +589,7 @@
     },
     {
      "id": "PgUw",
-     "image": "img/chile/PgUw.webp",
+     "image": "data/img/chile/PgUw.webp",
      "mapsUrl": "https://goo.gl/maps/rt9BhmPU4eTh3jK99",
      "width": 0.573,
      "text": [
@@ -598,7 +598,7 @@
     },
     {
      "id": "YLxR",
-     "image": "img/chile/YLxR.webp",
+     "image": "data/img/chile/YLxR.webp",
      "mapsUrl": "https://goo.gl/maps/2DhibgapQJGLBkVp7",
      "width": 0.573,
      "text": [
@@ -607,7 +607,7 @@
     },
     {
      "id": "Pt3R",
-     "image": "img/chile/Pt3R.webp",
+     "image": "data/img/chile/Pt3R.webp",
      "mapsUrl": "https://maps.app.goo.gl/R8jKYRN6vEqrTCUPA",
      "width": 0.573,
      "text": [
@@ -616,7 +616,7 @@
     },
     {
      "id": "69po",
-     "image": "img/chile/69po.webp",
+     "image": "data/img/chile/69po.webp",
      "mapsUrl": "https://goo.gl/maps/mpamVxLtLE6Q7jDr5",
      "width": 0.573,
      "text": [
@@ -625,7 +625,7 @@
     },
     {
      "id": "PmJu",
-     "image": "img/chile/PmJu.webp",
+     "image": "data/img/chile/PmJu.webp",
      "mapsUrl": "https://goo.gl/maps/qBUxhzRVDdRTMEgKA",
      "width": 0.573,
      "text": [
@@ -634,7 +634,7 @@
     },
     {
      "id": "t5nN",
-     "image": "img/chile/t5nN.webp",
+     "image": "data/img/chile/t5nN.webp",
      "mapsUrl": "https://goo.gl/maps/DtDV21HPTutHCZ6b8",
      "width": 0.573,
      "text": [
@@ -644,7 +644,7 @@
     },
     {
      "id": "CmTv",
-     "image": "img/chile/CmTv.webp",
+     "image": "data/img/chile/CmTv.webp",
      "mapsUrl": "https://goo.gl/maps/Xuirnb6wH75bJcVq8",
      "width": 0.573,
      "text": [
@@ -653,7 +653,7 @@
     },
     {
      "id": "rzZ2",
-     "image": "img/chile/rzZ2.webp",
+     "image": "data/img/chile/rzZ2.webp",
      "mapsUrl": "https://goo.gl/maps/SsyzPSHSiurtbWqdA",
      "width": 0.573,
      "text": [
@@ -662,7 +662,7 @@
     },
     {
      "id": "KTxH",
-     "image": "img/chile/KTxH.webp",
+     "image": "data/img/chile/KTxH.webp",
      "mapsUrl": "https://goo.gl/maps/euGRPNbRFKKxkuZPA",
      "width": 0.573,
      "text": [
@@ -672,7 +672,7 @@
     },
     {
      "id": "kuAd",
-     "image": "img/chile/kuAd.webp",
+     "image": "data/img/chile/kuAd.webp",
      "mapsUrl": "https://goo.gl/maps/i31kFzdBpsQakRyH7",
      "width": 0.573,
      "text": [

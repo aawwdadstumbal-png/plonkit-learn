@@ -3,7 +3,7 @@
  "title": "Kazakhstan",
  "code": "KZ",
  "continent": "Asia",
- "hero": "img/kazakhstan/hero.webp",
+ "hero": "data/img/kazakhstan/hero.webp",
  "metaCount": 56,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "8SED",
-     "image": "img/kazakhstan/8SED.webp",
+     "image": "data/img/kazakhstan/8SED.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "GFIL",
-     "image": "img/kazakhstan/GFIL.webp",
+     "image": "data/img/kazakhstan/GFIL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "tn7H",
-     "image": "img/kazakhstan/tn7H.webp",
+     "image": "data/img/kazakhstan/tn7H.webp",
      "mapsUrl": "https://goo.gl/maps/rZ3XDrvPhDHjbVhy8",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "RN95",
-     "image": "img/kazakhstan/RN95.webp",
+     "image": "data/img/kazakhstan/RN95.webp",
      "mapsUrl": "https://goo.gl/maps/2ZRXWjDv81ta425K6",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "V4BR",
-     "image": "img/kazakhstan/V4BR.webp",
+     "image": "data/img/kazakhstan/V4BR.webp",
      "mapsUrl": "https://goo.gl/maps/f8m3jyjq9y9K2tzS8",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "hnfg",
-     "image": "img/kazakhstan/hnfg.webp",
+     "image": "data/img/kazakhstan/hnfg.webp",
      "mapsUrl": "https://goo.gl/maps/3Mi2p7jR1KeW1XoS8",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "tkTf",
-     "image": "img/kazakhstan/tkTf.webp",
+     "image": "data/img/kazakhstan/tkTf.webp",
      "mapsUrl": "https://maps.app.goo.gl/b3EmA9oRNTjQ4ob67",
      "width": 1,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "O76W",
-     "image": "img/kazakhstan/O76W.webp",
+     "image": "data/img/kazakhstan/O76W.webp",
      "mapsUrl": "https://goo.gl/maps/gi76pxUC4gZeN2ux6",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "jwH7",
-     "image": "img/kazakhstan/jwH7.webp",
+     "image": "data/img/kazakhstan/jwH7.webp",
      "mapsUrl": "https://goo.gl/maps/ANcPmXfc6W6q9kVh9",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "PuS7",
-     "image": "img/kazakhstan/PuS7.webp",
+     "image": "data/img/kazakhstan/PuS7.webp",
      "mapsUrl": "https://goo.gl/maps/wEzLUGufJpVwNdWEA",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "2N2f",
-     "image": "img/kazakhstan/2N2f.webp",
+     "image": "data/img/kazakhstan/2N2f.webp",
      "mapsUrl": "https://goo.gl/maps/TdPVxubp5SYaARVd9 ",
      "width": 0.5,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "k30n",
-     "image": "img/kazakhstan/k30n.webp",
+     "image": "data/img/kazakhstan/k30n.webp",
      "mapsUrl": "https://goo.gl/maps/aeqbij7vcqqXyYcm8",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "uMOg",
-     "image": "img/kazakhstan/uMOg.webp",
+     "image": "data/img/kazakhstan/uMOg.webp",
      "mapsUrl": "https://goo.gl/maps/sMfbjenxcLdMAZBR9",
      "width": 0.5,
      "text": [
@@ -165,7 +165,7 @@
    "metas": [
     {
      "id": "6NZ7",
-     "image": "img/kazakhstan/6NZ7.webp",
+     "image": "data/img/kazakhstan/6NZ7.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "MhXe",
-     "image": "img/kazakhstan/MhXe.webp",
+     "image": "data/img/kazakhstan/MhXe.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -186,7 +186,7 @@
     },
     {
      "id": "UPTe",
-     "image": "img/kazakhstan/UPTe.webp",
+     "image": "data/img/kazakhstan/UPTe.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -195,7 +195,7 @@
     },
     {
      "id": "m4nO",
-     "image": "img/kazakhstan/m4nO.webp",
+     "image": "data/img/kazakhstan/m4nO.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -204,7 +204,7 @@
     },
     {
      "id": "WT7C",
-     "image": "img/kazakhstan/WT7C.webp",
+     "image": "data/img/kazakhstan/WT7C.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -213,7 +213,7 @@
     },
     {
      "id": "TwXs",
-     "image": "img/kazakhstan/TwXs.webp",
+     "image": "data/img/kazakhstan/TwXs.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "6CPu",
-     "image": "img/kazakhstan/6CPu.webp",
+     "image": "data/img/kazakhstan/6CPu.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -234,7 +234,7 @@
     },
     {
      "id": "0CRH",
-     "image": "img/kazakhstan/0CRH.webp",
+     "image": "data/img/kazakhstan/0CRH.webp",
      "mapsUrl": "https://goo.gl/maps/DXWcypyuT4ycAAPy8",
      "width": 0.573,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "p3lc",
-     "image": "img/kazakhstan/p3lc.webp",
+     "image": "data/img/kazakhstan/p3lc.webp",
      "mapsUrl": "https://goo.gl/maps/KTgpe3A5at44N5Do9",
      "width": 0.573,
      "text": [
@@ -253,7 +253,7 @@
     },
     {
      "id": "362d",
-     "image": "img/kazakhstan/362d.webp",
+     "image": "data/img/kazakhstan/362d.webp",
      "mapsUrl": "https://goo.gl/maps/RaavRUnvoViK259B6",
      "width": 0.573,
      "text": [
@@ -262,7 +262,7 @@
     },
     {
      "id": "gVH6",
-     "image": "img/kazakhstan/gVH6.webp",
+     "image": "data/img/kazakhstan/gVH6.webp",
      "mapsUrl": "https://goo.gl/maps/nKSzdoj7PHc2dqph6",
      "width": 0.573,
      "text": [
@@ -271,7 +271,7 @@
     },
     {
      "id": "uMS6",
-     "image": "img/kazakhstan/uMS6.webp",
+     "image": "data/img/kazakhstan/uMS6.webp",
      "mapsUrl": "https://goo.gl/maps/w2Lx25Fw9NzGH72q8",
      "width": 0.573,
      "text": [
@@ -280,7 +280,7 @@
     },
     {
      "id": "YIaa",
-     "image": "img/kazakhstan/YIaa.webp",
+     "image": "data/img/kazakhstan/YIaa.webp",
      "mapsUrl": "https://goo.gl/maps/iWtBDXfYzzo9fKGaA",
      "width": 0.573,
      "text": [
@@ -289,7 +289,7 @@
     },
     {
      "id": "YYgc",
-     "image": "img/kazakhstan/YYgc.webp",
+     "image": "data/img/kazakhstan/YYgc.webp",
      "mapsUrl": "https://goo.gl/maps/y3N7fYzo1tBuiD9a9",
      "width": 0.573,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "7vOg",
-     "image": "img/kazakhstan/7vOg.webp",
+     "image": "data/img/kazakhstan/7vOg.webp",
      "mapsUrl": "https://goo.gl/maps/oBYpF7PFwuEsMU9f7",
      "width": 0.573,
      "text": [
@@ -308,7 +308,7 @@
     },
     {
      "id": "1BP4",
-     "image": "img/kazakhstan/1BP4.webp",
+     "image": "data/img/kazakhstan/1BP4.webp",
      "mapsUrl": "https://www.google.com/maps/@50.7440293,79.638343,3a,56.9y,191.45h,91.27t/data=!3m6!1e1!3m4!1s8t9B23yjHYrNizWnjeccNA!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -317,7 +317,7 @@
     },
     {
      "id": "cODv",
-     "image": "img/kazakhstan/cODv.webp",
+     "image": "data/img/kazakhstan/cODv.webp",
      "mapsUrl": "https://goo.gl/maps/shipQebTjka7isAp7",
      "width": 0.573,
      "text": [
@@ -327,7 +327,7 @@
     },
     {
      "id": "kDlO",
-     "image": "img/kazakhstan/kDlO.webp",
+     "image": "data/img/kazakhstan/kDlO.webp",
      "mapsUrl": "https://goo.gl/maps/jcDmg59tNtYyNdbaA",
      "width": 0.573,
      "text": [
@@ -337,7 +337,7 @@
     },
     {
      "id": "dgAW",
-     "image": "img/kazakhstan/dgAW.webp",
+     "image": "data/img/kazakhstan/dgAW.webp",
      "mapsUrl": "https://goo.gl/maps/pzJ8969KxzLovdBp9",
      "width": 0.573,
      "text": [
@@ -347,7 +347,7 @@
     },
     {
      "id": "iVpz",
-     "image": "img/kazakhstan/iVpz.webp",
+     "image": "data/img/kazakhstan/iVpz.webp",
      "mapsUrl": "https://goo.gl/maps/PTiQ8pbB2Lddeh6B8",
      "width": 0.573,
      "text": [
@@ -357,7 +357,7 @@
     },
     {
      "id": "kPVj",
-     "image": "img/kazakhstan/kPVj.webp",
+     "image": "data/img/kazakhstan/kPVj.webp",
      "mapsUrl": "https://goo.gl/maps/Gea1Y74YinzhydW86",
      "width": 0.573,
      "text": [
@@ -367,7 +367,7 @@
     },
     {
      "id": "67Pc",
-     "image": "img/kazakhstan/67Pc.webp",
+     "image": "data/img/kazakhstan/67Pc.webp",
      "mapsUrl": "https://goo.gl/maps/VsAdsMu2mBuMxHGQ8",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
     },
     {
      "id": "ULz4",
-     "image": "img/kazakhstan/ULz4.webp",
+     "image": "data/img/kazakhstan/ULz4.webp",
      "mapsUrl": "https://goo.gl/maps/rSwfaA6MKBsNpa5K9",
      "width": 0.573,
      "text": [
@@ -389,7 +389,7 @@
     },
     {
      "id": "538W",
-     "image": "img/kazakhstan/538W.webp",
+     "image": "data/img/kazakhstan/538W.webp",
      "mapsUrl": "https://goo.gl/maps/ajsMDAEiAnEKVAHLA",
      "width": 0.573,
      "text": [
@@ -401,7 +401,7 @@
     },
     {
      "id": "qqrg",
-     "image": "img/kazakhstan/qqrg.webp",
+     "image": "data/img/kazakhstan/qqrg.webp",
      "mapsUrl": "https://maps.app.goo.gl/trL2dN3Hejt2dBck9",
      "width": 0.573,
      "text": [
@@ -412,7 +412,7 @@
     },
     {
      "id": "iCTz",
-     "image": "img/kazakhstan/iCTz.webp",
+     "image": "data/img/kazakhstan/iCTz.webp",
      "mapsUrl": "https://goo.gl/maps/LQy6Zcq422sar2Yw5",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "7F8W",
-     "image": "img/kazakhstan/7F8W.webp",
+     "image": "data/img/kazakhstan/7F8W.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "OjvE",
-     "image": "img/kazakhstan/OjvE.webp",
+     "image": "data/img/kazakhstan/OjvE.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "Jgrt",
-     "image": "img/kazakhstan/Jgrt.webp",
+     "image": "data/img/kazakhstan/Jgrt.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "IyXt",
-     "image": "img/kazakhstan/IyXt.webp",
+     "image": "data/img/kazakhstan/IyXt.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "Dsyl",
-     "image": "img/kazakhstan/Dsyl.webp",
+     "image": "data/img/kazakhstan/Dsyl.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -499,7 +499,7 @@
     },
     {
      "id": "yBGD",
-     "image": "img/kazakhstan/yBGD.webp",
+     "image": "data/img/kazakhstan/yBGD.webp",
      "mapsUrl": "https://goo.gl/maps/6iy1g2RCDa3wTLJf6",
      "width": 0.573,
      "text": [
@@ -508,7 +508,7 @@
     },
     {
      "id": "W4LU",
-     "image": "img/kazakhstan/W4LU.webp",
+     "image": "data/img/kazakhstan/W4LU.webp",
      "mapsUrl": "https://maps.app.goo.gl/nLNRE7nigcNXcr9s7",
      "width": 0.573,
      "text": [
@@ -517,7 +517,7 @@
     },
     {
      "id": "1MSo",
-     "image": "img/kazakhstan/1MSo.webp",
+     "image": "data/img/kazakhstan/1MSo.webp",
      "mapsUrl": "https://maps.app.goo.gl/tkuVaBCjVSZsVDD19",
      "width": 0.573,
      "text": [
@@ -526,7 +526,7 @@
     },
     {
      "id": "DEVq",
-     "image": "img/kazakhstan/DEVq.webp",
+     "image": "data/img/kazakhstan/DEVq.webp",
      "mapsUrl": "https://goo.gl/maps/QgRWrJZaLaox8Mgy5",
      "width": 0.573,
      "text": [
@@ -535,7 +535,7 @@
     },
     {
      "id": "2bcA",
-     "image": "img/kazakhstan/2bcA.webp",
+     "image": "data/img/kazakhstan/2bcA.webp",
      "mapsUrl": "https://goo.gl/maps/z4FcHVc7CpP6po76A",
      "width": 0.573,
      "text": [
@@ -553,7 +553,7 @@
    "metas": [
     {
      "id": "iCsU",
-     "image": "img/kazakhstan/iCsU.webp",
+     "image": "data/img/kazakhstan/iCsU.webp",
      "mapsUrl": "https://goo.gl/maps/yeSdQBX3tsVZtVYVA",
      "width": 0.573,
      "text": [
@@ -563,7 +563,7 @@
     },
     {
      "id": "riSN",
-     "image": "img/kazakhstan/riSN.webp",
+     "image": "data/img/kazakhstan/riSN.webp",
      "mapsUrl": "https://goo.gl/maps/x1Li53eCEt2eLeBr8",
      "width": 0.573,
      "text": [
@@ -572,7 +572,7 @@
     },
     {
      "id": "Zys3",
-     "image": "img/kazakhstan/Zys3.webp",
+     "image": "data/img/kazakhstan/Zys3.webp",
      "mapsUrl": "https://goo.gl/maps/8A9oVRFZUz5X3FSWA",
      "width": 0.573,
      "text": [
@@ -581,7 +581,7 @@
     },
     {
      "id": "qp33",
-     "image": "img/kazakhstan/qp33.webp",
+     "image": "data/img/kazakhstan/qp33.webp",
      "mapsUrl": "https://goo.gl/maps/qg4FgY2ViXwCEVRa7",
      "width": 0.573,
      "text": [
@@ -590,7 +590,7 @@
     },
     {
      "id": "F1Ro",
-     "image": "img/kazakhstan/F1Ro.webp",
+     "image": "data/img/kazakhstan/F1Ro.webp",
      "mapsUrl": "https://goo.gl/maps/o34EJR1xxJ4hBzY3A",
      "width": 0.573,
      "text": [
@@ -599,7 +599,7 @@
     },
     {
      "id": "LH5C",
-     "image": "img/kazakhstan/LH5C.webp",
+     "image": "data/img/kazakhstan/LH5C.webp",
      "mapsUrl": "https://goo.gl/maps/eu8e6ovF9cJFjPt37",
      "width": 0.573,
      "text": [
@@ -608,7 +608,7 @@
     },
     {
      "id": "AQeC",
-     "image": "img/kazakhstan/AQeC.webp",
+     "image": "data/img/kazakhstan/AQeC.webp",
      "mapsUrl": "https://goo.gl/maps/q6c7ZXVFQtq9Sd3F9",
      "width": 0.573,
      "text": [

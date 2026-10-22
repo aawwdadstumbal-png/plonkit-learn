@@ -3,7 +3,7 @@
  "title": "Tunisia",
  "code": "TN",
  "continent": "Africa",
- "hero": "img/tunisia/hero.webp",
+ "hero": "data/img/tunisia/hero.webp",
  "metaCount": 29,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "1chu",
-     "image": "img/tunisia/1chu.webp",
+     "image": "data/img/tunisia/1chu.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "LVo2",
-     "image": "img/tunisia/LVo2.webp",
+     "image": "data/img/tunisia/LVo2.webp",
      "mapsUrl": "https://goo.gl/maps/thZSGfK31DS18U4J6",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "qWoW",
-     "image": "img/tunisia/qWoW.webp",
+     "image": "data/img/tunisia/qWoW.webp",
      "mapsUrl": "https://goo.gl/maps/skcpsz72nqLdwzrU8",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "1Ppw",
-     "image": "img/tunisia/1Ppw.webp",
+     "image": "data/img/tunisia/1Ppw.webp",
      "mapsUrl": "https://goo.gl/maps/yQgroSR5eL3YjW4DA",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "RpiN",
-     "image": "img/tunisia/RpiN.webp",
+     "image": "data/img/tunisia/RpiN.webp",
      "mapsUrl": "https://goo.gl/maps/mRG4SkRu3NFCshi56",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "WjkC",
-     "image": "img/tunisia/WjkC.webp",
+     "image": "data/img/tunisia/WjkC.webp",
      "mapsUrl": "https://goo.gl/maps/hQ1CneNc3KVJLCvz9",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "64G4",
-     "image": "img/tunisia/64G4.webp",
+     "image": "data/img/tunisia/64G4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "2bxW",
-     "image": "img/tunisia/2bxW.webp",
+     "image": "data/img/tunisia/2bxW.webp",
      "mapsUrl": "https://goo.gl/maps/hQ1CneNc3KVJLCvz9",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "ydyn",
-     "image": "img/tunisia/ydyn.webp",
+     "image": "data/img/tunisia/ydyn.webp",
      "mapsUrl": "https://goo.gl/maps/JfM4JQtJZ4F7baGQ7",
      "width": 0.5,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "3AwV",
-     "image": "img/tunisia/3AwV.webp",
+     "image": "data/img/tunisia/3AwV.webp",
      "mapsUrl": "https://goo.gl/maps/G1kJPhwDg39dEDQx7",
      "width": 0.5,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "g0dg",
-     "image": "img/tunisia/g0dg.webp",
+     "image": "data/img/tunisia/g0dg.webp",
      "mapsUrl": "https://goo.gl/maps/cDF9ZJSu6CUrfX9M9",
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "2b6O",
-     "image": "img/tunisia/2b6O.webp",
+     "image": "data/img/tunisia/2b6O.webp",
      "mapsUrl": "https://goo.gl/maps/jW5ehwwBT7HTv2NBA",
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
    "metas": [
     {
      "id": "V6UL",
-     "image": "img/tunisia/V6UL.webp",
+     "image": "data/img/tunisia/V6UL.webp",
      "mapsUrl": null,
      "width": 0.417,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "3nZC",
-     "image": "img/tunisia/3nZC.webp",
+     "image": "data/img/tunisia/3nZC.webp",
      "mapsUrl": "https://goo.gl/maps/uX7XBSih82pM4H646",
      "width": 0.573,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "jiMW",
-     "image": "img/tunisia/jiMW.webp",
+     "image": "data/img/tunisia/jiMW.webp",
      "mapsUrl": "https://goo.gl/maps/FxDexhTFBajv1pVo8",
      "width": 0.573,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "NNjW",
-     "image": "img/tunisia/NNjW.webp",
+     "image": "data/img/tunisia/NNjW.webp",
      "mapsUrl": "https://goo.gl/maps/ypV2X4f88eVjsqRF6",
      "width": 0.573,
      "text": [
@@ -185,7 +185,7 @@
     },
     {
      "id": "deGy",
-     "image": "img/tunisia/deGy.webp",
+     "image": "data/img/tunisia/deGy.webp",
      "mapsUrl": "https://goo.gl/maps/TYsTYQxbayDt9SU77",
      "width": 0.573,
      "text": [
@@ -195,7 +195,7 @@
     },
     {
      "id": "IOGg",
-     "image": "img/tunisia/IOGg.webp",
+     "image": "data/img/tunisia/IOGg.webp",
      "mapsUrl": "https://goo.gl/maps/fY8AruYDYGHQA9FM8",
      "width": 0.573,
      "text": [
@@ -205,7 +205,7 @@
     },
     {
      "id": "jkNV",
-     "image": "img/tunisia/jkNV.webp",
+     "image": "data/img/tunisia/jkNV.webp",
      "mapsUrl": "https://goo.gl/maps/r61uV1vZgSPs82PR6",
      "width": 0.573,
      "text": [
@@ -214,7 +214,7 @@
     },
     {
      "id": "4ITK",
-     "image": "img/tunisia/4ITK.webp",
+     "image": "data/img/tunisia/4ITK.webp",
      "mapsUrl": "https://goo.gl/maps/xAw6WN9Z7qjQGWb5A",
      "width": 0.573,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "K7Lw",
-     "image": "img/tunisia/K7Lw.webp",
+     "image": "data/img/tunisia/K7Lw.webp",
      "mapsUrl": "https://goo.gl/maps/A8aUJ9L7rvjJreJ58",
      "width": 0.573,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "VJOK",
-     "image": "img/tunisia/VJOK.webp",
+     "image": "data/img/tunisia/VJOK.webp",
      "mapsUrl": "https://goo.gl/maps/xBGiMvfn5HFFZhmP7",
      "width": 0.573,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "DECo",
-     "image": "img/tunisia/DECo.webp",
+     "image": "data/img/tunisia/DECo.webp",
      "mapsUrl": "https://goo.gl/maps/niGniYJgMVZBb4U19",
      "width": 0.573,
      "text": [
@@ -260,7 +260,7 @@
    "metas": [
     {
      "id": "3PaS",
-     "image": "img/tunisia/3PaS.webp",
+     "image": "data/img/tunisia/3PaS.webp",
      "mapsUrl": "https://goo.gl/maps/QGfBCCVsXBFynq1w8",
      "width": 0.573,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "mxuQ",
-     "image": "img/tunisia/mxuQ.webp",
+     "image": "data/img/tunisia/mxuQ.webp",
      "mapsUrl": "https://goo.gl/maps/iT9cGoowHtC4QCcP7",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "J8fI",
-     "image": "img/tunisia/J8fI.webp",
+     "image": "data/img/tunisia/J8fI.webp",
      "mapsUrl": "https://goo.gl/maps/7uZmpYPqHPdJy4PZA",
      "width": 0.573,
      "text": [
@@ -288,7 +288,7 @@
     },
     {
      "id": "IJ7u",
-     "image": "img/tunisia/IJ7u.webp",
+     "image": "data/img/tunisia/IJ7u.webp",
      "mapsUrl": "https://maps.app.goo.gl/S8KkCnVgkca5hnJq5",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "1mUD",
-     "image": "img/tunisia/1mUD.webp",
+     "image": "data/img/tunisia/1mUD.webp",
      "mapsUrl": "https://goo.gl/maps/n3dYqxRjLS6fiNbo6",
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "GWjM",
-     "image": "img/tunisia/GWjM.webp",
+     "image": "data/img/tunisia/GWjM.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [

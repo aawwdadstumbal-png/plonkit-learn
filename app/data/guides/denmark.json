@@ -3,7 +3,7 @@
  "title": "Denmark",
  "code": "DK",
  "continent": "Europe",
- "hero": "img/denmark/hero.webp",
+ "hero": "data/img/denmark/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "I8Xz",
-     "image": "img/denmark/I8Xz.webp",
+     "image": "data/img/denmark/I8Xz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "dC2V",
-     "image": "img/denmark/dC2V.webp",
+     "image": "data/img/denmark/dC2V.webp",
      "mapsUrl": "https://goo.gl/maps/e5smgzqdDAHyKddP7",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "iepe",
-     "image": "img/denmark/iepe.webp",
+     "image": "data/img/denmark/iepe.webp",
      "mapsUrl": "https://goo.gl/maps/jeMYT7nne864hiQ7A",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "o1S7",
-     "image": "img/denmark/o1S7.webp",
+     "image": "data/img/denmark/o1S7.webp",
      "mapsUrl": "https://goo.gl/maps/etSawkoBBBvYemA86",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "SVbg",
-     "image": "img/denmark/SVbg.webp",
+     "image": "data/img/denmark/SVbg.webp",
      "mapsUrl": "https://goo.gl/maps/xt2jxMHjMQivxS8B7",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "qCU5",
-     "image": "img/denmark/qCU5.webp",
+     "image": "data/img/denmark/qCU5.webp",
      "mapsUrl": "https://goo.gl/maps/1HfGZjFxgfTaxR3L6",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "6bR5",
-     "image": "img/denmark/6bR5.webp",
+     "image": "data/img/denmark/6bR5.webp",
      "mapsUrl": "https://goo.gl/maps/hB3ufTfvXba1U1Q26",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "mA1R",
-     "image": "img/denmark/mA1R.webp",
+     "image": "data/img/denmark/mA1R.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "PUXX",
-     "image": "img/denmark/PUXX.webp",
+     "image": "data/img/denmark/PUXX.webp",
      "mapsUrl": "https://goo.gl/maps/GWCwFZbAUeZTdKag8",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "ctgh",
-     "image": "img/denmark/ctgh.webp",
+     "image": "data/img/denmark/ctgh.webp",
      "mapsUrl": "https://goo.gl/maps/NashMa15BuXjoRMp7",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "MZX3",
-     "image": "img/denmark/MZX3.webp",
+     "image": "data/img/denmark/MZX3.webp",
      "mapsUrl": "https://goo.gl/maps/Q1W5og7u9TDx5Fdp6",
      "width": 0.5,
      "text": [
@@ -131,7 +131,7 @@
     },
     {
      "id": "X28G",
-     "image": "img/denmark/X28G.webp",
+     "image": "data/img/denmark/X28G.webp",
      "mapsUrl": "https://goo.gl/maps/WVXwEpoPNuo5468F8",
      "width": 0.5,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "Dfcn",
-     "image": "img/denmark/Dfcn.webp",
+     "image": "data/img/denmark/Dfcn.webp",
      "mapsUrl": "https://goo.gl/maps/F4ALMK8nggKYd2gaA",
      "width": 0.5,
      "text": [
@@ -150,7 +150,7 @@
     },
     {
      "id": "sRx7",
-     "image": "img/denmark/sRx7.webp",
+     "image": "data/img/denmark/sRx7.webp",
      "mapsUrl": "https://goo.gl/maps/eX4qnqpUzQaAdJye7",
      "width": 0.5,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "UVfB",
-     "image": "img/denmark/UVfB.webp",
+     "image": "data/img/denmark/UVfB.webp",
      "mapsUrl": "https://goo.gl/maps/t6QgzJiPipzhkB4H9",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "ulal",
-     "image": "img/denmark/ulal.webp",
+     "image": "data/img/denmark/ulal.webp",
      "mapsUrl": "https://goo.gl/maps/muUpnWhghWgHozsW8",
      "width": 0.5,
      "text": [
@@ -178,7 +178,7 @@
     },
     {
      "id": "bHDl",
-     "image": "img/denmark/bHDl.webp",
+     "image": "data/img/denmark/bHDl.webp",
      "mapsUrl": "https://goo.gl/maps/PRFkDUqgGMiw4Wxu8",
      "width": 0.5,
      "text": [
@@ -187,7 +187,7 @@
     },
     {
      "id": "5z6w",
-     "image": "img/denmark/5z6w.webp",
+     "image": "data/img/denmark/5z6w.webp",
      "mapsUrl": "https://goo.gl/maps/rHndu59edqcWTuso7",
      "width": 0.5,
      "text": [
@@ -196,7 +196,7 @@
     },
     {
      "id": "TriN",
-     "image": "img/denmark/TriN.webp",
+     "image": "data/img/denmark/TriN.webp",
      "mapsUrl": "https://goo.gl/maps/vomjjowjszspFodd8",
      "width": 0.5,
      "text": [
@@ -206,7 +206,7 @@
     },
     {
      "id": "Expm",
-     "image": "img/denmark/Expm.webp",
+     "image": "data/img/denmark/Expm.webp",
      "mapsUrl": "https://goo.gl/maps/SPHtDFBQTLHaFU9EA",
      "width": 0.5,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "dYhG",
-     "image": "img/denmark/dYhG.webp",
+     "image": "data/img/denmark/dYhG.webp",
      "mapsUrl": "https://goo.gl/maps/ue4NuoAibsmbyij88",
      "width": 0.5,
      "text": [
@@ -227,7 +227,7 @@
     },
     {
      "id": "NemR",
-     "image": "img/denmark/NemR.webp",
+     "image": "data/img/denmark/NemR.webp",
      "mapsUrl": "https://goo.gl/maps/Zqr64udnqxjmWY249",
      "width": 0.5,
      "text": [
@@ -245,7 +245,7 @@
    "metas": [
     {
      "id": "Hx8L",
-     "image": "img/denmark/Hx8L.webp",
+     "image": "data/img/denmark/Hx8L.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "Wd1V",
-     "image": "img/denmark/Wd1V.webp",
+     "image": "data/img/denmark/Wd1V.webp",
      "mapsUrl": "https://goo.gl/maps/mta8cerTzoKZPEiXA",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "Fhf5",
-     "image": "img/denmark/Fhf5.webp",
+     "image": "data/img/denmark/Fhf5.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "cK6E",
-     "image": "img/denmark/cK6E.webp",
+     "image": "data/img/denmark/cK6E.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "N0Lu",
-     "image": "img/denmark/N0Lu.webp",
+     "image": "data/img/denmark/N0Lu.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "AQr9",
-     "image": "img/denmark/AQr9.webp",
+     "image": "data/img/denmark/AQr9.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -316,7 +316,7 @@
    "metas": [
     {
      "id": "bVRk",
-     "image": "img/denmark/bVRk.webp",
+     "image": "data/img/denmark/bVRk.webp",
      "mapsUrl": "https://goo.gl/maps/JwApeHPojip87YfL9",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "PXr5",
-     "image": "img/denmark/PXr5.webp",
+     "image": "data/img/denmark/PXr5.webp",
      "mapsUrl": "https://goo.gl/maps/P288rSBFDkYHJbE8A",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "95gK",
-     "image": "img/denmark/95gK.webp",
+     "image": "data/img/denmark/95gK.webp",
      "mapsUrl": "https://maps.app.goo.gl/w5wJZ2S34wktN88m9",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "mbZq",
-     "image": "img/denmark/mbZq.webp",
+     "image": "data/img/denmark/mbZq.webp",
      "mapsUrl": "https://goo.gl/maps/L7rXV3C9Lr6hhoa27",
      "width": 0.573,
      "text": [

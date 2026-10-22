@@ -3,7 +3,7 @@
  "title": "Finland",
  "code": "FI",
  "continent": "Europe",
- "hero": "img/finland/hero.webp",
+ "hero": "data/img/finland/hero.webp",
  "metaCount": 53,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "lUjp",
-     "image": "img/finland/lUjp.webp",
+     "image": "data/img/finland/lUjp.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "601H",
-     "image": "img/finland/601H.webp",
+     "image": "data/img/finland/601H.webp",
      "mapsUrl": "https://goo.gl/maps/RfG5RhsZ5fXDJXEY7",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "p7Kd",
-     "image": "img/finland/p7Kd.webp",
+     "image": "data/img/finland/p7Kd.webp",
      "mapsUrl": "https://goo.gl/maps/LsfK3cHjNohGkC7n9",
      "width": 0.5,
      "text": [
@@ -54,7 +54,7 @@
     },
     {
      "id": "cjgP",
-     "image": "img/finland/cjgP.webp",
+     "image": "data/img/finland/cjgP.webp",
      "mapsUrl": "https://goo.gl/maps/bQdirBvE4rGb6pwUA",
      "width": 0.5,
      "text": [
@@ -64,7 +64,7 @@
     },
     {
      "id": "7DPm",
-     "image": "img/finland/7DPm.webp",
+     "image": "data/img/finland/7DPm.webp",
      "mapsUrl": "https://goo.gl/maps/NTkDWm4tpUURx34P9",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "b6ga",
-     "image": "img/finland/b6ga.webp",
+     "image": "data/img/finland/b6ga.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "dvdW",
-     "image": "img/finland/dvdW.webp",
+     "image": "data/img/finland/dvdW.webp",
      "mapsUrl": "https://goo.gl/maps/xUujXMoUBt1aT5739",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "n3ab",
-     "image": "img/finland/n3ab.webp",
+     "image": "data/img/finland/n3ab.webp",
      "mapsUrl": "https://goo.gl/maps/FUuJayL6xhoBSB9o9",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "XM2x",
-     "image": "img/finland/XM2x.webp",
+     "image": "data/img/finland/XM2x.webp",
      "mapsUrl": "https://goo.gl/maps/9xnRRWDVJycFNRjr7",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "a1ax",
-     "image": "img/finland/a1ax.webp",
+     "image": "data/img/finland/a1ax.webp",
      "mapsUrl": "https://goo.gl/maps/9GyWs8FJKDR9gRim8",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "6iou",
-     "image": "img/finland/6iou.webp",
+     "image": "data/img/finland/6iou.webp",
      "mapsUrl": "https://goo.gl/maps/NxY5j5YWV4C1g1KTA",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "jfJU",
-     "image": "img/finland/jfJU.webp",
+     "image": "data/img/finland/jfJU.webp",
      "mapsUrl": "https://goo.gl/maps/foWQPJYKk864Xs758",
      "width": 0.5,
      "text": [
@@ -143,7 +143,7 @@
     },
     {
      "id": "8fWv",
-     "image": "img/finland/8fWv.webp",
+     "image": "data/img/finland/8fWv.webp",
      "mapsUrl": "https://goo.gl/maps/gUNSiqA1rAeLo2yB7",
      "width": 0.5,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "LRoW",
-     "image": "img/finland/LRoW.webp",
+     "image": "data/img/finland/LRoW.webp",
      "mapsUrl": "https://maps.app.goo.gl/vrLd4Y4oRFNBEb6g6",
      "width": 0.5,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "A2lU",
-     "image": "img/finland/A2lU.webp",
+     "image": "data/img/finland/A2lU.webp",
      "mapsUrl": "https://goo.gl/maps/VzVeBFpnhdafEggSA",
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "wdcQ",
-     "image": "img/finland/wdcQ.webp",
+     "image": "data/img/finland/wdcQ.webp",
      "mapsUrl": "https://goo.gl/maps/HrGxgDGqVW58DMSCA",
      "width": 0.5,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "gI6b",
-     "image": "img/finland/gI6b.webp",
+     "image": "data/img/finland/gI6b.webp",
      "mapsUrl": "https://goo.gl/maps/AgVdpZCfyHKppUMg9",
      "width": 0.5,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "YC5h",
-     "image": "img/finland/YC5h.webp",
+     "image": "data/img/finland/YC5h.webp",
      "mapsUrl": "https://goo.gl/maps/jvUn93HM7BErSE2y5",
      "width": 0.5,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "hD3w",
-     "image": "img/finland/hD3w.webp",
+     "image": "data/img/finland/hD3w.webp",
      "mapsUrl": "https://goo.gl/maps/f2iUJ3aRX76XPjY18",
      "width": 0.5,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "zktw",
-     "image": "img/finland/zktw.webp",
+     "image": "data/img/finland/zktw.webp",
      "mapsUrl": "https://www.google.com/maps/@61.6784966,27.2202257,3a,15y,123.53h,90.98t/data=!3m6!1e1!3m4!1smvMVhQizqh8ytHpZPryqYA!2e0!7i16384!8i8192",
      "width": 0.5,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "dnPB",
-     "image": "img/finland/dnPB.webp",
+     "image": "data/img/finland/dnPB.webp",
      "mapsUrl": "https://goo.gl/maps/ixfnFXtSnpazB84D9",
      "width": 0.5,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "D09g",
-     "image": "img/finland/D09g.webp",
+     "image": "data/img/finland/D09g.webp",
      "mapsUrl": "https://maps.app.goo.gl/KXVMpZj3ZQKhXhag6",
      "width": 0.5,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "M4BM",
-     "image": "img/finland/M4BM.webp",
+     "image": "data/img/finland/M4BM.webp",
      "mapsUrl": "https://maps.app.goo.gl/A6tzWJ9eKD2hNNga8",
      "width": 0.5,
      "text": [
@@ -265,7 +265,7 @@
    "metas": [
     {
      "id": "lvu5",
-     "image": "img/finland/lvu5.webp",
+     "image": "data/img/finland/lvu5.webp",
      "mapsUrl": null,
      "width": 0.25,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "Aq7N",
-     "image": "img/finland/Aq7N.webp",
+     "image": "data/img/finland/Aq7N.webp",
      "mapsUrl": "https://maps.app.goo.gl/vTYN4TrdJC7mLRb96",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "myrR",
-     "image": "img/finland/myrR.webp",
+     "image": "data/img/finland/myrR.webp",
      "mapsUrl": "https://goo.gl/maps/BEEuNji7qaSzBqqdA",
      "width": 0.573,
      "text": [
@@ -295,7 +295,7 @@
     },
     {
      "id": "RM0Y",
-     "image": "img/finland/RM0Y.webp",
+     "image": "data/img/finland/RM0Y.webp",
      "mapsUrl": "https://goo.gl/maps/2N2xzUK8WZKbbB398",
      "width": 0.573,
      "text": [
@@ -304,7 +304,7 @@
     },
     {
      "id": "rc3m",
-     "image": "img/finland/rc3m.webp",
+     "image": "data/img/finland/rc3m.webp",
      "mapsUrl": "https://goo.gl/maps/YdPzQbnFSHvtZgjbA",
      "width": 0.573,
      "text": [
@@ -313,7 +313,7 @@
     },
     {
      "id": "0gr5",
-     "image": "img/finland/0gr5.webp",
+     "image": "data/img/finland/0gr5.webp",
      "mapsUrl": "https://goo.gl/maps/RBSszK8K7L6RXPQQ6",
      "width": 0.573,
      "text": [
@@ -323,7 +323,7 @@
     },
     {
      "id": "zivD",
-     "image": "img/finland/zivD.webp",
+     "image": "data/img/finland/zivD.webp",
      "mapsUrl": "https://goo.gl/maps/DCoTTKaR2wENNeoq6",
      "width": 0.573,
      "text": [
@@ -332,7 +332,7 @@
     },
     {
      "id": "T6ca",
-     "image": "img/finland/T6ca.webp",
+     "image": "data/img/finland/T6ca.webp",
      "mapsUrl": "https://www.google.com/maps/@68.6599337,27.5390514,3a,15y,332.83h,83.74t/data=!3m6!1e1!3m4!1sBMhmb3GegbgXyDaXxCtwWQ!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -341,7 +341,7 @@
     },
     {
      "id": "b3ID",
-     "image": "img/finland/b3ID.webp",
+     "image": "data/img/finland/b3ID.webp",
      "mapsUrl": "https://maps.app.goo.gl/ot5krw5z1LAmTd21A",
      "width": 0.573,
      "text": [
@@ -351,7 +351,7 @@
     },
     {
      "id": "QWP9",
-     "image": "img/finland/QWP9.webp",
+     "image": "data/img/finland/QWP9.webp",
      "mapsUrl": "https://goo.gl/maps/C9roqrNKQbLhzdieA",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "ju7h",
-     "image": "img/finland/ju7h.webp",
+     "image": "data/img/finland/ju7h.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -370,7 +370,7 @@
     },
     {
      "id": "stY3",
-     "image": "img/finland/stY3.webp",
+     "image": "data/img/finland/stY3.webp",
      "mapsUrl": "https://goo.gl/maps/nAGwj5ptJrEN9Rhy6",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
     },
     {
      "id": "EIZt",
-     "image": "img/finland/EIZt.webp",
+     "image": "data/img/finland/EIZt.webp",
      "mapsUrl": "https://goo.gl/maps/nHHwSheQUXjhbeGv5",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "RwDU",
-     "image": "img/finland/RwDU.webp",
+     "image": "data/img/finland/RwDU.webp",
      "mapsUrl": "https://goo.gl/maps/JCr5Tehk9Ki2o7YS7",
      "width": 0.573,
      "text": [
@@ -397,7 +397,7 @@
     },
     {
      "id": "JnNg",
-     "image": "img/finland/JnNg.webp",
+     "image": "data/img/finland/JnNg.webp",
      "mapsUrl": "https://goo.gl/maps/j8TggdtA5NYWjN128",
      "width": 0.573,
      "text": [
@@ -406,7 +406,7 @@
     },
     {
      "id": "6M6z",
-     "image": "img/finland/6M6z.webp",
+     "image": "data/img/finland/6M6z.webp",
      "mapsUrl": "https://goo.gl/maps/11UkydGvy1u3TjjVA",
      "width": 0.573,
      "text": [
@@ -425,7 +425,7 @@
    "metas": [
     {
      "id": "eAl2",
-     "image": "img/finland/eAl2.webp",
+     "image": "data/img/finland/eAl2.webp",
      "mapsUrl": "https://goo.gl/maps/vGprTfr2RjEWCwFH9",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "KbXf",
-     "image": "img/finland/KbXf.webp",
+     "image": "data/img/finland/KbXf.webp",
      "mapsUrl": "https://goo.gl/maps/zG9quF9BDKKTuZvf7",
      "width": 0.573,
      "text": [
@@ -445,7 +445,7 @@
     },
     {
      "id": "u8ow",
-     "image": "img/finland/u8ow.webp",
+     "image": "data/img/finland/u8ow.webp",
      "mapsUrl": "https://goo.gl/maps/hrMjMyqreabFLVBy6",
      "width": 0.573,
      "text": [
@@ -455,7 +455,7 @@
     },
     {
      "id": "bayT",
-     "image": "img/finland/bayT.webp",
+     "image": "data/img/finland/bayT.webp",
      "mapsUrl": "https://goo.gl/maps/7y1Nmpkvd2eWRout6",
      "width": 0.573,
      "text": [
@@ -465,7 +465,7 @@
     },
     {
      "id": "tLs3",
-     "image": "img/finland/tLs3.webp",
+     "image": "data/img/finland/tLs3.webp",
      "mapsUrl": "https://goo.gl/maps/xknHdBhrPbkQApai9",
      "width": 0.573,
      "text": [
@@ -474,7 +474,7 @@
     },
     {
      "id": "9yCi",
-     "image": "img/finland/9yCi.webp",
+     "image": "data/img/finland/9yCi.webp",
      "mapsUrl": "https://goo.gl/maps/q2ayfibHqMgDJHW18",
      "width": 0.573,
      "text": [
@@ -483,7 +483,7 @@
     },
     {
      "id": "grQV",
-     "image": "img/finland/grQV.webp",
+     "image": "data/img/finland/grQV.webp",
      "mapsUrl": "https://goo.gl/maps/3FQH9tCWH5x2vDmb7",
      "width": 0.573,
      "text": [
@@ -492,7 +492,7 @@
     },
     {
      "id": "moyz",
-     "image": "img/finland/moyz.webp",
+     "image": "data/img/finland/moyz.webp",
      "mapsUrl": "https://goo.gl/maps/AyDKDhF1jwaSB3wp6",
      "width": 0.573,
      "text": [
@@ -501,7 +501,7 @@
     },
     {
      "id": "m9yR",
-     "image": "img/finland/m9yR.webp",
+     "image": "data/img/finland/m9yR.webp",
      "mapsUrl": "https://goo.gl/maps/tRGuxWEUm6YsVCX49",
      "width": 0.573,
      "text": [
@@ -510,7 +510,7 @@
     },
     {
      "id": "oIBv",
-     "image": "img/finland/oIBv.webp",
+     "image": "data/img/finland/oIBv.webp",
      "mapsUrl": "https://goo.gl/maps/gMFdwb7keaPbDF1R9",
      "width": 0.573,
      "text": [
@@ -519,7 +519,7 @@
     },
     {
      "id": "APDJ",
-     "image": "img/finland/APDJ.webp",
+     "image": "data/img/finland/APDJ.webp",
      "mapsUrl": "https://www.google.com/maps/@62.7877432,22.8508062,3a,15y,135.57h,96.69t/data=!3m6!1e1!3m4!1spX9GTrVIufDsNQ_i14b9xw!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -528,7 +528,7 @@
     },
     {
      "id": "9y8k",
-     "image": "img/finland/9y8k.webp",
+     "image": "data/img/finland/9y8k.webp",
      "mapsUrl": "https://goo.gl/maps/Do2Y4kGqzrNknYpz7",
      "width": 0.573,
      "text": [
@@ -538,7 +538,7 @@
     },
     {
      "id": "ndHC",
-     "image": "img/finland/ndHC.webp",
+     "image": "data/img/finland/ndHC.webp",
      "mapsUrl": "https://goo.gl/maps/r41bjEPRoENaCq5F6",
      "width": 0.573,
      "text": [
@@ -547,7 +547,7 @@
     },
     {
      "id": "VWG8",
-     "image": "img/finland/VWG8.webp",
+     "image": "data/img/finland/VWG8.webp",
      "mapsUrl": "https://goo.gl/maps/ZpZyq1sbkbyYdo5y7",
      "width": 0.573,
      "text": [

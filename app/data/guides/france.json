@@ -3,7 +3,7 @@
  "title": "France",
  "code": "FR",
  "continent": "Europe",
- "hero": "img/france/hero.webp",
+ "hero": "data/img/france/hero.webp",
  "metaCount": 92,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "4kQ6",
-     "image": "img/france/4kQ6.webp",
+     "image": "data/img/france/4kQ6.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -31,7 +31,7 @@
     },
     {
      "id": "944S",
-     "image": "img/france/944S.webp",
+     "image": "data/img/france/944S.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "perh",
-     "image": "img/france/perh.webp",
+     "image": "data/img/france/perh.webp",
      "mapsUrl": "https://maps.app.goo.gl/VnbUTCUvYgT9kZ8A6",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "eNYi",
-     "image": "img/france/eNYi.webp",
+     "image": "data/img/france/eNYi.webp",
      "mapsUrl": "https://goo.gl/maps/umpqYFC9twDST7Qw9",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "NqvL",
-     "image": "img/france/NqvL.webp",
+     "image": "data/img/france/NqvL.webp",
      "mapsUrl": "https://goo.gl/maps/c1A1Njw7qQ73kkJW7",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "P6Wi",
-     "image": "img/france/P6Wi.webp",
+     "image": "data/img/france/P6Wi.webp",
      "mapsUrl": "https://maps.app.goo.gl/xEBcYEjdsjzpcp3o7",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "DCU8",
-     "image": "img/france/DCU8.webp",
+     "image": "data/img/france/DCU8.webp",
      "mapsUrl": "https://goo.gl/maps/cYtpBcr8fPxdawT1A",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "u1uQ",
-     "image": "img/france/u1uQ.webp",
+     "image": "data/img/france/u1uQ.webp",
      "mapsUrl": "https://goo.gl/maps/erhtKsTeTta2rUDV7",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "s0La",
-     "image": "img/france/s0La.webp",
+     "image": "data/img/france/s0La.webp",
      "mapsUrl": "https://goo.gl/maps/VMp1GTSbQcaBeTDs6",
      "width": 0.5,
      "text": [
@@ -115,7 +115,7 @@
     },
     {
      "id": "iaMC",
-     "image": "img/france/iaMC.webp",
+     "image": "data/img/france/iaMC.webp",
      "mapsUrl": "https://goo.gl/maps/PZ9PsYF1UrCZpnp79",
      "width": 0.5,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "Bn7U",
-     "image": "img/france/Bn7U.webp",
+     "image": "data/img/france/Bn7U.webp",
      "mapsUrl": "https://goo.gl/maps/WdyXfGYQxHqsiQqC6",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "n2Xh",
-     "image": "img/france/n2Xh.webp",
+     "image": "data/img/france/n2Xh.webp",
      "mapsUrl": "https://maps.app.goo.gl/uyojMchccLMa8U8t6",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "AuxP",
-     "image": "img/france/AuxP.webp",
+     "image": "data/img/france/AuxP.webp",
      "mapsUrl": "https://maps.app.goo.gl/sQeNFx6mXEGLx3j86",
      "width": 0.5,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "NqvK",
-     "image": "img/france/NqvK.webp",
+     "image": "data/img/france/NqvK.webp",
      "mapsUrl": "https://goo.gl/maps/tdNYjKvMZPRJXZg78",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "4OYB",
-     "image": "img/france/4OYB.webp",
+     "image": "data/img/france/4OYB.webp",
      "mapsUrl": "https://goo.gl/maps/YWkLYRWa3pcMtu789",
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "b14O",
-     "image": "img/france/b14O.webp",
+     "image": "data/img/france/b14O.webp",
      "mapsUrl": "https://goo.gl/maps/pnQwdiMHtJpuUDaG9",
      "width": 0.5,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "yTq3",
-     "image": "img/france/yTq3.webp",
+     "image": "data/img/france/yTq3.webp",
      "mapsUrl": "https://goo.gl/maps/d9muYRu2aLkPH5Kv7",
      "width": 0.5,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "NtOc",
-     "image": "img/france/NtOc.webp",
+     "image": "data/img/france/NtOc.webp",
      "mapsUrl": "https://maps.app.goo.gl/mKexktLfg1VQqgvb6",
      "width": 0.5,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "gORW",
-     "image": "img/france/gORW.webp",
+     "image": "data/img/france/gORW.webp",
      "mapsUrl": "https://maps.app.goo.gl/mk6n3dm6p4PE86q48",
      "width": 0.5,
      "text": [
@@ -213,7 +213,7 @@
     },
     {
      "id": "CNdg",
-     "image": "img/france/CNdg.webp",
+     "image": "data/img/france/CNdg.webp",
      "mapsUrl": "https://goo.gl/maps/prEdCDWA62epYPyCA",
      "width": 0.5,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "IaD0",
-     "image": "img/france/IaD0.webp",
+     "image": "data/img/france/IaD0.webp",
      "mapsUrl": "https://goo.gl/maps/3xifwCz3xmSHZ1k26",
      "width": 0.5,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "vSP7",
-     "image": "img/france/vSP7.webp",
+     "image": "data/img/france/vSP7.webp",
      "mapsUrl": "https://goo.gl/maps/GtpsmS7Ao4h9NuJF6",
      "width": 0.5,
      "text": [
@@ -241,7 +241,7 @@
     },
     {
      "id": "pf4x",
-     "image": "img/france/pf4x.webp",
+     "image": "data/img/france/pf4x.webp",
      "mapsUrl": "https://goo.gl/maps/zzcBKhejqtdVreGG7",
      "width": 0.5,
      "text": [
@@ -250,7 +250,7 @@
     },
     {
      "id": "RaDU",
-     "image": "img/france/RaDU.webp",
+     "image": "data/img/france/RaDU.webp",
      "mapsUrl": "https://goo.gl/maps/89ntZMYdGQCgAQkD9",
      "width": 0.5,
      "text": [
@@ -260,7 +260,7 @@
     },
     {
      "id": "TAw8",
-     "image": "img/france/TAw8.webp",
+     "image": "data/img/france/TAw8.webp",
      "mapsUrl": "https://maps.app.goo.gl/MpAPF7ZXVU595uCf9",
      "width": 0.5,
      "text": [
@@ -270,7 +270,7 @@
     },
     {
      "id": "Eqaj",
-     "image": "img/france/Eqaj.webp",
+     "image": "data/img/france/Eqaj.webp",
      "mapsUrl": "https://goo.gl/maps/TFGWHPxgLCYYuk1D8",
      "width": 0.5,
      "text": [
@@ -280,7 +280,7 @@
     },
     {
      "id": "mVDK",
-     "image": "img/france/mVDK.webp",
+     "image": "data/img/france/mVDK.webp",
      "mapsUrl": "https://maps.app.goo.gl/HFRqV1WC2uSVXbXB9",
      "width": 0.5,
      "text": [
@@ -289,7 +289,7 @@
     },
     {
      "id": "pP2z",
-     "image": "img/france/pP2z.webp",
+     "image": "data/img/france/pP2z.webp",
      "mapsUrl": "https://maps.app.goo.gl/WjJyqpxBLoZRDgFB6",
      "width": 0.5,
      "text": [
@@ -299,7 +299,7 @@
     },
     {
      "id": "rdKk",
-     "image": "img/france/rdKk.webp",
+     "image": "data/img/france/rdKk.webp",
      "mapsUrl": "https://maps.app.goo.gl/LyW7w21VXLXNNYo59",
      "width": 0.5,
      "text": [
@@ -309,7 +309,7 @@
     },
     {
      "id": "WdcG",
-     "image": "img/france/WdcG.webp",
+     "image": "data/img/france/WdcG.webp",
      "mapsUrl": "https://maps.app.goo.gl/1aHukoU97HsumS7W6",
      "width": 0.5,
      "text": [
@@ -349,7 +349,7 @@
    "metas": [
     {
      "id": "etqG",
-     "image": "img/france/etqG.webp",
+     "image": "data/img/france/etqG.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "RkYB",
-     "image": "img/france/RkYB.webp",
+     "image": "data/img/france/RkYB.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -373,7 +373,7 @@
     },
     {
      "id": "3Q5x",
-     "image": "img/france/3Q5x.webp",
+     "image": "data/img/france/3Q5x.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -383,7 +383,7 @@
     },
     {
      "id": "lVS8",
-     "image": "img/france/lVS8.webp",
+     "image": "data/img/france/lVS8.webp",
      "mapsUrl": "https://maps.app.goo.gl/WpDZN53v4x41gsPNA",
      "width": 0.573,
      "text": [
@@ -393,7 +393,7 @@
     },
     {
      "id": "k4sk",
-     "image": "img/france/k4sk.webp",
+     "image": "data/img/france/k4sk.webp",
      "mapsUrl": "https://maps.app.goo.gl/qgrMg2CSWwfUN5rm6",
      "width": 0.573,
      "text": [
@@ -403,7 +403,7 @@
     },
     {
      "id": "A0j5",
-     "image": "img/france/A0j5.webp",
+     "image": "data/img/france/A0j5.webp",
      "mapsUrl": "https://maps.app.goo.gl/5qaCyZZqpYspFmzk9",
      "width": 0.573,
      "text": [
@@ -413,7 +413,7 @@
     },
     {
      "id": "Ducm",
-     "image": "img/france/Ducm.webp",
+     "image": "data/img/france/Ducm.webp",
      "mapsUrl": "https://maps.app.goo.gl/3jAQjLHr34BMS78w5",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "rGE0",
-     "image": "img/france/rGE0.webp",
+     "image": "data/img/france/rGE0.webp",
      "mapsUrl": "https://maps.app.goo.gl/czHGmieVsioQJUds7",
      "width": 0.573,
      "text": [
@@ -433,7 +433,7 @@
     },
     {
      "id": "xp6R",
-     "image": "img/france/xp6R.webp",
+     "image": "data/img/france/xp6R.webp",
      "mapsUrl": "https://maps.app.goo.gl/xjYTeyohJA2hZcDn7",
      "width": 0.573,
      "text": [
@@ -442,7 +442,7 @@
     },
     {
      "id": "6TPW",
-     "image": "img/france/6TPW.webp",
+     "image": "data/img/france/6TPW.webp",
      "mapsUrl": "https://maps.app.goo.gl/SZXadF3gcokT3BFG7",
      "width": 0.573,
      "text": [
@@ -452,7 +452,7 @@
     },
     {
      "id": "zDEN",
-     "image": "img/france/zDEN.webp",
+     "image": "data/img/france/zDEN.webp",
      "mapsUrl": "https://maps.app.goo.gl/mXGHJ2YhWhBLm5YM9",
      "width": 0.573,
      "text": [
@@ -461,7 +461,7 @@
     },
     {
      "id": "NnH1",
-     "image": "img/france/NnH1.webp",
+     "image": "data/img/france/NnH1.webp",
      "mapsUrl": "https://maps.app.goo.gl/d6oVe7ou6biKMSgEA",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "jkin",
-     "image": "img/france/jkin.webp",
+     "image": "data/img/france/jkin.webp",
      "mapsUrl": "https://maps.app.goo.gl/E1Yw5VJGRTPYe6KfA",
      "width": 0.573,
      "text": [
@@ -480,7 +480,7 @@
     },
     {
      "id": "Wop3",
-     "image": "img/france/Wop3.webp",
+     "image": "data/img/france/Wop3.webp",
      "mapsUrl": "https://maps.app.goo.gl/gWd9mTKWHXRToEW7A",
      "width": 0.573,
      "text": [
@@ -489,7 +489,7 @@
     },
     {
      "id": "drHI",
-     "image": "img/france/drHI.webp",
+     "image": "data/img/france/drHI.webp",
      "mapsUrl": "https://maps.app.goo.gl/bAApSMi2kLERnX8w5",
      "width": 0.573,
      "text": [
@@ -498,7 +498,7 @@
     },
     {
      "id": "4ocl",
-     "image": "img/france/4ocl.webp",
+     "image": "data/img/france/4ocl.webp",
      "mapsUrl": "https://maps.app.goo.gl/RPUvFUx1aT6K6uWx6",
      "width": 0.573,
      "text": [
@@ -508,7 +508,7 @@
     },
     {
      "id": "F1Hp",
-     "image": "img/france/F1Hp.webp",
+     "image": "data/img/france/F1Hp.webp",
      "mapsUrl": "https://maps.app.goo.gl/9BoPNXbPVFB5WWyK8",
      "width": 0.573,
      "text": [
@@ -518,7 +518,7 @@
     },
     {
      "id": "xk28",
-     "image": "img/france/xk28.webp",
+     "image": "data/img/france/xk28.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -527,7 +527,7 @@
     },
     {
      "id": "nPXX",
-     "image": "img/france/nPXX.webp",
+     "image": "data/img/france/nPXX.webp",
      "mapsUrl": "https://www.google.com/maps/@49.4908887,-1.7382795,3a,75y,86.36h,89.64t/data=!3m6!1e1!3m4!1sKAPjt_gsDfbBQ4yk8HWxHQ!2e0!7i16384!8i8192?coh=205409&entry=ttu",
      "width": 0.573,
      "text": [
@@ -537,7 +537,7 @@
     },
     {
      "id": "VVMi",
-     "image": "img/france/VVMi.webp",
+     "image": "data/img/france/VVMi.webp",
      "mapsUrl": "https://maps.app.goo.gl/chNWU9f52THVoPVv5",
      "width": 0.573,
      "text": [
@@ -546,7 +546,7 @@
     },
     {
      "id": "Xe70",
-     "image": "img/france/Xe70.webp",
+     "image": "data/img/france/Xe70.webp",
      "mapsUrl": "https://maps.app.goo.gl/84vVwwUmVne23Fzr9",
      "width": 0.573,
      "text": [
@@ -555,7 +555,7 @@
     },
     {
      "id": "jPuX",
-     "image": "img/france/jPuX.webp",
+     "image": "data/img/france/jPuX.webp",
      "mapsUrl": "https://goo.gl/maps/nqicyNPLKLJtcvYA8",
      "width": 0.573,
      "text": [
@@ -565,7 +565,7 @@
     },
     {
      "id": "AUP3",
-     "image": "img/france/AUP3.webp",
+     "image": "data/img/france/AUP3.webp",
      "mapsUrl": "https://maps.app.goo.gl/3TLm2DdgtPTrg8zp9",
      "width": 0.573,
      "text": [
@@ -574,7 +574,7 @@
     },
     {
      "id": "xsxc",
-     "image": "img/france/xsxc.webp",
+     "image": "data/img/france/xsxc.webp",
      "mapsUrl": "https://maps.app.goo.gl/8xQMrVkAAUmZpuj87",
      "width": 0.573,
      "text": [
@@ -583,7 +583,7 @@
     },
     {
      "id": "EDtV",
-     "image": "img/france/EDtV.webp",
+     "image": "data/img/france/EDtV.webp",
      "mapsUrl": "https://maps.app.goo.gl/omNZqBqdkk1VFCqc8",
      "width": 0.573,
      "text": [
@@ -592,7 +592,7 @@
     },
     {
      "id": "eWQD",
-     "image": "img/france/eWQD.webp",
+     "image": "data/img/france/eWQD.webp",
      "mapsUrl": "https://maps.app.goo.gl/MKXiqrkp1hexfbF2A",
      "width": 0.573,
      "text": [
@@ -601,7 +601,7 @@
     },
     {
      "id": "HNgr",
-     "image": "img/france/HNgr.webp",
+     "image": "data/img/france/HNgr.webp",
      "mapsUrl": "https://maps.app.goo.gl/GEHbHrDCuapV2SnY6",
      "width": 0.573,
      "text": [
@@ -610,7 +610,7 @@
     },
     {
      "id": "aoTH",
-     "image": "img/france/aoTH.webp",
+     "image": "data/img/france/aoTH.webp",
      "mapsUrl": "https://maps.app.goo.gl/tswYUJbkrArzGoAWA",
      "width": 0.573,
      "text": [
@@ -619,7 +619,7 @@
     },
     {
      "id": "kpiu",
-     "image": "img/france/kpiu.webp",
+     "image": "data/img/france/kpiu.webp",
      "mapsUrl": "https://maps.app.goo.gl/hhjLkXuWSPbdJRu86",
      "width": 0.573,
      "text": [
@@ -628,7 +628,7 @@
     },
     {
      "id": "SEfx",
-     "image": "img/france/SEfx.webp",
+     "image": "data/img/france/SEfx.webp",
      "mapsUrl": "https://maps.app.goo.gl/5ZcHutQrofqSYLMt9",
      "width": 0.573,
      "text": [
@@ -637,7 +637,7 @@
     },
     {
      "id": "l4nF",
-     "image": "img/france/l4nF.webp",
+     "image": "data/img/france/l4nF.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ax66PMfa8ZmQEv6W8",
      "width": 0.573,
      "text": [
@@ -647,7 +647,7 @@
     },
     {
      "id": "8uNz",
-     "image": "img/france/8uNz.webp",
+     "image": "data/img/france/8uNz.webp",
      "mapsUrl": "https://maps.app.goo.gl/6sm9myV5DMRYQkFB9",
      "width": 0.573,
      "text": [
@@ -657,7 +657,7 @@
     },
     {
      "id": "WVZz",
-     "image": "img/france/WVZz.webp",
+     "image": "data/img/france/WVZz.webp",
      "mapsUrl": "https://maps.app.goo.gl/TsN4aX28dS7d64Yv6",
      "width": 0.573,
      "text": [
@@ -667,7 +667,7 @@
     },
     {
      "id": "BzxF",
-     "image": "img/france/BzxF.webp",
+     "image": "data/img/france/BzxF.webp",
      "mapsUrl": "https://maps.app.goo.gl/GMP2woXDjc6DjmZd8",
      "width": 0.573,
      "text": [
@@ -677,7 +677,7 @@
     },
     {
      "id": "XTPv",
-     "image": "img/france/XTPv.webp",
+     "image": "data/img/france/XTPv.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -691,7 +691,7 @@
     },
     {
      "id": "7oyS",
-     "image": "img/france/7oyS.webp",
+     "image": "data/img/france/7oyS.webp",
      "mapsUrl": "https://maps.app.goo.gl/YgHD9amVX34xxhvM9",
      "width": 0.573,
      "text": [
@@ -700,7 +700,7 @@
     },
     {
      "id": "VYms",
-     "image": "img/france/VYms.webp",
+     "image": "data/img/france/VYms.webp",
      "mapsUrl": "https://maps.app.goo.gl/tExyyWJtNjY8k91ZA",
      "width": 0.573,
      "text": [
@@ -709,7 +709,7 @@
     },
     {
      "id": "OE0N",
-     "image": "img/france/OE0N.webp",
+     "image": "data/img/france/OE0N.webp",
      "mapsUrl": "https://maps.app.goo.gl/Qa4s4mfdHVBXNTmB6",
      "width": 0.573,
      "text": [
@@ -719,7 +719,7 @@
     },
     {
      "id": "AXar",
-     "image": "img/france/AXar.webp",
+     "image": "data/img/france/AXar.webp",
      "mapsUrl": "https://maps.app.goo.gl/7kySpCfhAo36m7H38",
      "width": 0.573,
      "text": [
@@ -730,7 +730,7 @@
     },
     {
      "id": "2v01",
-     "image": "img/france/2v01.webp",
+     "image": "data/img/france/2v01.webp",
      "mapsUrl": "https://maps.app.goo.gl/djTQjuaBroWeQ8Ai7",
      "width": 0.573,
      "text": [
@@ -740,7 +740,7 @@
     },
     {
      "id": "rDFi",
-     "image": "img/france/rDFi.webp",
+     "image": "data/img/france/rDFi.webp",
      "mapsUrl": "https://maps.app.goo.gl/RMQvtnxBJDARMh16A",
      "width": 0.573,
      "text": [
@@ -749,7 +749,7 @@
     },
     {
      "id": "LYka",
-     "image": "img/france/LYka.webp",
+     "image": "data/img/france/LYka.webp",
      "mapsUrl": "https://maps.app.goo.gl/GtgpNxrxyW4hRtwB7",
      "width": 0.573,
      "text": [
@@ -759,7 +759,7 @@
     },
     {
      "id": "AUpF",
-     "image": "img/france/AUpF.webp",
+     "image": "data/img/france/AUpF.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -769,7 +769,7 @@
     },
     {
      "id": "cqw6",
-     "image": "img/france/cqw6.webp",
+     "image": "data/img/france/cqw6.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -779,7 +779,7 @@
     },
     {
      "id": "0HXZ",
-     "image": "img/france/0HXZ.webp",
+     "image": "data/img/france/0HXZ.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/D%C3%A9partement_974_in_France_%28zoom%29.svg/1920px-D%C3%A9partement_974_in_France_%28zoom%29.svg.png",
      "width": 0.573,
      "text": [
@@ -789,7 +789,7 @@
     },
     {
      "id": "wDHB",
-     "image": "img/france/wDHB.webp",
+     "image": "data/img/france/wDHB.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Saint_Pierre_and_Miquelon_in_France.svg/1920px-Saint_Pierre_and_Miquelon_in_France.svg.png",
      "width": 0.573,
      "text": [
@@ -799,7 +799,7 @@
     },
     {
      "id": "Izqw",
-     "image": "img/france/Izqw.webp",
+     "image": "data/img/france/Izqw.webp",
      "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Martinique_in_France_2016.svg/1920px-Martinique_in_France_2016.svg.png",
      "width": 0.573,
      "text": [
@@ -818,7 +818,7 @@
    "metas": [
     {
      "id": "7CKN",
-     "image": "img/france/7CKN.webp",
+     "image": "data/img/france/7CKN.webp",
      "mapsUrl": "https://maps.app.goo.gl/TaCdLhmAvics8DSC8",
      "width": 0.573,
      "text": [
@@ -827,7 +827,7 @@
     },
     {
      "id": "KFEi",
-     "image": "img/france/KFEi.webp",
+     "image": "data/img/france/KFEi.webp",
      "mapsUrl": "https://maps.app.goo.gl/CezovGkgqbkHQHYh7",
      "width": 0.573,
      "text": [
@@ -837,7 +837,7 @@
     },
     {
      "id": "DwIX",
-     "image": "img/france/DwIX.webp",
+     "image": "data/img/france/DwIX.webp",
      "mapsUrl": "https://maps.app.goo.gl/eVL47kFAdWScLUZW6",
      "width": 0.573,
      "text": [
@@ -846,7 +846,7 @@
     },
     {
      "id": "YfZM",
-     "image": "img/france/YfZM.webp",
+     "image": "data/img/france/YfZM.webp",
      "mapsUrl": "https://maps.app.goo.gl/rXGjRyJyCZPEZpck8",
      "width": 0.573,
      "text": [
@@ -855,7 +855,7 @@
     },
     {
      "id": "aay7",
-     "image": "img/france/aay7.webp",
+     "image": "data/img/france/aay7.webp",
      "mapsUrl": "https://maps.app.goo.gl/QYNYeexEke5HSmun9",
      "width": 0.573,
      "text": [
@@ -865,7 +865,7 @@
     },
     {
      "id": "ZUqh",
-     "image": "img/france/ZUqh.webp",
+     "image": "data/img/france/ZUqh.webp",
      "mapsUrl": "https://maps.app.goo.gl/6KGEWJviVjvT5ko48",
      "width": 0.573,
      "text": [
@@ -875,7 +875,7 @@
     },
     {
      "id": "mcDH",
-     "image": "img/france/mcDH.webp",
+     "image": "data/img/france/mcDH.webp",
      "mapsUrl": "https://maps.app.goo.gl/VsJPa6JDv4VSGxVPA",
      "width": 0.573,
      "text": [
@@ -885,7 +885,7 @@
     },
     {
      "id": "o8dK",
-     "image": "img/france/o8dK.webp",
+     "image": "data/img/france/o8dK.webp",
      "mapsUrl": "https://maps.app.goo.gl/kGnq1YeuB8RAqYRUA",
      "width": 0.573,
      "text": [
@@ -894,7 +894,7 @@
     },
     {
      "id": "MGk9",
-     "image": "img/france/MGk9.webp",
+     "image": "data/img/france/MGk9.webp",
      "mapsUrl": "https://maps.app.goo.gl/7ZGmvriE7d6HjQeg9",
      "width": 0.573,
      "text": [
@@ -903,7 +903,7 @@
     },
     {
      "id": "umtN",
-     "image": "img/france/umtN.webp",
+     "image": "data/img/france/umtN.webp",
      "mapsUrl": "https://maps.app.goo.gl/uZza5xJMWbcXqqGy8",
      "width": 0.573,
      "text": [
@@ -912,7 +912,7 @@
     },
     {
      "id": "CIlO",
-     "image": "img/france/CIlO.webp",
+     "image": "data/img/france/CIlO.webp",
      "mapsUrl": "https://maps.app.goo.gl/FbNBLiEjba5hZGtF9",
      "width": 0.573,
      "text": [
@@ -921,7 +921,7 @@
     },
     {
      "id": "d3xx",
-     "image": "img/france/d3xx.webp",
+     "image": "data/img/france/d3xx.webp",
      "mapsUrl": "https://maps.app.goo.gl/f839jNczobuXdAhk6",
      "width": 0.573,
      "text": [
@@ -931,7 +931,7 @@
     },
     {
      "id": "CuZO",
-     "image": "img/france/CuZO.webp",
+     "image": "data/img/france/CuZO.webp",
      "mapsUrl": "https://maps.app.goo.gl/e8uNBX7tU8FBJUmC9",
      "width": 0.573,
      "text": [
@@ -941,7 +941,7 @@
     },
     {
      "id": "L753",
-     "image": "img/france/L753.webp",
+     "image": "data/img/france/L753.webp",
      "mapsUrl": "https://maps.app.goo.gl/DqGSsufKztEWDKQc9",
      "width": 0.573,
      "text": [
@@ -951,7 +951,7 @@
     },
     {
      "id": "1rIs",
-     "image": "img/france/1rIs.webp",
+     "image": "data/img/france/1rIs.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [

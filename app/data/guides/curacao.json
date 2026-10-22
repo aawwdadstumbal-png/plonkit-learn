@@ -3,7 +3,7 @@
  "title": "Curaçao",
  "code": "CW",
  "continent": "South America",
- "hero": "img/curacao/hero.webp",
+ "hero": "data/img/curacao/hero.webp",
  "metaCount": 13,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "hvDX",
-     "image": "img/curacao/hvDX.webp",
+     "image": "data/img/curacao/hvDX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "IcNc",
-     "image": "img/curacao/IcNc.webp",
+     "image": "data/img/curacao/IcNc.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "Nchv",
-     "image": "img/curacao/Nchv.webp",
+     "image": "data/img/curacao/Nchv.webp",
      "mapsUrl": "https://goo.gl/maps/o4zB8eW4K96Cd9bV9",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "9ndl",
-     "image": "img/curacao/9ndl.webp",
+     "image": "data/img/curacao/9ndl.webp",
      "mapsUrl": "https://goo.gl/maps/2WEdmyNf3ohqPYBJ9",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "nT9Q",
-     "image": "img/curacao/nT9Q.webp",
+     "image": "data/img/curacao/nT9Q.webp",
      "mapsUrl": "https://goo.gl/maps/vfu6drnkyNZH1ywMA",
      "width": 0.5,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "zAfQ",
-     "image": "img/curacao/zAfQ.webp",
+     "image": "data/img/curacao/zAfQ.webp",
      "mapsUrl": "https://goo.gl/maps/1PqPxt6KXaVMtKyN7",
      "width": 0.5,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "C1Qn",
-     "image": "img/curacao/C1Qn.webp",
+     "image": "data/img/curacao/C1Qn.webp",
      "mapsUrl": "https://goo.gl/maps/kpgkjQhcV36khysS6",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "YPX7",
-     "image": "img/curacao/YPX7.webp",
+     "image": "data/img/curacao/YPX7.webp",
      "mapsUrl": "https://goo.gl/maps/52UqrVVx2iqovBds7",
      "width": 0.5,
      "text": [
@@ -93,7 +93,7 @@
     },
     {
      "id": "wuzk",
-     "image": "img/curacao/wuzk.webp",
+     "image": "data/img/curacao/wuzk.webp",
      "mapsUrl": "https://goo.gl/maps/CFpdApuPubbjrHWe7",
      "width": 0.5,
      "text": [
@@ -112,7 +112,7 @@
    "metas": [
     {
      "id": "SRsK",
-     "image": "img/curacao/SRsK.webp",
+     "image": "data/img/curacao/SRsK.webp",
      "mapsUrl": "https://goo.gl/maps/972dfR9bMJXSARF2A",
      "width": 0.573,
      "text": [
@@ -130,7 +130,7 @@
    "metas": [
     {
      "id": "zB68",
-     "image": "img/curacao/zB68.webp",
+     "image": "data/img/curacao/zB68.webp",
      "mapsUrl": "https://goo.gl/maps/j9NGzSbQVKaPbUo89",
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "DdrH",
-     "image": "img/curacao/DdrH.webp",
+     "image": "data/img/curacao/DdrH.webp",
      "mapsUrl": "https://goo.gl/maps/5ZA2PefSwkeFfvFi7",
      "width": 0.573,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "aKGZ",
-     "image": "img/curacao/aKGZ.webp",
+     "image": "data/img/curacao/aKGZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/ppUDmGzodvkND8588",
      "width": 0.573,
      "text": [

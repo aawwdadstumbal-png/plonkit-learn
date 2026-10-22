@@ -3,7 +3,7 @@
  "title": "Mali",
  "code": "ML",
  "continent": "Africa",
- "hero": "img/mali/hero.webp",
+ "hero": "data/img/mali/hero.webp",
  "metaCount": 23,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "ozFS",
-     "image": "img/mali/ozFS.webp",
+     "image": "data/img/mali/ozFS.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "QW7q",
-     "image": "img/mali/QW7q.webp",
+     "image": "data/img/mali/QW7q.webp",
      "mapsUrl": "https://goo.gl/maps/QtCv1GDzu69xdW8N7",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "IF9E",
-     "image": "img/mali/IF9E.webp",
+     "image": "data/img/mali/IF9E.webp",
      "mapsUrl": "https://goo.gl/maps/wWfhce7RhSrP6PzM6",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "QTt1",
-     "image": "img/mali/QTt1.webp",
+     "image": "data/img/mali/QTt1.webp",
      "mapsUrl": "https://goo.gl/maps/qYC9JaCVe36FTt4n6",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "vmTB",
-     "image": "img/mali/vmTB.webp",
+     "image": "data/img/mali/vmTB.webp",
      "mapsUrl": "https://goo.gl/maps/fwF4j9H2JQbJVe8k6",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
    "metas": [
     {
      "id": "XT6Q",
-     "image": "img/mali/XT6Q.webp",
+     "image": "data/img/mali/XT6Q.webp",
      "mapsUrl": "https://goo.gl/maps/P952ubgegGiwt8XH6",
      "width": 0.573,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "oafw",
-     "image": "img/mali/oafw.webp",
+     "image": "data/img/mali/oafw.webp",
      "mapsUrl": "https://goo.gl/maps/BjsjTirZ2b5DcC128",
      "width": 0.573,
      "text": [
@@ -110,7 +110,7 @@
     },
     {
      "id": "DTe5",
-     "image": "img/mali/DTe5.webp",
+     "image": "data/img/mali/DTe5.webp",
      "mapsUrl": "https://goo.gl/maps/8jYapKcr9ifVN3Hw8",
      "width": 0.573,
      "text": [
@@ -120,7 +120,7 @@
     },
     {
      "id": "Kosp",
-     "image": "img/mali/Kosp.webp",
+     "image": "data/img/mali/Kosp.webp",
      "mapsUrl": "https://goo.gl/maps/2M7qw31N9JDUGxFu5",
      "width": 0.573,
      "text": [
@@ -129,7 +129,7 @@
     },
     {
      "id": "mxqK",
-     "image": "img/mali/mxqK.webp",
+     "image": "data/img/mali/mxqK.webp",
      "mapsUrl": "https://goo.gl/maps/eZaCW9Evrb71EsbU9",
      "width": 0.573,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "45cw",
-     "image": "img/mali/45cw.webp",
+     "image": "data/img/mali/45cw.webp",
      "mapsUrl": "https://goo.gl/maps/zToWNzmUATvbV9UB6",
      "width": 0.573,
      "text": [
@@ -185,7 +185,7 @@
    "metas": [
     {
      "id": "K0Z3",
-     "image": "img/mali/K0Z3.webp",
+     "image": "data/img/mali/K0Z3.webp",
      "mapsUrl": "https://goo.gl/maps/fs7vnXQQQvaffx5EA",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "erxA",
-     "image": "img/mali/erxA.webp",
+     "image": "data/img/mali/erxA.webp",
      "mapsUrl": "https://goo.gl/maps/LXZa5iHZixBT9BK48",
      "width": 0.573,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "667p",
-     "image": "img/mali/667p.webp",
+     "image": "data/img/mali/667p.webp",
      "mapsUrl": "https://goo.gl/maps/2StSezRaq2PhWXX58",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "jyYd",
-     "image": "img/mali/jyYd.webp",
+     "image": "data/img/mali/jyYd.webp",
      "mapsUrl": "https://goo.gl/maps/UUhY2Gjb8YGAQabv9",
      "width": 0.573,
      "text": [
@@ -221,7 +221,7 @@
     },
     {
      "id": "eRRN",
-     "image": "img/mali/eRRN.webp",
+     "image": "data/img/mali/eRRN.webp",
      "mapsUrl": "https://goo.gl/maps/fecVigpy6ftfRd4w7",
      "width": 0.573,
      "text": [
@@ -230,7 +230,7 @@
     },
     {
      "id": "w4yJ",
-     "image": "img/mali/w4yJ.webp",
+     "image": "data/img/mali/w4yJ.webp",
      "mapsUrl": "https://goo.gl/maps/D72LW8evidVcmhoq6",
      "width": 0.573,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "EydB",
-     "image": "img/mali/EydB.webp",
+     "image": "data/img/mali/EydB.webp",
      "mapsUrl": "https://goo.gl/maps/S1L7Bzh2iDLnimnT6",
      "width": 0.573,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "FAZS",
-     "image": "img/mali/FAZS.webp",
+     "image": "data/img/mali/FAZS.webp",
      "mapsUrl": "https://goo.gl/maps/9fSv2f57DEb8i34r5",
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "XmBX",
-     "image": "img/mali/XmBX.webp",
+     "image": "data/img/mali/XmBX.webp",
      "mapsUrl": "https://goo.gl/maps/XMnqWUPEEZaBoTxs9",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "2fHp",
-     "image": "img/mali/2fHp.webp",
+     "image": "data/img/mali/2fHp.webp",
      "mapsUrl": "https://goo.gl/maps/vzAS32qBEtSoTR8A6",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "3Kim",
-     "image": "img/mali/3Kim.webp",
+     "image": "data/img/mali/3Kim.webp",
      "mapsUrl": "https://goo.gl/maps/V4X7derxE8anXsFx8",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "H5KC",
-     "image": "img/mali/H5KC.webp",
+     "image": "data/img/mali/H5KC.webp",
      "mapsUrl": "https://www.google.com/maps/@16.776001,-3.0056198,2a,90y,2.68h,90.17t/data=!3m6!1e1!3m4!1sJjfjtd4RPW0AAAQ5TZIq-A!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [

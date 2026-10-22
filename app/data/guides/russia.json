@@ -3,7 +3,7 @@
  "title": "Russia",
  "code": "RU",
  "continent": "Europe",
- "hero": "img/russia/hero.webp",
+ "hero": "data/img/russia/hero.webp",
  "metaCount": 125,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "B27i",
-     "image": "img/russia/B27i.webp",
+     "image": "data/img/russia/B27i.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "dbaI",
-     "image": "img/russia/dbaI.webp",
+     "image": "data/img/russia/dbaI.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "aRud",
-     "image": "img/russia/aRud.webp",
+     "image": "data/img/russia/aRud.webp",
      "mapsUrl": "https://goo.gl/maps/4PsrdL9nX5NqQUTJA",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "cqfa",
-     "image": "img/russia/cqfa.webp",
+     "image": "data/img/russia/cqfa.webp",
      "mapsUrl": "https://goo.gl/maps/VTaGQTTv3EZGQ2Co7",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "zEsz",
-     "image": "img/russia/zEsz.webp",
+     "image": "data/img/russia/zEsz.webp",
      "mapsUrl": "https://goo.gl/maps/GVDB9sHJBTd8978Q7",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "h2Gm",
-     "image": "img/russia/h2Gm.webp",
+     "image": "data/img/russia/h2Gm.webp",
      "mapsUrl": "https://goo.gl/maps/ZGBpUA11k4x4p76q9",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "wbja",
-     "image": "img/russia/wbja.webp",
+     "image": "data/img/russia/wbja.webp",
      "mapsUrl": "https://goo.gl/maps/QkpnsbjrHzEwxKCm8",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "bXD0",
-     "image": "img/russia/bXD0.webp",
+     "image": "data/img/russia/bXD0.webp",
      "mapsUrl": "https://goo.gl/maps/uKrSd1rnudHc6cMK9",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "PVJx",
-     "image": "img/russia/PVJx.webp",
+     "image": "data/img/russia/PVJx.webp",
      "mapsUrl": "https://maps.app.goo.gl/w5haSEDdzyYAet9i7",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "mXjR",
-     "image": "img/russia/mXjR.webp",
+     "image": "data/img/russia/mXjR.webp",
      "mapsUrl": "https://www.google.com/maps/@52.1956702,109.8450814,3a,16.4y,292.18h,84.59t/data=!3m6!1e1!3m4!1sOIMbE783tISrhr8eII12Bg!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "zl6d",
-     "image": "img/russia/zl6d.webp",
+     "image": "data/img/russia/zl6d.webp",
      "mapsUrl": "https://goo.gl/maps/YnCt2HnsRyQss5Kk8",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "jZWe",
-     "image": "img/russia/jZWe.webp",
+     "image": "data/img/russia/jZWe.webp",
      "mapsUrl": "https://goo.gl/maps/T9CAd1bhMmYMgMwN8",
      "width": 0.5,
      "text": [
@@ -138,7 +138,7 @@
     },
     {
      "id": "LVQ6",
-     "image": "img/russia/LVQ6.webp",
+     "image": "data/img/russia/LVQ6.webp",
      "mapsUrl": "https://goo.gl/maps/Yt2XFCGLvtAwyYrDA",
      "width": 0.5,
      "text": [
@@ -148,7 +148,7 @@
     },
     {
      "id": "YqxG",
-     "image": "img/russia/YqxG.webp",
+     "image": "data/img/russia/YqxG.webp",
      "mapsUrl": "https://www.google.com/maps/@53.0086641,46.0641101,3a,43.6y,253.72h,59.73t/data=!3m6!1e1!3m4!1sixMXGbP7YBNyBRqbEbn4fQ!2e0!7i16384!8i8192?entry=ttu",
      "width": 0.5,
      "text": [
@@ -157,7 +157,7 @@
     },
     {
      "id": "ssZ0",
-     "image": "img/russia/ssZ0.webp",
+     "image": "data/img/russia/ssZ0.webp",
      "mapsUrl": "https://goo.gl/maps/Q8R9taS7PqU1EipQ9",
      "width": 0.5,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "vyBb",
-     "image": "img/russia/vyBb.webp",
+     "image": "data/img/russia/vyBb.webp",
      "mapsUrl": "https://goo.gl/maps/82i6HKt77YGYev5WA",
      "width": 0.5,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "tnNR",
-     "image": "img/russia/tnNR.webp",
+     "image": "data/img/russia/tnNR.webp",
      "mapsUrl": "https://goo.gl/maps/NvGEx7dgGnbXjZ346",
      "width": 0.5,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "OYvI",
-     "image": "img/russia/OYvI.webp",
+     "image": "data/img/russia/OYvI.webp",
      "mapsUrl": "https://maps.app.goo.gl/F74erqrTJSUG9MiP6",
      "width": 0.5,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "EAAw",
-     "image": "img/russia/EAAw.webp",
+     "image": "data/img/russia/EAAw.webp",
      "mapsUrl": "https://www.google.com/maps/@56.1332327,29.6543334,3a,16y,43.78h,81.84t/data=!3m6!1e1!3m4!1sW5Exi0Es9MruYHen7ZQPLQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -235,7 +235,7 @@
    "metas": [
     {
      "id": "WkyB",
-     "image": "img/russia/WkyB.webp",
+     "image": "data/img/russia/WkyB.webp",
      "mapsUrl": "https://goo.gl/maps/cWZ3bAys3eYgBR9u5",
      "width": 0.573,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "LP1h",
-     "image": "img/russia/LP1h.webp",
+     "image": "data/img/russia/LP1h.webp",
      "mapsUrl": "https://maps.app.goo.gl/FAAYHNLcaibXTRsC6",
      "width": 0.573,
      "text": [
@@ -253,7 +253,7 @@
     },
     {
      "id": "FB0Q",
-     "image": "img/russia/FB0Q.webp",
+     "image": "data/img/russia/FB0Q.webp",
      "mapsUrl": "https://goo.gl/maps/KmXxwXZ541aFnJc4A",
      "width": 0.573,
      "text": [
@@ -262,7 +262,7 @@
     },
     {
      "id": "SdNy",
-     "image": "img/russia/SdNy.webp",
+     "image": "data/img/russia/SdNy.webp",
      "mapsUrl": "https://maps.app.goo.gl/KLMJ9f3LrSyFdwz88",
      "width": 0.573,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "8PIl",
-     "image": "img/russia/8PIl.webp",
+     "image": "data/img/russia/8PIl.webp",
      "mapsUrl": "https://goo.gl/maps/1yHZdYmaYSQkfqeR9",
      "width": 0.573,
      "text": [
@@ -282,7 +282,7 @@
     },
     {
      "id": "OKfi",
-     "image": "img/russia/OKfi.webp",
+     "image": "data/img/russia/OKfi.webp",
      "mapsUrl": "https://goo.gl/maps/t7qnYs8rYR53jtas8",
      "width": 0.573,
      "text": [
@@ -291,7 +291,7 @@
     },
     {
      "id": "mt14",
-     "image": "img/russia/mt14.webp",
+     "image": "data/img/russia/mt14.webp",
      "mapsUrl": "https://maps.app.goo.gl/AWV7HckC66odDnYJ7",
      "width": 0.573,
      "text": [
@@ -300,7 +300,7 @@
     },
     {
      "id": "jeND",
-     "image": "img/russia/jeND.webp",
+     "image": "data/img/russia/jeND.webp",
      "mapsUrl": "https://maps.app.goo.gl/dp6QM7BkZzwscwwG8",
      "width": 0.573,
      "text": [
@@ -309,7 +309,7 @@
     },
     {
      "id": "MFON",
-     "image": "img/russia/MFON.webp",
+     "image": "data/img/russia/MFON.webp",
      "mapsUrl": "https://goo.gl/maps/wEY7uAYwAneF5eje9",
      "width": 0.573,
      "text": [
@@ -318,7 +318,7 @@
     },
     {
      "id": "eHxy",
-     "image": "img/russia/eHxy.webp",
+     "image": "data/img/russia/eHxy.webp",
      "mapsUrl": "https://goo.gl/maps/YBuMbvWGsatUxLtW7",
      "width": 0.573,
      "text": [
@@ -327,7 +327,7 @@
     },
     {
      "id": "2mXt",
-     "image": "img/russia/2mXt.webp",
+     "image": "data/img/russia/2mXt.webp",
      "mapsUrl": "https://goo.gl/maps/4uayWuR4eLbByvLt6",
      "width": 0.573,
      "text": [
@@ -336,7 +336,7 @@
     },
     {
      "id": "lb3J",
-     "image": "img/russia/lb3J.webp",
+     "image": "data/img/russia/lb3J.webp",
      "mapsUrl": "https://goo.gl/maps/qKMUetED6xQTLxwf7",
      "width": 0.573,
      "text": [
@@ -345,7 +345,7 @@
     },
     {
      "id": "pyqm",
-     "image": "img/russia/pyqm.webp",
+     "image": "data/img/russia/pyqm.webp",
      "mapsUrl": "https://goo.gl/maps/9tK5XfWoYRpQwanBA",
      "width": 0.573,
      "text": [
@@ -354,7 +354,7 @@
     },
     {
      "id": "i2zA",
-     "image": "img/russia/i2zA.webp",
+     "image": "data/img/russia/i2zA.webp",
      "mapsUrl": "https://maps.app.goo.gl/wWPYyEnJizxSTCTy5",
      "width": 0.573,
      "text": [
@@ -363,7 +363,7 @@
     },
     {
      "id": "r4Fx",
-     "image": "img/russia/r4Fx.webp",
+     "image": "data/img/russia/r4Fx.webp",
      "mapsUrl": "https://maps.app.goo.gl/o4Zem4m79BcRBUAd9",
      "width": 0.573,
      "text": [
@@ -372,7 +372,7 @@
     },
     {
      "id": "K6A7",
-     "image": "img/russia/K6A7.webp",
+     "image": "data/img/russia/K6A7.webp",
      "mapsUrl": "https://goo.gl/maps/rmR1bcqLZQxEkyeA6",
      "width": 0.573,
      "text": [
@@ -381,7 +381,7 @@
     },
     {
      "id": "Ja8F",
-     "image": "img/russia/Ja8F.webp",
+     "image": "data/img/russia/Ja8F.webp",
      "mapsUrl": "https://goo.gl/maps/vLbD2djpqpFX6CQC9",
      "width": 0.573,
      "text": [
@@ -390,7 +390,7 @@
     },
     {
      "id": "4aKj",
-     "image": "img/russia/4aKj.webp",
+     "image": "data/img/russia/4aKj.webp",
      "mapsUrl": "https://goo.gl/maps/jTaoHVhy338mpvur7",
      "width": 0.573,
      "text": [
@@ -399,7 +399,7 @@
     },
     {
      "id": "KNFH",
-     "image": "img/russia/KNFH.webp",
+     "image": "data/img/russia/KNFH.webp",
      "mapsUrl": "https://goo.gl/maps/tqqLURWPTNjXw9sp9",
      "width": 0.573,
      "text": [
@@ -408,7 +408,7 @@
     },
     {
      "id": "YXiH",
-     "image": "img/russia/YXiH.webp",
+     "image": "data/img/russia/YXiH.webp",
      "mapsUrl": "https://maps.app.goo.gl/bZfDo3ouwhCtNqQh9",
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "QkQy",
-     "image": "img/russia/QkQy.webp",
+     "image": "data/img/russia/QkQy.webp",
      "mapsUrl": "https://goo.gl/maps/uDG4TPTim2cDJeYg6",
      "width": 0.573,
      "text": [
@@ -426,7 +426,7 @@
     },
     {
      "id": "epdP",
-     "image": "img/russia/epdP.webp",
+     "image": "data/img/russia/epdP.webp",
      "mapsUrl": "https://goo.gl/maps/dXEaTjcsvo6Uez2j6",
      "width": 0.573,
      "text": [
@@ -435,7 +435,7 @@
     },
     {
      "id": "UwoE",
-     "image": "img/russia/UwoE.webp",
+     "image": "data/img/russia/UwoE.webp",
      "mapsUrl": "https://goo.gl/maps/6Z3wrbafJNrd62o58",
      "width": 0.573,
      "text": [
@@ -444,7 +444,7 @@
     },
     {
      "id": "K40M",
-     "image": "img/russia/K40M.webp",
+     "image": "data/img/russia/K40M.webp",
      "mapsUrl": "https://maps.app.goo.gl/XxRFD3abiQUCnqtA8",
      "width": 0.573,
      "text": [
@@ -453,7 +453,7 @@
     },
     {
      "id": "SZCQ",
-     "image": "img/russia/SZCQ.webp",
+     "image": "data/img/russia/SZCQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/jdvgFpu8FcYmz9vp9",
      "width": 0.573,
      "text": [
@@ -462,7 +462,7 @@
     },
     {
      "id": "grzn",
-     "image": "img/russia/grzn.webp",
+     "image": "data/img/russia/grzn.webp",
      "mapsUrl": "https://goo.gl/maps/innLMT7qLkRM68Qw5",
      "width": 0.573,
      "text": [
@@ -471,7 +471,7 @@
     },
     {
      "id": "91yN",
-     "image": "img/russia/91yN.webp",
+     "image": "data/img/russia/91yN.webp",
      "mapsUrl": "https://goo.gl/maps/5KT7fh9mz3D4Wmhk6",
      "width": 0.573,
      "text": [
@@ -482,7 +482,7 @@
     },
     {
      "id": "TE6r",
-     "image": "img/russia/TE6r.webp",
+     "image": "data/img/russia/TE6r.webp",
      "mapsUrl": "https://goo.gl/maps/CiZnnmCmH5CU2qfy9",
      "width": 0.573,
      "text": [
@@ -491,7 +491,7 @@
     },
     {
      "id": "sPRH",
-     "image": "img/russia/sPRH.webp",
+     "image": "data/img/russia/sPRH.webp",
      "mapsUrl": "https://goo.gl/maps/KXimvpYBFBd7oUQA9",
      "width": 0.573,
      "text": [
@@ -500,7 +500,7 @@
     },
     {
      "id": "mZpj",
-     "image": "img/russia/mZpj.webp",
+     "image": "data/img/russia/mZpj.webp",
      "mapsUrl": "https://goo.gl/maps/iwfvrmDzatnNtLxc9",
      "width": 0.573,
      "text": [
@@ -509,7 +509,7 @@
     },
     {
      "id": "ABdR",
-     "image": "img/russia/ABdR.webp",
+     "image": "data/img/russia/ABdR.webp",
      "mapsUrl": "https://goo.gl/maps/eG9ScjZpdAvrHjCz7",
      "width": 0.573,
      "text": [
@@ -518,7 +518,7 @@
     },
     {
      "id": "LBZi",
-     "image": "img/russia/LBZi.webp",
+     "image": "data/img/russia/LBZi.webp",
      "mapsUrl": "https://maps.app.goo.gl/S6wb1bDqd1Q23vA18",
      "width": 0.573,
      "text": [
@@ -527,7 +527,7 @@
     },
     {
      "id": "XM6p",
-     "image": "img/russia/XM6p.webp",
+     "image": "data/img/russia/XM6p.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -536,7 +536,7 @@
     },
     {
      "id": "X2he",
-     "image": "img/russia/X2he.webp",
+     "image": "data/img/russia/X2he.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -545,7 +545,7 @@
     },
     {
      "id": "NFlW",
-     "image": "img/russia/NFlW.webp",
+     "image": "data/img/russia/NFlW.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -554,7 +554,7 @@
     },
     {
      "id": "F3DF",
-     "image": "img/russia/F3DF.webp",
+     "image": "data/img/russia/F3DF.webp",
      "mapsUrl": "https://goo.gl/maps/zBqhBu5X8wbCmnoh6",
      "width": 0.573,
      "text": [
@@ -563,7 +563,7 @@
     },
     {
      "id": "4DR5",
-     "image": "img/russia/4DR5.webp",
+     "image": "data/img/russia/4DR5.webp",
      "mapsUrl": "https://maps.app.goo.gl/KRj3vWkaLkH5K2D97",
      "width": 0.573,
      "text": [
@@ -572,7 +572,7 @@
     },
     {
      "id": "hjXS",
-     "image": "img/russia/hjXS.webp",
+     "image": "data/img/russia/hjXS.webp",
      "mapsUrl": "https://goo.gl/maps/zwxnrMnKH4jgBTzU6",
      "width": 0.573,
      "text": [
@@ -581,7 +581,7 @@
     },
     {
      "id": "EN2b",
-     "image": "img/russia/EN2b.webp",
+     "image": "data/img/russia/EN2b.webp",
      "mapsUrl": "https://goo.gl/maps/qySyVbfHYLb4HoiB7",
      "width": 0.573,
      "text": [
@@ -590,7 +590,7 @@
     },
     {
      "id": "PJiO",
-     "image": "img/russia/PJiO.webp",
+     "image": "data/img/russia/PJiO.webp",
      "mapsUrl": "https://goo.gl/maps/HEcxm3bJHcqDcJ4q8",
      "width": 0.573,
      "text": [
@@ -599,7 +599,7 @@
     },
     {
      "id": "trOH",
-     "image": "img/russia/trOH.webp",
+     "image": "data/img/russia/trOH.webp",
      "mapsUrl": "https://maps.app.goo.gl/hqVW4ndMfYCkECPP7",
      "width": 0.573,
      "text": [
@@ -608,7 +608,7 @@
     },
     {
      "id": "sKGo",
-     "image": "img/russia/sKGo.webp",
+     "image": "data/img/russia/sKGo.webp",
      "mapsUrl": "https://goo.gl/maps/S3BdxHUF7N1Fe8GA6",
      "width": 0.573,
      "text": [
@@ -617,7 +617,7 @@
     },
     {
      "id": "aGiM",
-     "image": "img/russia/aGiM.webp",
+     "image": "data/img/russia/aGiM.webp",
      "mapsUrl": "https://goo.gl/maps/MbMYDGTceL2mav369",
      "width": 0.573,
      "text": [
@@ -626,7 +626,7 @@
     },
     {
      "id": "BhB9",
-     "image": "img/russia/BhB9.webp",
+     "image": "data/img/russia/BhB9.webp",
      "mapsUrl": "https://goo.gl/maps/pdj5rPVWdodES1eA9",
      "width": 0.573,
      "text": [
@@ -635,7 +635,7 @@
     },
     {
      "id": "Jm4W",
-     "image": "img/russia/Jm4W.webp",
+     "image": "data/img/russia/Jm4W.webp",
      "mapsUrl": "https://maps.app.goo.gl/Gjowyzxxrf9Wojfa8",
      "width": 0.573,
      "text": [
@@ -645,7 +645,7 @@
     },
     {
      "id": "l2qi",
-     "image": "img/russia/l2qi.webp",
+     "image": "data/img/russia/l2qi.webp",
      "mapsUrl": "https://goo.gl/maps/TQrENQEemwc4qTocA",
      "width": 0.573,
      "text": [
@@ -655,7 +655,7 @@
     },
     {
      "id": "O53i",
-     "image": "img/russia/O53i.webp",
+     "image": "data/img/russia/O53i.webp",
      "mapsUrl": "https://goo.gl/maps/cRLVBZfTdeK4gu4k8",
      "width": 0.573,
      "text": [
@@ -664,7 +664,7 @@
     },
     {
      "id": "jLBa",
-     "image": "img/russia/jLBa.webp",
+     "image": "data/img/russia/jLBa.webp",
      "mapsUrl": "https://goo.gl/maps/2on5gcGeEgDEG7NJ9",
      "width": 0.573,
      "text": [
@@ -673,7 +673,7 @@
     },
     {
      "id": "fV2M",
-     "image": "img/russia/fV2M.webp",
+     "image": "data/img/russia/fV2M.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -683,7 +683,7 @@
     },
     {
      "id": "JN8Z",
-     "image": "img/russia/JN8Z.webp",
+     "image": "data/img/russia/JN8Z.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -693,7 +693,7 @@
     },
     {
      "id": "HjJe",
-     "image": "img/russia/HjJe.webp",
+     "image": "data/img/russia/HjJe.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -702,7 +702,7 @@
     },
     {
      "id": "dzLd",
-     "image": "img/russia/dzLd.webp",
+     "image": "data/img/russia/dzLd.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -711,7 +711,7 @@
     },
     {
      "id": "FXIF",
-     "image": "img/russia/FXIF.webp",
+     "image": "data/img/russia/FXIF.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -720,7 +720,7 @@
     },
     {
      "id": "xPyY",
-     "image": "img/russia/xPyY.webp",
+     "image": "data/img/russia/xPyY.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -729,7 +729,7 @@
     },
     {
      "id": "fDEc",
-     "image": "img/russia/fDEc.webp",
+     "image": "data/img/russia/fDEc.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -738,7 +738,7 @@
     },
     {
      "id": "RADI",
-     "image": "img/russia/RADI.webp",
+     "image": "data/img/russia/RADI.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -747,7 +747,7 @@
     },
     {
      "id": "lyOi",
-     "image": "img/russia/lyOi.webp",
+     "image": "data/img/russia/lyOi.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -757,7 +757,7 @@
     },
     {
      "id": "AsJS",
-     "image": "img/russia/AsJS.webp",
+     "image": "data/img/russia/AsJS.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -766,7 +766,7 @@
     },
     {
      "id": "U8sf",
-     "image": "img/russia/U8sf.webp",
+     "image": "data/img/russia/U8sf.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -775,7 +775,7 @@
     },
     {
      "id": "4Mgv",
-     "image": "img/russia/4Mgv.webp",
+     "image": "data/img/russia/4Mgv.webp",
      "mapsUrl": "https://goo.gl/maps/gfZEabrqUKZDgfiHA",
      "width": 0.573,
      "text": [
@@ -784,7 +784,7 @@
     },
     {
      "id": "suQF",
-     "image": "img/russia/suQF.webp",
+     "image": "data/img/russia/suQF.webp",
      "mapsUrl": "https://goo.gl/maps/37gLm8BJAfZAUubf9",
      "width": 0.573,
      "text": [
@@ -793,7 +793,7 @@
     },
     {
      "id": "uO7t",
-     "image": "img/russia/uO7t.webp",
+     "image": "data/img/russia/uO7t.webp",
      "mapsUrl": "https://maps.app.goo.gl/v24UqU4rLyehhg7U8",
      "width": 0.573,
      "text": [
@@ -802,7 +802,7 @@
     },
     {
      "id": "0522",
-     "image": "img/russia/0522.webp",
+     "image": "data/img/russia/0522.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -811,7 +811,7 @@
     },
     {
      "id": "iFTC",
-     "image": "img/russia/iFTC.webp",
+     "image": "data/img/russia/iFTC.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -820,7 +820,7 @@
     },
     {
      "id": "lQl1",
-     "image": "img/russia/lQl1.webp",
+     "image": "data/img/russia/lQl1.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -829,7 +829,7 @@
     },
     {
      "id": "zTYx",
-     "image": "img/russia/zTYx.webp",
+     "image": "data/img/russia/zTYx.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -838,7 +838,7 @@
     },
     {
      "id": "7siN",
-     "image": "img/russia/7siN.webp",
+     "image": "data/img/russia/7siN.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -847,7 +847,7 @@
     },
     {
      "id": "SwXM",
-     "image": "img/russia/SwXM.webp",
+     "image": "data/img/russia/SwXM.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -856,7 +856,7 @@
     },
     {
      "id": "KOU6",
-     "image": "img/russia/KOU6.webp",
+     "image": "data/img/russia/KOU6.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -865,7 +865,7 @@
     },
     {
      "id": "Ohdq",
-     "image": "img/russia/Ohdq.webp",
+     "image": "data/img/russia/Ohdq.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -892,7 +892,7 @@
    "metas": [
     {
      "id": "leH6",
-     "image": "img/russia/leH6.webp",
+     "image": "data/img/russia/leH6.webp",
      "mapsUrl": "https://goo.gl/maps/skpoE8BfJ4KZMhSLA",
      "width": 0.573,
      "text": [
@@ -901,7 +901,7 @@
     },
     {
      "id": "z9D5",
-     "image": "img/russia/z9D5.webp",
+     "image": "data/img/russia/z9D5.webp",
      "mapsUrl": "https://goo.gl/maps/QpHaBrEup19Pi1Ee8",
      "width": 0.573,
      "text": [
@@ -911,7 +911,7 @@
     },
     {
      "id": "wOuI",
-     "image": "img/russia/wOuI.webp",
+     "image": "data/img/russia/wOuI.webp",
      "mapsUrl": "https://goo.gl/maps/s7ZbbiA22SRZxMHR9",
      "width": 0.573,
      "text": [
@@ -920,7 +920,7 @@
     },
     {
      "id": "UcDG",
-     "image": "img/russia/UcDG.webp",
+     "image": "data/img/russia/UcDG.webp",
      "mapsUrl": "https://goo.gl/maps/zziDfkbiuRycig5C8",
      "width": 0.573,
      "text": [
@@ -929,7 +929,7 @@
     },
     {
      "id": "Om12",
-     "image": "img/russia/Om12.webp",
+     "image": "data/img/russia/Om12.webp",
      "mapsUrl": "https://goo.gl/maps/NmnwHHvFen4MmGb57",
      "width": 0.573,
      "text": [
@@ -938,7 +938,7 @@
     },
     {
      "id": "ZovR",
-     "image": "img/russia/ZovR.webp",
+     "image": "data/img/russia/ZovR.webp",
      "mapsUrl": "https://goo.gl/maps/YxVGggLfEf34mRHeA",
      "width": 0.573,
      "text": [
@@ -947,7 +947,7 @@
     },
     {
      "id": "FyT4",
-     "image": "img/russia/FyT4.webp",
+     "image": "data/img/russia/FyT4.webp",
      "mapsUrl": "https://goo.gl/maps/nhA7jLuKuZu9tQUZ6",
      "width": 0.573,
      "text": [
@@ -956,7 +956,7 @@
     },
     {
      "id": "IeTE",
-     "image": "img/russia/IeTE.webp",
+     "image": "data/img/russia/IeTE.webp",
      "mapsUrl": "https://maps.app.goo.gl/cCQTrKpkJBRXrKgM7",
      "width": 0.573,
      "text": [
@@ -965,7 +965,7 @@
     },
     {
      "id": "aHVz",
-     "image": "img/russia/aHVz.webp",
+     "image": "data/img/russia/aHVz.webp",
      "mapsUrl": "https://goo.gl/maps/tmrfzfrMoCE8rFvHA",
      "width": 0.573,
      "text": [
@@ -974,7 +974,7 @@
     },
     {
      "id": "KHIG",
-     "image": "img/russia/KHIG.webp",
+     "image": "data/img/russia/KHIG.webp",
      "mapsUrl": "https://goo.gl/maps/wLZatgSoH4XRQW3EA",
      "width": 0.573,
      "text": [
@@ -983,7 +983,7 @@
     },
     {
      "id": "ys4b",
-     "image": "img/russia/ys4b.webp",
+     "image": "data/img/russia/ys4b.webp",
      "mapsUrl": "https://maps.app.goo.gl/ptMmP1Tn8tCK23Ev9",
      "width": 0.573,
      "text": [
@@ -992,7 +992,7 @@
     },
     {
      "id": "xTY6",
-     "image": "img/russia/xTY6.webp",
+     "image": "data/img/russia/xTY6.webp",
      "mapsUrl": "https://goo.gl/maps/4apMNhW3vrne6rzD8",
      "width": 0.573,
      "text": [
@@ -1001,7 +1001,7 @@
     },
     {
      "id": "tmTL",
-     "image": "img/russia/tmTL.webp",
+     "image": "data/img/russia/tmTL.webp",
      "mapsUrl": "https://goo.gl/maps/KTWF8wxtUWYJEnpJ7",
      "width": 0.573,
      "text": [
@@ -1010,7 +1010,7 @@
     },
     {
      "id": "wFmP",
-     "image": "img/russia/wFmP.webp",
+     "image": "data/img/russia/wFmP.webp",
      "mapsUrl": "https://goo.gl/maps/V7MwQJ9dVoBp6LbD8",
      "width": 0.573,
      "text": [
@@ -1019,7 +1019,7 @@
     },
     {
      "id": "ZPuK",
-     "image": "img/russia/ZPuK.webp",
+     "image": "data/img/russia/ZPuK.webp",
      "mapsUrl": "https://goo.gl/maps/NUGf4XDKhe5AfBxA8",
      "width": 0.573,
      "text": [
@@ -1028,7 +1028,7 @@
     },
     {
      "id": "vEQX",
-     "image": "img/russia/vEQX.webp",
+     "image": "data/img/russia/vEQX.webp",
      "mapsUrl": "https://goo.gl/maps/NTJzdt2Lowh6t6vB9",
      "width": 0.573,
      "text": [
@@ -1037,7 +1037,7 @@
     },
     {
      "id": "O98Q",
-     "image": "img/russia/O98Q.webp",
+     "image": "data/img/russia/O98Q.webp",
      "mapsUrl": "https://goo.gl/maps/wvkoq736SbbDMzv37",
      "width": 0.573,
      "text": [
@@ -1046,7 +1046,7 @@
     },
     {
      "id": "mcGi",
-     "image": "img/russia/mcGi.webp",
+     "image": "data/img/russia/mcGi.webp",
      "mapsUrl": "https://goo.gl/maps/hn1opBqTADjTaXrMA",
      "width": 0.573,
      "text": [
@@ -1055,7 +1055,7 @@
     },
     {
      "id": "BBhW",
-     "image": "img/russia/BBhW.webp",
+     "image": "data/img/russia/BBhW.webp",
      "mapsUrl": "https://goo.gl/maps/wqsN4hkkPLwMRx976",
      "width": 0.573,
      "text": [
@@ -1064,7 +1064,7 @@
     },
     {
      "id": "eXFX",
-     "image": "img/russia/eXFX.webp",
+     "image": "data/img/russia/eXFX.webp",
      "mapsUrl": "https://goo.gl/maps/Uv8ehvnkbKvwkAXG7",
      "width": 0.573,
      "text": [
@@ -1073,7 +1073,7 @@
     },
     {
      "id": "ENMg",
-     "image": "img/russia/ENMg.webp",
+     "image": "data/img/russia/ENMg.webp",
      "mapsUrl": "https://goo.gl/maps/NwZMY8wXe9zC7fDL6",
      "width": 0.573,
      "text": [
@@ -1082,7 +1082,7 @@
     },
     {
      "id": "920v",
-     "image": "img/russia/920v.webp",
+     "image": "data/img/russia/920v.webp",
      "mapsUrl": "https://goo.gl/maps/kfLttxjqBwDdtPxj7",
      "width": 0.573,
      "text": [
@@ -1091,7 +1091,7 @@
     },
     {
      "id": "gi5v",
-     "image": "img/russia/gi5v.webp",
+     "image": "data/img/russia/gi5v.webp",
      "mapsUrl": "https://goo.gl/maps/HB79yJrkMnhGpvP69",
      "width": 0.573,
      "text": [
@@ -1100,7 +1100,7 @@
     },
     {
      "id": "OENY",
-     "image": "img/russia/OENY.webp",
+     "image": "data/img/russia/OENY.webp",
      "mapsUrl": "https://maps.app.goo.gl/g8UjT7NVhqaBmMibA",
      "width": 0.573,
      "text": [
@@ -1109,7 +1109,7 @@
     },
     {
      "id": "I6aA",
-     "image": "img/russia/I6aA.webp",
+     "image": "data/img/russia/I6aA.webp",
      "mapsUrl": "https://maps.app.goo.gl/iUD3LBhJYxSxdHFeA",
      "width": 0.573,
      "text": [
@@ -1118,7 +1118,7 @@
     },
     {
      "id": "LPj1",
-     "image": "img/russia/LPj1.webp",
+     "image": "data/img/russia/LPj1.webp",
      "mapsUrl": "https://goo.gl/maps/2mDHfZLuaQnfhAHQA",
      "width": 0.573,
      "text": [
@@ -1127,7 +1127,7 @@
     },
     {
      "id": "Ht2R",
-     "image": "img/russia/Ht2R.webp",
+     "image": "data/img/russia/Ht2R.webp",
      "mapsUrl": "https://goo.gl/maps/qYMotiwGEdrBw9DW9",
      "width": 0.573,
      "text": [
@@ -1136,7 +1136,7 @@
     },
     {
      "id": "2n7S",
-     "image": "img/russia/2n7S.webp",
+     "image": "data/img/russia/2n7S.webp",
      "mapsUrl": "https://goo.gl/maps/3xNLTMmDTYyAwj4a7",
      "width": 0.573,
      "text": [
@@ -1145,7 +1145,7 @@
     },
     {
      "id": "y5RK",
-     "image": "img/russia/y5RK.webp",
+     "image": "data/img/russia/y5RK.webp",
      "mapsUrl": "https://goo.gl/maps/Y7e9A9sXeWnLHApX8",
      "width": 0.573,
      "text": [
@@ -1154,7 +1154,7 @@
     },
     {
      "id": "344J",
-     "image": "img/russia/344J.webp",
+     "image": "data/img/russia/344J.webp",
      "mapsUrl": "https://goo.gl/maps/Mcr4QFiPJLAxVFT6A",
      "width": 0.573,
      "text": [
@@ -1163,7 +1163,7 @@
     },
     {
      "id": "kMlj",
-     "image": "img/russia/kMlj.webp",
+     "image": "data/img/russia/kMlj.webp",
      "mapsUrl": "https://goo.gl/maps/EAhm9boHG5wnar4L8",
      "width": 0.573,
      "text": [
@@ -1172,7 +1172,7 @@
     },
     {
      "id": "PzBt",
-     "image": "img/russia/PzBt.webp",
+     "image": "data/img/russia/PzBt.webp",
      "mapsUrl": "https://goo.gl/maps/95TNogJjaX1rocKv6",
      "width": 0.573,
      "text": [
@@ -1181,7 +1181,7 @@
     },
     {
      "id": "kBRg",
-     "image": "img/russia/kBRg.webp",
+     "image": "data/img/russia/kBRg.webp",
      "mapsUrl": "https://goo.gl/maps/DztUVR1jsTqVjcbh7",
      "width": 0.573,
      "text": [
@@ -1190,7 +1190,7 @@
     },
     {
      "id": "24Ka",
-     "image": "img/russia/24Ka.webp",
+     "image": "data/img/russia/24Ka.webp",
      "mapsUrl": "https://goo.gl/maps/iEP56gT1uyUqT4Dm6",
      "width": 0.573,
      "text": [
@@ -1199,7 +1199,7 @@
     },
     {
      "id": "aWaE",
-     "image": "img/russia/aWaE.webp",
+     "image": "data/img/russia/aWaE.webp",
      "mapsUrl": "https://goo.gl/maps/NxMCLkBw4hDmXi268",
      "width": 0.573,
      "text": [
@@ -1208,7 +1208,7 @@
     },
     {
      "id": "3ve1",
-     "image": "img/russia/3ve1.webp",
+     "image": "data/img/russia/3ve1.webp",
      "mapsUrl": "https://goo.gl/maps/AKJzBqqmgKU1tvNu7",
      "width": 0.573,
      "text": [

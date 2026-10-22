@@ -3,7 +3,7 @@
  "title": "Uruguay",
  "code": "UY",
  "continent": "South America",
- "hero": "img/uruguay/hero.webp",
+ "hero": "data/img/uruguay/hero.webp",
  "metaCount": 31,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "grPh",
-     "image": "img/uruguay/grPh.webp",
+     "image": "data/img/uruguay/grPh.webp",
      "mapsUrl": "https://goo.gl/maps/XHjCn3Sr46VZe3zn7",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "VOt5",
-     "image": "img/uruguay/VOt5.webp",
+     "image": "data/img/uruguay/VOt5.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "mv5R",
-     "image": "img/uruguay/mv5R.webp",
+     "image": "data/img/uruguay/mv5R.webp",
      "mapsUrl": "https://goo.gl/maps/dUheDX2ZvV7PsPsP7",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "B0c6",
-     "image": "img/uruguay/B0c6.webp",
+     "image": "data/img/uruguay/B0c6.webp",
      "mapsUrl": "https://goo.gl/maps/ULqgA72vc2VqfF3UA",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "07Np",
-     "image": "img/uruguay/07Np.webp",
+     "image": "data/img/uruguay/07Np.webp",
      "mapsUrl": "https://goo.gl/maps/hS1wpA8oLuBfsydP7",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "ZQG4",
-     "image": "img/uruguay/ZQG4.webp",
+     "image": "data/img/uruguay/ZQG4.webp",
      "mapsUrl": "https://goo.gl/maps/TGkepDhzKAcKyVE99",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "Z9bh",
-     "image": "img/uruguay/Z9bh.webp",
+     "image": "data/img/uruguay/Z9bh.webp",
      "mapsUrl": "https://goo.gl/maps/JhfZA76G15G3Cz6t7",
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "Pveh",
-     "image": "img/uruguay/Pveh.webp",
+     "image": "data/img/uruguay/Pveh.webp",
      "mapsUrl": "https://goo.gl/maps/cWkDVnmTBE71EuSn9",
      "width": 0.5,
      "text": [
@@ -99,7 +99,7 @@
     },
     {
      "id": "0wFk",
-     "image": "img/uruguay/0wFk.webp",
+     "image": "data/img/uruguay/0wFk.webp",
      "mapsUrl": "https://goo.gl/maps/54hY3qXkVYv8RZuN7",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "cpJZ",
-     "image": "img/uruguay/cpJZ.webp",
+     "image": "data/img/uruguay/cpJZ.webp",
      "mapsUrl": "https://goo.gl/maps/gafumnFVNkymSJwu5",
      "width": 0.5,
      "text": [
@@ -122,7 +122,7 @@
     },
     {
      "id": "HRMl",
-     "image": "img/uruguay/HRMl.webp",
+     "image": "data/img/uruguay/HRMl.webp",
      "mapsUrl": "https://goo.gl/maps/7LWGb9Cvq97XN93c9",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "3qgY",
-     "image": "img/uruguay/3qgY.webp",
+     "image": "data/img/uruguay/3qgY.webp",
      "mapsUrl": "https://goo.gl/maps/yq1T6gBnkgS3Ckeb7",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "rYkI",
-     "image": "img/uruguay/rYkI.webp",
+     "image": "data/img/uruguay/rYkI.webp",
      "mapsUrl": "https://goo.gl/maps/rETZ7NYGP8urrktH6",
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "mVth",
-     "image": "img/uruguay/mVth.webp",
+     "image": "data/img/uruguay/mVth.webp",
      "mapsUrl": "https://goo.gl/maps/YG5hppt3THvAbbwH7",
      "width": 0.5,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "lQlm",
-     "image": "img/uruguay/lQlm.webp",
+     "image": "data/img/uruguay/lQlm.webp",
      "mapsUrl": "https://goo.gl/maps/4bGEVxdW76AjWYeA7",
      "width": 0.5,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "gxV0",
-     "image": "img/uruguay/gxV0.webp",
+     "image": "data/img/uruguay/gxV0.webp",
      "mapsUrl": "https://goo.gl/maps/MznyB6mhyoizLH79A",
      "width": 0.5,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "FChw",
-     "image": "img/uruguay/FChw.webp",
+     "image": "data/img/uruguay/FChw.webp",
      "mapsUrl": "https://goo.gl/maps/sonov6xvXnHhmK198",
      "width": 0.5,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "hQj8",
-     "image": "img/uruguay/hQj8.webp",
+     "image": "data/img/uruguay/hQj8.webp",
      "mapsUrl": "https://goo.gl/maps/Q6v6saxw2DiZAvoZA",
      "width": 0.5,
      "text": [
@@ -210,7 +210,7 @@
    "metas": [
     {
      "id": "Ql63",
-     "image": "img/uruguay/Ql63.webp",
+     "image": "data/img/uruguay/Ql63.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "8hZX",
-     "image": "img/uruguay/8hZX.webp",
+     "image": "data/img/uruguay/8hZX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "sGGa",
-     "image": "img/uruguay/sGGa.webp",
+     "image": "data/img/uruguay/sGGa.webp",
      "mapsUrl": "https://goo.gl/maps/6YwRbM1HkgD1Zgw46",
      "width": 0.573,
      "text": [
@@ -243,7 +243,7 @@
     },
     {
      "id": "RpLA",
-     "image": "img/uruguay/RpLA.webp",
+     "image": "data/img/uruguay/RpLA.webp",
      "mapsUrl": "https://goo.gl/maps/USSErLnLKXHdaEXe9",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "MSWj",
-     "image": "img/uruguay/MSWj.webp",
+     "image": "data/img/uruguay/MSWj.webp",
      "mapsUrl": "https://goo.gl/maps/ZBPhcZhTU4Re92H46",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "D8A0",
-     "image": "img/uruguay/D8A0.webp",
+     "image": "data/img/uruguay/D8A0.webp",
      "mapsUrl": "https://goo.gl/maps/F3P3FVcLjwdv8Uaj8",
      "width": 0.573,
      "text": [
@@ -273,7 +273,7 @@
     },
     {
      "id": "nX58",
-     "image": "img/uruguay/nX58.webp",
+     "image": "data/img/uruguay/nX58.webp",
      "mapsUrl": "https://goo.gl/maps/xHDmXDrf376NG1Q59",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "prxs",
-     "image": "img/uruguay/prxs.webp",
+     "image": "data/img/uruguay/prxs.webp",
      "mapsUrl": "https://goo.gl/maps/dB9odhraRigUKpkQ8",
      "width": 0.573,
      "text": [
@@ -304,7 +304,7 @@
    "metas": [
     {
      "id": "Zjpu",
-     "image": "img/uruguay/Zjpu.webp",
+     "image": "data/img/uruguay/Zjpu.webp",
      "mapsUrl": "https://goo.gl/maps/uiwdxmvxTgcLZJz39",
      "width": 0.573,
      "text": [
@@ -314,7 +314,7 @@
     },
     {
      "id": "CX3t",
-     "image": "img/uruguay/CX3t.webp",
+     "image": "data/img/uruguay/CX3t.webp",
      "mapsUrl": "https://goo.gl/maps/vNHotDVxQcuKHDo46",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "xQPs",
-     "image": "img/uruguay/xQPs.webp",
+     "image": "data/img/uruguay/xQPs.webp",
      "mapsUrl": "https://goo.gl/maps/ekavmY7uSXzLyVTG6",
      "width": 0.573,
      "text": [
@@ -333,7 +333,7 @@
     },
     {
      "id": "qHa3",
-     "image": "img/uruguay/qHa3.webp",
+     "image": "data/img/uruguay/qHa3.webp",
      "mapsUrl": "https://goo.gl/maps/eersYbsFfjutpZjm6",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "E7Gs",
-     "image": "img/uruguay/E7Gs.webp",
+     "image": "data/img/uruguay/E7Gs.webp",
      "mapsUrl": "https://goo.gl/maps/EAVBvV5GJa5RL2yB8",
      "width": 0.573,
      "text": [

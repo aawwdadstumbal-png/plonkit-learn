@@ -3,7 +3,7 @@
  "title": "Bangladesh",
  "code": "BD",
  "continent": "Asia",
- "hero": "img/bangladesh/hero.webp",
+ "hero": "data/img/bangladesh/hero.webp",
  "metaCount": 44,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "s4hQ",
-     "image": "img/bangladesh/s4hQ.webp",
+     "image": "data/img/bangladesh/s4hQ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "eLme",
-     "image": "img/bangladesh/eLme.webp",
+     "image": "data/img/bangladesh/eLme.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "OXUJ",
-     "image": "img/bangladesh/OXUJ.webp",
+     "image": "data/img/bangladesh/OXUJ.webp",
      "mapsUrl": "https://goo.gl/maps/GebvK9cUe5Xdwqje7",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "cdPX",
-     "image": "img/bangladesh/cdPX.webp",
+     "image": "data/img/bangladesh/cdPX.webp",
      "mapsUrl": "https://goo.gl/maps/Z8Exw6MskqLX4zHY7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "V57y",
-     "image": "img/bangladesh/V57y.webp",
+     "image": "data/img/bangladesh/V57y.webp",
      "mapsUrl": "https://maps.app.goo.gl/dYHdpAc83pS7A1sq9",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "xulk",
-     "image": "img/bangladesh/xulk.webp",
+     "image": "data/img/bangladesh/xulk.webp",
      "mapsUrl": "https://goo.gl/maps/E9wUXUvtKGa67Qbm7",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "kiNu",
-     "image": "img/bangladesh/kiNu.webp",
+     "image": "data/img/bangladesh/kiNu.webp",
      "mapsUrl": "https://goo.gl/maps/k4YNEG9Qg1NFYaA38",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "TP6E",
-     "image": "img/bangladesh/TP6E.webp",
+     "image": "data/img/bangladesh/TP6E.webp",
      "mapsUrl": "https://goo.gl/maps/wRmhxY4QQJvDRoTQ7",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "RhN6",
-     "image": "img/bangladesh/RhN6.webp",
+     "image": "data/img/bangladesh/RhN6.webp",
      "mapsUrl": "https://goo.gl/maps/duAyvvbMtdpApoBDA",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "iyC8",
-     "image": "img/bangladesh/iyC8.webp",
+     "image": "data/img/bangladesh/iyC8.webp",
      "mapsUrl": "https://goo.gl/maps/o4Ywz9pFZ3DJNjji8",
      "width": 0.5,
      "text": [
@@ -117,7 +117,7 @@
     },
     {
      "id": "DzsR",
-     "image": "img/bangladesh/DzsR.webp",
+     "image": "data/img/bangladesh/DzsR.webp",
      "mapsUrl": "https://goo.gl/maps/xgNQy45bc4wAKQMX6",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "OTxD",
-     "image": "img/bangladesh/OTxD.webp",
+     "image": "data/img/bangladesh/OTxD.webp",
      "mapsUrl": "https://goo.gl/maps/7ofPmYAgajbQjaxo7",
      "width": 0.5,
      "text": [
@@ -145,7 +145,7 @@
    "metas": [
     {
      "id": "xIo2",
-     "image": "img/bangladesh/xIo2.webp",
+     "image": "data/img/bangladesh/xIo2.webp",
      "mapsUrl": "https://maps.app.goo.gl/E5cTQWWJtQw5wfWz9",
      "width": 0.573,
      "text": [
@@ -155,7 +155,7 @@
     },
     {
      "id": "y9Ol",
-     "image": "img/bangladesh/y9Ol.webp",
+     "image": "data/img/bangladesh/y9Ol.webp",
      "mapsUrl": "https://maps.app.goo.gl/9BnkVtHBz41vj6uB6",
      "width": 0.573,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "HFxK",
-     "image": "img/bangladesh/HFxK.webp",
+     "image": "data/img/bangladesh/HFxK.webp",
      "mapsUrl": "https://maps.app.goo.gl/cKgK6NkhZFMH96qa7",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "p7f4",
-     "image": "img/bangladesh/p7f4.webp",
+     "image": "data/img/bangladesh/p7f4.webp",
      "mapsUrl": "https://maps.app.goo.gl/g4gSiSn2oz6242r57",
      "width": 0.573,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "3PQu",
-     "image": "img/bangladesh/3PQu.webp",
+     "image": "data/img/bangladesh/3PQu.webp",
      "mapsUrl": "https://maps.app.goo.gl/tmQBfJcZe7qGtnQd7",
      "width": 0.573,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "axpH",
-     "image": "img/bangladesh/axpH.webp",
+     "image": "data/img/bangladesh/axpH.webp",
      "mapsUrl": "https://maps.app.goo.gl/LqoqEPqm4ESjWGFi9",
      "width": 0.573,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "Wghx",
-     "image": "img/bangladesh/Wghx.webp",
+     "image": "data/img/bangladesh/Wghx.webp",
      "mapsUrl": "https://maps.app.goo.gl/dJ5NF6anzniM5vQr5",
      "width": 0.573,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "tezx",
-     "image": "img/bangladesh/tezx.webp",
+     "image": "data/img/bangladesh/tezx.webp",
      "mapsUrl": "https://maps.app.goo.gl/WjJyCfZYgfy9jdzQA",
      "width": 0.573,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "1nr0",
-     "image": "img/bangladesh/1nr0.webp",
+     "image": "data/img/bangladesh/1nr0.webp",
      "mapsUrl": "https://maps.app.goo.gl/yQmPACrGkEFr6vJS9",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "wYSL",
-     "image": "img/bangladesh/wYSL.webp",
+     "image": "data/img/bangladesh/wYSL.webp",
      "mapsUrl": "https://maps.app.goo.gl/nKVcmTVnFBG1DWo86",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "lwsk",
-     "image": "img/bangladesh/lwsk.webp",
+     "image": "data/img/bangladesh/lwsk.webp",
      "mapsUrl": "https://maps.app.goo.gl/iYtePG38TgQ4cyDC6",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "CFUU",
-     "image": "img/bangladesh/CFUU.webp",
+     "image": "data/img/bangladesh/CFUU.webp",
      "mapsUrl": "https://maps.app.goo.gl/WAay4KNazTGwGp487",
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "oHUw",
-     "image": "img/bangladesh/oHUw.webp",
+     "image": "data/img/bangladesh/oHUw.webp",
      "mapsUrl": "https://maps.app.goo.gl/q5hzigGDYKnEDP9j9",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "s4b7",
-     "image": "img/bangladesh/s4b7.webp",
+     "image": "data/img/bangladesh/s4b7.webp",
      "mapsUrl": "https://maps.app.goo.gl/Yaxpqw4zqaqezrms9",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "dQuW",
-     "image": "img/bangladesh/dQuW.webp",
+     "image": "data/img/bangladesh/dQuW.webp",
      "mapsUrl": "https://maps.app.goo.gl/BmoUTKTcyknUECsg8",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "QXjW",
-     "image": "img/bangladesh/QXjW.webp",
+     "image": "data/img/bangladesh/QXjW.webp",
      "mapsUrl": "https://maps.app.goo.gl/npyuBtSewMMheXco6",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "SRni",
-     "image": "img/bangladesh/SRni.webp",
+     "image": "data/img/bangladesh/SRni.webp",
      "mapsUrl": "https://maps.app.goo.gl/MbvgdRZLTKFnpYJW6",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "wFYz",
-     "image": "img/bangladesh/wFYz.webp",
+     "image": "data/img/bangladesh/wFYz.webp",
      "mapsUrl": "https://maps.app.goo.gl/xZyxLJ4Syxtv8eBJ6",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "QJgl",
-     "image": "img/bangladesh/QJgl.webp",
+     "image": "data/img/bangladesh/QJgl.webp",
      "mapsUrl": "https://maps.app.goo.gl/Ed5PoZfs3cQnZ5ng6",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "ZrT6",
-     "image": "img/bangladesh/ZrT6.webp",
+     "image": "data/img/bangladesh/ZrT6.webp",
      "mapsUrl": "https://maps.app.goo.gl/G4PdP7JQ5cCmkFni8",
      "width": 0.573,
      "text": [
@@ -330,7 +330,7 @@
     },
     {
      "id": "reel",
-     "image": "img/bangladesh/reel.webp",
+     "image": "data/img/bangladesh/reel.webp",
      "mapsUrl": "https://maps.app.goo.gl/3yz6b6a57E4bn6jU9",
      "width": 0.573,
      "text": [
@@ -339,7 +339,7 @@
     },
     {
      "id": "e42R",
-     "image": "img/bangladesh/e42R.webp",
+     "image": "data/img/bangladesh/e42R.webp",
      "mapsUrl": "https://maps.app.goo.gl/dFtnT9pEw3GisBxo7",
      "width": 0.573,
      "text": [
@@ -349,7 +349,7 @@
     },
     {
      "id": "BSuF",
-     "image": "img/bangladesh/BSuF.webp",
+     "image": "data/img/bangladesh/BSuF.webp",
      "mapsUrl": "https://maps.app.goo.gl/x7e7dQjGKSyhNb9TA",
      "width": 0.573,
      "text": [
@@ -359,7 +359,7 @@
     },
     {
      "id": "hqi8",
-     "image": "img/bangladesh/hqi8.webp",
+     "image": "data/img/bangladesh/hqi8.webp",
      "mapsUrl": "https://maps.app.goo.gl/ibM9mJ4szFafjzSXA",
      "width": 0.573,
      "text": [
@@ -368,7 +368,7 @@
     },
     {
      "id": "YtNI",
-     "image": "img/bangladesh/YtNI.webp",
+     "image": "data/img/bangladesh/YtNI.webp",
      "mapsUrl": "https://www.google.com/maps/@22.3480711,91.8007919,3a,75y,247.4h,52.11t/data=!3m7!1e1!3m5!1s7_1b0HL4OWB915B2hp9fyA!2e0!5s20130501T000000!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -377,7 +377,7 @@
     },
     {
      "id": "vevQ",
-     "image": "img/bangladesh/vevQ.webp",
+     "image": "data/img/bangladesh/vevQ.webp",
      "mapsUrl": "https://www.google.com/maps/@23.2764387,89.1578453,3a,75y,161.49h,53.65t/data=!3m7!1e1!3m5!1swfmsLWxrmHbirlsg29VJyw!2e0!5s20131101T000000!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -395,7 +395,7 @@
    "metas": [
     {
      "id": "N0NE",
-     "image": "img/bangladesh/N0NE.webp",
+     "image": "data/img/bangladesh/N0NE.webp",
      "mapsUrl": "https://goo.gl/maps/zS15m1CE58BPfBKf8",
      "width": 0.573,
      "text": [
@@ -404,7 +404,7 @@
     },
     {
      "id": "tfmk",
-     "image": "img/bangladesh/tfmk.webp",
+     "image": "data/img/bangladesh/tfmk.webp",
      "mapsUrl": "https://goo.gl/maps/HCsUnE5bLtnjZMbR6",
      "width": 0.573,
      "text": [
@@ -414,7 +414,7 @@
     },
     {
      "id": "Sapn",
-     "image": "img/bangladesh/Sapn.webp",
+     "image": "data/img/bangladesh/Sapn.webp",
      "mapsUrl": "https://goo.gl/maps/Zso4JLW1ytVNJnza6",
      "width": 0.573,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "aF5y",
-     "image": "img/bangladesh/aF5y.webp",
+     "image": "data/img/bangladesh/aF5y.webp",
      "mapsUrl": "https://goo.gl/maps/mT18TFQpFiNtVBJy9",
      "width": 0.573,
      "text": [
@@ -432,7 +432,7 @@
     },
     {
      "id": "8xfH",
-     "image": "img/bangladesh/8xfH.webp",
+     "image": "data/img/bangladesh/8xfH.webp",
      "mapsUrl": "https://goo.gl/maps/BC6hypmkTPJq1jB17",
      "width": 0.573,
      "text": [
@@ -441,7 +441,7 @@
     },
     {
      "id": "t28E",
-     "image": "img/bangladesh/t28E.webp",
+     "image": "data/img/bangladesh/t28E.webp",
      "mapsUrl": "https://goo.gl/maps/gykv1ALc7ZXkhJmRA",
      "width": 0.573,
      "text": [

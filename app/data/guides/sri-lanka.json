@@ -3,7 +3,7 @@
  "title": "Sri Lanka",
  "code": "LK",
  "continent": "Asia",
- "hero": "img/sri-lanka/hero.webp",
+ "hero": "data/img/sri-lanka/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "oQcO",
-     "image": "img/sri-lanka/oQcO.webp",
+     "image": "data/img/sri-lanka/oQcO.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "Vtwe",
-     "image": "img/sri-lanka/Vtwe.webp",
+     "image": "data/img/sri-lanka/Vtwe.webp",
      "mapsUrl": "https://goo.gl/maps/sXmXwBNw3XQXwrFc6",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "QMG3",
-     "image": "img/sri-lanka/QMG3.webp",
+     "image": "data/img/sri-lanka/QMG3.webp",
      "mapsUrl": "https://goo.gl/maps/BvtajVt8kVaHkhBCA",
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "obMz",
-     "image": "img/sri-lanka/obMz.webp",
+     "image": "data/img/sri-lanka/obMz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -64,7 +64,7 @@
     },
     {
      "id": "AYFb",
-     "image": "img/sri-lanka/AYFb.webp",
+     "image": "data/img/sri-lanka/AYFb.webp",
      "mapsUrl": "https://goo.gl/maps/UZTouXphP9iE3Wh9A",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "Yl3z",
-     "image": "img/sri-lanka/Yl3z.webp",
+     "image": "data/img/sri-lanka/Yl3z.webp",
      "mapsUrl": "https://goo.gl/maps/3DFZY46unNjjn1LX7",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "YaPp",
-     "image": "img/sri-lanka/YaPp.webp",
+     "image": "data/img/sri-lanka/YaPp.webp",
      "mapsUrl": "https://maps.app.goo.gl/Hf4YECQykTP5cfJ68",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "mWPv",
-     "image": "img/sri-lanka/mWPv.webp",
+     "image": "data/img/sri-lanka/mWPv.webp",
      "mapsUrl": "https://goo.gl/maps/ZU6tMoi7tTtAX3rX6",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "7b7h",
-     "image": "img/sri-lanka/7b7h.webp",
+     "image": "data/img/sri-lanka/7b7h.webp",
      "mapsUrl": "https://goo.gl/maps/9LhR5ha8hbDURHQk8",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "HCRR",
-     "image": "img/sri-lanka/HCRR.webp",
+     "image": "data/img/sri-lanka/HCRR.webp",
      "mapsUrl": "https://goo.gl/maps/F1mhxnsPfrSn7W8J9",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "l3FA",
-     "image": "img/sri-lanka/l3FA.webp",
+     "image": "data/img/sri-lanka/l3FA.webp",
      "mapsUrl": "https://goo.gl/maps/aZJap3t9UBUsbiv39",
      "width": 0.5,
      "text": [
@@ -133,7 +133,7 @@
     },
     {
      "id": "fnRY",
-     "image": "img/sri-lanka/fnRY.webp",
+     "image": "data/img/sri-lanka/fnRY.webp",
      "mapsUrl": "https://goo.gl/maps/oeGbnF2qBcvM5emp9",
      "width": 0.5,
      "text": [
@@ -143,7 +143,7 @@
     },
     {
      "id": "A0Tf",
-     "image": "img/sri-lanka/A0Tf.webp",
+     "image": "data/img/sri-lanka/A0Tf.webp",
      "mapsUrl": "https://goo.gl/maps/zxyp57x3fGLFxZP18",
      "width": 0.5,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "I2B3",
-     "image": "img/sri-lanka/I2B3.webp",
+     "image": "data/img/sri-lanka/I2B3.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -163,7 +163,7 @@
     },
     {
      "id": "CFoL",
-     "image": "img/sri-lanka/CFoL.webp",
+     "image": "data/img/sri-lanka/CFoL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "5SaV",
-     "image": "img/sri-lanka/5SaV.webp",
+     "image": "data/img/sri-lanka/5SaV.webp",
      "mapsUrl": "https://goo.gl/maps/UkjoipoaTTFHxuze9",
      "width": 0.5,
      "text": [
@@ -181,7 +181,7 @@
     },
     {
      "id": "2p9M",
-     "image": "img/sri-lanka/2p9M.webp",
+     "image": "data/img/sri-lanka/2p9M.webp",
      "mapsUrl": "https://www.google.com/maps/@6.957306,80.168333,3a,90y,197.55h,90.65t/data=!3m6!1e1!3m4!1seAv7FLuQ5zvB6ikB4b7jeQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -200,7 +200,7 @@
    "metas": [
     {
      "id": "UbLa",
-     "image": "img/sri-lanka/UbLa.webp",
+     "image": "data/img/sri-lanka/UbLa.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "yZrO",
-     "image": "img/sri-lanka/yZrO.webp",
+     "image": "data/img/sri-lanka/yZrO.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -226,7 +226,7 @@
     },
     {
      "id": "1YKV",
-     "image": "img/sri-lanka/1YKV.webp",
+     "image": "data/img/sri-lanka/1YKV.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "wS9v",
-     "image": "img/sri-lanka/wS9v.webp",
+     "image": "data/img/sri-lanka/wS9v.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -250,7 +250,7 @@
     },
     {
      "id": "wbsP",
-     "image": "img/sri-lanka/wbsP.webp",
+     "image": "data/img/sri-lanka/wbsP.webp",
      "mapsUrl": "https://goo.gl/maps/NitymwecqsNzfR7S8",
      "width": 0.573,
      "text": [
@@ -259,7 +259,7 @@
     },
     {
      "id": "JSpS",
-     "image": "img/sri-lanka/JSpS.webp",
+     "image": "data/img/sri-lanka/JSpS.webp",
      "mapsUrl": "https://goo.gl/maps/WrcY2g1H5RPMb5Gt7",
      "width": 0.573,
      "text": [
@@ -269,7 +269,7 @@
     },
     {
      "id": "5c1p",
-     "image": "img/sri-lanka/5c1p.webp",
+     "image": "data/img/sri-lanka/5c1p.webp",
      "mapsUrl": "https://goo.gl/maps/P2CEQApaczKBMimD8",
      "width": 0.573,
      "text": [
@@ -288,7 +288,7 @@
    "metas": [
     {
      "id": "52lk",
-     "image": "img/sri-lanka/52lk.webp",
+     "image": "data/img/sri-lanka/52lk.webp",
      "mapsUrl": "https://goo.gl/maps/nsGUhvxUxcrecDSbA",
      "width": 0.573,
      "text": [

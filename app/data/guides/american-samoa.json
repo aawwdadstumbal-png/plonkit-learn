@@ -3,7 +3,7 @@
  "title": "American Samoa",
  "code": "AS",
  "continent": "Oceania",
- "hero": "img/american-samoa/hero.webp",
+ "hero": "data/img/american-samoa/hero.webp",
  "metaCount": 7,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "Ve3W",
-     "image": "img/american-samoa/Ve3W.webp",
+     "image": "data/img/american-samoa/Ve3W.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "OwzU",
-     "image": "img/american-samoa/OwzU.webp",
+     "image": "data/img/american-samoa/OwzU.webp",
      "mapsUrl": "https://goo.gl/maps/9J2TRoEJL2CfdnZF9",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
    "metas": [
     {
      "id": "pQyl",
-     "image": "img/american-samoa/pQyl.webp",
+     "image": "data/img/american-samoa/pQyl.webp",
      "mapsUrl": "https://goo.gl/maps/JsSbHdpLifbJ1Jdt8",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "0C0S",
-     "image": "img/american-samoa/0C0S.webp",
+     "image": "data/img/american-samoa/0C0S.webp",
      "mapsUrl": "https://goo.gl/maps/Ec2D9s8PzZsWwfkXA",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "UnVR",
-     "image": "img/american-samoa/UnVR.webp",
+     "image": "data/img/american-samoa/UnVR.webp",
      "mapsUrl": "https://goo.gl/maps/89AgZvTc9HJjYqCk8",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
    "metas": [
     {
      "id": "W6tU",
-     "image": "img/american-samoa/W6tU.webp",
+     "image": "data/img/american-samoa/W6tU.webp",
      "mapsUrl": "https://goo.gl/maps/KyriaPF11ZHRuwM47",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "H73S",
-     "image": "img/american-samoa/H73S.webp",
+     "image": "data/img/american-samoa/H73S.webp",
      "mapsUrl": "https://goo.gl/maps/mK54EUK79dgWx7qv6",
      "width": 0.5,
      "text": [

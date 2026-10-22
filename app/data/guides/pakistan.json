@@ -3,7 +3,7 @@
  "title": "Pakistan",
  "code": "PK",
  "continent": "Asia",
- "hero": "img/pakistan/hero.webp",
+ "hero": "data/img/pakistan/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "zWRb",
-     "image": "img/pakistan/zWRb.webp",
+     "image": "data/img/pakistan/zWRb.webp",
      "mapsUrl": "https://goo.gl/maps/jwh1g2vfVjZvCHgA8",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "evsi",
-     "image": "img/pakistan/evsi.webp",
+     "image": "data/img/pakistan/evsi.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "yktB",
-     "image": "img/pakistan/yktB.webp",
+     "image": "data/img/pakistan/yktB.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "Kxq2",
-     "image": "img/pakistan/Kxq2.webp",
+     "image": "data/img/pakistan/Kxq2.webp",
      "mapsUrl": "https://goo.gl/maps/QuWE9rwcyy44f2rW6",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "Ujiq",
-     "image": "img/pakistan/Ujiq.webp",
+     "image": "data/img/pakistan/Ujiq.webp",
      "mapsUrl": "https://goo.gl/maps/uKQJ2HjrD1AmTLnw9",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
    "metas": [
     {
      "id": "9S3l",
-     "image": "img/pakistan/9S3l.webp",
+     "image": "data/img/pakistan/9S3l.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "XzFd",
-     "image": "img/pakistan/XzFd.webp",
+     "image": "data/img/pakistan/XzFd.webp",
      "mapsUrl": "https://goo.gl/maps/XoYhVJqyXQcVTnP76",
      "width": 0.573,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "Q2S5",
-     "image": "img/pakistan/Q2S5.webp",
+     "image": "data/img/pakistan/Q2S5.webp",
      "mapsUrl": "https://goo.gl/maps/Y1tGuwqDnEpjAX2N8",
      "width": 0.573,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "Rtub",
-     "image": "img/pakistan/Rtub.webp",
+     "image": "data/img/pakistan/Rtub.webp",
      "mapsUrl": "https://goo.gl/maps/jpLXML4GnAxnz22o9",
      "width": 0.573,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "wAJF",
-     "image": "img/pakistan/wAJF.webp",
+     "image": "data/img/pakistan/wAJF.webp",
      "mapsUrl": "https://goo.gl/maps/suV4w7M1Mv9KunnR6",
      "width": 0.573,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "6RPD",
-     "image": "img/pakistan/6RPD.webp",
+     "image": "data/img/pakistan/6RPD.webp",
      "mapsUrl": "https://goo.gl/maps/SwdWUxocLrw1s867A",
      "width": 0.573,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "rucD",
-     "image": "img/pakistan/rucD.webp",
+     "image": "data/img/pakistan/rucD.webp",
      "mapsUrl": "https://goo.gl/maps/1GfSfWg4CLLqmXrd6",
      "width": 0.573,
      "text": [
@@ -143,7 +143,7 @@
     },
     {
      "id": "TP63",
-     "image": "img/pakistan/TP63.webp",
+     "image": "data/img/pakistan/TP63.webp",
      "mapsUrl": "https://goo.gl/maps/qYkT9vBbYfxJdBP46",
      "width": 0.573,
      "text": [
@@ -152,7 +152,7 @@
     },
     {
      "id": "9r6V",
-     "image": "img/pakistan/9r6V.webp",
+     "image": "data/img/pakistan/9r6V.webp",
      "mapsUrl": "https://goo.gl/maps/Xwxewh1W14Vncj2D8",
      "width": 0.573,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "JW5b",
-     "image": "img/pakistan/JW5b.webp",
+     "image": "data/img/pakistan/JW5b.webp",
      "mapsUrl": "https://goo.gl/maps/545xsHuzNnBUPspC7",
      "width": 0.573,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "ciEV",
-     "image": "img/pakistan/ciEV.webp",
+     "image": "data/img/pakistan/ciEV.webp",
      "mapsUrl": "https://goo.gl/maps/DJjPxEZwrutverUB8",
      "width": 0.573,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "y4Tl",
-     "image": "img/pakistan/y4Tl.webp",
+     "image": "data/img/pakistan/y4Tl.webp",
      "mapsUrl": "https://goo.gl/maps/sd91H9ybe4Cp2Brr7",
      "width": 0.573,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "mIzg",
-     "image": "img/pakistan/mIzg.webp",
+     "image": "data/img/pakistan/mIzg.webp",
      "mapsUrl": "https://goo.gl/maps/Bv2AqRNGwfM4WwR26",
      "width": 0.573,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "zl6e",
-     "image": "img/pakistan/zl6e.webp",
+     "image": "data/img/pakistan/zl6e.webp",
      "mapsUrl": "https://goo.gl/maps/86vwhxW4mDQDRgWCA",
      "width": 0.573,
      "text": [
@@ -207,7 +207,7 @@
     },
     {
      "id": "VlpT",
-     "image": "img/pakistan/VlpT.webp",
+     "image": "data/img/pakistan/VlpT.webp",
      "mapsUrl": "https://goo.gl/maps/VvbX6EtWBFGjqu8Y9",
      "width": 0.573,
      "text": [
@@ -216,7 +216,7 @@
     },
     {
      "id": "D9uS",
-     "image": "img/pakistan/D9uS.webp",
+     "image": "data/img/pakistan/D9uS.webp",
      "mapsUrl": "https://goo.gl/maps/XvDjf7xENUvB9Gn16",
      "width": 0.573,
      "text": [
@@ -225,7 +225,7 @@
     },
     {
      "id": "qZn2",
-     "image": "img/pakistan/qZn2.webp",
+     "image": "data/img/pakistan/qZn2.webp",
      "mapsUrl": "https://goo.gl/maps/HT7uyEkziCbrqWpT7",
      "width": 0.573,
      "text": [
@@ -234,7 +234,7 @@
     },
     {
      "id": "K3qO",
-     "image": "img/pakistan/K3qO.webp",
+     "image": "data/img/pakistan/K3qO.webp",
      "mapsUrl": "https://goo.gl/maps/UMiCdqQDUwt8r3P39",
      "width": 0.573,
      "text": [
@@ -243,7 +243,7 @@
     },
     {
      "id": "0iLc",
-     "image": "img/pakistan/0iLc.webp",
+     "image": "data/img/pakistan/0iLc.webp",
      "mapsUrl": "https://goo.gl/maps/Km1tQE6TbbSQ2jxy8",
      "width": 0.573,
      "text": [
@@ -252,7 +252,7 @@
     },
     {
      "id": "aJMI",
-     "image": "img/pakistan/aJMI.webp",
+     "image": "data/img/pakistan/aJMI.webp",
      "mapsUrl": "https://goo.gl/maps/e8v4rZkqE2Qf23At8",
      "width": 0.573,
      "text": [

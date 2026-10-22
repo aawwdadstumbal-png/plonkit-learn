@@ -3,7 +3,7 @@
  "title": "New Zealand",
  "code": "NZ",
  "continent": "Oceania",
- "hero": "img/new-zealand/hero.webp",
+ "hero": "data/img/new-zealand/hero.webp",
  "metaCount": 74,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "uxAD",
-     "image": "img/new-zealand/uxAD.webp",
+     "image": "data/img/new-zealand/uxAD.webp",
      "mapsUrl": "https://goo.gl/maps/ybfmSthw1whnSTrc9",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "0ffI",
-     "image": "img/new-zealand/0ffI.webp",
+     "image": "data/img/new-zealand/0ffI.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "Meh7",
-     "image": "img/new-zealand/Meh7.webp",
+     "image": "data/img/new-zealand/Meh7.webp",
      "mapsUrl": "https://maps.app.goo.gl/iAuHt7cAqzrFcYfDA",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "oCAJ",
-     "image": "img/new-zealand/oCAJ.webp",
+     "image": "data/img/new-zealand/oCAJ.webp",
      "mapsUrl": "https://goo.gl/maps/psrB3Nw3iFi69Uaw7",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "JeNW",
-     "image": "img/new-zealand/JeNW.webp",
+     "image": "data/img/new-zealand/JeNW.webp",
      "mapsUrl": "https://goo.gl/maps/AdbwWk5ZginWejqD8",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "xku9",
-     "image": "img/new-zealand/xku9.webp",
+     "image": "data/img/new-zealand/xku9.webp",
      "mapsUrl": "https://goo.gl/maps/BnPcmKZgGRnoeQKTA",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "hXrt",
-     "image": "img/new-zealand/hXrt.webp",
+     "image": "data/img/new-zealand/hXrt.webp",
      "mapsUrl": "https://goo.gl/maps/Zr6MWAEdi4cjQpfc7",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "X2dH",
-     "image": "img/new-zealand/X2dH.webp",
+     "image": "data/img/new-zealand/X2dH.webp",
      "mapsUrl": "https://goo.gl/maps/VCKjBxabCvWkHqbaA",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "Ce48",
-     "image": "img/new-zealand/Ce48.webp",
+     "image": "data/img/new-zealand/Ce48.webp",
      "mapsUrl": "https://goo.gl/maps/MjV3iuiXwNShgXDn9",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "KqxA",
-     "image": "img/new-zealand/KqxA.webp",
+     "image": "data/img/new-zealand/KqxA.webp",
      "mapsUrl": "https://goo.gl/maps/BvKMsNeuFMqAUriLA",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "3zI5",
-     "image": "img/new-zealand/3zI5.webp",
+     "image": "data/img/new-zealand/3zI5.webp",
      "mapsUrl": "https://goo.gl/maps/YuL3meSDXpQcc9U59",
      "width": 0.5,
      "text": [
@@ -128,7 +128,7 @@
     },
     {
      "id": "f4UY",
-     "image": "img/new-zealand/f4UY.webp",
+     "image": "data/img/new-zealand/f4UY.webp",
      "mapsUrl": "https://goo.gl/maps/1m5dmoWjSUdaQ7N69",
      "width": 0.5,
      "text": [
@@ -159,7 +159,7 @@
    "metas": [
     {
      "id": "2F6z",
-     "image": "img/new-zealand/2F6z.webp",
+     "image": "data/img/new-zealand/2F6z.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "fUk2",
-     "image": "img/new-zealand/fUk2.webp",
+     "image": "data/img/new-zealand/fUk2.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "8lMO",
-     "image": "img/new-zealand/8lMO.webp",
+     "image": "data/img/new-zealand/8lMO.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "WY9A",
-     "image": "img/new-zealand/WY9A.webp",
+     "image": "data/img/new-zealand/WY9A.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -199,7 +199,7 @@
     },
     {
      "id": "MNql",
-     "image": "img/new-zealand/MNql.webp",
+     "image": "data/img/new-zealand/MNql.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "9ga3",
-     "image": "img/new-zealand/9ga3.webp",
+     "image": "data/img/new-zealand/9ga3.webp",
      "mapsUrl": "https://goo.gl/maps/sfsrin1gqq7e8Miz9",
      "width": 0.573,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "Nr89",
-     "image": "img/new-zealand/Nr89.webp",
+     "image": "data/img/new-zealand/Nr89.webp",
      "mapsUrl": "https://goo.gl/maps/M68Zf5bfbDbBpopo8",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "IXZs",
-     "image": "img/new-zealand/IXZs.webp",
+     "image": "data/img/new-zealand/IXZs.webp",
      "mapsUrl": "https://goo.gl/maps/uxGiXNtAwhPiZjEH9",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "C3QC",
-     "image": "img/new-zealand/C3QC.webp",
+     "image": "data/img/new-zealand/C3QC.webp",
      "mapsUrl": "https://goo.gl/maps/CzAsUce6NgFS9eBY8",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "RcrP",
-     "image": "img/new-zealand/RcrP.webp",
+     "image": "data/img/new-zealand/RcrP.webp",
      "mapsUrl": "https://maps.app.goo.gl/z4Yi71zyuu7obhQX6",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "mDBz",
-     "image": "img/new-zealand/mDBz.webp",
+     "image": "data/img/new-zealand/mDBz.webp",
      "mapsUrl": "https://maps.app.goo.gl/N34BUBVv7SJW2MZr7",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "2qIN",
-     "image": "img/new-zealand/2qIN.webp",
+     "image": "data/img/new-zealand/2qIN.webp",
      "mapsUrl": "https://goo.gl/maps/7KYxRQZJFtCSj8Cb6",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "ynPy",
-     "image": "img/new-zealand/ynPy.webp",
+     "image": "data/img/new-zealand/ynPy.webp",
      "mapsUrl": "https://goo.gl/maps/n56Ba1cuCP6qBzCB8",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "E7Wd",
-     "image": "img/new-zealand/E7Wd.webp",
+     "image": "data/img/new-zealand/E7Wd.webp",
      "mapsUrl": "https://goo.gl/maps/5okBrfLUY5mXquSZ7",
      "width": 0.573,
      "text": [
@@ -294,7 +294,7 @@
     },
     {
      "id": "T8cO",
-     "image": "img/new-zealand/T8cO.webp",
+     "image": "data/img/new-zealand/T8cO.webp",
      "mapsUrl": "https://goo.gl/maps/5qWv2CumdvFVUTy2A",
      "width": 0.573,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "PPp1",
-     "image": "img/new-zealand/PPp1.webp",
+     "image": "data/img/new-zealand/PPp1.webp",
      "mapsUrl": "https://goo.gl/maps/9xcupxQo4AbLVRdV6",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "dqVU",
-     "image": "img/new-zealand/dqVU.webp",
+     "image": "data/img/new-zealand/dqVU.webp",
      "mapsUrl": "https://goo.gl/maps/VSnrcRhgzxqUez4u6",
      "width": 0.573,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "5Uh0",
-     "image": "img/new-zealand/5Uh0.webp",
+     "image": "data/img/new-zealand/5Uh0.webp",
      "mapsUrl": "https://maps.app.goo.gl/oozebaZoLsdgVefU7",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "YUUn",
-     "image": "img/new-zealand/YUUn.webp",
+     "image": "data/img/new-zealand/YUUn.webp",
      "mapsUrl": "https://maps.app.goo.gl/EfesRJf8CkRK5kne7",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "qFtc",
-     "image": "img/new-zealand/qFtc.webp",
+     "image": "data/img/new-zealand/qFtc.webp",
      "mapsUrl": "https://maps.app.goo.gl/27vLJsb1NrVUgHDu5",
      "width": 0.573,
      "text": [
@@ -352,7 +352,7 @@
     },
     {
      "id": "3BCb",
-     "image": "img/new-zealand/3BCb.webp",
+     "image": "data/img/new-zealand/3BCb.webp",
      "mapsUrl": "https://maps.app.goo.gl/HUSjdp1FEVe72qbu6",
      "width": 0.573,
      "text": [
@@ -361,7 +361,7 @@
     },
     {
      "id": "NyjD",
-     "image": "img/new-zealand/NyjD.webp",
+     "image": "data/img/new-zealand/NyjD.webp",
      "mapsUrl": "https://maps.app.goo.gl/9HJViMdB5ZNYd5kD8",
      "width": 0.573,
      "text": [
@@ -370,7 +370,7 @@
     },
     {
      "id": "NrdM",
-     "image": "img/new-zealand/NrdM.webp",
+     "image": "data/img/new-zealand/NrdM.webp",
      "mapsUrl": "https://maps.app.goo.gl/RXEnWvQs87gv21jJ7",
      "width": 0.573,
      "text": [
@@ -379,7 +379,7 @@
     },
     {
      "id": "jvPP",
-     "image": "img/new-zealand/jvPP.webp",
+     "image": "data/img/new-zealand/jvPP.webp",
      "mapsUrl": "https://maps.app.goo.gl/BgHtsE6wB6dnovfm6",
      "width": 0.573,
      "text": [
@@ -388,7 +388,7 @@
     },
     {
      "id": "eYDd",
-     "image": "img/new-zealand/eYDd.webp",
+     "image": "data/img/new-zealand/eYDd.webp",
      "mapsUrl": "https://maps.app.goo.gl/yMy9cuY8EniiVPqcA",
      "width": 0.573,
      "text": [
@@ -398,7 +398,7 @@
     },
     {
      "id": "2dwa",
-     "image": "img/new-zealand/2dwa.webp",
+     "image": "data/img/new-zealand/2dwa.webp",
      "mapsUrl": "https://maps.app.goo.gl/TjqYCHGrMWctbV6L6",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "pIF3",
-     "image": "img/new-zealand/pIF3.webp",
+     "image": "data/img/new-zealand/pIF3.webp",
      "mapsUrl": "https://maps.app.goo.gl/w9jPRQScfeHNDMYMA",
      "width": 0.573,
      "text": [
@@ -416,7 +416,7 @@
     },
     {
      "id": "dIFU",
-     "image": "img/new-zealand/dIFU.webp",
+     "image": "data/img/new-zealand/dIFU.webp",
      "mapsUrl": "https://maps.app.goo.gl/gtREtP6Ae8uxgFRr7",
      "width": 0.573,
      "text": [
@@ -425,7 +425,7 @@
     },
     {
      "id": "rFlV",
-     "image": "img/new-zealand/rFlV.webp",
+     "image": "data/img/new-zealand/rFlV.webp",
      "mapsUrl": "https://maps.app.goo.gl/sfMm58ouENVND7Tu5",
      "width": 0.573,
      "text": [
@@ -434,7 +434,7 @@
     },
     {
      "id": "WnqU",
-     "image": "img/new-zealand/WnqU.webp",
+     "image": "data/img/new-zealand/WnqU.webp",
      "mapsUrl": "https://maps.app.goo.gl/t7ozB9A7BnhSc9RH7",
      "width": 0.573,
      "text": [
@@ -444,7 +444,7 @@
     },
     {
      "id": "Wlc1",
-     "image": "img/new-zealand/Wlc1.webp",
+     "image": "data/img/new-zealand/Wlc1.webp",
      "mapsUrl": "https://maps.app.goo.gl/Qp5gC4oHmhfXu6p2A",
      "width": 0.573,
      "text": [
@@ -453,7 +453,7 @@
     },
     {
      "id": "Z6C1",
-     "image": "img/new-zealand/Z6C1.webp",
+     "image": "data/img/new-zealand/Z6C1.webp",
      "mapsUrl": "https://maps.app.goo.gl/nfkxUHaM5RhpshHaA",
      "width": 0.573,
      "text": [
@@ -462,7 +462,7 @@
     },
     {
      "id": "XoPE",
-     "image": "img/new-zealand/XoPE.webp",
+     "image": "data/img/new-zealand/XoPE.webp",
      "mapsUrl": "https://maps.app.goo.gl/LridKYgTenAUsTsJ8",
      "width": 0.573,
      "text": [
@@ -472,7 +472,7 @@
     },
     {
      "id": "aemR",
-     "image": "img/new-zealand/aemR.webp",
+     "image": "data/img/new-zealand/aemR.webp",
      "mapsUrl": "https://goo.gl/maps/86kgUmjyTt84EncN9",
      "width": 0.573,
      "text": [
@@ -482,7 +482,7 @@
     },
     {
      "id": "P4oS",
-     "image": "img/new-zealand/P4oS.webp",
+     "image": "data/img/new-zealand/P4oS.webp",
      "mapsUrl": "https://maps.app.goo.gl/3ar2zQi3QEEBqozi8",
      "width": 0.573,
      "text": [
@@ -491,7 +491,7 @@
     },
     {
      "id": "msuk",
-     "image": "img/new-zealand/msuk.webp",
+     "image": "data/img/new-zealand/msuk.webp",
      "mapsUrl": "https://maps.app.goo.gl/j6nf4jbP16wV6HwK8",
      "width": 0.573,
      "text": [
@@ -500,7 +500,7 @@
     },
     {
      "id": "RMn3",
-     "image": "img/new-zealand/RMn3.webp",
+     "image": "data/img/new-zealand/RMn3.webp",
      "mapsUrl": "https://maps.app.goo.gl/FWrPRrHyqS7Gtg288",
      "width": 0.573,
      "text": [
@@ -509,7 +509,7 @@
     },
     {
      "id": "IFOm",
-     "image": "img/new-zealand/IFOm.webp",
+     "image": "data/img/new-zealand/IFOm.webp",
      "mapsUrl": "https://maps.app.goo.gl/CjgWRMaAuALmsd9Y7",
      "width": 0.573,
      "text": [
@@ -518,7 +518,7 @@
     },
     {
      "id": "eaHz",
-     "image": "img/new-zealand/eaHz.webp",
+     "image": "data/img/new-zealand/eaHz.webp",
      "mapsUrl": "https://maps.app.goo.gl/yDn53zTe9PWoyDei6",
      "width": 0.573,
      "text": [
@@ -527,7 +527,7 @@
     },
     {
      "id": "LSKR",
-     "image": "img/new-zealand/LSKR.webp",
+     "image": "data/img/new-zealand/LSKR.webp",
      "mapsUrl": "https://maps.app.goo.gl/2s5jiX4BG2uSRN9S6",
      "width": 0.573,
      "text": [
@@ -536,7 +536,7 @@
     },
     {
      "id": "ZjW9",
-     "image": "img/new-zealand/ZjW9.webp",
+     "image": "data/img/new-zealand/ZjW9.webp",
      "mapsUrl": "https://maps.app.goo.gl/YF5GMEXJd723QXeC8",
      "width": 0.573,
      "text": [
@@ -545,7 +545,7 @@
     },
     {
      "id": "4EJh",
-     "image": "img/new-zealand/4EJh.webp",
+     "image": "data/img/new-zealand/4EJh.webp",
      "mapsUrl": "https://goo.gl/maps/PLoB32g9Y34Ns8hr5",
      "width": 0.573,
      "text": [
@@ -554,7 +554,7 @@
     },
     {
      "id": "GdlA",
-     "image": "img/new-zealand/GdlA.webp",
+     "image": "data/img/new-zealand/GdlA.webp",
      "mapsUrl": "https://maps.app.goo.gl/xrvYStvJE6TFpPoA7",
      "width": 0.573,
      "text": [
@@ -572,7 +572,7 @@
    "metas": [
     {
      "id": "6R0C",
-     "image": "img/new-zealand/6R0C.webp",
+     "image": "data/img/new-zealand/6R0C.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -582,7 +582,7 @@
     },
     {
      "id": "Pwwm",
-     "image": "img/new-zealand/Pwwm.webp",
+     "image": "data/img/new-zealand/Pwwm.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -592,7 +592,7 @@
     },
     {
      "id": "C0Pf",
-     "image": "img/new-zealand/C0Pf.webp",
+     "image": "data/img/new-zealand/C0Pf.webp",
      "mapsUrl": "https://goo.gl/maps/8rVaDUqZn5eSwnRD9",
      "width": 0.573,
      "text": [
@@ -601,7 +601,7 @@
     },
     {
      "id": "KXiR",
-     "image": "img/new-zealand/KXiR.webp",
+     "image": "data/img/new-zealand/KXiR.webp",
      "mapsUrl": "https://goo.gl/maps/D1BKXEMHrYaXgqZLA",
      "width": 0.573,
      "text": [
@@ -610,7 +610,7 @@
     },
     {
      "id": "Yk95",
-     "image": "img/new-zealand/Yk95.webp",
+     "image": "data/img/new-zealand/Yk95.webp",
      "mapsUrl": "https://goo.gl/maps/CvCrHzfYw4Wy4GiJA",
      "width": 0.573,
      "text": [
@@ -619,7 +619,7 @@
     },
     {
      "id": "JkFp",
-     "image": "img/new-zealand/JkFp.webp",
+     "image": "data/img/new-zealand/JkFp.webp",
      "mapsUrl": "https://goo.gl/maps/VsHxdVodegt9VPz28",
      "width": 0.573,
      "text": [
@@ -629,7 +629,7 @@
     },
     {
      "id": "BatA",
-     "image": "img/new-zealand/BatA.webp",
+     "image": "data/img/new-zealand/BatA.webp",
      "mapsUrl": "https://goo.gl/maps/8hx6TybXwKDxrysT9",
      "width": 0.573,
      "text": [
@@ -639,7 +639,7 @@
     },
     {
      "id": "rGvH",
-     "image": "img/new-zealand/rGvH.webp",
+     "image": "data/img/new-zealand/rGvH.webp",
      "mapsUrl": "https://goo.gl/maps/DP3zwsANmmXToiCk6",
      "width": 0.573,
      "text": [
@@ -648,7 +648,7 @@
     },
     {
      "id": "Acdh",
-     "image": "img/new-zealand/Acdh.webp",
+     "image": "data/img/new-zealand/Acdh.webp",
      "mapsUrl": "https://goo.gl/maps/8iBd8vRP9vPh7k4c8",
      "width": 0.573,
      "text": [
@@ -657,7 +657,7 @@
     },
     {
      "id": "qFdG",
-     "image": "img/new-zealand/qFdG.webp",
+     "image": "data/img/new-zealand/qFdG.webp",
      "mapsUrl": "https://goo.gl/maps/1yDWzEKVhDsv5w599",
      "width": 0.573,
      "text": [
@@ -666,7 +666,7 @@
     },
     {
      "id": "nmR0",
-     "image": "img/new-zealand/nmR0.webp",
+     "image": "data/img/new-zealand/nmR0.webp",
      "mapsUrl": "https://maps.app.goo.gl/5GnHiuRrFBDtjYiQ8",
      "width": 0.573,
      "text": [
@@ -676,7 +676,7 @@
     },
     {
      "id": "SPE9",
-     "image": "img/new-zealand/SPE9.webp",
+     "image": "data/img/new-zealand/SPE9.webp",
      "mapsUrl": "https://maps.app.goo.gl/6aacW3PEEg4Py77u6",
      "width": 0.573,
      "text": [
@@ -686,7 +686,7 @@
     },
     {
      "id": "AkRe",
-     "image": "img/new-zealand/AkRe.webp",
+     "image": "data/img/new-zealand/AkRe.webp",
      "mapsUrl": "https://maps.app.goo.gl/qxCSiudSMTJ51kps8",
      "width": 0.573,
      "text": [
@@ -696,7 +696,7 @@
     },
     {
      "id": "SVyX",
-     "image": "img/new-zealand/SVyX.webp",
+     "image": "data/img/new-zealand/SVyX.webp",
      "mapsUrl": "https://maps.app.goo.gl/P1ZDvdo4RnA3LGDV8",
      "width": 0.573,
      "text": [
@@ -705,7 +705,7 @@
     },
     {
      "id": "ljyw",
-     "image": "img/new-zealand/ljyw.webp",
+     "image": "data/img/new-zealand/ljyw.webp",
      "mapsUrl": "https://maps.app.goo.gl/f7hdRDavj6WHsoQs5",
      "width": 0.573,
      "text": [
@@ -714,7 +714,7 @@
     },
     {
      "id": "ZfLj",
-     "image": "img/new-zealand/ZfLj.webp",
+     "image": "data/img/new-zealand/ZfLj.webp",
      "mapsUrl": "https://maps.app.goo.gl/QVkC9tnaCjM5x6R69",
      "width": 0.573,
      "text": [
@@ -723,7 +723,7 @@
     },
     {
      "id": "lGFJ",
-     "image": "img/new-zealand/lGFJ.webp",
+     "image": "data/img/new-zealand/lGFJ.webp",
      "mapsUrl": "https://goo.gl/maps/Y9gE66aByLy6smag7",
      "width": 0.573,
      "text": [
@@ -732,7 +732,7 @@
     },
     {
      "id": "6R9A",
-     "image": "img/new-zealand/6R9A.webp",
+     "image": "data/img/new-zealand/6R9A.webp",
      "mapsUrl": "https://maps.app.goo.gl/YXSxGMfQBjwSoGdB6",
      "width": 0.573,
      "text": [
@@ -741,7 +741,7 @@
     },
     {
      "id": "3LkP",
-     "image": "img/new-zealand/3LkP.webp",
+     "image": "data/img/new-zealand/3LkP.webp",
      "mapsUrl": "https://maps.app.goo.gl/1xKEGFXdXZ2CyYSaA",
      "width": 0.573,
      "text": [

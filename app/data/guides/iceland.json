@@ -3,7 +3,7 @@
  "title": "Iceland",
  "code": "IS",
  "continent": "Europe",
- "hero": "img/iceland/hero.webp",
+ "hero": "data/img/iceland/hero.webp",
  "metaCount": 30,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "0vwU",
-     "image": "img/iceland/0vwU.webp",
+     "image": "data/img/iceland/0vwU.webp",
      "mapsUrl": "https://maps.app.goo.gl/Wb8e89cxpxEzk7XK7",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "bPcD",
-     "image": "img/iceland/bPcD.webp",
+     "image": "data/img/iceland/bPcD.webp",
      "mapsUrl": "https://goo.gl/maps/uRVqyeA82gvRgJtz8",
      "width": 0.5,
      "text": [
@@ -38,7 +38,7 @@
     },
     {
      "id": "tHAX",
-     "image": "img/iceland/tHAX.webp",
+     "image": "data/img/iceland/tHAX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "Et2D",
-     "image": "img/iceland/Et2D.webp",
+     "image": "data/img/iceland/Et2D.webp",
      "mapsUrl": "https://maps.app.goo.gl/8UepTkzk7BVJqkie6",
      "width": 0.5,
      "text": [
@@ -57,7 +57,7 @@
     },
     {
      "id": "4Z9g",
-     "image": "img/iceland/4Z9g.webp",
+     "image": "data/img/iceland/4Z9g.webp",
      "mapsUrl": "https://maps.app.goo.gl/LrsekuhwJWfW2cd1A",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "T5Vc",
-     "image": "img/iceland/T5Vc.webp",
+     "image": "data/img/iceland/T5Vc.webp",
      "mapsUrl": "https://maps.app.goo.gl/ejfXoukw1Z771E8u7",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "X4vj",
-     "image": "img/iceland/X4vj.webp",
+     "image": "data/img/iceland/X4vj.webp",
      "mapsUrl": "https://maps.app.goo.gl/14XEuqwuTDTE3YV6A",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "sZf3",
-     "image": "img/iceland/sZf3.webp",
+     "image": "data/img/iceland/sZf3.webp",
      "mapsUrl": "https://maps.app.goo.gl/QdxEZhKzzPGrkY5t8",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "JmkG",
-     "image": "img/iceland/JmkG.webp",
+     "image": "data/img/iceland/JmkG.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -106,7 +106,7 @@
     },
     {
      "id": "F8Gs",
-     "image": "img/iceland/F8Gs.webp",
+     "image": "data/img/iceland/F8Gs.webp",
      "mapsUrl": "https://maps.app.goo.gl/yqxLLkuRyFTb9mkn9",
      "width": 0.5,
      "text": [
@@ -115,7 +115,7 @@
     },
     {
      "id": "Z7Bu",
-     "image": "img/iceland/Z7Bu.webp",
+     "image": "data/img/iceland/Z7Bu.webp",
      "mapsUrl": "https://maps.app.goo.gl/kkNf7AwC9TBqksUg7",
      "width": 0.5,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "oi9u",
-     "image": "img/iceland/oi9u.webp",
+     "image": "data/img/iceland/oi9u.webp",
      "mapsUrl": "https://maps.app.goo.gl/SEQnvopeZpXqhGmTA",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "1WGJ",
-     "image": "img/iceland/1WGJ.webp",
+     "image": "data/img/iceland/1WGJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/hqQcTTprxipFxUUe9",
      "width": 0.5,
      "text": [
@@ -162,7 +162,7 @@
    "metas": [
     {
      "id": "WZXG",
-     "image": "img/iceland/WZXG.webp",
+     "image": "data/img/iceland/WZXG.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "C9oY",
-     "image": "img/iceland/C9oY.webp",
+     "image": "data/img/iceland/C9oY.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "88qE",
-     "image": "img/iceland/88qE.webp",
+     "image": "data/img/iceland/88qE.webp",
      "mapsUrl": "https://maps.app.goo.gl/c14fhU4MAF2g2GWS9",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "3eR6",
-     "image": "img/iceland/3eR6.webp",
+     "image": "data/img/iceland/3eR6.webp",
      "mapsUrl": "https://maps.app.goo.gl/hhSekmTvQZsXuYPz7",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "hgBk",
-     "image": "img/iceland/hgBk.webp",
+     "image": "data/img/iceland/hgBk.webp",
      "mapsUrl": "https://maps.app.goo.gl/aAJ3RsELGf37VH8x5",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "VW5n",
-     "image": "img/iceland/VW5n.webp",
+     "image": "data/img/iceland/VW5n.webp",
      "mapsUrl": "https://maps.app.goo.gl/4Ds79DrMeoFedNuXA",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "wz9a",
-     "image": "img/iceland/wz9a.webp",
+     "image": "data/img/iceland/wz9a.webp",
      "mapsUrl": "https://goo.gl/maps/8g2gy99FSpnjervz8",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "JAin",
-     "image": "img/iceland/JAin.webp",
+     "image": "data/img/iceland/JAin.webp",
      "mapsUrl": "https://maps.app.goo.gl/BgpLPVTJCTeEmrXc7",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "gVuJ",
-     "image": "img/iceland/gVuJ.webp",
+     "image": "data/img/iceland/gVuJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/Zby8BYuZvk1uHxMV7",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "1Yf4",
-     "image": "img/iceland/1Yf4.webp",
+     "image": "data/img/iceland/1Yf4.webp",
      "mapsUrl": "https://maps.app.goo.gl/MiJwbsje9i7dgLny8",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "gEmJ",
-     "image": "img/iceland/gEmJ.webp",
+     "image": "data/img/iceland/gEmJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/ZBc1jefjLe6nT8718",
      "width": 0.573,
      "text": [
@@ -266,7 +266,7 @@
     },
     {
      "id": "9uH4",
-     "image": "img/iceland/9uH4.webp",
+     "image": "data/img/iceland/9uH4.webp",
      "mapsUrl": "https://goo.gl/maps/HUKSLms72Jxgm4dg6",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "CG6f",
-     "image": "img/iceland/CG6f.webp",
+     "image": "data/img/iceland/CG6f.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
    "metas": [
     {
      "id": "pJN0",
-     "image": "img/iceland/pJN0.webp",
+     "image": "data/img/iceland/pJN0.webp",
      "mapsUrl": "https://maps.app.goo.gl/UMe8kJN87e2qC12j8",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "VkQ5",
-     "image": "img/iceland/VkQ5.webp",
+     "image": "data/img/iceland/VkQ5.webp",
      "mapsUrl": "https://www.google.com/maps/@64.0590197,-21.5244127,3a,90y,243.12h,96.3t/data=!3m6!1e1!3m4!1s4UGM7eq2ldUJgs9jUcoXtw!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -314,7 +314,7 @@
     },
     {
      "id": "8Ms8",
-     "image": "img/iceland/8Ms8.webp",
+     "image": "data/img/iceland/8Ms8.webp",
      "mapsUrl": "https://maps.app.goo.gl/HK9i9cxwY2fvV5Xw8",
      "width": 0.573,
      "text": [
@@ -323,7 +323,7 @@
     },
     {
      "id": "AbV1",
-     "image": "img/iceland/AbV1.webp",
+     "image": "data/img/iceland/AbV1.webp",
      "mapsUrl": "https://maps.app.goo.gl/rDQqKhMmbtUYN6um7",
      "width": 0.573,
      "text": [

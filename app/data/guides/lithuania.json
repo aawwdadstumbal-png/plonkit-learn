@@ -3,7 +3,7 @@
  "title": "Lithuania",
  "code": "LT",
  "continent": "Europe",
- "hero": "img/lithuania/hero.webp",
+ "hero": "data/img/lithuania/hero.webp",
  "metaCount": 25,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "ggZt",
-     "image": "img/lithuania/ggZt.webp",
+     "image": "data/img/lithuania/ggZt.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "SYjp",
-     "image": "img/lithuania/SYjp.webp",
+     "image": "data/img/lithuania/SYjp.webp",
      "mapsUrl": "https://goo.gl/maps/f5ZrVyGZxBrn85nc9",
      "width": 0.5,
      "text": [
@@ -41,7 +41,7 @@
     },
     {
      "id": "N6PY",
-     "image": "img/lithuania/N6PY.webp",
+     "image": "data/img/lithuania/N6PY.webp",
      "mapsUrl": "https://goo.gl/maps/6GRWSNQ64DMZsfB17",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "RWCn",
-     "image": "img/lithuania/RWCn.webp",
+     "image": "data/img/lithuania/RWCn.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "Uc6g",
-     "image": "img/lithuania/Uc6g.webp",
+     "image": "data/img/lithuania/Uc6g.webp",
      "mapsUrl": "https://goo.gl/maps/Y8oAcr92bgexUn3g9",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "0iED",
-     "image": "img/lithuania/0iED.webp",
+     "image": "data/img/lithuania/0iED.webp",
      "mapsUrl": "https://goo.gl/maps/kLocjhsA1YCKGb6R9",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "q5r2",
-     "image": "img/lithuania/q5r2.webp",
+     "image": "data/img/lithuania/q5r2.webp",
      "mapsUrl": "https://goo.gl/maps/iNBCzcUzbecDPwkVA",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "koWn",
-     "image": "img/lithuania/koWn.webp",
+     "image": "data/img/lithuania/koWn.webp",
      "mapsUrl": "https://goo.gl/maps/YJViVh5E9ErXFPxDA",
      "width": 0.5,
      "text": [
@@ -105,7 +105,7 @@
     },
     {
      "id": "tXGz",
-     "image": "img/lithuania/tXGz.webp",
+     "image": "data/img/lithuania/tXGz.webp",
      "mapsUrl": "https://goo.gl/maps/XqH7s6La5ySnDa3i8",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "sIcK",
-     "image": "img/lithuania/sIcK.webp",
+     "image": "data/img/lithuania/sIcK.webp",
      "mapsUrl": "https://goo.gl/maps/DEsaBkx8DpUDHXD9A",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "5P5C",
-     "image": "img/lithuania/5P5C.webp",
+     "image": "data/img/lithuania/5P5C.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "5FSb",
-     "image": "img/lithuania/5FSb.webp",
+     "image": "data/img/lithuania/5FSb.webp",
      "mapsUrl": "https://goo.gl/maps/tfGBcBGDYLsSFih79",
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "94Uf",
-     "image": "img/lithuania/94Uf.webp",
+     "image": "data/img/lithuania/94Uf.webp",
      "mapsUrl": "https://goo.gl/maps/y9bKFq1kR5bAfRyh9",
      "width": 0.5,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "nVmi",
-     "image": "img/lithuania/nVmi.webp",
+     "image": "data/img/lithuania/nVmi.webp",
      "mapsUrl": "https://goo.gl/maps/MeaNoczU1BzeYM5M6",
      "width": 0.5,
      "text": [
@@ -169,7 +169,7 @@
     },
     {
      "id": "GkfG",
-     "image": "img/lithuania/GkfG.webp",
+     "image": "data/img/lithuania/GkfG.webp",
      "mapsUrl": "https://goo.gl/maps/17A5xxGivFmbs4ae8",
      "width": 0.5,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "3bOZ",
-     "image": "img/lithuania/3bOZ.webp",
+     "image": "data/img/lithuania/3bOZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/y3GUnrq51acBci7X6",
      "width": 0.5,
      "text": [
@@ -188,7 +188,7 @@
     },
     {
      "id": "8k76",
-     "image": "img/lithuania/8k76.webp",
+     "image": "data/img/lithuania/8k76.webp",
      "mapsUrl": "https://goo.gl/maps/kUfHnVAaa4Qt8DgV7",
      "width": 0.5,
      "text": [
@@ -197,7 +197,7 @@
     },
     {
      "id": "fAPZ",
-     "image": "img/lithuania/fAPZ.webp",
+     "image": "data/img/lithuania/fAPZ.webp",
      "mapsUrl": "https://goo.gl/maps/Ri5A75bu1rEtNY9W9",
      "width": 0.5,
      "text": [
@@ -208,7 +208,7 @@
     },
     {
      "id": "YZaL",
-     "image": "img/lithuania/YZaL.webp",
+     "image": "data/img/lithuania/YZaL.webp",
      "mapsUrl": "https://maps.app.goo.gl/no1XkgMYvBAeDhFK7",
      "width": 0.5,
      "text": [
@@ -218,7 +218,7 @@
     },
     {
      "id": "NpdU",
-     "image": "img/lithuania/NpdU.webp",
+     "image": "data/img/lithuania/NpdU.webp",
      "mapsUrl": "https://maps.app.goo.gl/HuCDxaCUJ2WQDsPj9",
      "width": 0.5,
      "text": [
@@ -237,7 +237,7 @@
    "metas": [
     {
      "id": "mtfw",
-     "image": "img/lithuania/mtfw.webp",
+     "image": "data/img/lithuania/mtfw.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "FSkc",
-     "image": "img/lithuania/FSkc.webp",
+     "image": "data/img/lithuania/FSkc.webp",
      "mapsUrl": "https://maps.app.goo.gl/3JeUf8TJwGatxsJY7",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
    "metas": [
     {
      "id": "oTsA",
-     "image": "img/lithuania/oTsA.webp",
+     "image": "data/img/lithuania/oTsA.webp",
      "mapsUrl": "https://goo.gl/maps/hcUTqfJdCnVet3V39",
      "width": 0.573,
      "text": [
@@ -276,7 +276,7 @@
     },
     {
      "id": "evbw",
-     "image": "img/lithuania/evbw.webp",
+     "image": "data/img/lithuania/evbw.webp",
      "mapsUrl": "https://goo.gl/maps/rGow3oPctsqkf3BT8",
      "width": 0.573,
      "text": [
@@ -285,7 +285,7 @@
     },
     {
      "id": "1lsP",
-     "image": "img/lithuania/1lsP.webp",
+     "image": "data/img/lithuania/1lsP.webp",
      "mapsUrl": "https://goo.gl/maps/84q2zph3FVuL97zeA",
      "width": 0.573,
      "text": [

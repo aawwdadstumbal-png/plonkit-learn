@@ -3,7 +3,7 @@
  "title": "Laos",
  "code": "LA",
  "continent": "Asia",
- "hero": "img/laos/hero.webp",
+ "hero": "data/img/laos/hero.webp",
  "metaCount": 27,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "wMAB",
-     "image": "img/laos/wMAB.webp",
+     "image": "data/img/laos/wMAB.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -36,7 +36,7 @@
     },
     {
      "id": "lqdo",
-     "image": "img/laos/lqdo.webp",
+     "image": "data/img/laos/lqdo.webp",
      "mapsUrl": "https://www.google.de/maps/@16.5633151,104.7678901,3a,90y,6.75h,16.97t/data=!3m7!1e1!3m5!1sRil7k9kHyEUqBjcsYaGM1A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRil7k9kHyEUqBjcsYaGM1A%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D95.68906%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.5,
      "text": [
@@ -46,7 +46,7 @@
     },
     {
      "id": "LUJM",
-     "image": "img/laos/LUJM.webp",
+     "image": "data/img/laos/LUJM.webp",
      "mapsUrl": "https://goo.gl/maps/SnXrach5CutXFYCH7",
      "width": 0.5,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "N7h9",
-     "image": "img/laos/N7h9.webp",
+     "image": "data/img/laos/N7h9.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "q4i1",
-     "image": "img/laos/q4i1.webp",
+     "image": "data/img/laos/q4i1.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "p67D",
-     "image": "img/laos/p67D.webp",
+     "image": "data/img/laos/p67D.webp",
      "mapsUrl": "https://goo.gl/maps/Y6zVTTYCXJ7ESgH79",
      "width": 0.5,
      "text": [
@@ -87,7 +87,7 @@
     },
     {
      "id": "XxPH",
-     "image": "img/laos/XxPH.webp",
+     "image": "data/img/laos/XxPH.webp",
      "mapsUrl": "https://goo.gl/maps/dZSkujLLxzSD33PH7",
      "width": 0.5,
      "text": [
@@ -96,7 +96,7 @@
     },
     {
      "id": "3hIR",
-     "image": "img/laos/3hIR.webp",
+     "image": "data/img/laos/3hIR.webp",
      "mapsUrl": "https://goo.gl/maps/cyVVXQknYEHuPJw68",
      "width": 0.5,
      "text": [
@@ -106,7 +106,7 @@
     },
     {
      "id": "rwz1",
-     "image": "img/laos/rwz1.webp",
+     "image": "data/img/laos/rwz1.webp",
      "mapsUrl": "https://goo.gl/maps/ub8haRwjtMHxjxE39",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "VMbz",
-     "image": "img/laos/VMbz.webp",
+     "image": "data/img/laos/VMbz.webp",
      "mapsUrl": "https://goo.gl/maps/HpWRhdGVCwAJAaKg6",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "Iall",
-     "image": "img/laos/Iall.webp",
+     "image": "data/img/laos/Iall.webp",
      "mapsUrl": "https://goo.gl/maps/FjnT8AG1DFAD8xkA9",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "IN2F",
-     "image": "img/laos/IN2F.webp",
+     "image": "data/img/laos/IN2F.webp",
      "mapsUrl": "https://goo.gl/maps/AAEn5A6WkjP3MW4H8",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "sHs4",
-     "image": "img/laos/sHs4.webp",
+     "image": "data/img/laos/sHs4.webp",
      "mapsUrl": "https://goo.gl/maps/hrGV2PJXPSjLrCGA6",
      "width": 0.5,
      "text": [
@@ -183,7 +183,7 @@
    "metas": [
     {
      "id": "HOpP",
-     "image": "img/laos/HOpP.webp",
+     "image": "data/img/laos/HOpP.webp",
      "mapsUrl": "https://goo.gl/maps/M2g4A3DCGprcVCin6",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "fIJW",
-     "image": "img/laos/fIJW.webp",
+     "image": "data/img/laos/fIJW.webp",
      "mapsUrl": "https://goo.gl/maps/qyXoP6dCzSdHoFB77",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "uXJP",
-     "image": "img/laos/uXJP.webp",
+     "image": "data/img/laos/uXJP.webp",
      "mapsUrl": "https://goo.gl/maps/xXust9qE964eyEsW7",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "Vgk1",
-     "image": "img/laos/Vgk1.webp",
+     "image": "data/img/laos/Vgk1.webp",
      "mapsUrl": "https://goo.gl/maps/3WneEABNk3pKJjVW9",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "oTVy",
-     "image": "img/laos/oTVy.webp",
+     "image": "data/img/laos/oTVy.webp",
      "mapsUrl": "https://www.google.de/maps/@18.9316241,102.4499602,3a,90y,291.6h,85.9t/data=!3m6!1e1!3m4!1sCE_mH4hQPST9j_Kt5Q9r0g!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "ootv",
-     "image": "img/laos/ootv.webp",
+     "image": "data/img/laos/ootv.webp",
      "mapsUrl": "https://goo.gl/maps/Ye3vhEGFjVd2LAok6",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "gwui",
-     "image": "img/laos/gwui.webp",
+     "image": "data/img/laos/gwui.webp",
      "mapsUrl": "https://goo.gl/maps/882kdEjzZEyjDq9q8",
      "width": 0.573,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "KUIb",
-     "image": "img/laos/KUIb.webp",
+     "image": "data/img/laos/KUIb.webp",
      "mapsUrl": "https://www.google.de/maps/@17.9646238,102.7209199,3a,75y,10.97h,83.27t/data=!3m7!1e1!3m5!1s4iY4mGN5oeqN1B0AUrMtxQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D4iY4mGN5oeqN1B0AUrMtxQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D102.19216%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "vRr8",
-     "image": "img/laos/vRr8.webp",
+     "image": "data/img/laos/vRr8.webp",
      "mapsUrl": "https://goo.gl/maps/xYdtr8J8HBELHyCW9",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "fEd7",
-     "image": "img/laos/fEd7.webp",
+     "image": "data/img/laos/fEd7.webp",
      "mapsUrl": "https://goo.gl/maps/HBJ24q6zJsM55E536",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "LsED",
-     "image": "img/laos/LsED.webp",
+     "image": "data/img/laos/LsED.webp",
      "mapsUrl": "https://goo.gl/maps/SAw2XAgL8csyjFfF6",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "04v1",
-     "image": "img/laos/04v1.webp",
+     "image": "data/img/laos/04v1.webp",
      "mapsUrl": "https://goo.gl/maps/vdbqghAkcZivzUcu5",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "QR2a",
-     "image": "img/laos/QR2a.webp",
+     "image": "data/img/laos/QR2a.webp",
      "mapsUrl": "https://www.google.de/maps/@15.11176,105.8354543,3a,42.3y,323.05h,78.45t/data=!3m6!1e1!3m4!1sNl0Vb-JikfFnryKKr0dN8A!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [
@@ -307,7 +307,7 @@
     },
     {
      "id": "ztlX",
-     "image": "img/laos/ztlX.webp",
+     "image": "data/img/laos/ztlX.webp",
      "mapsUrl": "https://www.google.de/maps/@15.0997481,105.8117855,3a,75y,19.58h,80.04t/data=!3m6!1e1!3m4!1srNecOylBMglJ3U82pyHW8A!2e0!7i13312!8i6656",
      "width": 0.573,
      "text": [

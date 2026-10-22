@@ -3,7 +3,7 @@
  "title": "Cocos Islands",
  "code": "CC",
  "continent": "Oceania",
- "hero": "img/cocos-islands/hero.webp",
+ "hero": "data/img/cocos-islands/hero.webp",
  "metaCount": 12,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "Mrf6",
-     "image": "img/cocos-islands/Mrf6.webp",
+     "image": "data/img/cocos-islands/Mrf6.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "t4f1",
-     "image": "img/cocos-islands/t4f1.webp",
+     "image": "data/img/cocos-islands/t4f1.webp",
      "mapsUrl": "https://goo.gl/maps/h87frck6yQfSL11JA",
      "width": 0.5,
      "text": [
@@ -47,7 +47,7 @@
    "metas": [
     {
      "id": "xFmx",
-     "image": "img/cocos-islands/xFmx.webp",
+     "image": "data/img/cocos-islands/xFmx.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.1644250522535&heading=58.31346630818494&map_action=pano&pano=t9toXJDM7shTLoa4pPytmg&pitch=-89&shorturl=1&viewpoint=-12.198487%2C96.838037#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -56,7 +56,7 @@
     },
     {
      "id": "k3NB",
-     "image": "img/cocos-islands/k3NB.webp",
+     "image": "data/img/cocos-islands/k3NB.webp",
      "mapsUrl": "https://goo.gl/maps/qZVyDP1CYvqWAcPi9",
      "width": 0.573,
      "text": [
@@ -66,7 +66,7 @@
     },
     {
      "id": "YRBD",
-     "image": "img/cocos-islands/YRBD.webp",
+     "image": "data/img/cocos-islands/YRBD.webp",
      "mapsUrl": "https://goo.gl/maps/BQmZ9KsvERmVkLkj6",
      "width": 0.573,
      "text": [
@@ -75,7 +75,7 @@
     },
     {
      "id": "Kz7l",
-     "image": "img/cocos-islands/Kz7l.webp",
+     "image": "data/img/cocos-islands/Kz7l.webp",
      "mapsUrl": "https://goo.gl/maps/meTENoyBJQZjYXiB8",
      "width": 0.573,
      "text": [
@@ -93,7 +93,7 @@
    "metas": [
     {
      "id": "Jtsy",
-     "image": "img/cocos-islands/Jtsy.webp",
+     "image": "data/img/cocos-islands/Jtsy.webp",
      "mapsUrl": "https://goo.gl/maps/dHaidqjjuKGMWXTL9",
      "width": 0.573,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "vuzg",
-     "image": "img/cocos-islands/vuzg.webp",
+     "image": "data/img/cocos-islands/vuzg.webp",
      "mapsUrl": "https://goo.gl/maps/kUodYKrF1H3Rb88fA",
      "width": 0.573,
      "text": [
@@ -112,7 +112,7 @@
     },
     {
      "id": "rCZB",
-     "image": "img/cocos-islands/rCZB.webp",
+     "image": "data/img/cocos-islands/rCZB.webp",
      "mapsUrl": "https://goo.gl/maps/FafxVExg4rFmHUD78",
      "width": 0.573,
      "text": [
@@ -121,7 +121,7 @@
     },
     {
      "id": "QDur",
-     "image": "img/cocos-islands/QDur.webp",
+     "image": "data/img/cocos-islands/QDur.webp",
      "mapsUrl": "https://goo.gl/maps/Dw2Vk1EmdQzicY1dA",
      "width": 0.573,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "5cEy",
-     "image": "img/cocos-islands/5cEy.webp",
+     "image": "data/img/cocos-islands/5cEy.webp",
      "mapsUrl": "https://goo.gl/maps/m8SP5EdQ7BQJTU3E8",
      "width": 0.573,
      "text": [
@@ -139,7 +139,7 @@
     },
     {
      "id": "Sjcs",
-     "image": "img/cocos-islands/Sjcs.webp",
+     "image": "data/img/cocos-islands/Sjcs.webp",
      "mapsUrl": "https://goo.gl/maps/f2PgYc65399fNNyP6",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Czechia",
  "code": "CZ",
  "continent": "Europe",
- "hero": "img/czechia/hero.webp",
+ "hero": "data/img/czechia/hero.webp",
  "metaCount": 60,
  "sections": [
   {
@@ -40,7 +40,7 @@
    "metas": [
     {
      "id": "YKsZ",
-     "image": "img/czechia/YKsZ.webp",
+     "image": "data/img/czechia/YKsZ.webp",
      "mapsUrl": "https://goo.gl/maps/hz8eJgvj2RGCmR8M6",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "xfda",
-     "image": "img/czechia/xfda.webp",
+     "image": "data/img/czechia/xfda.webp",
      "mapsUrl": "https://goo.gl/maps/P6VzMUbKCiEQDXZ89",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "PTbY",
-     "image": "img/czechia/PTbY.webp",
+     "image": "data/img/czechia/PTbY.webp",
      "mapsUrl": "https://goo.gl/maps/QpUnu3DsckRGcjA27",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "IPjG",
-     "image": "img/czechia/IPjG.webp",
+     "image": "data/img/czechia/IPjG.webp",
      "mapsUrl": "https://goo.gl/maps/jqDV9U2fDYgsx6H8A",
      "width": 0.5,
      "text": [
@@ -78,7 +78,7 @@
     },
     {
      "id": "r4zS",
-     "image": "img/czechia/r4zS.webp",
+     "image": "data/img/czechia/r4zS.webp",
      "mapsUrl": "https://goo.gl/maps/Kxmgjx7bQ5475MyKA",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "LS8m",
-     "image": "img/czechia/LS8m.webp",
+     "image": "data/img/czechia/LS8m.webp",
      "mapsUrl": "https://maps.app.goo.gl/rKb6QCqjHUm3ssmH8",
      "width": 0.5,
      "text": [
@@ -97,7 +97,7 @@
     },
     {
      "id": "cQDy",
-     "image": "img/czechia/cQDy.webp",
+     "image": "data/img/czechia/cQDy.webp",
      "mapsUrl": "https://goo.gl/maps/JdGcDHZHAH9EiNPE6",
      "width": 0.5,
      "text": [
@@ -106,7 +106,7 @@
     },
     {
      "id": "7uBV",
-     "image": "img/czechia/7uBV.webp",
+     "image": "data/img/czechia/7uBV.webp",
      "mapsUrl": "https://goo.gl/maps/k1JugRbY5sy5B8PTA",
      "width": 0.5,
      "text": [
@@ -115,7 +115,7 @@
     },
     {
      "id": "t6TO",
-     "image": "img/czechia/t6TO.webp",
+     "image": "data/img/czechia/t6TO.webp",
      "mapsUrl": "https://goo.gl/maps/X8SYNhemq9u2qn3ZA",
      "width": 0.5,
      "text": [
@@ -124,7 +124,7 @@
     },
     {
      "id": "mhfL",
-     "image": "img/czechia/mhfL.webp",
+     "image": "data/img/czechia/mhfL.webp",
      "mapsUrl": "https://goo.gl/maps/rYUEpQLxQZK5JFs3A",
      "width": 0.5,
      "text": [
@@ -134,7 +134,7 @@
     },
     {
      "id": "ShNI",
-     "image": "img/czechia/ShNI.webp",
+     "image": "data/img/czechia/ShNI.webp",
      "mapsUrl": "https://goo.gl/maps/oH2iacdEWZwoZLdbA",
      "width": 0.5,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "9iNw",
-     "image": "img/czechia/9iNw.webp",
+     "image": "data/img/czechia/9iNw.webp",
      "mapsUrl": "https://goo.gl/maps/rbEKUcne2T7mfbM49",
      "width": 0.5,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "xG48",
-     "image": "img/czechia/xG48.webp",
+     "image": "data/img/czechia/xG48.webp",
      "mapsUrl": "https://goo.gl/maps/3p8SuuE6VajzHT3JA",
      "width": 0.5,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "IhlL",
-     "image": "img/czechia/IhlL.webp",
+     "image": "data/img/czechia/IhlL.webp",
      "mapsUrl": "https://goo.gl/maps/7aZyEfsLrxvWZvoj8",
      "width": 0.5,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "MXsC",
-     "image": "img/czechia/MXsC.webp",
+     "image": "data/img/czechia/MXsC.webp",
      "mapsUrl": "https://maps.app.goo.gl/qQyTMyJoR5ueW7kc9",
      "width": 0.5,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "qGBg",
-     "image": "img/czechia/qGBg.webp",
+     "image": "data/img/czechia/qGBg.webp",
      "mapsUrl": "https://maps.app.goo.gl/VE5GxQSeddRUTXwd6",
      "width": 0.5,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "AWb6",
-     "image": "img/czechia/AWb6.webp",
+     "image": "data/img/czechia/AWb6.webp",
      "mapsUrl": "https://goo.gl/maps/evPiiHLXBwMrLuqk8",
      "width": 0.5,
      "text": [
@@ -203,7 +203,7 @@
     },
     {
      "id": "U0oF",
-     "image": "img/czechia/U0oF.webp",
+     "image": "data/img/czechia/U0oF.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -215,7 +215,7 @@
     },
     {
      "id": "VqUC",
-     "image": "img/czechia/VqUC.webp",
+     "image": "data/img/czechia/VqUC.webp",
      "mapsUrl": "https://goo.gl/maps/FUePGnpP1xDGheh69",
      "width": 0.5,
      "text": [
@@ -224,7 +224,7 @@
     },
     {
      "id": "THqa",
-     "image": "img/czechia/THqa.webp",
+     "image": "data/img/czechia/THqa.webp",
      "mapsUrl": "https://goo.gl/maps/cygwtBTwNZwHHPSx8",
      "width": 0.5,
      "text": [
@@ -234,7 +234,7 @@
     },
     {
      "id": "k92w",
-     "image": "img/czechia/k92w.webp",
+     "image": "data/img/czechia/k92w.webp",
      "mapsUrl": "https://goo.gl/maps/LENDH6JqQz4zjdMu7",
      "width": 0.5,
      "text": [
@@ -244,7 +244,7 @@
     },
     {
      "id": "GIEo",
-     "image": "img/czechia/GIEo.webp",
+     "image": "data/img/czechia/GIEo.webp",
      "mapsUrl": "https://maps.app.goo.gl/DjWmV787QcRDvfqd6",
      "width": 0.5,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "Csne",
-     "image": "img/czechia/Csne.webp",
+     "image": "data/img/czechia/Csne.webp",
      "mapsUrl": "https://goo.gl/maps/KJedfqKcg9DQfw1UA",
      "width": 0.5,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "CR8x",
-     "image": "img/czechia/CR8x.webp",
+     "image": "data/img/czechia/CR8x.webp",
      "mapsUrl": "https://goo.gl/maps/5kbezHUooSdrV6uN9",
      "width": 0.5,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "ZA6H",
-     "image": "img/czechia/ZA6H.webp",
+     "image": "data/img/czechia/ZA6H.webp",
      "mapsUrl": "https://goo.gl/maps/WRhpwkmvNyJWiyov5",
      "width": 0.5,
      "text": [
@@ -285,7 +285,7 @@
     },
     {
      "id": "PETs",
-     "image": "img/czechia/PETs.webp",
+     "image": "data/img/czechia/PETs.webp",
      "mapsUrl": "https://goo.gl/maps/PV9c5QG89cM4r69AA",
      "width": 0.5,
      "text": [
@@ -295,7 +295,7 @@
     },
     {
      "id": "47QH",
-     "image": "img/czechia/47QH.webp",
+     "image": "data/img/czechia/47QH.webp",
      "mapsUrl": "https://goo.gl/maps/rA7AnttsoyqeRnr89",
      "width": 0.5,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "tF8d",
-     "image": "img/czechia/tF8d.webp",
+     "image": "data/img/czechia/tF8d.webp",
      "mapsUrl": "https://goo.gl/maps/sNEqVbwBx8CXFqbS7",
      "width": 0.5,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "bQbe",
-     "image": "img/czechia/bQbe.webp",
+     "image": "data/img/czechia/bQbe.webp",
      "mapsUrl": "https://goo.gl/maps/6WxFqM1eTebcskjXA",
      "width": 0.5,
      "text": [
@@ -325,7 +325,7 @@
     },
     {
      "id": "AhNO",
-     "image": "img/czechia/AhNO.webp",
+     "image": "data/img/czechia/AhNO.webp",
      "mapsUrl": "https://goo.gl/maps/yGMhzYCoLFFcVgPf8",
      "width": 0.5,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "LOn9",
-     "image": "img/czechia/LOn9.webp",
+     "image": "data/img/czechia/LOn9.webp",
      "mapsUrl": "https://goo.gl/maps/VSu3yPq2Gf12MjYM9",
      "width": 0.5,
      "text": [
@@ -344,7 +344,7 @@
     },
     {
      "id": "7h9k",
-     "image": "img/czechia/7h9k.webp",
+     "image": "data/img/czechia/7h9k.webp",
      "mapsUrl": "https://goo.gl/maps/r1bYFNwhbmDRQ1c7A",
      "width": 0.5,
      "text": [
@@ -354,7 +354,7 @@
     },
     {
      "id": "AJhg",
-     "image": "img/czechia/AJhg.webp",
+     "image": "data/img/czechia/AJhg.webp",
      "mapsUrl": "https://maps.app.goo.gl/U1A72T4MuM969N9t7",
      "width": 0.5,
      "text": [
@@ -364,7 +364,7 @@
     },
     {
      "id": "laf3",
-     "image": "img/czechia/laf3.webp",
+     "image": "data/img/czechia/laf3.webp",
      "mapsUrl": "https://goo.gl/maps/kuC5RHPsjEB2pZFC8",
      "width": 0.5,
      "text": [
@@ -374,7 +374,7 @@
     },
     {
      "id": "hFSH",
-     "image": "img/czechia/hFSH.webp",
+     "image": "data/img/czechia/hFSH.webp",
      "mapsUrl": "https://goo.gl/maps/tdNvL7vGJTrxzUfL9",
      "width": 0.5,
      "text": [
@@ -393,7 +393,7 @@
    "metas": [
     {
      "id": "MkWo",
-     "image": "img/czechia/MkWo.webp",
+     "image": "data/img/czechia/MkWo.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -403,7 +403,7 @@
     },
     {
      "id": "KhBT",
-     "image": "img/czechia/KhBT.webp",
+     "image": "data/img/czechia/KhBT.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -413,7 +413,7 @@
     },
     {
      "id": "QlQe",
-     "image": "img/czechia/QlQe.webp",
+     "image": "data/img/czechia/QlQe.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -423,7 +423,7 @@
     },
     {
      "id": "n1YQ",
-     "image": "img/czechia/n1YQ.webp",
+     "image": "data/img/czechia/n1YQ.webp",
      "mapsUrl": "https://goo.gl/maps/nYYYFAVCfPQB5nWy7",
      "width": 0.573,
      "text": [
@@ -432,7 +432,7 @@
     },
     {
      "id": "2QUv",
-     "image": "img/czechia/2QUv.webp",
+     "image": "data/img/czechia/2QUv.webp",
      "mapsUrl": "https://goo.gl/maps/vZUyrvx7uonx8R8X9",
      "width": 0.573,
      "text": [
@@ -442,7 +442,7 @@
     },
     {
      "id": "7iZx",
-     "image": "img/czechia/7iZx.webp",
+     "image": "data/img/czechia/7iZx.webp",
      "mapsUrl": "https://goo.gl/maps/GFCjjvB5mzmNng4V8",
      "width": 0.573,
      "text": [
@@ -451,7 +451,7 @@
     },
     {
      "id": "I7E1",
-     "image": "img/czechia/I7E1.webp",
+     "image": "data/img/czechia/I7E1.webp",
      "mapsUrl": "https://goo.gl/maps/92kb7oJCHG9EnxWu7",
      "width": 0.573,
      "text": [
@@ -460,7 +460,7 @@
     },
     {
      "id": "nRTP",
-     "image": "img/czechia/nRTP.webp",
+     "image": "data/img/czechia/nRTP.webp",
      "mapsUrl": "https://goo.gl/maps/1DmvvFDR27dEmwmS6",
      "width": 0.573,
      "text": [
@@ -469,7 +469,7 @@
     },
     {
      "id": "pe1N",
-     "image": "img/czechia/pe1N.webp",
+     "image": "data/img/czechia/pe1N.webp",
      "mapsUrl": "https://goo.gl/maps/h5HyVjtWaGLDzMFF8",
      "width": 0.573,
      "text": [
@@ -481,7 +481,7 @@
     },
     {
      "id": "NS13",
-     "image": "img/czechia/NS13.webp",
+     "image": "data/img/czechia/NS13.webp",
      "mapsUrl": "https://goo.gl/maps/ejaVXUpyFKD9JCYp6",
      "width": 0.573,
      "text": [
@@ -490,7 +490,7 @@
     },
     {
      "id": "E2r5",
-     "image": "img/czechia/E2r5.webp",
+     "image": "data/img/czechia/E2r5.webp",
      "mapsUrl": "https://goo.gl/maps/paDdHtDfW7zEtbq27",
      "width": 0.573,
      "text": [
@@ -499,7 +499,7 @@
     },
     {
      "id": "b6fI",
-     "image": "img/czechia/b6fI.webp",
+     "image": "data/img/czechia/b6fI.webp",
      "mapsUrl": "https://goo.gl/maps/i5dqHtvkGAZqsXXi9",
      "width": 0.573,
      "text": [
@@ -508,7 +508,7 @@
     },
     {
      "id": "qmvg",
-     "image": "img/czechia/qmvg.webp",
+     "image": "data/img/czechia/qmvg.webp",
      "mapsUrl": "https://goo.gl/maps/VDFtNBzTtonyWGNYA",
      "width": 0.573,
      "text": [
@@ -517,7 +517,7 @@
     },
     {
      "id": "Ilr9",
-     "image": "img/czechia/Ilr9.webp",
+     "image": "data/img/czechia/Ilr9.webp",
      "mapsUrl": "https://goo.gl/maps/dBbMUGkiB8fCzzU57",
      "width": 0.573,
      "text": [
@@ -527,7 +527,7 @@
     },
     {
      "id": "nepH",
-     "image": "img/czechia/nepH.webp",
+     "image": "data/img/czechia/nepH.webp",
      "mapsUrl": "https://goo.gl/maps/4dAQAvRSQ9YTbaRR6",
      "width": 0.573,
      "text": [
@@ -536,7 +536,7 @@
     },
     {
      "id": "zEn7",
-     "image": "img/czechia/zEn7.webp",
+     "image": "data/img/czechia/zEn7.webp",
      "mapsUrl": "https://goo.gl/maps/WDj18nrQcpNomvcs5",
      "width": 0.573,
      "text": [
@@ -554,7 +554,7 @@
    "metas": [
     {
      "id": "GyNy",
-     "image": "img/czechia/GyNy.webp",
+     "image": "data/img/czechia/GyNy.webp",
      "mapsUrl": "https://maps.app.goo.gl/V3u4TZLLmCnmri9C7",
      "width": 0.573,
      "text": [
@@ -563,7 +563,7 @@
     },
     {
      "id": "7mO5",
-     "image": "img/czechia/7mO5.webp",
+     "image": "data/img/czechia/7mO5.webp",
      "mapsUrl": "https://maps.app.goo.gl/2xYNPAL5mHwJYwtJ8",
      "width": 0.573,
      "text": [
@@ -573,7 +573,7 @@
     },
     {
      "id": "EtCV",
-     "image": "img/czechia/EtCV.webp",
+     "image": "data/img/czechia/EtCV.webp",
      "mapsUrl": "https://goo.gl/maps/rsFGAEHRknpovhbe8",
      "width": 0.573,
      "text": [
@@ -583,7 +583,7 @@
     },
     {
      "id": "NidB",
-     "image": "img/czechia/NidB.webp",
+     "image": "data/img/czechia/NidB.webp",
      "mapsUrl": "https://goo.gl/maps/2B44bo1WnoATx35u9",
      "width": 0.573,
      "text": [
@@ -592,7 +592,7 @@
     },
     {
      "id": "dfwx",
-     "image": "img/czechia/dfwx.webp",
+     "image": "data/img/czechia/dfwx.webp",
      "mapsUrl": "https://goo.gl/maps/rQFdttJdn7XFH6Lz8",
      "width": 0.573,
      "text": [
@@ -601,7 +601,7 @@
     },
     {
      "id": "1Tsw",
-     "image": "img/czechia/1Tsw.webp",
+     "image": "data/img/czechia/1Tsw.webp",
      "mapsUrl": "https://goo.gl/maps/q4VeetmYq8XwpQpF9",
      "width": 0.573,
      "text": [
@@ -611,7 +611,7 @@
     },
     {
      "id": "37rL",
-     "image": "img/czechia/37rL.webp",
+     "image": "data/img/czechia/37rL.webp",
      "mapsUrl": "https://goo.gl/maps/kZghvjpNsFL3vQ9G8",
      "width": 0.573,
      "text": [
@@ -620,7 +620,7 @@
     },
     {
      "id": "JvWn",
-     "image": "img/czechia/JvWn.webp",
+     "image": "data/img/czechia/JvWn.webp",
      "mapsUrl": "https://maps.app.goo.gl/TFkoXuGcxVViCNDH8",
      "width": 0.573,
      "text": [
@@ -629,7 +629,7 @@
     },
     {
      "id": "xxAw",
-     "image": "img/czechia/xxAw.webp",
+     "image": "data/img/czechia/xxAw.webp",
      "mapsUrl": "https://goo.gl/maps/r4atYYjWy4PdLJRo7",
      "width": 0.573,
      "text": [

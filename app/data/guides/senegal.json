@@ -3,7 +3,7 @@
  "title": "Senegal",
  "code": "SN",
  "continent": "Africa",
- "hero": "img/senegal/hero.webp",
+ "hero": "data/img/senegal/hero.webp",
  "metaCount": 31,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "OYbz",
-     "image": "img/senegal/OYbz.webp",
+     "image": "data/img/senegal/OYbz.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "9fep",
-     "image": "img/senegal/9fep.webp",
+     "image": "data/img/senegal/9fep.webp",
      "mapsUrl": "https://goo.gl/maps/BZu2WF1Fg37nG7QP8",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "8e0Q",
-     "image": "img/senegal/8e0Q.webp",
+     "image": "data/img/senegal/8e0Q.webp",
      "mapsUrl": "https://goo.gl/maps/q59u19dPD6ExkTLM8",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "NOh2",
-     "image": "img/senegal/NOh2.webp",
+     "image": "data/img/senegal/NOh2.webp",
      "mapsUrl": "https://goo.gl/maps/ApojMpyQqjdiMyFf7",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "7wNV",
-     "image": "img/senegal/7wNV.webp",
+     "image": "data/img/senegal/7wNV.webp",
      "mapsUrl": "https://goo.gl/maps/GBu4thWU2As3C8Tw6",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "GNSK",
-     "image": "img/senegal/GNSK.webp",
+     "image": "data/img/senegal/GNSK.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "wdji",
-     "image": "img/senegal/wdji.webp",
+     "image": "data/img/senegal/wdji.webp",
      "mapsUrl": "https://goo.gl/maps/DkzNWRUGxhCrUzsK6",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "lPzT",
-     "image": "img/senegal/lPzT.webp",
+     "image": "data/img/senegal/lPzT.webp",
      "mapsUrl": "https://goo.gl/maps/F3qGWhV3s486fC9E8",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "t5k7",
-     "image": "img/senegal/t5k7.webp",
+     "image": "data/img/senegal/t5k7.webp",
      "mapsUrl": "https://goo.gl/maps/zgCfPZAgx93LCgej8",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "S2AA",
-     "image": "img/senegal/S2AA.webp",
+     "image": "data/img/senegal/S2AA.webp",
      "mapsUrl": "https://goo.gl/maps/GqXR5P3mBBY2RJs8A",
      "width": 0.5,
      "text": [
@@ -125,7 +125,7 @@
    "metas": [
     {
      "id": "n0Eo",
-     "image": "img/senegal/n0Eo.webp",
+     "image": "data/img/senegal/n0Eo.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "ERgE",
-     "image": "img/senegal/ERgE.webp",
+     "image": "data/img/senegal/ERgE.webp",
      "mapsUrl": "https://goo.gl/maps/pBqYFBSkLqsfocdN9",
      "width": 0.573,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "6ZX7",
-     "image": "img/senegal/6ZX7.webp",
+     "image": "data/img/senegal/6ZX7.webp",
      "mapsUrl": "https://goo.gl/maps/px9sKaEDRn1WJzDK9",
      "width": 0.573,
      "text": [
@@ -154,7 +154,7 @@
     },
     {
      "id": "0GE3",
-     "image": "img/senegal/0GE3.webp",
+     "image": "data/img/senegal/0GE3.webp",
      "mapsUrl": "https://goo.gl/maps/Qyc4u7xDUmakaxrcA",
      "width": 0.573,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "nmqJ",
-     "image": "img/senegal/nmqJ.webp",
+     "image": "data/img/senegal/nmqJ.webp",
      "mapsUrl": "https://goo.gl/maps/X7Jqgy7Ahidqqynu8",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "WDIx",
-     "image": "img/senegal/WDIx.webp",
+     "image": "data/img/senegal/WDIx.webp",
      "mapsUrl": "https://goo.gl/maps/cRabXHEVzkbHWUyx8",
      "width": 0.573,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "FeHb",
-     "image": "img/senegal/FeHb.webp",
+     "image": "data/img/senegal/FeHb.webp",
      "mapsUrl": "https://goo.gl/maps/FF3tr3YxyLivhP139",
      "width": 0.573,
      "text": [
@@ -191,7 +191,7 @@
     },
     {
      "id": "aMed",
-     "image": "img/senegal/aMed.webp",
+     "image": "data/img/senegal/aMed.webp",
      "mapsUrl": "https://goo.gl/maps/qeGQbaCGQBnGCpX68",
      "width": 0.573,
      "text": [
@@ -200,7 +200,7 @@
     },
     {
      "id": "OEuy",
-     "image": "img/senegal/OEuy.webp",
+     "image": "data/img/senegal/OEuy.webp",
      "mapsUrl": "https://goo.gl/maps/vineuhhkbtRSQ8y66",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "dxl9",
-     "image": "img/senegal/dxl9.webp",
+     "image": "data/img/senegal/dxl9.webp",
      "mapsUrl": "https://goo.gl/maps/nEVkv4XCvo7B7NDCA",
      "width": 0.573,
      "text": [
@@ -237,7 +237,7 @@
    "metas": [
     {
      "id": "niwG",
-     "image": "img/senegal/niwG.webp",
+     "image": "data/img/senegal/niwG.webp",
      "mapsUrl": "https://goo.gl/maps/qCA9cAg9rVS8iPh19",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "cfOC",
-     "image": "img/senegal/cfOC.webp",
+     "image": "data/img/senegal/cfOC.webp",
      "mapsUrl": "https://goo.gl/maps/wNgpJgcrpN6o1o959",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "0Upt",
-     "image": "img/senegal/0Upt.webp",
+     "image": "data/img/senegal/0Upt.webp",
      "mapsUrl": "https://goo.gl/maps/QQ6B7rAn17jV65vx7",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "L65q",
-     "image": "img/senegal/L65q.webp",
+     "image": "data/img/senegal/L65q.webp",
      "mapsUrl": "https://goo.gl/maps/v4QyWeURqCuatzoE6",
      "width": 0.573,
      "text": [
@@ -275,7 +275,7 @@
     },
     {
      "id": "2NXs",
-     "image": "img/senegal/2NXs.webp",
+     "image": "data/img/senegal/2NXs.webp",
      "mapsUrl": "https://goo.gl/maps/qPUkF9Ucz8ixnwN47",
      "width": 0.573,
      "text": [
@@ -284,7 +284,7 @@
     },
     {
      "id": "irXP",
-     "image": "img/senegal/irXP.webp",
+     "image": "data/img/senegal/irXP.webp",
      "mapsUrl": "https://goo.gl/maps/YrdVufyYceqbm9iT8",
      "width": 0.573,
      "text": [
@@ -293,7 +293,7 @@
     },
     {
      "id": "QgQm",
-     "image": "img/senegal/QgQm.webp",
+     "image": "data/img/senegal/QgQm.webp",
      "mapsUrl": "https://goo.gl/maps/YLpcFgvP4jqLbWVy7",
      "width": 0.573,
      "text": [
@@ -302,7 +302,7 @@
     },
     {
      "id": "Ilre",
-     "image": "img/senegal/Ilre.webp",
+     "image": "data/img/senegal/Ilre.webp",
      "mapsUrl": "https://goo.gl/maps/yrSbKy4doz3rr5JX7",
      "width": 0.573,
      "text": [
@@ -311,7 +311,7 @@
     },
     {
      "id": "kDY5",
-     "image": "img/senegal/kDY5.webp",
+     "image": "data/img/senegal/kDY5.webp",
      "mapsUrl": "https://goo.gl/maps/iXy9AM8eqWFCrATr7",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "UFZN",
-     "image": "img/senegal/UFZN.webp",
+     "image": "data/img/senegal/UFZN.webp",
      "mapsUrl": "https://goo.gl/maps/s8tcexefbeWN4byWA",
      "width": 0.573,
      "text": [
@@ -329,7 +329,7 @@
     },
     {
      "id": "z3L1",
-     "image": "img/senegal/z3L1.webp",
+     "image": "data/img/senegal/z3L1.webp",
      "mapsUrl": "https://goo.gl/maps/Su9zey6LUbkE72vZ7",
      "width": 0.573,
      "text": [

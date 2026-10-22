@@ -3,7 +3,7 @@
  "title": "Hawaii",
  "code": "US-HI",
  "continent": "North America",
- "hero": "img/hawaii/hero.webp",
+ "hero": "data/img/hawaii/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "x4W4",
-     "image": "img/hawaii/x4W4.webp",
+     "image": "data/img/hawaii/x4W4.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "mHA9",
-     "image": "img/hawaii/mHA9.webp",
+     "image": "data/img/hawaii/mHA9.webp",
      "mapsUrl": "https://goo.gl/maps/XMgSQQN6YJ7Hgw2Q8",
      "width": 0.5,
      "text": [
@@ -42,7 +42,7 @@
     },
     {
      "id": "vAwL",
-     "image": "img/hawaii/vAwL.webp",
+     "image": "data/img/hawaii/vAwL.webp",
      "mapsUrl": "https://maps.app.goo.gl/vqbxchJZ9a1pJ4iA7",
      "width": 0.5,
      "text": [
@@ -51,7 +51,7 @@
     },
     {
      "id": "2r6I",
-     "image": "img/hawaii/2r6I.webp",
+     "image": "data/img/hawaii/2r6I.webp",
      "mapsUrl": "https://goo.gl/maps/RVBBZL4paxNP33dz7",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "lgKi",
-     "image": "img/hawaii/lgKi.webp",
+     "image": "data/img/hawaii/lgKi.webp",
      "mapsUrl": "https://goo.gl/maps/qYHiW8eCg62y33kB6",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "pKp1",
-     "image": "img/hawaii/pKp1.webp",
+     "image": "data/img/hawaii/pKp1.webp",
      "mapsUrl": "https://maps.app.goo.gl/EsxH9ivWn1QDmin76",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "N9Pk",
-     "image": "img/hawaii/N9Pk.webp",
+     "image": "data/img/hawaii/N9Pk.webp",
      "mapsUrl": "https://goo.gl/maps/RFTFcWvmUynHnMVg6",
      "width": 0.5,
      "text": [
@@ -89,7 +89,7 @@
     },
     {
      "id": "bZoK",
-     "image": "img/hawaii/bZoK.webp",
+     "image": "data/img/hawaii/bZoK.webp",
      "mapsUrl": "https://maps.app.goo.gl/ycVuqRAVVxxyug6w7",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "xedC",
-     "image": "img/hawaii/xedC.webp",
+     "image": "data/img/hawaii/xedC.webp",
      "mapsUrl": "https://goo.gl/maps/dmavdiKy7MErmEGd8",
      "width": 0.5,
      "text": [
@@ -108,7 +108,7 @@
     },
     {
      "id": "Ympi",
-     "image": "img/hawaii/Ympi.webp",
+     "image": "data/img/hawaii/Ympi.webp",
      "mapsUrl": "https://goo.gl/maps/MyzypEr8Jz2mSfQd7",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "o41E",
-     "image": "img/hawaii/o41E.webp",
+     "image": "data/img/hawaii/o41E.webp",
      "mapsUrl": "https://goo.gl/maps/znvrEfjV6eHX6AbT8",
      "width": 0.5,
      "text": [
@@ -136,7 +136,7 @@
    "metas": [
     {
      "id": "OxOs",
-     "image": "img/hawaii/OxOs.webp",
+     "image": "data/img/hawaii/OxOs.webp",
      "mapsUrl": "#",
      "width": 0.573,
      "text": [
@@ -146,7 +146,7 @@
     },
     {
      "id": "s9sz",
-     "image": "img/hawaii/s9sz.webp",
+     "image": "data/img/hawaii/s9sz.webp",
      "mapsUrl": "https://maps.app.goo.gl/WYSEax4DrmachnZg6",
      "width": 0.573,
      "text": [
@@ -155,7 +155,7 @@
     },
     {
      "id": "rCfQ",
-     "image": "img/hawaii/rCfQ.webp",
+     "image": "data/img/hawaii/rCfQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/HNBpu441VEJQQPxi6",
      "width": 0.573,
      "text": [
@@ -164,7 +164,7 @@
     },
     {
      "id": "YRn2",
-     "image": "img/hawaii/YRn2.webp",
+     "image": "data/img/hawaii/YRn2.webp",
      "mapsUrl": "https://goo.gl/maps/9JrGjQRmEZNq3qaGA",
      "width": 0.573,
      "text": [
@@ -173,7 +173,7 @@
     },
     {
      "id": "28eK",
-     "image": "img/hawaii/28eK.webp",
+     "image": "data/img/hawaii/28eK.webp",
      "mapsUrl": "https://maps.app.goo.gl/p85jhjwm8GsztSdL8",
      "width": 0.573,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "or8v",
-     "image": "img/hawaii/or8v.webp",
+     "image": "data/img/hawaii/or8v.webp",
      "mapsUrl": "https://maps.app.goo.gl/qjQ61HRdgesPBpY77",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "b650",
-     "image": "img/hawaii/b650.webp",
+     "image": "data/img/hawaii/b650.webp",
      "mapsUrl": "https://maps.app.goo.gl/VnsxeB2KxYRy5yK4A",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "Ys6w",
-     "image": "img/hawaii/Ys6w.webp",
+     "image": "data/img/hawaii/Ys6w.webp",
      "mapsUrl": "https://maps.app.goo.gl/SWJ75UYagWMiYqYT7",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "UtV2",
-     "image": "img/hawaii/UtV2.webp",
+     "image": "data/img/hawaii/UtV2.webp",
      "mapsUrl": "https://maps.app.goo.gl/PXrF29fGRRjjpf1a6",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "nRqi",
-     "image": "img/hawaii/nRqi.webp",
+     "image": "data/img/hawaii/nRqi.webp",
      "mapsUrl": "https://maps.app.goo.gl/RN6CPB7vVgSAwJXd8",
      "width": 0.573,
      "text": [
@@ -228,7 +228,7 @@
     },
     {
      "id": "7Hx9",
-     "image": "img/hawaii/7Hx9.webp",
+     "image": "data/img/hawaii/7Hx9.webp",
      "mapsUrl": "https://maps.app.goo.gl/gNpb8PGvQDfcWT9a9",
      "width": 0.573,
      "text": [
@@ -237,7 +237,7 @@
     },
     {
      "id": "cqVl",
-     "image": "img/hawaii/cqVl.webp",
+     "image": "data/img/hawaii/cqVl.webp",
      "mapsUrl": "https://maps.app.goo.gl/gW5akS7MrJAg5gXd6",
      "width": 0.573,
      "text": [
@@ -246,7 +246,7 @@
     },
     {
      "id": "Eg63",
-     "image": "img/hawaii/Eg63.webp",
+     "image": "data/img/hawaii/Eg63.webp",
      "mapsUrl": "https://maps.app.goo.gl/MNtZidk45nph1vHH6",
      "width": 0.573,
      "text": [
@@ -255,7 +255,7 @@
     },
     {
      "id": "a0eb",
-     "image": "img/hawaii/a0eb.webp",
+     "image": "data/img/hawaii/a0eb.webp",
      "mapsUrl": "https://maps.app.goo.gl/bEoJNEdaXHxHU9Wy8",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "rkwO",
-     "image": "img/hawaii/rkwO.webp",
+     "image": "data/img/hawaii/rkwO.webp",
      "mapsUrl": "https://goo.gl/maps/S8fXtbNtARHbRqvK8",
      "width": 0.573,
      "text": [
@@ -274,7 +274,7 @@
     },
     {
      "id": "MOXl",
-     "image": "img/hawaii/MOXl.webp",
+     "image": "data/img/hawaii/MOXl.webp",
      "mapsUrl": "https://goo.gl/maps/U24qLQ51LPSQnZQm8",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
    "metas": [
     {
      "id": "Xfnk",
-     "image": "img/hawaii/Xfnk.webp",
+     "image": "data/img/hawaii/Xfnk.webp",
      "mapsUrl": "https://goo.gl/maps/e8vikBPALF34i39F6",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "DKg0",
-     "image": "img/hawaii/DKg0.webp",
+     "image": "data/img/hawaii/DKg0.webp",
      "mapsUrl": "https://maps.app.goo.gl/DMF81dBUurn4HVx27",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "ljgc",
-     "image": "img/hawaii/ljgc.webp",
+     "image": "data/img/hawaii/ljgc.webp",
      "mapsUrl": "https://maps.app.goo.gl/sqMHT8bTKNpwANur5",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "6yCv",
-     "image": "img/hawaii/6yCv.webp",
+     "image": "data/img/hawaii/6yCv.webp",
      "mapsUrl": "https://maps.app.goo.gl/3jJx7rXkPfotsJCL6",
      "width": 0.573,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "5JxK",
-     "image": "img/hawaii/5JxK.webp",
+     "image": "data/img/hawaii/5JxK.webp",
      "mapsUrl": "https://maps.app.goo.gl/2rbRndKDYjXzwkuh7",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Thailand",
  "code": "TH",
  "continent": "Asia",
- "hero": "img/thailand/hero.webp",
+ "hero": "data/img/thailand/hero.webp",
  "metaCount": 84,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "rzJ6",
-     "image": "img/thailand/rzJ6.webp",
+     "image": "data/img/thailand/rzJ6.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "aRcg",
-     "image": "img/thailand/aRcg.webp",
+     "image": "data/img/thailand/aRcg.webp",
      "mapsUrl": "https://goo.gl/maps/xU4Pi3hUfUAnHvSp6",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "bTGN",
-     "image": "img/thailand/bTGN.webp",
+     "image": "data/img/thailand/bTGN.webp",
      "mapsUrl": "https://goo.gl/maps/WNbKinfDUShWZziU8",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "LKJb",
-     "image": "img/thailand/LKJb.webp",
+     "image": "data/img/thailand/LKJb.webp",
      "mapsUrl": "https://goo.gl/maps/dzS5FHMz1koNS9z46",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "V3cL",
-     "image": "img/thailand/V3cL.webp",
+     "image": "data/img/thailand/V3cL.webp",
      "mapsUrl": "https://goo.gl/maps/UuCnGp7QtF9Sh6269",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "w9ag",
-     "image": "img/thailand/w9ag.webp",
+     "image": "data/img/thailand/w9ag.webp",
      "mapsUrl": "https://goo.gl/maps/UkmmFgZewH869iht7",
      "width": 0.5,
      "text": [
@@ -80,7 +80,7 @@
     },
     {
      "id": "zad0",
-     "image": "img/thailand/zad0.webp",
+     "image": "data/img/thailand/zad0.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -90,7 +90,7 @@
     },
     {
      "id": "p3S3",
-     "image": "img/thailand/p3S3.webp",
+     "image": "data/img/thailand/p3S3.webp",
      "mapsUrl": "https://goo.gl/maps/nZhMTSY41YTKfH3B6",
      "width": 0.5,
      "text": [
@@ -100,7 +100,7 @@
     },
     {
      "id": "pVKM",
-     "image": "img/thailand/pVKM.webp",
+     "image": "data/img/thailand/pVKM.webp",
      "mapsUrl": "https://goo.gl/maps/oz7V87DcmcXSfoke8",
      "width": 0.5,
      "text": [
@@ -109,7 +109,7 @@
     },
     {
      "id": "oN48",
-     "image": "img/thailand/oN48.webp",
+     "image": "data/img/thailand/oN48.webp",
      "mapsUrl": "https://goo.gl/maps/ejsjyNCE8BV7KpdNA",
      "width": 0.5,
      "text": [
@@ -118,7 +118,7 @@
     },
     {
      "id": "1K3M",
-     "image": "img/thailand/1K3M.webp",
+     "image": "data/img/thailand/1K3M.webp",
      "mapsUrl": "https://goo.gl/maps/fzFeKsgSovY2wJwK7",
      "width": 0.5,
      "text": [
@@ -127,7 +127,7 @@
     },
     {
      "id": "ahtf",
-     "image": "img/thailand/ahtf.webp",
+     "image": "data/img/thailand/ahtf.webp",
      "mapsUrl": "https://maps.app.goo.gl/SfLXVkVXWeWw1cFh8",
      "width": 0.5,
      "text": [
@@ -137,7 +137,7 @@
     },
     {
      "id": "pELn",
-     "image": "img/thailand/pELn.webp",
+     "image": "data/img/thailand/pELn.webp",
      "mapsUrl": "https://goo.gl/maps/HmhGFKoJU2daCxiw7",
      "width": 0.5,
      "text": [
@@ -147,7 +147,7 @@
     },
     {
      "id": "SrCQ",
-     "image": "img/thailand/SrCQ.webp",
+     "image": "data/img/thailand/SrCQ.webp",
      "mapsUrl": "https://goo.gl/maps/3gdvYj8EPVopXjGc7",
      "width": 0.5,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "xPZV",
-     "image": "img/thailand/xPZV.webp",
+     "image": "data/img/thailand/xPZV.webp",
      "mapsUrl": "https://www.google.de/maps/@16.6874654,104.0909787,3a,31.5y,2.07h,84.05t/data=!3m6!1e1!3m4!1sILbeC_JPUdgreLQ2jSPoNw!2e0!7i16384!8i8192?shorturl=1",
      "width": 0.5,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "4W5G",
-     "image": "img/thailand/4W5G.webp",
+     "image": "data/img/thailand/4W5G.webp",
      "mapsUrl": "https://maps.app.goo.gl/6RArTU8VoxKVnX1X7",
      "width": 0.5,
      "text": [
@@ -202,7 +202,7 @@
    "metas": [
     {
      "id": "sHFO",
-     "image": "img/thailand/sHFO.webp",
+     "image": "data/img/thailand/sHFO.webp",
      "mapsUrl": null,
      "width": 0.333,
      "text": [
@@ -212,7 +212,7 @@
     },
     {
      "id": "aVcK",
-     "image": "img/thailand/aVcK.webp",
+     "image": "data/img/thailand/aVcK.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "03iF",
-     "image": "img/thailand/03iF.webp",
+     "image": "data/img/thailand/03iF.webp",
      "mapsUrl": "https://maps.app.goo.gl/XbrkT9597arMirCw7",
      "width": 0.5,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "Lj1E",
-     "image": "img/thailand/Lj1E.webp",
+     "image": "data/img/thailand/Lj1E.webp",
      "mapsUrl": "https://maps.app.goo.gl/J4jH4yMEG7r3WFPa9",
      "width": 0.5,
      "text": [
@@ -245,7 +245,7 @@
     },
     {
      "id": "UnwR",
-     "image": "img/thailand/UnwR.webp",
+     "image": "data/img/thailand/UnwR.webp",
      "mapsUrl": "https://maps.app.goo.gl/5QCCKXbXDJzc2SPm9",
      "width": 0.573,
      "text": [
@@ -254,7 +254,7 @@
     },
     {
      "id": "JvSJ",
-     "image": "img/thailand/JvSJ.webp",
+     "image": "data/img/thailand/JvSJ.webp",
      "mapsUrl": "https://goo.gl/maps/G677huTmDgZuNQj68",
      "width": 0.573,
      "text": [
@@ -264,7 +264,7 @@
     },
     {
      "id": "OGfz",
-     "image": "img/thailand/OGfz.webp",
+     "image": "data/img/thailand/OGfz.webp",
      "mapsUrl": "https://goo.gl/maps/2F4kZSQecS6C4igH7",
      "width": 0.573,
      "text": [
@@ -274,7 +274,7 @@
     },
     {
      "id": "g8on",
-     "image": "img/thailand/g8on.webp",
+     "image": "data/img/thailand/g8on.webp",
      "mapsUrl": "https://maps.app.goo.gl/5oTu6naatCLJEZZr5",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
     },
     {
      "id": "rOan",
-     "image": "img/thailand/rOan.webp",
+     "image": "data/img/thailand/rOan.webp",
      "mapsUrl": "https://maps.app.goo.gl/8GvEz2TG2jPQjjPJ9",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "tqgy",
-     "image": "img/thailand/tqgy.webp",
+     "image": "data/img/thailand/tqgy.webp",
      "mapsUrl": "https://maps.app.goo.gl/sMZDe9xwADPqCgsS6",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "MZov",
-     "image": "img/thailand/MZov.webp",
+     "image": "data/img/thailand/MZov.webp",
      "mapsUrl": "https://maps.app.goo.gl/JkTMQ3oUA7i6ATvd8",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "0BPM",
-     "image": "img/thailand/0BPM.webp",
+     "image": "data/img/thailand/0BPM.webp",
      "mapsUrl": "https://goo.gl/maps/UNsgYPDDnM7BtfBD6",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "ZxIl",
-     "image": "img/thailand/ZxIl.webp",
+     "image": "data/img/thailand/ZxIl.webp",
      "mapsUrl": "https://www.google.com/maps/@15.7410186,103.7087319,3a,75y,167.97h,69.52t/data=!3m6!1e1!3m4!1sV7uZg8thTdZnjTXF-h0NwA!2e0!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "r6yh",
-     "image": "img/thailand/r6yh.webp",
+     "image": "data/img/thailand/r6yh.webp",
      "mapsUrl": "https://maps.app.goo.gl/XhZdHEjsXAE77Q5n7",
      "width": 0.573,
      "text": [
@@ -337,7 +337,7 @@
     },
     {
      "id": "5jsO",
-     "image": "img/thailand/5jsO.webp",
+     "image": "data/img/thailand/5jsO.webp",
      "mapsUrl": "https://maps.app.goo.gl/3fVXtxRKPcnbnfq89",
      "width": 0.573,
      "text": [
@@ -346,7 +346,7 @@
     },
     {
      "id": "gQgT",
-     "image": "img/thailand/gQgT.webp",
+     "image": "data/img/thailand/gQgT.webp",
      "mapsUrl": "https://maps.app.goo.gl/sKXbSH497oxfgLvq7",
      "width": 0.573,
      "text": [
@@ -355,7 +355,7 @@
     },
     {
      "id": "3SeI",
-     "image": "img/thailand/3SeI.webp",
+     "image": "data/img/thailand/3SeI.webp",
      "mapsUrl": "https://maps.app.goo.gl/wLzZoMFpsEfWZ8xa7",
      "width": 0.573,
      "text": [
@@ -364,7 +364,7 @@
     },
     {
      "id": "MmZp",
-     "image": "img/thailand/MmZp.webp",
+     "image": "data/img/thailand/MmZp.webp",
      "mapsUrl": "https://maps.app.goo.gl/TQEraC5cNeqTEPgTA",
      "width": 0.573,
      "text": [
@@ -374,7 +374,7 @@
     },
     {
      "id": "4yTx",
-     "image": "img/thailand/4yTx.webp",
+     "image": "data/img/thailand/4yTx.webp",
      "mapsUrl": "https://maps.app.goo.gl/NZNdXrpYZk5fV6Ji8",
      "width": 0.573,
      "text": [
@@ -384,7 +384,7 @@
     },
     {
      "id": "2MMc",
-     "image": "img/thailand/2MMc.webp",
+     "image": "data/img/thailand/2MMc.webp",
      "mapsUrl": "https://maps.app.goo.gl/ema3ML7yqzroNTzeA",
      "width": 0.573,
      "text": [
@@ -393,7 +393,7 @@
     },
     {
      "id": "QXyi",
-     "image": "img/thailand/QXyi.webp",
+     "image": "data/img/thailand/QXyi.webp",
      "mapsUrl": "https://maps.app.goo.gl/442E3pgwVVHWdxCs8",
      "width": 0.573,
      "text": [
@@ -402,7 +402,7 @@
     },
     {
      "id": "HYNG",
-     "image": "img/thailand/HYNG.webp",
+     "image": "data/img/thailand/HYNG.webp",
      "mapsUrl": "https://maps.app.goo.gl/HVkRqVgCXCAsabet8",
      "width": 0.573,
      "text": [
@@ -411,7 +411,7 @@
     },
     {
      "id": "GpFr",
-     "image": "img/thailand/GpFr.webp",
+     "image": "data/img/thailand/GpFr.webp",
      "mapsUrl": "https://maps.app.goo.gl/mtmCPEvpmE6kjDJW8",
      "width": 0.573,
      "text": [
@@ -420,7 +420,7 @@
     },
     {
      "id": "USoN",
-     "image": "img/thailand/USoN.webp",
+     "image": "data/img/thailand/USoN.webp",
      "mapsUrl": "https://maps.app.goo.gl/CryJsAwwvsCratiWA",
      "width": 0.573,
      "text": [
@@ -429,7 +429,7 @@
     },
     {
      "id": "7hzC",
-     "image": "img/thailand/7hzC.webp",
+     "image": "data/img/thailand/7hzC.webp",
      "mapsUrl": "https://maps.app.goo.gl/HemvSzRtg8KbUriK8",
      "width": 0.573,
      "text": [
@@ -438,7 +438,7 @@
     },
     {
      "id": "zUbl",
-     "image": "img/thailand/zUbl.webp",
+     "image": "data/img/thailand/zUbl.webp",
      "mapsUrl": "https://maps.app.goo.gl/rHzaooZmHgJhtBZy9",
      "width": 0.573,
      "text": [
@@ -447,7 +447,7 @@
     },
     {
      "id": "eo9N",
-     "image": "img/thailand/eo9N.webp",
+     "image": "data/img/thailand/eo9N.webp",
      "mapsUrl": "https://maps.app.goo.gl/PmZx1apdRvUV92578",
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "QZgS",
-     "image": "img/thailand/QZgS.webp",
+     "image": "data/img/thailand/QZgS.webp",
      "mapsUrl": "https://maps.app.goo.gl/iDwPvMFDXKPqzyuE9",
      "width": 0.573,
      "text": [
@@ -467,7 +467,7 @@
     },
     {
      "id": "NLmR",
-     "image": "img/thailand/NLmR.webp",
+     "image": "data/img/thailand/NLmR.webp",
      "mapsUrl": "https://maps.app.goo.gl/rZY8KhAicsnrWS2E9",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "wtTr",
-     "image": "img/thailand/wtTr.webp",
+     "image": "data/img/thailand/wtTr.webp",
      "mapsUrl": "https://maps.app.goo.gl/WvVCRDEcKzCQ4ALb9",
      "width": 0.573,
      "text": [
@@ -485,7 +485,7 @@
     },
     {
      "id": "hzDI",
-     "image": "img/thailand/hzDI.webp",
+     "image": "data/img/thailand/hzDI.webp",
      "mapsUrl": "https://maps.app.goo.gl/gGNLasEegrJtVC887",
      "width": 0.573,
      "text": [
@@ -494,7 +494,7 @@
     },
     {
      "id": "3oUo",
-     "image": "img/thailand/3oUo.webp",
+     "image": "data/img/thailand/3oUo.webp",
      "mapsUrl": "https://maps.app.goo.gl/8V8yJ6NPqRYaeAJh8",
      "width": 0.573,
      "text": [
@@ -504,7 +504,7 @@
     },
     {
      "id": "85br",
-     "image": "img/thailand/85br.webp",
+     "image": "data/img/thailand/85br.webp",
      "mapsUrl": "https://maps.app.goo.gl/voFy633WGX9u84K78",
      "width": 0.573,
      "text": [
@@ -513,7 +513,7 @@
     },
     {
      "id": "2tIc",
-     "image": "img/thailand/2tIc.webp",
+     "image": "data/img/thailand/2tIc.webp",
      "mapsUrl": "https://maps.app.goo.gl/DLEg3FvRp8VxWce37",
      "width": 0.573,
      "text": [
@@ -522,7 +522,7 @@
     },
     {
      "id": "rjs3",
-     "image": "img/thailand/rjs3.webp",
+     "image": "data/img/thailand/rjs3.webp",
      "mapsUrl": "https://goo.gl/maps/kYR5V2U9de5vnrgk7",
      "width": 0.573,
      "text": [
@@ -532,7 +532,7 @@
     },
     {
      "id": "3YqS",
-     "image": "img/thailand/3YqS.webp",
+     "image": "data/img/thailand/3YqS.webp",
      "mapsUrl": "https://maps.app.goo.gl/yGS12y3v7tbDKh4Q9",
      "width": 0.573,
      "text": [
@@ -541,7 +541,7 @@
     },
     {
      "id": "peOM",
-     "image": "img/thailand/peOM.webp",
+     "image": "data/img/thailand/peOM.webp",
      "mapsUrl": "https://maps.app.goo.gl/os4n3QswoPf28oLD9",
      "width": 0.573,
      "text": [
@@ -559,7 +559,7 @@
    "metas": [
     {
      "id": "VtmL",
-     "image": "img/thailand/VtmL.webp",
+     "image": "data/img/thailand/VtmL.webp",
      "mapsUrl": "https://maps.app.goo.gl/6GAQihX6wAgnDAXM7",
      "width": 0.573,
      "text": [
@@ -568,7 +568,7 @@
     },
     {
      "id": "F0Y9",
-     "image": "img/thailand/F0Y9.webp",
+     "image": "data/img/thailand/F0Y9.webp",
      "mapsUrl": "https://maps.app.goo.gl/ANJ9uWAxtdssaSyW6",
      "width": 0.573,
      "text": [
@@ -577,7 +577,7 @@
     },
     {
      "id": "Rqm9",
-     "image": "img/thailand/Rqm9.webp",
+     "image": "data/img/thailand/Rqm9.webp",
      "mapsUrl": "https://maps.app.goo.gl/zBmTCi5N4ETLBumU9",
      "width": 0.573,
      "text": [
@@ -587,7 +587,7 @@
     },
     {
      "id": "ThIf",
-     "image": "img/thailand/ThIf.webp",
+     "image": "data/img/thailand/ThIf.webp",
      "mapsUrl": "https://maps.app.goo.gl/ydrtb1Hsc9SVKueBA",
      "width": 0.573,
      "text": [
@@ -596,7 +596,7 @@
     },
     {
      "id": "nnts",
-     "image": "img/thailand/nnts.webp",
+     "image": "data/img/thailand/nnts.webp",
      "mapsUrl": "https://maps.app.goo.gl/4VF9cTHGw4u5y6u19",
      "width": 0.573,
      "text": [
@@ -605,7 +605,7 @@
     },
     {
      "id": "V83y",
-     "image": "img/thailand/V83y.webp",
+     "image": "data/img/thailand/V83y.webp",
      "mapsUrl": "https://maps.app.goo.gl/7SribRKbntJ3Rbb56",
      "width": 0.573,
      "text": [
@@ -614,7 +614,7 @@
     },
     {
      "id": "uY5m",
-     "image": "img/thailand/uY5m.webp",
+     "image": "data/img/thailand/uY5m.webp",
      "mapsUrl": "https://maps.app.goo.gl/2tzKiZxZCTWyJ4xm8",
      "width": 0.573,
      "text": [
@@ -624,7 +624,7 @@
     },
     {
      "id": "vdHm",
-     "image": "img/thailand/vdHm.webp",
+     "image": "data/img/thailand/vdHm.webp",
      "mapsUrl": "https://maps.app.goo.gl/8yrmgij7ZSn6KyVQ7",
      "width": 0.573,
      "text": [
@@ -633,7 +633,7 @@
     },
     {
      "id": "6EeW",
-     "image": "img/thailand/6EeW.webp",
+     "image": "data/img/thailand/6EeW.webp",
      "mapsUrl": "https://maps.app.goo.gl/V95hWp5BDFpr2AHu9",
      "width": 0.573,
      "text": [
@@ -642,7 +642,7 @@
     },
     {
      "id": "wkCZ",
-     "image": "img/thailand/wkCZ.webp",
+     "image": "data/img/thailand/wkCZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/UunDzfgwCXFs16Wm8",
      "width": 0.573,
      "text": [
@@ -651,7 +651,7 @@
     },
     {
      "id": "tgzM",
-     "image": "img/thailand/tgzM.webp",
+     "image": "data/img/thailand/tgzM.webp",
      "mapsUrl": "https://maps.app.goo.gl/5vnLtPy476ekhvrR6",
      "width": 0.573,
      "text": [
@@ -660,7 +660,7 @@
     },
     {
      "id": "KSpq",
-     "image": "img/thailand/KSpq.webp",
+     "image": "data/img/thailand/KSpq.webp",
      "mapsUrl": "https://maps.app.goo.gl/tWNmWVA3EDbHxHpq9",
      "width": 0.573,
      "text": [
@@ -669,7 +669,7 @@
     },
     {
      "id": "bIyP",
-     "image": "img/thailand/bIyP.webp",
+     "image": "data/img/thailand/bIyP.webp",
      "mapsUrl": "https://maps.app.goo.gl/wha9uFUotrBMY5vJ8",
      "width": 0.573,
      "text": [
@@ -678,7 +678,7 @@
     },
     {
      "id": "fymE",
-     "image": "img/thailand/fymE.webp",
+     "image": "data/img/thailand/fymE.webp",
      "mapsUrl": "https://maps.app.goo.gl/z5FGU3sPwMZDzmkSA",
      "width": 0.573,
      "text": [
@@ -687,7 +687,7 @@
     },
     {
      "id": "6ONJ",
-     "image": "img/thailand/6ONJ.webp",
+     "image": "data/img/thailand/6ONJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/qwg5wBjmYh9asKAP8",
      "width": 0.573,
      "text": [
@@ -696,7 +696,7 @@
     },
     {
      "id": "tWkN",
-     "image": "img/thailand/tWkN.webp",
+     "image": "data/img/thailand/tWkN.webp",
      "mapsUrl": "https://maps.app.goo.gl/ftNe5yJv6jg2JiE57",
      "width": 0.573,
      "text": [
@@ -705,7 +705,7 @@
     },
     {
      "id": "tQaR",
-     "image": "img/thailand/tQaR.webp",
+     "image": "data/img/thailand/tQaR.webp",
      "mapsUrl": "https://maps.app.goo.gl/ee9x9HVyPLAS1dbQA",
      "width": 0.573,
      "text": [
@@ -714,7 +714,7 @@
     },
     {
      "id": "CKg2",
-     "image": "img/thailand/CKg2.webp",
+     "image": "data/img/thailand/CKg2.webp",
      "mapsUrl": "https://maps.app.goo.gl/pkSQY9ewK73czDsM6",
      "width": 0.573,
      "text": [
@@ -723,7 +723,7 @@
     },
     {
      "id": "cZKi",
-     "image": "img/thailand/cZKi.webp",
+     "image": "data/img/thailand/cZKi.webp",
      "mapsUrl": "https://maps.app.goo.gl/mEN45TfKSd9FBhD77",
      "width": 0.573,
      "text": [
@@ -732,7 +732,7 @@
     },
     {
      "id": "eYu7",
-     "image": "img/thailand/eYu7.webp",
+     "image": "data/img/thailand/eYu7.webp",
      "mapsUrl": "https://maps.app.goo.gl/sL5PdxX9pBvi7XZ86",
      "width": 0.573,
      "text": [
@@ -741,7 +741,7 @@
     },
     {
      "id": "eRwQ",
-     "image": "img/thailand/eRwQ.webp",
+     "image": "data/img/thailand/eRwQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/JF6QD3NQtGJbeFbH6",
      "width": 0.573,
      "text": [
@@ -750,7 +750,7 @@
     },
     {
      "id": "M10h",
-     "image": "img/thailand/M10h.webp",
+     "image": "data/img/thailand/M10h.webp",
      "mapsUrl": "https://maps.app.goo.gl/xfHxntSbxjMBsai78",
      "width": 0.573,
      "text": [
@@ -759,7 +759,7 @@
     },
     {
      "id": "GQ8g",
-     "image": "img/thailand/GQ8g.webp",
+     "image": "data/img/thailand/GQ8g.webp",
      "mapsUrl": "https://maps.app.goo.gl/TGZwr7DBSQr6o3gSA",
      "width": 0.573,
      "text": [
@@ -768,7 +768,7 @@
     },
     {
      "id": "jv6p",
-     "image": "img/thailand/jv6p.webp",
+     "image": "data/img/thailand/jv6p.webp",
      "mapsUrl": "https://maps.app.goo.gl/VS75Aa3JYD4BC4fd6",
      "width": 0.573,
      "text": [
@@ -778,7 +778,7 @@
     },
     {
      "id": "govn",
-     "image": "img/thailand/govn.webp",
+     "image": "data/img/thailand/govn.webp",
      "mapsUrl": "https://maps.app.goo.gl/7xEjHmJF1WTYkkk86",
      "width": 0.573,
      "text": [
@@ -787,7 +787,7 @@
     },
     {
      "id": "9LG9",
-     "image": "img/thailand/9LG9.webp",
+     "image": "data/img/thailand/9LG9.webp",
      "mapsUrl": "https://maps.app.goo.gl/iqZ9g6To6PavSkKH7",
      "width": 0.573,
      "text": [
@@ -796,7 +796,7 @@
     },
     {
      "id": "7EBY",
-     "image": "img/thailand/7EBY.webp",
+     "image": "data/img/thailand/7EBY.webp",
      "mapsUrl": "https://maps.app.goo.gl/2Y5eNnZEhT8i5iGN8",
      "width": 0.573,
      "text": [
@@ -805,7 +805,7 @@
     },
     {
      "id": "b81q",
-     "image": "img/thailand/b81q.webp",
+     "image": "data/img/thailand/b81q.webp",
      "mapsUrl": "https://maps.app.goo.gl/FvDCNBvgA8bWMfqW9",
      "width": 0.573,
      "text": [
@@ -814,7 +814,7 @@
     },
     {
      "id": "qBp9",
-     "image": "img/thailand/qBp9.webp",
+     "image": "data/img/thailand/qBp9.webp",
      "mapsUrl": "https://goo.gl/maps/m4sGpjw5wNW4WxZZ7",
      "width": 0.573,
      "text": [
@@ -824,7 +824,7 @@
     },
     {
      "id": "Cl8a",
-     "image": "img/thailand/Cl8a.webp",
+     "image": "data/img/thailand/Cl8a.webp",
      "mapsUrl": "https://goo.gl/maps/7V7ec8nvg4JG3Wx67",
      "width": 0.573,
      "text": [
@@ -833,7 +833,7 @@
     },
     {
      "id": "IFUq",
-     "image": "img/thailand/IFUq.webp",
+     "image": "data/img/thailand/IFUq.webp",
      "mapsUrl": "https://maps.app.goo.gl/Gxwah4w61mKW1rj97",
      "width": 0.573,
      "text": [

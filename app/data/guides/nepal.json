@@ -3,7 +3,7 @@
  "title": "Nepal",
  "code": "NP",
  "continent": "Asia",
- "hero": "img/nepal/hero.webp",
+ "hero": "data/img/nepal/hero.webp",
  "metaCount": 84,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "tKtn",
-     "image": "img/nepal/tKtn.webp",
+     "image": "data/img/nepal/tKtn.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "djZd",
-     "image": "img/nepal/djZd.webp",
+     "image": "data/img/nepal/djZd.webp",
      "mapsUrl": "https://maps.app.goo.gl/NeHUe6k8rd8vbyUv6",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "i7zv",
-     "image": "img/nepal/i7zv.webp",
+     "image": "data/img/nepal/i7zv.webp",
      "mapsUrl": "https://maps.app.goo.gl/WUw8YEL73XrHcKwz6",
      "width": 0.5,
      "text": [
@@ -48,7 +48,7 @@
     },
     {
      "id": "zeXz",
-     "image": "img/nepal/zeXz.webp",
+     "image": "data/img/nepal/zeXz.webp",
      "mapsUrl": "/images/nepal/5.jpeg",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "fLll",
-     "image": "img/nepal/fLll.webp",
+     "image": "data/img/nepal/fLll.webp",
      "mapsUrl": "https://maps.app.goo.gl/GWpSEh7AQaMRxWPH9",
      "width": 0.5,
      "text": [
@@ -68,7 +68,7 @@
     },
     {
      "id": "oxoV",
-     "image": "img/nepal/oxoV.webp",
+     "image": "data/img/nepal/oxoV.webp",
      "mapsUrl": "https://maps.app.goo.gl/QEJcARP1NNPetPwS8",
      "width": 0.5,
      "text": [
@@ -77,7 +77,7 @@
     },
     {
      "id": "0YtE",
-     "image": "img/nepal/0YtE.webp",
+     "image": "data/img/nepal/0YtE.webp",
      "mapsUrl": "https://maps.app.goo.gl/RERdSiRq7CkuNh4x5",
      "width": 0.5,
      "text": [
@@ -86,7 +86,7 @@
     },
     {
      "id": "oWV4",
-     "image": "img/nepal/oWV4.webp",
+     "image": "data/img/nepal/oWV4.webp",
      "mapsUrl": "https://maps.app.goo.gl/2TsRKHKYw3Qyij1P8",
      "width": 0.5,
      "text": [
@@ -95,7 +95,7 @@
     },
     {
      "id": "Y1VK",
-     "image": "img/nepal/Y1VK.webp",
+     "image": "data/img/nepal/Y1VK.webp",
      "mapsUrl": "https://maps.app.goo.gl/kPjC91QHEQa1Q6H4A",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "8n9O",
-     "image": "img/nepal/8n9O.webp",
+     "image": "data/img/nepal/8n9O.webp",
      "mapsUrl": "https://maps.app.goo.gl/uVeg1kKMRwrxGnSs5",
      "width": 0.5,
      "text": [
@@ -114,7 +114,7 @@
     },
     {
      "id": "7qax",
-     "image": "img/nepal/7qax.webp",
+     "image": "data/img/nepal/7qax.webp",
      "mapsUrl": "https://goo.gl/maps/rfsL8Fktu1GAgBSa6",
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
    "metas": [
     {
      "id": "yXhS",
-     "image": "img/nepal/yXhS.webp",
+     "image": "data/img/nepal/yXhS.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "sqGf",
-     "image": "img/nepal/sqGf.webp",
+     "image": "data/img/nepal/sqGf.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "4cJ4",
-     "image": "img/nepal/4cJ4.webp",
+     "image": "data/img/nepal/4cJ4.webp",
      "mapsUrl": "https://maps.app.goo.gl/154kHkAzK5gVvsMy9",
      "width": 0.573,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "JXKf",
-     "image": "img/nepal/JXKf.webp",
+     "image": "data/img/nepal/JXKf.webp",
      "mapsUrl": "https://maps.app.goo.gl/BtotMyJx7MhdyZhp9",
      "width": 0.573,
      "text": [
@@ -185,7 +185,7 @@
     },
     {
      "id": "hSPg",
-     "image": "img/nepal/hSPg.webp",
+     "image": "data/img/nepal/hSPg.webp",
      "mapsUrl": "https://maps.app.goo.gl/cjveN4vyMxWTPz3b7",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "uTPc",
-     "image": "img/nepal/uTPc.webp",
+     "image": "data/img/nepal/uTPc.webp",
      "mapsUrl": "https://maps.app.goo.gl/LisJQMTs73smU8W69",
      "width": 0.573,
      "text": [
@@ -204,7 +204,7 @@
     },
     {
      "id": "OjoN",
-     "image": "img/nepal/OjoN.webp",
+     "image": "data/img/nepal/OjoN.webp",
      "mapsUrl": "https://maps.app.goo.gl/o21FfPhw2kgRsXAH8",
      "width": 0.573,
      "text": [
@@ -214,7 +214,7 @@
     },
     {
      "id": "eQQW",
-     "image": "img/nepal/eQQW.webp",
+     "image": "data/img/nepal/eQQW.webp",
      "mapsUrl": "https://maps.app.goo.gl/gZuPb6tbhhCZyJA78",
      "width": 0.573,
      "text": [
@@ -223,7 +223,7 @@
     },
     {
      "id": "3thG",
-     "image": "img/nepal/3thG.webp",
+     "image": "data/img/nepal/3thG.webp",
      "mapsUrl": "https://maps.app.goo.gl/QFGaQbskte2kNg559",
      "width": 0.573,
      "text": [
@@ -232,7 +232,7 @@
     },
     {
      "id": "xEXu",
-     "image": "img/nepal/xEXu.webp",
+     "image": "data/img/nepal/xEXu.webp",
      "mapsUrl": "https://maps.app.goo.gl/6Mynosj23MRf5f3A9",
      "width": 0.573,
      "text": [
@@ -242,7 +242,7 @@
     },
     {
      "id": "hURU",
-     "image": "img/nepal/hURU.webp",
+     "image": "data/img/nepal/hURU.webp",
      "mapsUrl": "https://maps.app.goo.gl/rW5bdp1r4Ekhpgpy9",
      "width": 0.573,
      "text": [
@@ -251,7 +251,7 @@
     },
     {
      "id": "Awwe",
-     "image": "img/nepal/Awwe.webp",
+     "image": "data/img/nepal/Awwe.webp",
      "mapsUrl": "https://maps.app.goo.gl/WEWubWdyqjGFeb2j7",
      "width": 0.573,
      "text": [
@@ -261,7 +261,7 @@
     },
     {
      "id": "uYxZ",
-     "image": "img/nepal/uYxZ.webp",
+     "image": "data/img/nepal/uYxZ.webp",
      "mapsUrl": "https://maps.app.goo.gl/zDaM7sNG8Hk7inEd6",
      "width": 0.573,
      "text": [
@@ -270,7 +270,7 @@
     },
     {
      "id": "WzwA",
-     "image": "img/nepal/WzwA.webp",
+     "image": "data/img/nepal/WzwA.webp",
      "mapsUrl": "https://maps.app.goo.gl/pwZYAB8zc7kG7iSYA",
      "width": 0.573,
      "text": [
@@ -279,7 +279,7 @@
     },
     {
      "id": "p8KJ",
-     "image": "img/nepal/p8KJ.webp",
+     "image": "data/img/nepal/p8KJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/LZJU2G6yWZhKvRPH6",
      "width": 0.573,
      "text": [
@@ -288,7 +288,7 @@
     },
     {
      "id": "Eg1M",
-     "image": "img/nepal/Eg1M.webp",
+     "image": "data/img/nepal/Eg1M.webp",
      "mapsUrl": "https://maps.app.goo.gl/WZ3BbdCwTHmPzezj8",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "zYdm",
-     "image": "img/nepal/zYdm.webp",
+     "image": "data/img/nepal/zYdm.webp",
      "mapsUrl": "https://maps.app.goo.gl/rjCrZUic2LJejBgp8",
      "width": 0.573,
      "text": [
@@ -306,7 +306,7 @@
     },
     {
      "id": "3OLY",
-     "image": "img/nepal/3OLY.webp",
+     "image": "data/img/nepal/3OLY.webp",
      "mapsUrl": "https://maps.app.goo.gl/xN4rYQRsxnS8dxQe6",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
     },
     {
      "id": "GK0F",
-     "image": "img/nepal/GK0F.webp",
+     "image": "data/img/nepal/GK0F.webp",
      "mapsUrl": "https://maps.app.goo.gl/qTNq2gXAdQGpHYhLA",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "dAPp",
-     "image": "img/nepal/dAPp.webp",
+     "image": "data/img/nepal/dAPp.webp",
      "mapsUrl": "https://maps.app.goo.gl/qTNq2gXAdQGpHYhLA",
      "width": 0.573,
      "text": [
@@ -333,7 +333,7 @@
     },
     {
      "id": "Tzjk",
-     "image": "img/nepal/Tzjk.webp",
+     "image": "data/img/nepal/Tzjk.webp",
      "mapsUrl": "https://maps.app.goo.gl/xDXd3T436xYfHHPM9",
      "width": 0.573,
      "text": [
@@ -346,7 +346,7 @@
     },
     {
      "id": "xHyX",
-     "image": "img/nepal/xHyX.webp",
+     "image": "data/img/nepal/xHyX.webp",
      "mapsUrl": "https://maps.app.goo.gl/XE3Sy6rkMwH1Ayk67",
      "width": 0.573,
      "text": [
@@ -356,7 +356,7 @@
     },
     {
      "id": "aJ2N",
-     "image": "img/nepal/aJ2N.webp",
+     "image": "data/img/nepal/aJ2N.webp",
      "mapsUrl": "https://maps.app.goo.gl/K5xo8wwu2asGtiE78",
      "width": 0.573,
      "text": [
@@ -365,7 +365,7 @@
     },
     {
      "id": "l5Hu",
-     "image": "img/nepal/l5Hu.webp",
+     "image": "data/img/nepal/l5Hu.webp",
      "mapsUrl": "https://maps.app.goo.gl/eHBKW9KZr4pjfmYB7",
      "width": 0.573,
      "text": [
@@ -374,7 +374,7 @@
     },
     {
      "id": "uRkU",
-     "image": "img/nepal/uRkU.webp",
+     "image": "data/img/nepal/uRkU.webp",
      "mapsUrl": "https://maps.app.goo.gl/9tMocKoYq42WPrHq8",
      "width": 0.573,
      "text": [
@@ -383,7 +383,7 @@
     },
     {
      "id": "ikN4",
-     "image": "img/nepal/ikN4.webp",
+     "image": "data/img/nepal/ikN4.webp",
      "mapsUrl": "https://maps.app.goo.gl/BnuG4TBJjqUomAbB7",
      "width": 0.573,
      "text": [
@@ -396,7 +396,7 @@
     },
     {
      "id": "cOqH",
-     "image": "img/nepal/cOqH.webp",
+     "image": "data/img/nepal/cOqH.webp",
      "mapsUrl": "https://maps.app.goo.gl/HjHdaUo8vaGNsj3m9",
      "width": 0.573,
      "text": [
@@ -405,7 +405,7 @@
     },
     {
      "id": "zQR5",
-     "image": "img/nepal/zQR5.webp",
+     "image": "data/img/nepal/zQR5.webp",
      "mapsUrl": "https://maps.app.goo.gl/YNimQQt3x62JrcHk6",
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "Cs2W",
-     "image": "img/nepal/Cs2W.webp",
+     "image": "data/img/nepal/Cs2W.webp",
      "mapsUrl": "https://maps.app.goo.gl/yTEdznu6YVkDyNZX6",
      "width": 0.573,
      "text": [
@@ -426,7 +426,7 @@
     },
     {
      "id": "gXQt",
-     "image": "img/nepal/gXQt.webp",
+     "image": "data/img/nepal/gXQt.webp",
      "mapsUrl": "https://maps.app.goo.gl/U6bnRG8KbGe3RQap6",
      "width": 0.573,
      "text": [
@@ -442,7 +442,7 @@
     },
     {
      "id": "Px6r",
-     "image": "img/nepal/Px6r.webp",
+     "image": "data/img/nepal/Px6r.webp",
      "mapsUrl": "https://maps.app.goo.gl/D6Pyd9QxkPBaxH9dA",
      "width": 0.573,
      "text": [
@@ -451,7 +451,7 @@
     },
     {
      "id": "L6Cc",
-     "image": "img/nepal/L6Cc.webp",
+     "image": "data/img/nepal/L6Cc.webp",
      "mapsUrl": "https://maps.app.goo.gl/HF1bepirYrbPXAUT9",
      "width": 0.573,
      "text": [
@@ -460,7 +460,7 @@
     },
     {
      "id": "4SYu",
-     "image": "img/nepal/4SYu.webp",
+     "image": "data/img/nepal/4SYu.webp",
      "mapsUrl": "https://maps.app.goo.gl/XgrvEMeFbnUxrKFK8",
      "width": 0.573,
      "text": [
@@ -469,7 +469,7 @@
     },
     {
      "id": "mLJ5",
-     "image": "img/nepal/mLJ5.webp",
+     "image": "data/img/nepal/mLJ5.webp",
      "mapsUrl": "https://maps.app.goo.gl/g64i8fVwFT7p4oxy5",
      "width": 0.573,
      "text": [
@@ -482,7 +482,7 @@
     },
     {
      "id": "Y0PQ",
-     "image": "img/nepal/Y0PQ.webp",
+     "image": "data/img/nepal/Y0PQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/Xoxqqst9Dp36uAWw9",
      "width": 0.573,
      "text": [
@@ -539,7 +539,7 @@
    "metas": [
     {
      "id": "evPB",
-     "image": "img/nepal/evPB.webp",
+     "image": "data/img/nepal/evPB.webp",
      "mapsUrl": "https://maps.app.goo.gl/hgM4ns1N2HiLHuFW9",
      "width": 0.573,
      "text": [
@@ -548,7 +548,7 @@
     },
     {
      "id": "vYvI",
-     "image": "img/nepal/vYvI.webp",
+     "image": "data/img/nepal/vYvI.webp",
      "mapsUrl": "https://maps.app.goo.gl/eMbveUojAgAz3vE39",
      "width": 0.573,
      "text": [
@@ -557,7 +557,7 @@
     },
     {
      "id": "8fCe",
-     "image": "img/nepal/8fCe.webp",
+     "image": "data/img/nepal/8fCe.webp",
      "mapsUrl": "https://maps.app.goo.gl/P8bbSc6ruJBNRUGF6",
      "width": 0.573,
      "text": [
@@ -566,7 +566,7 @@
     },
     {
      "id": "cvRP",
-     "image": "img/nepal/cvRP.webp",
+     "image": "data/img/nepal/cvRP.webp",
      "mapsUrl": "https://maps.app.goo.gl/Qbamxsuj4icA8DFH7",
      "width": 0.573,
      "text": [
@@ -575,7 +575,7 @@
     },
     {
      "id": "cqVV",
-     "image": "img/nepal/cqVV.webp",
+     "image": "data/img/nepal/cqVV.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -584,7 +584,7 @@
     },
     {
      "id": "tzvh",
-     "image": "img/nepal/tzvh.webp",
+     "image": "data/img/nepal/tzvh.webp",
      "mapsUrl": "https://goo.gl/maps/9vfo8WEyocrwFKW56",
      "width": 0.573,
      "text": [
@@ -593,7 +593,7 @@
     },
     {
      "id": "5sld",
-     "image": "img/nepal/5sld.webp",
+     "image": "data/img/nepal/5sld.webp",
      "mapsUrl": "https://goo.gl/maps/ZF5fSsqU6JZ5ywFk9",
      "width": 0.573,
      "text": [
@@ -602,7 +602,7 @@
     },
     {
      "id": "oEN0",
-     "image": "img/nepal/oEN0.webp",
+     "image": "data/img/nepal/oEN0.webp",
      "mapsUrl": "https://goo.gl/maps/2Wr74N91hiVmZGNw6",
      "width": 0.573,
      "text": [
@@ -611,7 +611,7 @@
     },
     {
      "id": "KIyv",
-     "image": "img/nepal/KIyv.webp",
+     "image": "data/img/nepal/KIyv.webp",
      "mapsUrl": "https://goo.gl/maps/SAgi2e46wTXK9EAH6",
      "width": 0.573,
      "text": [
@@ -620,7 +620,7 @@
     },
     {
      "id": "m56H",
-     "image": "img/nepal/m56H.webp",
+     "image": "data/img/nepal/m56H.webp",
      "mapsUrl": "https://goo.gl/maps/NKg8MNMt5L2qTQMAA",
      "width": 0.573,
      "text": [
@@ -629,7 +629,7 @@
     },
     {
      "id": "ansC",
-     "image": "img/nepal/ansC.webp",
+     "image": "data/img/nepal/ansC.webp",
      "mapsUrl": "https://goo.gl/maps/s1xTGhTwUgKi5Q4E9",
      "width": 0.573,
      "text": [
@@ -639,7 +639,7 @@
     },
     {
      "id": "h60b",
-     "image": "img/nepal/h60b.webp",
+     "image": "data/img/nepal/h60b.webp",
      "mapsUrl": "https://goo.gl/maps/qUazKZ328Cs8CEz49",
      "width": 0.573,
      "text": [
@@ -648,7 +648,7 @@
     },
     {
      "id": "FSi3",
-     "image": "img/nepal/FSi3.webp",
+     "image": "data/img/nepal/FSi3.webp",
      "mapsUrl": "https://goo.gl/maps/DKb8tcDEqDXu3BMb8",
      "width": 0.573,
      "text": [
@@ -657,7 +657,7 @@
     },
     {
      "id": "15gH",
-     "image": "img/nepal/15gH.webp",
+     "image": "data/img/nepal/15gH.webp",
      "mapsUrl": "https://goo.gl/maps/YPYHpBg9XQq9X3vt9",
      "width": 0.573,
      "text": [
@@ -666,7 +666,7 @@
     },
     {
      "id": "13Id",
-     "image": "img/nepal/13Id.webp",
+     "image": "data/img/nepal/13Id.webp",
      "mapsUrl": "https://goo.gl/maps/QQWRuNgYsfRodesC6",
      "width": 0.573,
      "text": [
@@ -675,7 +675,7 @@
     },
     {
      "id": "LKPy",
-     "image": "img/nepal/LKPy.webp",
+     "image": "data/img/nepal/LKPy.webp",
      "mapsUrl": "https://goo.gl/maps/uMvURN13Gp1KezaF6",
      "width": 0.573,
      "text": [
@@ -684,7 +684,7 @@
     },
     {
      "id": "lNEk",
-     "image": "img/nepal/lNEk.webp",
+     "image": "data/img/nepal/lNEk.webp",
      "mapsUrl": "https://goo.gl/maps/cFHsryriG78Zggdt6",
      "width": 0.573,
      "text": [
@@ -693,7 +693,7 @@
     },
     {
      "id": "Ipk5",
-     "image": "img/nepal/Ipk5.webp",
+     "image": "data/img/nepal/Ipk5.webp",
      "mapsUrl": "https://goo.gl/maps/eD6jwkiKLKpW4MK47",
      "width": 0.573,
      "text": [
@@ -702,7 +702,7 @@
     },
     {
      "id": "QPNM",
-     "image": "img/nepal/QPNM.webp",
+     "image": "data/img/nepal/QPNM.webp",
      "mapsUrl": "https://goo.gl/maps/UoaE3kVHV4biFUna9",
      "width": 0.573,
      "text": [
@@ -711,7 +711,7 @@
     },
     {
      "id": "Dg6E",
-     "image": "img/nepal/Dg6E.webp",
+     "image": "data/img/nepal/Dg6E.webp",
      "mapsUrl": "https://goo.gl/maps/1cuEKevteRjsejB18",
      "width": 0.573,
      "text": [
@@ -720,7 +720,7 @@
     },
     {
      "id": "6zi1",
-     "image": "img/nepal/6zi1.webp",
+     "image": "data/img/nepal/6zi1.webp",
      "mapsUrl": "https://goo.gl/maps/ovkqXzQTNCSKsjNu9",
      "width": 0.573,
      "text": [
@@ -729,7 +729,7 @@
     },
     {
      "id": "j2HS",
-     "image": "img/nepal/j2HS.webp",
+     "image": "data/img/nepal/j2HS.webp",
      "mapsUrl": "https://goo.gl/maps/PTwF4WDav41nTYhP7",
      "width": 0.573,
      "text": [
@@ -738,7 +738,7 @@
     },
     {
      "id": "cwQB",
-     "image": "img/nepal/cwQB.webp",
+     "image": "data/img/nepal/cwQB.webp",
      "mapsUrl": "https://goo.gl/maps/EhxYUxAtrKyZqiew9",
      "width": 0.573,
      "text": [
@@ -747,7 +747,7 @@
     },
     {
      "id": "jtSd",
-     "image": "img/nepal/jtSd.webp",
+     "image": "data/img/nepal/jtSd.webp",
      "mapsUrl": "https://goo.gl/maps/QCH8wGWKGLT62M6p7",
      "width": 0.573,
      "text": [
@@ -756,7 +756,7 @@
     },
     {
      "id": "p93Y",
-     "image": "img/nepal/p93Y.webp",
+     "image": "data/img/nepal/p93Y.webp",
      "mapsUrl": "https://goo.gl/maps/sCLhAywQU1bCxrX87",
      "width": 0.573,
      "text": [
@@ -766,7 +766,7 @@
     },
     {
      "id": "VYWX",
-     "image": "img/nepal/VYWX.webp",
+     "image": "data/img/nepal/VYWX.webp",
      "mapsUrl": "https://goo.gl/maps/KPpiHqKtXwuLAzbo9",
      "width": 0.573,
      "text": [
@@ -775,7 +775,7 @@
     },
     {
      "id": "hHGC",
-     "image": "img/nepal/hHGC.webp",
+     "image": "data/img/nepal/hHGC.webp",
      "mapsUrl": "https://goo.gl/maps/6YVj61Qn5hs4iuqQ6",
      "width": 0.573,
      "text": [
@@ -784,7 +784,7 @@
     },
     {
      "id": "fB1L",
-     "image": "img/nepal/fB1L.webp",
+     "image": "data/img/nepal/fB1L.webp",
      "mapsUrl": "https://goo.gl/maps/Bowp5b53RfTVxKsD7",
      "width": 0.573,
      "text": [
@@ -793,7 +793,7 @@
     },
     {
      "id": "E2q2",
-     "image": "img/nepal/E2q2.webp",
+     "image": "data/img/nepal/E2q2.webp",
      "mapsUrl": "https://goo.gl/maps/Q5re48674nUFCnHF6",
      "width": 0.573,
      "text": [
@@ -802,7 +802,7 @@
     },
     {
      "id": "8v2z",
-     "image": "img/nepal/8v2z.webp",
+     "image": "data/img/nepal/8v2z.webp",
      "mapsUrl": "https://goo.gl/maps/JHv4WKCGFWkgLPPw8",
      "width": 0.573,
      "text": [
@@ -811,7 +811,7 @@
     },
     {
      "id": "oMsb",
-     "image": "img/nepal/oMsb.webp",
+     "image": "data/img/nepal/oMsb.webp",
      "mapsUrl": "https://goo.gl/maps/spdNoJy7Mza1yvAR7",
      "width": 0.573,
      "text": [
@@ -820,7 +820,7 @@
     },
     {
      "id": "K8df",
-     "image": "img/nepal/K8df.webp",
+     "image": "data/img/nepal/K8df.webp",
      "mapsUrl": "https://goo.gl/maps/SCdJgCEFrrvMkN9i8",
      "width": 0.573,
      "text": [
@@ -829,7 +829,7 @@
     },
     {
      "id": "L7uv",
-     "image": "img/nepal/L7uv.webp",
+     "image": "data/img/nepal/L7uv.webp",
      "mapsUrl": "https://goo.gl/maps/TFv82ibiPmy4rCf19",
      "width": 0.573,
      "text": [
@@ -838,7 +838,7 @@
     },
     {
      "id": "zxhL",
-     "image": "img/nepal/zxhL.webp",
+     "image": "data/img/nepal/zxhL.webp",
      "mapsUrl": "https://goo.gl/maps/b4enHp2Q6HPbJeCLA",
      "width": 0.573,
      "text": [
@@ -847,7 +847,7 @@
     },
     {
      "id": "UiDS",
-     "image": "img/nepal/UiDS.webp",
+     "image": "data/img/nepal/UiDS.webp",
      "mapsUrl": "https://goo.gl/maps/HYKHY1GFrxVBukzU8",
      "width": 0.573,
      "text": [
@@ -856,7 +856,7 @@
     },
     {
      "id": "Zjaj",
-     "image": "img/nepal/Zjaj.webp",
+     "image": "data/img/nepal/Zjaj.webp",
      "mapsUrl": "https://goo.gl/maps/EsMMmKtthqVTkFps5",
      "width": 0.573,
      "text": [
@@ -865,7 +865,7 @@
     },
     {
      "id": "fClz",
-     "image": "img/nepal/fClz.webp",
+     "image": "data/img/nepal/fClz.webp",
      "mapsUrl": "https://goo.gl/maps/bdBxkXAkyhRmDNUH9",
      "width": 0.573,
      "text": [
@@ -874,7 +874,7 @@
     },
     {
      "id": "TvYi",
-     "image": "img/nepal/TvYi.webp",
+     "image": "data/img/nepal/TvYi.webp",
      "mapsUrl": "https://goo.gl/maps/DvY5eT5Y2x7jHM9e7",
      "width": 0.573,
      "text": [

@@ -3,7 +3,7 @@
  "title": "Portugal",
  "code": "PT",
  "continent": "Europe",
- "hero": "img/portugal/hero.webp",
+ "hero": "data/img/portugal/hero.webp",
  "metaCount": 35,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "lhWL",
-     "image": "img/portugal/lhWL.webp",
+     "image": "data/img/portugal/lhWL.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "WrlL",
-     "image": "img/portugal/WrlL.webp",
+     "image": "data/img/portugal/WrlL.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "OD5a",
-     "image": "img/portugal/OD5a.webp",
+     "image": "data/img/portugal/OD5a.webp",
      "mapsUrl": "https://goo.gl/maps/Phr2MGXgeGijAL1h9",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "S7ov",
-     "image": "img/portugal/S7ov.webp",
+     "image": "data/img/portugal/S7ov.webp",
      "mapsUrl": "https://maps.app.goo.gl/QyFTY9KZfSJB22a69",
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "fbSP",
-     "image": "img/portugal/fbSP.webp",
+     "image": "data/img/portugal/fbSP.webp",
      "mapsUrl": "https://goo.gl/maps/2b3QDRswsZxzeX8N7",
      "width": 0.5,
      "text": [
@@ -69,7 +69,7 @@
     },
     {
      "id": "DGfn",
-     "image": "img/portugal/DGfn.webp",
+     "image": "data/img/portugal/DGfn.webp",
      "mapsUrl": "https://goo.gl/maps/SMVqm7oC7XYmwQu79",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "UKlQ",
-     "image": "img/portugal/UKlQ.webp",
+     "image": "data/img/portugal/UKlQ.webp",
      "mapsUrl": "https://goo.gl/maps/6zNpng8VqeHmUeMSA",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "aXLK",
-     "image": "img/portugal/aXLK.webp",
+     "image": "data/img/portugal/aXLK.webp",
      "mapsUrl": "https://goo.gl/maps/mywxQqmshAjBh6m89",
      "width": 0.5,
      "text": [
@@ -98,7 +98,7 @@
     },
     {
      "id": "FxrH",
-     "image": "img/portugal/FxrH.webp",
+     "image": "data/img/portugal/FxrH.webp",
      "mapsUrl": "https://goo.gl/maps/CkiGtiAG6cmV3kJZA",
      "width": 0.5,
      "text": [
@@ -107,7 +107,7 @@
     },
     {
      "id": "OZnB",
-     "image": "img/portugal/OZnB.webp",
+     "image": "data/img/portugal/OZnB.webp",
      "mapsUrl": "https://goo.gl/maps/7QvpeoEzVLYcApt67",
      "width": 0.5,
      "text": [
@@ -116,7 +116,7 @@
     },
     {
      "id": "67d6",
-     "image": "img/portugal/67d6.webp",
+     "image": "data/img/portugal/67d6.webp",
      "mapsUrl": "https://goo.gl/maps/KD4eMT8RcmgFRQNj6",
      "width": 0.5,
      "text": [
@@ -126,7 +126,7 @@
     },
     {
      "id": "QBnA",
-     "image": "img/portugal/QBnA.webp",
+     "image": "data/img/portugal/QBnA.webp",
      "mapsUrl": "https://goo.gl/maps/UP1As9Skd98Mn1Ee7",
      "width": 0.5,
      "text": [
@@ -136,7 +136,7 @@
     },
     {
      "id": "x15t",
-     "image": "img/portugal/x15t.webp",
+     "image": "data/img/portugal/x15t.webp",
      "mapsUrl": "https://maps.app.goo.gl/CadPcLLx33Fa6D5C8",
      "width": 0.5,
      "text": [
@@ -146,7 +146,7 @@
     },
     {
      "id": "U3KE",
-     "image": "img/portugal/U3KE.webp",
+     "image": "data/img/portugal/U3KE.webp",
      "mapsUrl": "https://maps.app.goo.gl/AotUTKAxsshwYSXy9",
      "width": 0.5,
      "text": [
@@ -156,7 +156,7 @@
     },
     {
      "id": "Ug6C",
-     "image": "img/portugal/Ug6C.webp",
+     "image": "data/img/portugal/Ug6C.webp",
      "mapsUrl": "https://goo.gl/maps/Mdychy6uTZtX3jKV9",
      "width": 0.5,
      "text": [
@@ -166,7 +166,7 @@
     },
     {
      "id": "tuqy",
-     "image": "img/portugal/tuqy.webp",
+     "image": "data/img/portugal/tuqy.webp",
      "mapsUrl": "https://maps.app.goo.gl/4m8sL4JZJCFYJmG5A",
      "width": 0.5,
      "text": [
@@ -175,7 +175,7 @@
     },
     {
      "id": "pUNV",
-     "image": "img/portugal/pUNV.webp",
+     "image": "data/img/portugal/pUNV.webp",
      "mapsUrl": "https://maps.app.goo.gl/SA8oVgLj5imwxjGo6",
      "width": 0.5,
      "text": [
@@ -184,7 +184,7 @@
     },
     {
      "id": "kEDt",
-     "image": "img/portugal/kEDt.webp",
+     "image": "data/img/portugal/kEDt.webp",
      "mapsUrl": "https://maps.app.goo.gl/bXEu1bHHrcm4vGua8",
      "width": 0.5,
      "text": [
@@ -193,7 +193,7 @@
     },
     {
      "id": "eha3",
-     "image": "img/portugal/eha3.webp",
+     "image": "data/img/portugal/eha3.webp",
      "mapsUrl": "https://maps.app.goo.gl/vbnFMoUQKFjmvind7",
      "width": 0.5,
      "text": [
@@ -202,7 +202,7 @@
     },
     {
      "id": "WT4U",
-     "image": "img/portugal/WT4U.webp",
+     "image": "data/img/portugal/WT4U.webp",
      "mapsUrl": "https://maps.app.goo.gl/AKKL8KYAPeKsXqkq9",
      "width": 0.5,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "mTk9",
-     "image": "img/portugal/mTk9.webp",
+     "image": "data/img/portugal/mTk9.webp",
      "mapsUrl": "https://maps.app.goo.gl/YsNmcG6M4ri9hKaD7",
      "width": 0.5,
      "text": [
@@ -229,7 +229,7 @@
    "metas": [
     {
      "id": "oTO0",
-     "image": "img/portugal/oTO0.webp",
+     "image": "data/img/portugal/oTO0.webp",
      "mapsUrl": "#",
      "width": 0.417,
      "text": [
@@ -239,7 +239,7 @@
     },
     {
      "id": "csJJ",
-     "image": "img/portugal/csJJ.webp",
+     "image": "data/img/portugal/csJJ.webp",
      "mapsUrl": "https://maps.app.goo.gl/BqLqRDpx4v5MxBFq5",
      "width": 0.573,
      "text": [
@@ -248,7 +248,7 @@
     },
     {
      "id": "TydI",
-     "image": "img/portugal/TydI.webp",
+     "image": "data/img/portugal/TydI.webp",
      "mapsUrl": "https://maps.app.goo.gl/fxtrzZuGhX2UF7w26",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "1SD6",
-     "image": "img/portugal/1SD6.webp",
+     "image": "data/img/portugal/1SD6.webp",
      "mapsUrl": "https://maps.app.goo.gl/DrTRc1xfQ6d6htLR8",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "rEuU",
-     "image": "img/portugal/rEuU.webp",
+     "image": "data/img/portugal/rEuU.webp",
      "mapsUrl": "https://maps.app.goo.gl/YtAxDMmCgtJAXG7S9",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "JOnQ",
-     "image": "img/portugal/JOnQ.webp",
+     "image": "data/img/portugal/JOnQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/oqYsJt2zXpb5x6nZ9",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "Pg4g",
-     "image": "img/portugal/Pg4g.webp",
+     "image": "data/img/portugal/Pg4g.webp",
      "mapsUrl": "https://maps.app.goo.gl/iGLLNVFN9ogZqd3u9",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "Sc7E",
-     "image": "img/portugal/Sc7E.webp",
+     "image": "data/img/portugal/Sc7E.webp",
      "mapsUrl": "https://maps.app.goo.gl/dWAUJ5f6Udmu7Aa56",
      "width": 0.573,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "MPGC",
-     "image": "img/portugal/MPGC.webp",
+     "image": "data/img/portugal/MPGC.webp",
      "mapsUrl": "https://maps.app.goo.gl/vkg9e6s3j92Ad8tf8",
      "width": 0.573,
      "text": [
@@ -314,7 +314,7 @@
     },
     {
      "id": "sUvJ",
-     "image": "img/portugal/sUvJ.webp",
+     "image": "data/img/portugal/sUvJ.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -333,7 +333,7 @@
    "metas": [
     {
      "id": "Lkpp",
-     "image": "img/portugal/Lkpp.webp",
+     "image": "data/img/portugal/Lkpp.webp",
      "mapsUrl": "https://maps.app.goo.gl/A3p5Z9sVscPecQ9T6",
      "width": 0.573,
      "text": [
@@ -342,7 +342,7 @@
     },
     {
      "id": "7JpO",
-     "image": "img/portugal/7JpO.webp",
+     "image": "data/img/portugal/7JpO.webp",
      "mapsUrl": "https://maps.app.goo.gl/LZsGasRCPybFDksT6",
      "width": 0.573,
      "text": [
@@ -351,7 +351,7 @@
     },
     {
      "id": "X5pr",
-     "image": "img/portugal/X5pr.webp",
+     "image": "data/img/portugal/X5pr.webp",
      "mapsUrl": "https://maps.app.goo.gl/jhByEQJYQfDYHwLC7",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "gIlH",
-     "image": "img/portugal/gIlH.webp",
+     "image": "data/img/portugal/gIlH.webp",
      "mapsUrl": "https://maps.app.goo.gl/fdN7aGdtHLj7AySA8",
      "width": 0.573,
      "text": [

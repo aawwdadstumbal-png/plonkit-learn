@@ -3,7 +3,7 @@
  "title": "Australia",
  "code": "AU",
  "continent": "Oceania",
- "hero": "img/australia/hero.webp",
+ "hero": "data/img/australia/hero.webp",
  "metaCount": 74,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "cP3a",
-     "image": "img/australia/cP3a.webp",
+     "image": "data/img/australia/cP3a.webp",
      "mapsUrl": "https://goo.gl/maps/Sp1sr1jqg55ZHowi8",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "Snwr",
-     "image": "img/australia/Snwr.webp",
+     "image": "data/img/australia/Snwr.webp",
      "mapsUrl": "https://maps.app.goo.gl/tQZAm5mdPmnrx4Dv7",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "Jbyg",
-     "image": "img/australia/Jbyg.webp",
+     "image": "data/img/australia/Jbyg.webp",
      "mapsUrl": "https://goo.gl/maps/sictV8eDrPFwncMCA",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "yxkv",
-     "image": "img/australia/yxkv.webp",
+     "image": "data/img/australia/yxkv.webp",
      "mapsUrl": "https://goo.gl/maps/M3bySs59KJcMP7HY9",
      "width": 0.5,
      "text": [
@@ -60,7 +60,7 @@
     },
     {
      "id": "0WyC",
-     "image": "img/australia/0WyC.webp",
+     "image": "data/img/australia/0WyC.webp",
      "mapsUrl": "https://goo.gl/maps/M3bySs59KJcMP7HY9",
      "width": 0.5,
      "text": [
@@ -71,7 +71,7 @@
     },
     {
      "id": "YdCf",
-     "image": "img/australia/YdCf.webp",
+     "image": "data/img/australia/YdCf.webp",
      "mapsUrl": "https://goo.gl/maps/cDox6vGf596ZST6x6",
      "width": 0.5,
      "text": [
@@ -81,7 +81,7 @@
     },
     {
      "id": "iPl5",
-     "image": "img/australia/iPl5.webp",
+     "image": "data/img/australia/iPl5.webp",
      "mapsUrl": "https://goo.gl/maps/9sCEseLdoKUZkg5c9",
      "width": 0.5,
      "text": [
@@ -91,7 +91,7 @@
     },
     {
      "id": "C2EJ",
-     "image": "img/australia/C2EJ.webp",
+     "image": "data/img/australia/C2EJ.webp",
      "mapsUrl": "https://goo.gl/maps/mAR5QG2cMaeXgfLa8",
      "width": 0.5,
      "text": [
@@ -101,7 +101,7 @@
     },
     {
      "id": "kYwE",
-     "image": "img/australia/kYwE.webp",
+     "image": "data/img/australia/kYwE.webp",
      "mapsUrl": "https://goo.gl/maps/pSMZ7d3C1VAaXMFK8",
      "width": 0.5,
      "text": [
@@ -111,7 +111,7 @@
     },
     {
      "id": "jYdQ",
-     "image": "img/australia/jYdQ.webp",
+     "image": "data/img/australia/jYdQ.webp",
      "mapsUrl": "https://maps.app.goo.gl/AMmux64ttZrhFgzw8",
      "width": 0.5,
      "text": [
@@ -142,7 +142,7 @@
    "metas": [
     {
      "id": "b54E",
-     "image": "img/australia/b54E.webp",
+     "image": "data/img/australia/b54E.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "8smD",
-     "image": "img/australia/8smD.webp",
+     "image": "data/img/australia/8smD.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -160,7 +160,7 @@
     },
     {
      "id": "6oil",
-     "image": "img/australia/6oil.webp",
+     "image": "data/img/australia/6oil.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -171,7 +171,7 @@
     },
     {
      "id": "SH9t",
-     "image": "img/australia/SH9t.webp",
+     "image": "data/img/australia/SH9t.webp",
      "mapsUrl": "https://goo.gl/maps/pMJS3exZbaa8zfyD6",
      "width": 0.573,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "lxhc",
-     "image": "img/australia/lxhc.webp",
+     "image": "data/img/australia/lxhc.webp",
      "mapsUrl": "https://goo.gl/maps/LtUSqyqp6m8a2uog8",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "0lXU",
-     "image": "img/australia/0lXU.webp",
+     "image": "data/img/australia/0lXU.webp",
      "mapsUrl": "https://goo.gl/maps/2x3CPoYNBnFWqtDm9",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "5dWF",
-     "image": "img/australia/5dWF.webp",
+     "image": "data/img/australia/5dWF.webp",
      "mapsUrl": "https://goo.gl/maps/mZeGwW4H5JaxZ7nTA",
      "width": 0.573,
      "text": [
@@ -210,7 +210,7 @@
     },
     {
      "id": "3wyr",
-     "image": "img/australia/3wyr.webp",
+     "image": "data/img/australia/3wyr.webp",
      "mapsUrl": "https://goo.gl/maps/85L51ETBL965S9hn9",
      "width": 0.573,
      "text": [
@@ -219,7 +219,7 @@
     },
     {
      "id": "Fm8m",
-     "image": "img/australia/Fm8m.webp",
+     "image": "data/img/australia/Fm8m.webp",
      "mapsUrl": "https://goo.gl/maps/Y9MF4VkSuY7Xkc2A8",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "S44S",
-     "image": "img/australia/S44S.webp",
+     "image": "data/img/australia/S44S.webp",
      "mapsUrl": "https://goo.gl/maps/2LT9marVZG38Y6vv8",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "pAMj",
-     "image": "img/australia/pAMj.webp",
+     "image": "data/img/australia/pAMj.webp",
      "mapsUrl": "https://goo.gl/maps/sjgY2ceEqgyt9CE69",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "LyHG",
-     "image": "img/australia/LyHG.webp",
+     "image": "data/img/australia/LyHG.webp",
      "mapsUrl": "https://goo.gl/maps/8NsMtjowW1FX4Px28",
      "width": 0.573,
      "text": [
@@ -257,7 +257,7 @@
     },
     {
      "id": "xuhU",
-     "image": "img/australia/xuhU.webp",
+     "image": "data/img/australia/xuhU.webp",
      "mapsUrl": "https://goo.gl/maps/cAq7aUL4LsWx4FLu7",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "Pbiz",
-     "image": "img/australia/Pbiz.webp",
+     "image": "data/img/australia/Pbiz.webp",
      "mapsUrl": "https://goo.gl/maps/KWHXiSoh7D7NkqxW8",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "UUqd",
-     "image": "img/australia/UUqd.webp",
+     "image": "data/img/australia/UUqd.webp",
      "mapsUrl": "https://goo.gl/maps/9dp7cSAc3mhACorp6",
      "width": 0.573,
      "text": [
@@ -286,7 +286,7 @@
     },
     {
      "id": "fako",
-     "image": "img/australia/fako.webp",
+     "image": "data/img/australia/fako.webp",
      "mapsUrl": "https://goo.gl/maps/TPMQCEM9NqK8yX226",
      "width": 0.573,
      "text": [
@@ -296,7 +296,7 @@
     },
     {
      "id": "dHGl",
-     "image": "img/australia/dHGl.webp",
+     "image": "data/img/australia/dHGl.webp",
      "mapsUrl": "https://goo.gl/maps/B1kphWrZRnhryF5B9",
      "width": 0.573,
      "text": [
@@ -305,7 +305,7 @@
     },
     {
      "id": "B6K8",
-     "image": "img/australia/B6K8.webp",
+     "image": "data/img/australia/B6K8.webp",
      "mapsUrl": "https://goo.gl/maps/ms8hBbqXYM3dYaCU6",
      "width": 0.573,
      "text": [
@@ -314,7 +314,7 @@
     },
     {
      "id": "FQEn",
-     "image": "img/australia/FQEn.webp",
+     "image": "data/img/australia/FQEn.webp",
      "mapsUrl": "https://maps.app.goo.gl/kSVvwCmSSd31aAkd7",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "tILb",
-     "image": "img/australia/tILb.webp",
+     "image": "data/img/australia/tILb.webp",
      "mapsUrl": "https://goo.gl/maps/fZ5WcJ9mVbaWCEdx9",
      "width": 0.573,
      "text": [
@@ -334,7 +334,7 @@
     },
     {
      "id": "Aujv",
-     "image": "img/australia/Aujv.webp",
+     "image": "data/img/australia/Aujv.webp",
      "mapsUrl": "https://goo.gl/maps/HKbT65cVACJMvyxm6",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "Y0nT",
-     "image": "img/australia/Y0nT.webp",
+     "image": "data/img/australia/Y0nT.webp",
      "mapsUrl": "https://goo.gl/maps/kQrBtK8hD2BhZsKJ9",
      "width": 0.573,
      "text": [
@@ -353,7 +353,7 @@
     },
     {
      "id": "RFNj",
-     "image": "img/australia/RFNj.webp",
+     "image": "data/img/australia/RFNj.webp",
      "mapsUrl": "https://goo.gl/maps/sPDGwJ1sUTYQcGfy9",
      "width": 0.573,
      "text": [
@@ -362,7 +362,7 @@
     },
     {
      "id": "NeWE",
-     "image": "img/australia/NeWE.webp",
+     "image": "data/img/australia/NeWE.webp",
      "mapsUrl": "https://goo.gl/maps/pAwfjre9m8xADsZt8",
      "width": 0.573,
      "text": [
@@ -372,7 +372,7 @@
     },
     {
      "id": "uo2W",
-     "image": "img/australia/uo2W.webp",
+     "image": "data/img/australia/uo2W.webp",
      "mapsUrl": "https://goo.gl/maps/JeyFvsHRQNBTNBMn9",
      "width": 0.573,
      "text": [
@@ -382,7 +382,7 @@
     },
     {
      "id": "CAL4",
-     "image": "img/australia/CAL4.webp",
+     "image": "data/img/australia/CAL4.webp",
      "mapsUrl": "https://goo.gl/maps/vkjDBeh2NK2ddor2A",
      "width": 0.573,
      "text": [
@@ -391,7 +391,7 @@
     },
     {
      "id": "0nBQ",
-     "image": "img/australia/0nBQ.webp",
+     "image": "data/img/australia/0nBQ.webp",
      "mapsUrl": "https://goo.gl/maps/5oSGGEohoSaXHgWS8",
      "width": 0.573,
      "text": [
@@ -400,7 +400,7 @@
     },
     {
      "id": "QQZc",
-     "image": "img/australia/QQZc.webp",
+     "image": "data/img/australia/QQZc.webp",
      "mapsUrl": "https://maps.app.goo.gl/MynEwU6jTaJj6Lvg6",
      "width": 0.573,
      "text": [
@@ -410,7 +410,7 @@
     },
     {
      "id": "11H1",
-     "image": "img/australia/11H1.webp",
+     "image": "data/img/australia/11H1.webp",
      "mapsUrl": "https://goo.gl/maps/FYiePxBTjPqau38k7",
      "width": 0.573,
      "text": [
@@ -420,7 +420,7 @@
     },
     {
      "id": "Oh44",
-     "image": "img/australia/Oh44.webp",
+     "image": "data/img/australia/Oh44.webp",
      "mapsUrl": "https://goo.gl/maps/7dRtttAgWcnXBMiE8",
      "width": 0.573,
      "text": [
@@ -429,7 +429,7 @@
     },
     {
      "id": "17uG",
-     "image": "img/australia/17uG.webp",
+     "image": "data/img/australia/17uG.webp",
      "mapsUrl": "https://goo.gl/maps/DSeLfDLKt2gb8rdN9",
      "width": 0.573,
      "text": [
@@ -438,7 +438,7 @@
     },
     {
      "id": "W6mM",
-     "image": "img/australia/W6mM.webp",
+     "image": "data/img/australia/W6mM.webp",
      "mapsUrl": "https://goo.gl/maps/ixWGkSDEZJQ4tCdR6",
      "width": 0.573,
      "text": [
@@ -448,7 +448,7 @@
     },
     {
      "id": "e2I1",
-     "image": "img/australia/e2I1.webp",
+     "image": "data/img/australia/e2I1.webp",
      "mapsUrl": "https://goo.gl/maps/E5n14biLmw4G2jY48",
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "cAlQ",
-     "image": "img/australia/cAlQ.webp",
+     "image": "data/img/australia/cAlQ.webp",
      "mapsUrl": "https://goo.gl/maps/WQSWnH3iuxSBWSba8",
      "width": 0.573,
      "text": [
@@ -466,7 +466,7 @@
     },
     {
      "id": "J0tt",
-     "image": "img/australia/J0tt.webp",
+     "image": "data/img/australia/J0tt.webp",
      "mapsUrl": "https://goo.gl/maps/P1Cyr8bhfQKBdGCZ6",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "7ykV",
-     "image": "img/australia/7ykV.webp",
+     "image": "data/img/australia/7ykV.webp",
      "mapsUrl": "https://goo.gl/maps/KPp9PJQ2hLtuKQzn8",
      "width": 0.573,
      "text": [
@@ -485,7 +485,7 @@
     },
     {
      "id": "2kHn",
-     "image": "img/australia/2kHn.webp",
+     "image": "data/img/australia/2kHn.webp",
      "mapsUrl": "https://goo.gl/maps/HWy8PCDvein2m16a7",
      "width": 0.573,
      "text": [
@@ -494,7 +494,7 @@
     },
     {
      "id": "ZZKi",
-     "image": "img/australia/ZZKi.webp",
+     "image": "data/img/australia/ZZKi.webp",
      "mapsUrl": "https://www.google.com/maps/@-31.9491158,115.8644931,3a,15y,178.33h,95.2t/data=!3m7!1e1!3m5!1sXyeYko8QaYAkLTpWlprFfQ!2e0!5s20210301T000000!7i16384!8i8192",
      "width": 0.573,
      "text": [
@@ -503,7 +503,7 @@
     },
     {
      "id": "NPFj",
-     "image": "img/australia/NPFj.webp",
+     "image": "data/img/australia/NPFj.webp",
      "mapsUrl": "https://goo.gl/maps/VVihb2N5Q6WW7gvt5",
      "width": 0.573,
      "text": [
@@ -512,7 +512,7 @@
     },
     {
      "id": "1aB4",
-     "image": "img/australia/1aB4.webp",
+     "image": "data/img/australia/1aB4.webp",
      "mapsUrl": "https://goo.gl/maps/aYW5zvMtrEYW47w59",
      "width": 0.573,
      "text": [
@@ -521,7 +521,7 @@
     },
     {
      "id": "M5MM",
-     "image": "img/australia/M5MM.webp",
+     "image": "data/img/australia/M5MM.webp",
      "mapsUrl": "https://goo.gl/maps/Ty56eHufegeffX4r5",
      "width": 0.573,
      "text": [
@@ -530,7 +530,7 @@
     },
     {
      "id": "X5tc",
-     "image": "img/australia/X5tc.webp",
+     "image": "data/img/australia/X5tc.webp",
      "mapsUrl": "https://goo.gl/maps/WwGrHw1EqGDuL2kx8",
      "width": 0.573,
      "text": [
@@ -539,7 +539,7 @@
     },
     {
      "id": "edFk",
-     "image": "img/australia/edFk.webp",
+     "image": "data/img/australia/edFk.webp",
      "mapsUrl": "https://goo.gl/maps/UScNqqXvfFwJXkJM6",
      "width": 0.573,
      "text": [
@@ -548,7 +548,7 @@
     },
     {
      "id": "mrYL",
-     "image": "img/australia/mrYL.webp",
+     "image": "data/img/australia/mrYL.webp",
      "mapsUrl": "https://goo.gl/maps/9qD3QhA83u2EtxKA9",
      "width": 0.573,
      "text": [
@@ -557,7 +557,7 @@
     },
     {
      "id": "Gni4",
-     "image": "img/australia/Gni4.webp",
+     "image": "data/img/australia/Gni4.webp",
      "mapsUrl": "https://goo.gl/maps/dZBj1XFQxYPfX37j6",
      "width": 0.573,
      "text": [
@@ -569,7 +569,7 @@
     },
     {
      "id": "kN13",
-     "image": "img/australia/kN13.webp",
+     "image": "data/img/australia/kN13.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -590,7 +590,7 @@
    "metas": [
     {
      "id": "vw3g",
-     "image": "img/australia/vw3g.webp",
+     "image": "data/img/australia/vw3g.webp",
      "mapsUrl": "https://goo.gl/maps/BFHmQ7RBrNPvFo3N6",
      "width": 0.573,
      "text": [
@@ -599,7 +599,7 @@
     },
     {
      "id": "I7Ah",
-     "image": "img/australia/I7Ah.webp",
+     "image": "data/img/australia/I7Ah.webp",
      "mapsUrl": "https://goo.gl/maps/GgyzYNTZgVLMQSZm9",
      "width": 0.573,
      "text": [
@@ -608,7 +608,7 @@
     },
     {
      "id": "0RLy",
-     "image": "img/australia/0RLy.webp",
+     "image": "data/img/australia/0RLy.webp",
      "mapsUrl": "https://goo.gl/maps/ttR8gKrjcLAVux5p8",
      "width": 0.573,
      "text": [
@@ -618,7 +618,7 @@
     },
     {
      "id": "T9jc",
-     "image": "img/australia/T9jc.webp",
+     "image": "data/img/australia/T9jc.webp",
      "mapsUrl": "https://maps.app.goo.gl/qyWwYYzrR1d5hZ3J7",
      "width": 0.573,
      "text": [
@@ -627,7 +627,7 @@
     },
     {
      "id": "ZgT0",
-     "image": "img/australia/ZgT0.webp",
+     "image": "data/img/australia/ZgT0.webp",
      "mapsUrl": "https://goo.gl/maps/9Ww6tgNk4MP7q2Mk9",
      "width": 0.573,
      "text": [
@@ -636,7 +636,7 @@
     },
     {
      "id": "hovh",
-     "image": "img/australia/hovh.webp",
+     "image": "data/img/australia/hovh.webp",
      "mapsUrl": "https://goo.gl/maps/pDK7q7BweBAuFCYE7",
      "width": 0.573,
      "text": [
@@ -646,7 +646,7 @@
     },
     {
      "id": "Uejw",
-     "image": "img/australia/Uejw.webp",
+     "image": "data/img/australia/Uejw.webp",
      "mapsUrl": "https://maps.app.goo.gl/i7mg1aQhW1bcWScY6",
      "width": 0.573,
      "text": [
@@ -655,7 +655,7 @@
     },
     {
      "id": "ttAJ",
-     "image": "img/australia/ttAJ.webp",
+     "image": "data/img/australia/ttAJ.webp",
      "mapsUrl": "https://goo.gl/maps/Mih6F8nXikmw8hi96",
      "width": 0.573,
      "text": [
@@ -665,7 +665,7 @@
     },
     {
      "id": "ePjU",
-     "image": "img/australia/ePjU.webp",
+     "image": "data/img/australia/ePjU.webp",
      "mapsUrl": "https://maps.app.goo.gl/EFhncZqkuyuHeS8Q7",
      "width": 0.573,
      "text": [
@@ -674,7 +674,7 @@
     },
     {
      "id": "4Vvd",
-     "image": "img/australia/4Vvd.webp",
+     "image": "data/img/australia/4Vvd.webp",
      "mapsUrl": "https://goo.gl/maps/7AeYeW96TpyQ2dVi6",
      "width": 0.573,
      "text": [
@@ -683,7 +683,7 @@
     },
     {
      "id": "tslH",
-     "image": "img/australia/tslH.webp",
+     "image": "data/img/australia/tslH.webp",
      "mapsUrl": "https://goo.gl/maps/q35yxva5Cw8XhHq79",
      "width": 0.573,
      "text": [
@@ -693,7 +693,7 @@
     },
     {
      "id": "hYmO",
-     "image": "img/australia/hYmO.webp",
+     "image": "data/img/australia/hYmO.webp",
      "mapsUrl": "https://goo.gl/maps/qmm6m7rTxazFcmBM7",
      "width": 0.573,
      "text": [
@@ -703,7 +703,7 @@
     },
     {
      "id": "OgUS",
-     "image": "img/australia/OgUS.webp",
+     "image": "data/img/australia/OgUS.webp",
      "mapsUrl": "https://goo.gl/maps/fBzWxt2yXicYyJM16",
      "width": 0.573,
      "text": [
@@ -712,7 +712,7 @@
     },
     {
      "id": "nMfy",
-     "image": "img/australia/nMfy.webp",
+     "image": "data/img/australia/nMfy.webp",
      "mapsUrl": "https://goo.gl/maps/Mf4KsfTjzFQogBKF9",
      "width": 0.573,
      "text": [
@@ -723,7 +723,7 @@
     },
     {
      "id": "khBq",
-     "image": "img/australia/khBq.webp",
+     "image": "data/img/australia/khBq.webp",
      "mapsUrl": "https://goo.gl/maps/k3aFZquPRHVNXhrH9",
      "width": 0.573,
      "text": [
@@ -732,7 +732,7 @@
     },
     {
      "id": "nO8C",
-     "image": "img/australia/nO8C.webp",
+     "image": "data/img/australia/nO8C.webp",
      "mapsUrl": "https://goo.gl/maps/mL6J4Rh5P6fAexuj7",
      "width": 0.573,
      "text": [
@@ -741,7 +741,7 @@
     },
     {
      "id": "vjrK",
-     "image": "img/australia/vjrK.webp",
+     "image": "data/img/australia/vjrK.webp",
      "mapsUrl": "https://goo.gl/maps/LE7VaZwH61hPJXdA7",
      "width": 0.573,
      "text": [
@@ -750,7 +750,7 @@
     },
     {
      "id": "zB6F",
-     "image": "img/australia/zB6F.webp",
+     "image": "data/img/australia/zB6F.webp",
      "mapsUrl": "https://goo.gl/maps/envRhLpPuEQzfm6y8",
      "width": 0.573,
      "text": [

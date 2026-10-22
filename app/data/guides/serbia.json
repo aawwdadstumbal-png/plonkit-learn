@@ -3,7 +3,7 @@
  "title": "Serbia",
  "code": "RS",
  "continent": "Europe",
- "hero": "img/serbia/hero.webp",
+ "hero": "data/img/serbia/hero.webp",
  "metaCount": 21,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "qGEx",
-     "image": "img/serbia/qGEx.webp",
+     "image": "data/img/serbia/qGEx.webp",
      "mapsUrl": "https://goo.gl/maps/HHzC7GHNbsHNodDm8",
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "VSVy",
-     "image": "img/serbia/VSVy.webp",
+     "image": "data/img/serbia/VSVy.webp",
      "mapsUrl": "https://goo.gl/maps/Yc1Lbv5frL5g4kx17",
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "WqwF",
-     "image": "img/serbia/WqwF.webp",
+     "image": "data/img/serbia/WqwF.webp",
      "mapsUrl": "https://goo.gl/maps/dSYX1E85L6sAcwwG9",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "eWgo",
-     "image": "img/serbia/eWgo.webp",
+     "image": "data/img/serbia/eWgo.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -59,7 +59,7 @@
     },
     {
      "id": "6jty",
-     "image": "img/serbia/6jty.webp",
+     "image": "data/img/serbia/6jty.webp",
      "mapsUrl": "/images/serbia/rs_language.png",
      "width": 0.5,
      "text": [
@@ -74,7 +74,7 @@
     },
     {
      "id": "C8Jw",
-     "image": "img/serbia/C8Jw.webp",
+     "image": "data/img/serbia/C8Jw.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -83,7 +83,7 @@
     },
     {
      "id": "SDu4",
-     "image": "img/serbia/SDu4.webp",
+     "image": "data/img/serbia/SDu4.webp",
      "mapsUrl": "https://maps.app.goo.gl/sWnSBLcjgBGRNiD37",
      "width": 0.5,
      "text": [
@@ -92,7 +92,7 @@
     },
     {
      "id": "V8kh",
-     "image": "img/serbia/V8kh.webp",
+     "image": "data/img/serbia/V8kh.webp",
      "mapsUrl": "https://maps.app.goo.gl/eX2AP5vfj7sT2i4e8",
      "width": 0.5,
      "text": [
@@ -102,7 +102,7 @@
     },
     {
      "id": "LpbY",
-     "image": "img/serbia/LpbY.webp",
+     "image": "data/img/serbia/LpbY.webp",
      "mapsUrl": "https://goo.gl/maps/hCMFwfkEBsVpPVss9",
      "width": 0.5,
      "text": [
@@ -121,7 +121,7 @@
    "metas": [
     {
      "id": "mTBk",
-     "image": "img/serbia/mTBk.webp",
+     "image": "data/img/serbia/mTBk.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -130,7 +130,7 @@
     },
     {
      "id": "VetX",
-     "image": "img/serbia/VetX.webp",
+     "image": "data/img/serbia/VetX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -140,7 +140,7 @@
     },
     {
      "id": "w6kX",
-     "image": "img/serbia/w6kX.webp",
+     "image": "data/img/serbia/w6kX.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -149,7 +149,7 @@
     },
     {
      "id": "un4M",
-     "image": "img/serbia/un4M.webp",
+     "image": "data/img/serbia/un4M.webp",
      "mapsUrl": "https://goo.gl/maps/HJB7gpLKUKhP7cQT7",
      "width": 0.573,
      "text": [
@@ -158,7 +158,7 @@
     },
     {
      "id": "kehq",
-     "image": "img/serbia/kehq.webp",
+     "image": "data/img/serbia/kehq.webp",
      "mapsUrl": "https://goo.gl/maps/5wYfyg65fHuNuj949",
      "width": 0.573,
      "text": [
@@ -167,7 +167,7 @@
     },
     {
      "id": "enVL",
-     "image": "img/serbia/enVL.webp",
+     "image": "data/img/serbia/enVL.webp",
      "mapsUrl": "https://goo.gl/maps/HYWXp5ijqEucbFTz7",
      "width": 0.573,
      "text": [
@@ -176,7 +176,7 @@
     },
     {
      "id": "QMqw",
-     "image": "img/serbia/QMqw.webp",
+     "image": "data/img/serbia/QMqw.webp",
      "mapsUrl": "https://goo.gl/maps/J4e94gw7DFAin1Ee8",
      "width": 0.573,
      "text": [
@@ -185,7 +185,7 @@
     },
     {
      "id": "RnNO",
-     "image": "img/serbia/RnNO.webp",
+     "image": "data/img/serbia/RnNO.webp",
      "mapsUrl": "https://goo.gl/maps/dgS7WSfnGZtK9cvx6",
      "width": 0.573,
      "text": [
@@ -194,7 +194,7 @@
     },
     {
      "id": "WCh2",
-     "image": "img/serbia/WCh2.webp",
+     "image": "data/img/serbia/WCh2.webp",
      "mapsUrl": "https://goo.gl/maps/BssvgC1pp83KmsWS7",
      "width": 0.573,
      "text": [
@@ -212,7 +212,7 @@
    "metas": [
     {
      "id": "8vGG",
-     "image": "img/serbia/8vGG.webp",
+     "image": "data/img/serbia/8vGG.webp",
      "mapsUrl": "https://goo.gl/maps/dQpeAgnPjEJHoG348",
      "width": 0.573,
      "text": [
@@ -222,7 +222,7 @@
     },
     {
      "id": "yQCt",
-     "image": "img/serbia/yQCt.webp",
+     "image": "data/img/serbia/yQCt.webp",
      "mapsUrl": "https://goo.gl/maps/74se7bmpkSF8wF966",
      "width": 0.573,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "ajNO",
-     "image": "img/serbia/ajNO.webp",
+     "image": "data/img/serbia/ajNO.webp",
      "mapsUrl": "https://goo.gl/maps/LMC1Ro9E71Eyz2wg8",
      "width": 0.573,
      "text": [

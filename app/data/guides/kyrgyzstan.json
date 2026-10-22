@@ -3,7 +3,7 @@
  "title": "Kyrgyzstan",
  "code": "KG",
  "continent": "Asia",
- "hero": "img/kyrgyzstan/hero.webp",
+ "hero": "data/img/kyrgyzstan/hero.webp",
  "metaCount": 91,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "2Ewh",
-     "image": "img/kyrgyzstan/2Ewh.webp",
+     "image": "data/img/kyrgyzstan/2Ewh.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "L1ht",
-     "image": "img/kyrgyzstan/L1ht.webp",
+     "image": "data/img/kyrgyzstan/L1ht.webp",
      "mapsUrl": "https://goo.gl/maps/VAGcow68t9cxy6687",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "3dxS",
-     "image": "img/kyrgyzstan/3dxS.webp",
+     "image": "data/img/kyrgyzstan/3dxS.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -52,7 +52,7 @@
     },
     {
      "id": "MVMj",
-     "image": "img/kyrgyzstan/MVMj.webp",
+     "image": "data/img/kyrgyzstan/MVMj.webp",
      "mapsUrl": "https://goo.gl/maps/uPwedtS1gEC9hqJv5",
      "width": 0.5,
      "text": [
@@ -61,7 +61,7 @@
     },
     {
      "id": "vu1b",
-     "image": "img/kyrgyzstan/vu1b.webp",
+     "image": "data/img/kyrgyzstan/vu1b.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=81.22221&map_action=pano&pano=oAmO1qh-JZ9yisVPsLvxSQ&pitch=0&viewpoint=42.73004%2C77.626506#extra%5BloadMode%5D=latLng",
      "width": 0.5,
      "text": [
@@ -70,7 +70,7 @@
     },
     {
      "id": "EsCZ",
-     "image": "img/kyrgyzstan/EsCZ.webp",
+     "image": "data/img/kyrgyzstan/EsCZ.webp",
      "mapsUrl": "https://goo.gl/maps/rwsKJCwdMeRSTAcB9",
      "width": 0.5,
      "text": [
@@ -79,7 +79,7 @@
     },
     {
      "id": "o27C",
-     "image": "img/kyrgyzstan/o27C.webp",
+     "image": "data/img/kyrgyzstan/o27C.webp",
      "mapsUrl": "https://www.google.com/maps/@42.9073983,74.7665076,3a,17.5y,215.42h,81.12t/data=!3m6!1e1!3m4!1sc3ikdXkDsMbMckuCH55WDA!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.5,
      "text": [
@@ -88,7 +88,7 @@
     },
     {
      "id": "12Oi",
-     "image": "img/kyrgyzstan/12Oi.webp",
+     "image": "data/img/kyrgyzstan/12Oi.webp",
      "mapsUrl": "https://goo.gl/maps/iL8rca3LaHihGVZRA",
      "width": 0.5,
      "text": [
@@ -115,7 +115,7 @@
    "metas": [
     {
      "id": "34JI",
-     "image": "img/kyrgyzstan/34JI.webp",
+     "image": "data/img/kyrgyzstan/34JI.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -125,7 +125,7 @@
     },
     {
      "id": "Wxhl",
-     "image": "img/kyrgyzstan/Wxhl.webp",
+     "image": "data/img/kyrgyzstan/Wxhl.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -135,7 +135,7 @@
     },
     {
      "id": "ZLuz",
-     "image": "img/kyrgyzstan/ZLuz.webp",
+     "image": "data/img/kyrgyzstan/ZLuz.webp",
      "mapsUrl": "https://goo.gl/maps/HMf4AZ1YPWtGTVpg7",
      "width": 0.573,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "tkk4",
-     "image": "img/kyrgyzstan/tkk4.webp",
+     "image": "data/img/kyrgyzstan/tkk4.webp",
      "mapsUrl": "https://goo.gl/maps/o2wwkRRptUWUWDmo8",
      "width": 0.573,
      "text": [
@@ -153,7 +153,7 @@
     },
     {
      "id": "aBOx",
-     "image": "img/kyrgyzstan/aBOx.webp",
+     "image": "data/img/kyrgyzstan/aBOx.webp",
      "mapsUrl": "https://goo.gl/maps/gyVuS1QiJTm8GQCd9",
      "width": 0.573,
      "text": [
@@ -162,7 +162,7 @@
     },
     {
      "id": "fmun",
-     "image": "img/kyrgyzstan/fmun.webp",
+     "image": "data/img/kyrgyzstan/fmun.webp",
      "mapsUrl": "https://goo.gl/maps/skb6VQAqHRAcexMC6",
      "width": 0.573,
      "text": [
@@ -172,7 +172,7 @@
     },
     {
      "id": "QvzN",
-     "image": "img/kyrgyzstan/QvzN.webp",
+     "image": "data/img/kyrgyzstan/QvzN.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=132.58999981193614&heading=197.9266087914633&map_action=pano&pano=zKjzHRthd9WfFd4GNqHSaA&pitch=-0.7394314880160806&viewpoint=42.597137%2C76.831973#extra%5Btags%5D=Y&extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -182,7 +182,7 @@
     },
     {
      "id": "inQ0",
-     "image": "img/kyrgyzstan/inQ0.webp",
+     "image": "data/img/kyrgyzstan/inQ0.webp",
      "mapsUrl": "https://goo.gl/maps/pv2tZVBKsszXTKdd6",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
    "metas": [
     {
      "id": "A2PE",
-     "image": "img/kyrgyzstan/A2PE.webp",
+     "image": "data/img/kyrgyzstan/A2PE.webp",
      "mapsUrl": "https://goo.gl/maps/Tc1QDdDZTJdryLdQ9",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "ojLs",
-     "image": "img/kyrgyzstan/ojLs.webp",
+     "image": "data/img/kyrgyzstan/ojLs.webp",
      "mapsUrl": "https://goo.gl/maps/WeFiqPbswXrt3s8U9",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "62fd",
-     "image": "img/kyrgyzstan/62fd.webp",
+     "image": "data/img/kyrgyzstan/62fd.webp",
      "mapsUrl": "https://goo.gl/maps/UgvY626Vi5aGz7Df7",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "AzjI",
-     "image": "img/kyrgyzstan/AzjI.webp",
+     "image": "data/img/kyrgyzstan/AzjI.webp",
      "mapsUrl": "https://goo.gl/maps/EHbnkHkdfg3aqVyLA",
      "width": 0.573,
      "text": [
@@ -320,7 +320,7 @@
     },
     {
      "id": "4fuX",
-     "image": "img/kyrgyzstan/4fuX.webp",
+     "image": "data/img/kyrgyzstan/4fuX.webp",
      "mapsUrl": "https://goo.gl/maps/97nsWmobJFPzMVXJ6",
      "width": 0.573,
      "text": [
@@ -331,7 +331,7 @@
     },
     {
      "id": "Xj8m",
-     "image": "img/kyrgyzstan/Xj8m.webp",
+     "image": "data/img/kyrgyzstan/Xj8m.webp",
      "mapsUrl": "https://goo.gl/maps/DEPbcULsyZNDzdDH8",
      "width": 0.573,
      "text": [
@@ -340,7 +340,7 @@
     },
     {
      "id": "iGgZ",
-     "image": "img/kyrgyzstan/iGgZ.webp",
+     "image": "data/img/kyrgyzstan/iGgZ.webp",
      "mapsUrl": "https://goo.gl/maps/2gBaYbm5Zs1DEU6T6",
      "width": 0.573,
      "text": [
@@ -349,7 +349,7 @@
     },
     {
      "id": "2Zlc",
-     "image": "img/kyrgyzstan/2Zlc.webp",
+     "image": "data/img/kyrgyzstan/2Zlc.webp",
      "mapsUrl": "https://goo.gl/maps/8ZJqNkZ5ATmyacDy7",
      "width": 0.573,
      "text": [
@@ -360,7 +360,7 @@
     },
     {
      "id": "eZI4",
-     "image": "img/kyrgyzstan/eZI4.webp",
+     "image": "data/img/kyrgyzstan/eZI4.webp",
      "mapsUrl": "https://goo.gl/maps/yWndZzNBL8bTe8aF7",
      "width": 0.573,
      "text": [
@@ -370,7 +370,7 @@
     },
     {
      "id": "TQ4c",
-     "image": "img/kyrgyzstan/TQ4c.webp",
+     "image": "data/img/kyrgyzstan/TQ4c.webp",
      "mapsUrl": "https://goo.gl/maps/yjvRrEH9N6uMEi9X6",
      "width": 0.573,
      "text": [
@@ -380,7 +380,7 @@
     },
     {
      "id": "eqAn",
-     "image": "img/kyrgyzstan/eqAn.webp",
+     "image": "data/img/kyrgyzstan/eqAn.webp",
      "mapsUrl": "https://goo.gl/maps/xDDcMFDnbhMqCT4N7",
      "width": 0.573,
      "text": [
@@ -389,7 +389,7 @@
     },
     {
      "id": "k6Cg",
-     "image": "img/kyrgyzstan/k6Cg.webp",
+     "image": "data/img/kyrgyzstan/k6Cg.webp",
      "mapsUrl": "https://goo.gl/maps/6txQ8FyY95bws2Kh7",
      "width": 0.573,
      "text": [
@@ -398,7 +398,7 @@
     },
     {
      "id": "Fajq",
-     "image": "img/kyrgyzstan/Fajq.webp",
+     "image": "data/img/kyrgyzstan/Fajq.webp",
      "mapsUrl": "https://goo.gl/maps/9U4MDjQJUPrwpWfC6",
      "width": 0.573,
      "text": [
@@ -407,7 +407,7 @@
     },
     {
      "id": "x8cG",
-     "image": "img/kyrgyzstan/x8cG.webp",
+     "image": "data/img/kyrgyzstan/x8cG.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -417,7 +417,7 @@
     },
     {
      "id": "7goI",
-     "image": "img/kyrgyzstan/7goI.webp",
+     "image": "data/img/kyrgyzstan/7goI.webp",
      "mapsUrl": "https://goo.gl/maps/spkEC7knYyAvjdVw6",
      "width": 0.573,
      "text": [
@@ -427,7 +427,7 @@
     },
     {
      "id": "bX73",
-     "image": "img/kyrgyzstan/bX73.webp",
+     "image": "data/img/kyrgyzstan/bX73.webp",
      "mapsUrl": "https://goo.gl/maps/YwwbZ6nUQMGJ6SP19",
      "width": 0.573,
      "text": [
@@ -437,7 +437,7 @@
     },
     {
      "id": "iTQ9",
-     "image": "img/kyrgyzstan/iTQ9.webp",
+     "image": "data/img/kyrgyzstan/iTQ9.webp",
      "mapsUrl": "https://goo.gl/maps/af4i9bSruHkKCgkg8",
      "width": 0.573,
      "text": [
@@ -447,7 +447,7 @@
     },
     {
      "id": "l8qj",
-     "image": "img/kyrgyzstan/l8qj.webp",
+     "image": "data/img/kyrgyzstan/l8qj.webp",
      "mapsUrl": "https://goo.gl/maps/5Yd93m1nMW4Jk5gZ6",
      "width": 0.573,
      "text": [
@@ -457,7 +457,7 @@
     },
     {
      "id": "qgtB",
-     "image": "img/kyrgyzstan/qgtB.webp",
+     "image": "data/img/kyrgyzstan/qgtB.webp",
      "mapsUrl": "https://goo.gl/maps/p9x6fLydRRLhXN9P9",
      "width": 0.573,
      "text": [
@@ -467,7 +467,7 @@
     },
     {
      "id": "5vJo",
-     "image": "img/kyrgyzstan/5vJo.webp",
+     "image": "data/img/kyrgyzstan/5vJo.webp",
      "mapsUrl": "https://goo.gl/maps/RHVaRMFcTuvYNzDY6",
      "width": 0.573,
      "text": [
@@ -476,7 +476,7 @@
     },
     {
      "id": "V1VN",
-     "image": "img/kyrgyzstan/V1VN.webp",
+     "image": "data/img/kyrgyzstan/V1VN.webp",
      "mapsUrl": "https://goo.gl/maps/L5voygtpABDfmuKB9",
      "width": 0.573,
      "text": [
@@ -486,7 +486,7 @@
     },
     {
      "id": "sEhC",
-     "image": "img/kyrgyzstan/sEhC.webp",
+     "image": "data/img/kyrgyzstan/sEhC.webp",
      "mapsUrl": "https://goo.gl/maps/BMnyMAxCE6GNkZsf6",
      "width": 0.573,
      "text": [
@@ -495,7 +495,7 @@
     },
     {
      "id": "TQWw",
-     "image": "img/kyrgyzstan/TQWw.webp",
+     "image": "data/img/kyrgyzstan/TQWw.webp",
      "mapsUrl": "https://goo.gl/maps/vmWUwPCrYwgydPUG9",
      "width": 0.573,
      "text": [
@@ -505,7 +505,7 @@
     },
     {
      "id": "1351",
-     "image": "img/kyrgyzstan/1351.webp",
+     "image": "data/img/kyrgyzstan/1351.webp",
      "mapsUrl": "https://goo.gl/maps/2PDqgh7ZqdsJNrxaA",
      "width": 0.573,
      "text": [
@@ -515,7 +515,7 @@
     },
     {
      "id": "pwbe",
-     "image": "img/kyrgyzstan/pwbe.webp",
+     "image": "data/img/kyrgyzstan/pwbe.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -525,7 +525,7 @@
     },
     {
      "id": "6LBj",
-     "image": "img/kyrgyzstan/6LBj.webp",
+     "image": "data/img/kyrgyzstan/6LBj.webp",
      "mapsUrl": "https://goo.gl/maps/EjtbU1CRPj41MDRr6",
      "width": 0.573,
      "text": [
@@ -534,7 +534,7 @@
     },
     {
      "id": "ALSa",
-     "image": "img/kyrgyzstan/ALSa.webp",
+     "image": "data/img/kyrgyzstan/ALSa.webp",
      "mapsUrl": "https://goo.gl/maps/x37bVZSXHnevbMqi6",
      "width": 0.573,
      "text": [
@@ -543,7 +543,7 @@
     },
     {
      "id": "gMAS",
-     "image": "img/kyrgyzstan/gMAS.webp",
+     "image": "data/img/kyrgyzstan/gMAS.webp",
      "mapsUrl": "https://goo.gl/maps/iEFn4jF322ZoHUt4A",
      "width": 0.573,
      "text": [
@@ -552,7 +552,7 @@
     },
     {
      "id": "9gAY",
-     "image": "img/kyrgyzstan/9gAY.webp",
+     "image": "data/img/kyrgyzstan/9gAY.webp",
      "mapsUrl": "https://goo.gl/maps/cmSD26ju7zT554Vq6",
      "width": 0.573,
      "text": [
@@ -561,7 +561,7 @@
     },
     {
      "id": "mPeu",
-     "image": "img/kyrgyzstan/mPeu.webp",
+     "image": "data/img/kyrgyzstan/mPeu.webp",
      "mapsUrl": "https://goo.gl/maps/2CdSzDXQvj9PdXyg8",
      "width": 0.573,
      "text": [
@@ -570,7 +570,7 @@
     },
     {
      "id": "Kmab",
-     "image": "img/kyrgyzstan/Kmab.webp",
+     "image": "data/img/kyrgyzstan/Kmab.webp",
      "mapsUrl": "https://goo.gl/maps/GD3KuMoqhjL91Neu5",
      "width": 0.573,
      "text": [
@@ -579,7 +579,7 @@
     },
     {
      "id": "UCOW",
-     "image": "img/kyrgyzstan/UCOW.webp",
+     "image": "data/img/kyrgyzstan/UCOW.webp",
      "mapsUrl": "https://goo.gl/maps/Ad23Tq2Fo9P6MKrdA",
      "width": 0.573,
      "text": [
@@ -588,7 +588,7 @@
     },
     {
      "id": "oQxZ",
-     "image": "img/kyrgyzstan/oQxZ.webp",
+     "image": "data/img/kyrgyzstan/oQxZ.webp",
      "mapsUrl": "https://goo.gl/maps/35sTwm8RAdMNokMEA",
      "width": 0.573,
      "text": [
@@ -597,7 +597,7 @@
     },
     {
      "id": "KAvq",
-     "image": "img/kyrgyzstan/KAvq.webp",
+     "image": "data/img/kyrgyzstan/KAvq.webp",
      "mapsUrl": "https://goo.gl/maps/JsH5jaXdshkJDCCt6",
      "width": 0.573,
      "text": [
@@ -606,7 +606,7 @@
     },
     {
      "id": "IwHC",
-     "image": "img/kyrgyzstan/IwHC.webp",
+     "image": "data/img/kyrgyzstan/IwHC.webp",
      "mapsUrl": "https://goo.gl/maps/sf17iLfNnLtRr8t16",
      "width": 0.573,
      "text": [
@@ -615,7 +615,7 @@
     },
     {
      "id": "g1EB",
-     "image": "img/kyrgyzstan/g1EB.webp",
+     "image": "data/img/kyrgyzstan/g1EB.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -625,7 +625,7 @@
     },
     {
      "id": "2DrZ",
-     "image": "img/kyrgyzstan/2DrZ.webp",
+     "image": "data/img/kyrgyzstan/2DrZ.webp",
      "mapsUrl": "https://goo.gl/maps/zgKvvSEo1JBzY9Yi8",
      "width": 0.573,
      "text": [
@@ -634,7 +634,7 @@
     },
     {
      "id": "WjWO",
-     "image": "img/kyrgyzstan/WjWO.webp",
+     "image": "data/img/kyrgyzstan/WjWO.webp",
      "mapsUrl": "https://goo.gl/maps/vxvuPh7xs1DBiMGY9",
      "width": 0.573,
      "text": [
@@ -643,7 +643,7 @@
     },
     {
      "id": "sLJC",
-     "image": "img/kyrgyzstan/sLJC.webp",
+     "image": "data/img/kyrgyzstan/sLJC.webp",
      "mapsUrl": "https://goo.gl/maps/6faQDekSZsixJmVBA",
      "width": 0.573,
      "text": [
@@ -653,7 +653,7 @@
     },
     {
      "id": "935k",
-     "image": "img/kyrgyzstan/935k.webp",
+     "image": "data/img/kyrgyzstan/935k.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -663,7 +663,7 @@
     },
     {
      "id": "8Juf",
-     "image": "img/kyrgyzstan/8Juf.webp",
+     "image": "data/img/kyrgyzstan/8Juf.webp",
      "mapsUrl": "https://goo.gl/maps/aRpJvjWNevogpW5a8",
      "width": 0.573,
      "text": [
@@ -673,7 +673,7 @@
     },
     {
      "id": "67Zr",
-     "image": "img/kyrgyzstan/67Zr.webp",
+     "image": "data/img/kyrgyzstan/67Zr.webp",
      "mapsUrl": "https://goo.gl/maps/RXMjGdBB4g6LDMQy7",
      "width": 0.573,
      "text": [
@@ -682,7 +682,7 @@
     },
     {
      "id": "m7Dk",
-     "image": "img/kyrgyzstan/m7Dk.webp",
+     "image": "data/img/kyrgyzstan/m7Dk.webp",
      "mapsUrl": "https://goo.gl/maps/7x9eDzL8BBMKfBLT8",
      "width": 0.573,
      "text": [
@@ -691,7 +691,7 @@
     },
     {
      "id": "7lI0",
-     "image": "img/kyrgyzstan/7lI0.webp",
+     "image": "data/img/kyrgyzstan/7lI0.webp",
      "mapsUrl": "https://goo.gl/maps/coMHCn3EmFSWX7oLA",
      "width": 0.573,
      "text": [
@@ -700,7 +700,7 @@
     },
     {
      "id": "s0B1",
-     "image": "img/kyrgyzstan/s0B1.webp",
+     "image": "data/img/kyrgyzstan/s0B1.webp",
      "mapsUrl": "https://goo.gl/maps/bFpV2h68sRFeqBXAA",
      "width": 0.573,
      "text": [
@@ -709,7 +709,7 @@
     },
     {
      "id": "E42x",
-     "image": "img/kyrgyzstan/E42x.webp",
+     "image": "data/img/kyrgyzstan/E42x.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -719,7 +719,7 @@
     },
     {
      "id": "hr14",
-     "image": "img/kyrgyzstan/hr14.webp",
+     "image": "data/img/kyrgyzstan/hr14.webp",
      "mapsUrl": "https://goo.gl/maps/Suhi3uSvKR4pfNND6",
      "width": 0.573,
      "text": [
@@ -729,7 +729,7 @@
     },
     {
      "id": "tIVh",
-     "image": "img/kyrgyzstan/tIVh.webp",
+     "image": "data/img/kyrgyzstan/tIVh.webp",
      "mapsUrl": "https://goo.gl/maps/xSeR9aFGwDqykyAs6",
      "width": 0.573,
      "text": [
@@ -739,7 +739,7 @@
     },
     {
      "id": "VN05",
-     "image": "img/kyrgyzstan/VN05.webp",
+     "image": "data/img/kyrgyzstan/VN05.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -749,7 +749,7 @@
     },
     {
      "id": "9Vb2",
-     "image": "img/kyrgyzstan/9Vb2.webp",
+     "image": "data/img/kyrgyzstan/9Vb2.webp",
      "mapsUrl": "https://goo.gl/maps/Uj14Jg8tniVbmoXu6",
      "width": 0.573,
      "text": [
@@ -758,7 +758,7 @@
     },
     {
      "id": "Dx0D",
-     "image": "img/kyrgyzstan/Dx0D.webp",
+     "image": "data/img/kyrgyzstan/Dx0D.webp",
      "mapsUrl": "https://goo.gl/maps/1n1UdHGtGykmWLGF9",
      "width": 0.573,
      "text": [
@@ -768,7 +768,7 @@
     },
     {
      "id": "CYYV",
-     "image": "img/kyrgyzstan/CYYV.webp",
+     "image": "data/img/kyrgyzstan/CYYV.webp",
      "mapsUrl": "https://goo.gl/maps/9yWLvn3G5xx86GkH8",
      "width": 0.573,
      "text": [
@@ -777,7 +777,7 @@
     },
     {
      "id": "1pTi",
-     "image": "img/kyrgyzstan/1pTi.webp",
+     "image": "data/img/kyrgyzstan/1pTi.webp",
      "mapsUrl": "https://goo.gl/maps/iZ8Ks4fCy2SguiG49",
      "width": 0.573,
      "text": [
@@ -786,7 +786,7 @@
     },
     {
      "id": "hefH",
-     "image": "img/kyrgyzstan/hefH.webp",
+     "image": "data/img/kyrgyzstan/hefH.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -796,7 +796,7 @@
     },
     {
      "id": "s7aU",
-     "image": "img/kyrgyzstan/s7aU.webp",
+     "image": "data/img/kyrgyzstan/s7aU.webp",
      "mapsUrl": "https://goo.gl/maps/5zKjuwvrQ5eRqXxz9",
      "width": 0.573,
      "text": [
@@ -805,7 +805,7 @@
     },
     {
      "id": "qE8L",
-     "image": "img/kyrgyzstan/qE8L.webp",
+     "image": "data/img/kyrgyzstan/qE8L.webp",
      "mapsUrl": "https://goo.gl/maps/npuo7xZ54yvEbiZq8",
      "width": 0.573,
      "text": [
@@ -814,7 +814,7 @@
     },
     {
      "id": "BIp5",
-     "image": "img/kyrgyzstan/BIp5.webp",
+     "image": "data/img/kyrgyzstan/BIp5.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -824,7 +824,7 @@
     },
     {
      "id": "cLzH",
-     "image": "img/kyrgyzstan/cLzH.webp",
+     "image": "data/img/kyrgyzstan/cLzH.webp",
      "mapsUrl": "https://goo.gl/maps/yj8DH37EZbjejhYr6",
      "width": 0.573,
      "text": [
@@ -834,7 +834,7 @@
     },
     {
      "id": "u5jL",
-     "image": "img/kyrgyzstan/u5jL.webp",
+     "image": "data/img/kyrgyzstan/u5jL.webp",
      "mapsUrl": "https://goo.gl/maps/Fcgam9bbDfLNVWP6A",
      "width": 0.573,
      "text": [
@@ -844,7 +844,7 @@
     },
     {
      "id": "HcN3",
-     "image": "img/kyrgyzstan/HcN3.webp",
+     "image": "data/img/kyrgyzstan/HcN3.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -854,7 +854,7 @@
     },
     {
      "id": "Ql12",
-     "image": "img/kyrgyzstan/Ql12.webp",
+     "image": "data/img/kyrgyzstan/Ql12.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=77.80108317605736&heading=37.83679899912974&map_action=pano&pano=O1svmzmxARmX70GY67y4nA&pitch=6.816902315879233&viewpoint=41.452917%2C72.224167#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -864,7 +864,7 @@
     },
     {
      "id": "Ux5q",
-     "image": "img/kyrgyzstan/Ux5q.webp",
+     "image": "data/img/kyrgyzstan/Ux5q.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=255.60459100666864&map_action=pano&pano=shutufqEFrmTRCQJ7Q5Afw&pitch=-1.9046616095099296&viewpoint=41.518579%2C72.208936#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -874,7 +874,7 @@
     },
     {
      "id": "lmVO",
-     "image": "img/kyrgyzstan/lmVO.webp",
+     "image": "data/img/kyrgyzstan/lmVO.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -884,7 +884,7 @@
     },
     {
      "id": "Gofr",
-     "image": "img/kyrgyzstan/Gofr.webp",
+     "image": "data/img/kyrgyzstan/Gofr.webp",
      "mapsUrl": "https://goo.gl/maps/daGVdSMq2oAsmEdp7",
      "width": 0.573,
      "text": [
@@ -894,7 +894,7 @@
     },
     {
      "id": "7F9z",
-     "image": "img/kyrgyzstan/7F9z.webp",
+     "image": "data/img/kyrgyzstan/7F9z.webp",
      "mapsUrl": "https://goo.gl/maps/PrmVU6p2DaNoCGec8",
      "width": 0.573,
      "text": [
@@ -903,7 +903,7 @@
     },
     {
      "id": "oCfL",
-     "image": "img/kyrgyzstan/oCfL.webp",
+     "image": "data/img/kyrgyzstan/oCfL.webp",
      "mapsUrl": "https://goo.gl/maps/snazjotiFxJAz2Mh9",
      "width": 0.573,
      "text": [
@@ -912,7 +912,7 @@
     },
     {
      "id": "9QxP",
-     "image": "img/kyrgyzstan/9QxP.webp",
+     "image": "data/img/kyrgyzstan/9QxP.webp",
      "mapsUrl": "https://www.google.com/maps/@42.6578112,74.6860516,3a,75y,170.26h,90t/data=!3m6!1e1!3m4!1s_XSkijh_Tag0IzzncaylWw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -921,7 +921,7 @@
     },
     {
      "id": "eBnM",
-     "image": "img/kyrgyzstan/eBnM.webp",
+     "image": "data/img/kyrgyzstan/eBnM.webp",
      "mapsUrl": "https://www.google.com/maps/@42.6578112,74.6860516,3a,75y,170.26h,90t/data=!3m6!1e1!3m4!1s_XSkijh_Tag0IzzncaylWw!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -930,7 +930,7 @@
     },
     {
      "id": "9vpL",
-     "image": "img/kyrgyzstan/9vpL.webp",
+     "image": "data/img/kyrgyzstan/9vpL.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=318.6183659402112&map_action=pano&pano=8owpW0jjRuSinxFSBU9ggg&pitch=0.4227225653269784&viewpoint=42.192924%2C73.948891#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -940,7 +940,7 @@
     },
     {
      "id": "mt5a",
-     "image": "img/kyrgyzstan/mt5a.webp",
+     "image": "data/img/kyrgyzstan/mt5a.webp",
      "mapsUrl": "https://www.google.com/maps/@?api=1&fov=133.1640120049908&heading=322.2761&map_action=pano&pano=TrXQX2EyXb9iSNv3SKkPVQ&pitch=0&viewpoint=42.976095%2C74.447178#extra%5BloadMode%5D=latLng",
      "width": 0.573,
      "text": [
@@ -949,7 +949,7 @@
     },
     {
      "id": "5TyF",
-     "image": "img/kyrgyzstan/5TyF.webp",
+     "image": "data/img/kyrgyzstan/5TyF.webp",
      "mapsUrl": "https://goo.gl/maps/uH9KEtRK7HKEAMQD7",
      "width": 0.573,
      "text": [
@@ -958,7 +958,7 @@
     },
     {
      "id": "D7Jq",
-     "image": "img/kyrgyzstan/D7Jq.webp",
+     "image": "data/img/kyrgyzstan/D7Jq.webp",
      "mapsUrl": "https://goo.gl/maps/QDda9P8n2WNxh5JK7",
      "width": 0.573,
      "text": [
@@ -967,7 +967,7 @@
     },
     {
      "id": "AFqz",
-     "image": "img/kyrgyzstan/AFqz.webp",
+     "image": "data/img/kyrgyzstan/AFqz.webp",
      "mapsUrl": "https://goo.gl/maps/DgDiiAeaWLNCM6z28",
      "width": 0.573,
      "text": [
@@ -977,7 +977,7 @@
     },
     {
      "id": "v0fX",
-     "image": "img/kyrgyzstan/v0fX.webp",
+     "image": "data/img/kyrgyzstan/v0fX.webp",
      "mapsUrl": "https://goo.gl/maps/WoEAi3psunKY6rys9",
      "width": 0.573,
      "text": [
@@ -986,7 +986,7 @@
     },
     {
      "id": "e8Ex",
-     "image": "img/kyrgyzstan/e8Ex.webp",
+     "image": "data/img/kyrgyzstan/e8Ex.webp",
      "mapsUrl": "https://goo.gl/maps/xffnYSZw4FU8MCBBA",
      "width": 0.573,
      "text": [

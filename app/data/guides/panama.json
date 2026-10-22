@@ -3,7 +3,7 @@
  "title": "Panama",
  "code": "PA",
  "continent": "North America",
- "hero": "img/panama/hero.webp",
+ "hero": "data/img/panama/hero.webp",
  "metaCount": 31,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "482T",
-     "image": "img/panama/482T.webp",
+     "image": "data/img/panama/482T.webp",
      "mapsUrl": "#",
      "width": 0.5,
      "text": [
@@ -30,7 +30,7 @@
     },
     {
      "id": "pBEJ",
-     "image": "img/panama/pBEJ.webp",
+     "image": "data/img/panama/pBEJ.webp",
      "mapsUrl": "https://goo.gl/maps/wAUy9vFzP6jNjK31A",
      "width": 0.5,
      "text": [
@@ -40,7 +40,7 @@
     },
     {
      "id": "997w",
-     "image": "img/panama/997w.webp",
+     "image": "data/img/panama/997w.webp",
      "mapsUrl": "https://goo.gl/maps/mxghYG8jVb6Hgbvq5",
      "width": 0.5,
      "text": [
@@ -49,7 +49,7 @@
     },
     {
      "id": "osKk",
-     "image": "img/panama/osKk.webp",
+     "image": "data/img/panama/osKk.webp",
      "mapsUrl": "https://goo.gl/maps/oj7zt58pNoPgEp8K8",
      "width": 0.5,
      "text": [
@@ -58,7 +58,7 @@
     },
     {
      "id": "Pimr",
-     "image": "img/panama/Pimr.webp",
+     "image": "data/img/panama/Pimr.webp",
      "mapsUrl": "https://goo.gl/maps/cEXFmgQg32UswRSG9",
      "width": 0.5,
      "text": [
@@ -67,7 +67,7 @@
     },
     {
      "id": "iKNs",
-     "image": "img/panama/iKNs.webp",
+     "image": "data/img/panama/iKNs.webp",
      "mapsUrl": "https://goo.gl/maps/v5qnArZ7E531Q4v19",
      "width": 0.5,
      "text": [
@@ -76,7 +76,7 @@
     },
     {
      "id": "J34A",
-     "image": "img/panama/J34A.webp",
+     "image": "data/img/panama/J34A.webp",
      "mapsUrl": "https://goo.gl/maps/Lqdhmbem6HJvdX2Q7",
      "width": 0.5,
      "text": [
@@ -85,7 +85,7 @@
     },
     {
      "id": "raPg",
-     "image": "img/panama/raPg.webp",
+     "image": "data/img/panama/raPg.webp",
      "mapsUrl": "https://goo.gl/maps/eXwqy2CCBmp5iGJn8",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "ofuG",
-     "image": "img/panama/ofuG.webp",
+     "image": "data/img/panama/ofuG.webp",
      "mapsUrl": "https://goo.gl/maps/LaAjCE36HSZziiCg8",
      "width": 0.5,
      "text": [
@@ -104,7 +104,7 @@
     },
     {
      "id": "yg2P",
-     "image": "img/panama/yg2P.webp",
+     "image": "data/img/panama/yg2P.webp",
      "mapsUrl": "https://goo.gl/maps/iWGgnMeCtaC2KeYy5",
      "width": 0.5,
      "text": [
@@ -135,7 +135,7 @@
    "metas": [
     {
      "id": "9CVX",
-     "image": "img/panama/9CVX.webp",
+     "image": "data/img/panama/9CVX.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -144,7 +144,7 @@
     },
     {
      "id": "KRgS",
-     "image": "img/panama/KRgS.webp",
+     "image": "data/img/panama/KRgS.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -155,7 +155,7 @@
     },
     {
      "id": "l8aV",
-     "image": "img/panama/l8aV.webp",
+     "image": "data/img/panama/l8aV.webp",
      "mapsUrl": null,
      "width": 0.573,
      "text": [
@@ -165,7 +165,7 @@
     },
     {
      "id": "4bdQ",
-     "image": "img/panama/4bdQ.webp",
+     "image": "data/img/panama/4bdQ.webp",
      "mapsUrl": "https://goo.gl/maps/xeTP9RXkqCJHPtQVA",
      "width": 0.573,
      "text": [
@@ -174,7 +174,7 @@
     },
     {
      "id": "6mS6",
-     "image": "img/panama/6mS6.webp",
+     "image": "data/img/panama/6mS6.webp",
      "mapsUrl": "https://goo.gl/maps/2UwdWeq3ne9XYdST8",
      "width": 0.573,
      "text": [
@@ -183,7 +183,7 @@
     },
     {
      "id": "eSUE",
-     "image": "img/panama/eSUE.webp",
+     "image": "data/img/panama/eSUE.webp",
      "mapsUrl": "https://goo.gl/maps/xZ3EPeQuJDzn4paG9",
      "width": 0.573,
      "text": [
@@ -192,7 +192,7 @@
     },
     {
      "id": "Wv4p",
-     "image": "img/panama/Wv4p.webp",
+     "image": "data/img/panama/Wv4p.webp",
      "mapsUrl": "https://goo.gl/maps/s4RD9WRpQqoTJHXPA",
      "width": 0.573,
      "text": [
@@ -201,7 +201,7 @@
     },
     {
      "id": "kOxw",
-     "image": "img/panama/kOxw.webp",
+     "image": "data/img/panama/kOxw.webp",
      "mapsUrl": "https://goo.gl/maps/yi7z3ui4vv4qy86N8",
      "width": 0.573,
      "text": [
@@ -211,7 +211,7 @@
     },
     {
      "id": "C9an",
-     "image": "img/panama/C9an.webp",
+     "image": "data/img/panama/C9an.webp",
      "mapsUrl": "https://goo.gl/maps/ZddsBP4tzehW1faL6",
      "width": 0.573,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "pi72",
-     "image": "img/panama/pi72.webp",
+     "image": "data/img/panama/pi72.webp",
      "mapsUrl": "https://goo.gl/maps/c16Ro4gVBaG6bR1U9",
      "width": 0.573,
      "text": [
@@ -229,7 +229,7 @@
     },
     {
      "id": "t5yy",
-     "image": "img/panama/t5yy.webp",
+     "image": "data/img/panama/t5yy.webp",
      "mapsUrl": "https://goo.gl/maps/Rigy2UWGfdKTj2Px8",
      "width": 0.573,
      "text": [
@@ -238,7 +238,7 @@
     },
     {
      "id": "Bk95",
-     "image": "img/panama/Bk95.webp",
+     "image": "data/img/panama/Bk95.webp",
      "mapsUrl": "https://goo.gl/maps/z1GPPhxrTVsMSfVv7",
      "width": 0.573,
      "text": [
@@ -247,7 +247,7 @@
     },
     {
      "id": "aiCk",
-     "image": "img/panama/aiCk.webp",
+     "image": "data/img/panama/aiCk.webp",
      "mapsUrl": "https://goo.gl/maps/VR6hqMA8fgzZ9guB8",
      "width": 0.573,
      "text": [
@@ -256,7 +256,7 @@
     },
     {
      "id": "tJB0",
-     "image": "img/panama/tJB0.webp",
+     "image": "data/img/panama/tJB0.webp",
      "mapsUrl": "https://goo.gl/maps/FdYKUneX7Wb42MWYA",
      "width": 0.573,
      "text": [
@@ -265,7 +265,7 @@
     },
     {
      "id": "UMd1",
-     "image": "img/panama/UMd1.webp",
+     "image": "data/img/panama/UMd1.webp",
      "mapsUrl": "https://goo.gl/maps/AEgxDqRbctstA3mq5",
      "width": 0.573,
      "text": [
@@ -283,7 +283,7 @@
    "metas": [
     {
      "id": "zgQt",
-     "image": "img/panama/zgQt.webp",
+     "image": "data/img/panama/zgQt.webp",
      "mapsUrl": "https://goo.gl/maps/dg3jRgrwhNKeHsh49",
      "width": 0.573,
      "text": [
@@ -292,7 +292,7 @@
     },
     {
      "id": "HZUB",
-     "image": "img/panama/HZUB.webp",
+     "image": "data/img/panama/HZUB.webp",
      "mapsUrl": "https://goo.gl/maps/Ug54DTcAf9aw8nCCA",
      "width": 0.573,
      "text": [
@@ -301,7 +301,7 @@
     },
     {
      "id": "uzMg",
-     "image": "img/panama/uzMg.webp",
+     "image": "data/img/panama/uzMg.webp",
      "mapsUrl": "https://www.google.com/maps/@9.4121126,-82.5565031,3a,83.8y,258.62h,91.05t/data=!3m7!1e1!3m5!1sp-bU73xBVkMUSHGbbBbELg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dp-bU73xBVkMUSHGbbBbELg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D93.29357%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu",
      "width": 0.573,
      "text": [
@@ -310,7 +310,7 @@
     },
     {
      "id": "7icB",
-     "image": "img/panama/7icB.webp",
+     "image": "data/img/panama/7icB.webp",
      "mapsUrl": "https://goo.gl/maps/MVJ3m2z8nWphRksQ6",
      "width": 0.573,
      "text": [
@@ -319,7 +319,7 @@
     },
     {
      "id": "rBEB",
-     "image": "img/panama/rBEB.webp",
+     "image": "data/img/panama/rBEB.webp",
      "mapsUrl": "https://goo.gl/maps/Rz1gbtuWRGqezNEt5",
      "width": 0.573,
      "text": [
@@ -328,7 +328,7 @@
     },
     {
      "id": "i550",
-     "image": "img/panama/i550.webp",
+     "image": "data/img/panama/i550.webp",
      "mapsUrl": "https://goo.gl/maps/GQ5q4RLXSAAFzbuy8",
      "width": 0.573,
      "text": [

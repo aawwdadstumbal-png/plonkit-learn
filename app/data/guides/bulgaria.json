@@ -3,7 +3,7 @@
  "title": "Bulgaria",
  "code": "BG",
  "continent": "Europe",
- "hero": "img/bulgaria/hero.webp",
+ "hero": "data/img/bulgaria/hero.webp",
  "metaCount": 32,
  "sections": [
   {
@@ -20,7 +20,7 @@
    "metas": [
     {
      "id": "Cs2I",
-     "image": "img/bulgaria/Cs2I.webp",
+     "image": "data/img/bulgaria/Cs2I.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -29,7 +29,7 @@
     },
     {
      "id": "AxEF",
-     "image": "img/bulgaria/AxEF.webp",
+     "image": "data/img/bulgaria/AxEF.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -39,7 +39,7 @@
     },
     {
      "id": "D7we",
-     "image": "img/bulgaria/D7we.webp",
+     "image": "data/img/bulgaria/D7we.webp",
      "mapsUrl": "https://goo.gl/maps/1SZKSMAPZWHQh7SPA",
      "width": 0.5,
      "text": [
@@ -50,7 +50,7 @@
     },
     {
      "id": "vKm1",
-     "image": "img/bulgaria/vKm1.webp",
+     "image": "data/img/bulgaria/vKm1.webp",
      "mapsUrl": "https://goo.gl/maps/QaSePXgwwueb8rDV8",
      "width": 0.5,
      "text": [
@@ -63,7 +63,7 @@
     },
     {
      "id": "4ipy",
-     "image": "img/bulgaria/4ipy.webp",
+     "image": "data/img/bulgaria/4ipy.webp",
      "mapsUrl": "https://goo.gl/maps/pAmrbB5ToNJh9Y6h8",
      "width": 0.5,
      "text": [
@@ -73,7 +73,7 @@
     },
     {
      "id": "yVXY",
-     "image": "img/bulgaria/yVXY.webp",
+     "image": "data/img/bulgaria/yVXY.webp",
      "mapsUrl": "https://goo.gl/maps/pYbetFaiKUjKetbW9",
      "width": 0.5,
      "text": [
@@ -84,7 +84,7 @@
     },
     {
      "id": "hSvg",
-     "image": "img/bulgaria/hSvg.webp",
+     "image": "data/img/bulgaria/hSvg.webp",
      "mapsUrl": "https://goo.gl/maps/6uioxC1wsJ3ucpPC7",
      "width": 0.5,
      "text": [
@@ -94,7 +94,7 @@
     },
     {
      "id": "dsZv",
-     "image": "img/bulgaria/dsZv.webp",
+     "image": "data/img/bulgaria/dsZv.webp",
      "mapsUrl": "https://goo.gl/maps/JyGHzsdxzpEFMbq36",
      "width": 0.5,
      "text": [
@@ -103,7 +103,7 @@
     },
     {
      "id": "5asz",
-     "image": "img/bulgaria/5asz.webp",
+     "image": "data/img/bulgaria/5asz.webp",
      "mapsUrl": "https://goo.gl/maps/zqyChyyahx7ydA8RA",
      "width": 0.5,
      "text": [
@@ -113,7 +113,7 @@
     },
     {
      "id": "rCxW",
-     "image": "img/bulgaria/rCxW.webp",
+     "image": "data/img/bulgaria/rCxW.webp",
      "mapsUrl": "https://maps.app.goo.gl/XbyL6zM6hm6vM6mH6",
      "width": 0.5,
      "text": [
@@ -123,7 +123,7 @@
     },
     {
      "id": "IGYS",
-     "image": "img/bulgaria/IGYS.webp",
+     "image": "data/img/bulgaria/IGYS.webp",
      "mapsUrl": "https://goo.gl/maps/8S3wjkVHG9bCfMFw9",
      "width": 0.5,
      "text": [
@@ -132,7 +132,7 @@
     },
     {
      "id": "lskQ",
-     "image": "img/bulgaria/lskQ.webp",
+     "image": "data/img/bulgaria/lskQ.webp",
      "mapsUrl": "https://goo.gl/maps/Ya8JD8hzK7d9QvVJ6",
      "width": 0.5,
      "text": [
@@ -141,7 +141,7 @@
     },
     {
      "id": "ZCSx",
-     "image": "img/bulgaria/ZCSx.webp",
+     "image": "data/img/bulgaria/ZCSx.webp",
      "mapsUrl": "https://goo.gl/maps/PUxvkNzoyaQ8GfreA",
      "width": 0.5,
      "text": [
@@ -151,7 +151,7 @@
     },
     {
      "id": "CLGi",
-     "image": "img/bulgaria/CLGi.webp",
+     "image": "data/img/bulgaria/CLGi.webp",
      "mapsUrl": "https://goo.gl/maps/VRc8A31iErrc9nHv6",
      "width": 0.5,
      "text": [
@@ -161,7 +161,7 @@
     },
     {
      "id": "3Rlt",
-     "image": "img/bulgaria/3Rlt.webp",
+     "image": "data/img/bulgaria/3Rlt.webp",
      "mapsUrl": "https://goo.gl/maps/6nK1dEjs41bLrkPt5",
      "width": 0.5,
      "text": [
@@ -170,7 +170,7 @@
     },
     {
      "id": "kOSE",
-     "image": "img/bulgaria/kOSE.webp",
+     "image": "data/img/bulgaria/kOSE.webp",
      "mapsUrl": "https://goo.gl/maps/e1QQSseuYd8JXsHz5",
      "width": 0.5,
      "text": [
@@ -179,7 +179,7 @@
     },
     {
      "id": "AKrj",
-     "image": "img/bulgaria/AKrj.webp",
+     "image": "data/img/bulgaria/AKrj.webp",
      "mapsUrl": "https://goo.gl/maps/C8stkY5y37R4fwLh8",
      "width": 0.5,
      "text": [
@@ -189,7 +189,7 @@
     },
     {
      "id": "QHMB",
-     "image": "img/bulgaria/QHMB.webp",
+     "image": "data/img/bulgaria/QHMB.webp",
      "mapsUrl": "https://goo.gl/maps/rNqLhC5EMQWvNngc8",
      "width": 0.5,
      "text": [
@@ -208,7 +208,7 @@
    "metas": [
     {
      "id": "BcFd",
-     "image": "img/bulgaria/BcFd.webp",
+     "image": "data/img/bulgaria/BcFd.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -220,7 +220,7 @@
     },
     {
      "id": "A9Bj",
-     "image": "img/bulgaria/A9Bj.webp",
+     "image": "data/img/bulgaria/A9Bj.webp",
      "mapsUrl": null,
      "width": 0.5,
      "text": [
@@ -231,7 +231,7 @@
     },
     {
      "id": "yvT6",
-     "image": "img/bulgaria/yvT6.webp",
+     "image": "data/img/bulgaria/yvT6.webp",
      "mapsUrl": "https://maps.app.goo.gl/g86p1KtCqGEdLfYw8",
      "width": 0.573,
      "text": [
@@ -240,7 +240,7 @@
     },
     {
      "id": "LaoB",
-     "image": "img/bulgaria/LaoB.webp",
+     "image": "data/img/bulgaria/LaoB.webp",
      "mapsUrl": "https://goo.gl/maps/cQag2hFLG18aA5jU9",
      "width": 0.573,
      "text": [
@@ -249,7 +249,7 @@
     },
     {
      "id": "h4Uc",
-     "image": "img/bulgaria/h4Uc.webp",
+     "image": "data/img/bulgaria/h4Uc.webp",
      "mapsUrl": "https://goo.gl/maps/fSnq1HwBjEvs1s9T9",
      "width": 0.573,
      "text": [
@@ -258,7 +258,7 @@
     },
     {
      "id": "GRh6",
-     "image": "img/bulgaria/GRh6.webp",
+     "image": "data/img/bulgaria/GRh6.webp",
      "mapsUrl": "https://goo.gl/maps/cUzGAUbyedPcLx6Q8",
      "width": 0.573,
      "text": [
@@ -267,7 +267,7 @@
     },
     {
      "id": "BUpU",
-     "image": "img/bulgaria/BUpU.webp",
+     "image": "data/img/bulgaria/BUpU.webp",
      "mapsUrl": "https://maps.app.goo.gl/QErjzKasVUR8cnD99",
      "width": 0.573,
      "text": [
@@ -277,7 +277,7 @@
     },
     {
      "id": "bVxa",
-     "image": "img/bulgaria/bVxa.webp",
+     "image": "data/img/bulgaria/bVxa.webp",
      "mapsUrl": "https://www.google.com/maps/@43.234917,26.1228177,3a,15y,320.23h,57.95t/data=!3m6!1e1!3m4!1sjwsehkuyf70YOp3e7djZaQ!2e0!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -287,7 +287,7 @@
     },
     {
      "id": "Ml2y",
-     "image": "img/bulgaria/Ml2y.webp",
+     "image": "data/img/bulgaria/Ml2y.webp",
      "mapsUrl": "https://goo.gl/maps/swcuJu784uGN4iyB7",
      "width": 0.573,
      "text": [
@@ -297,7 +297,7 @@
     },
     {
      "id": "pclm",
-     "image": "img/bulgaria/pclm.webp",
+     "image": "data/img/bulgaria/pclm.webp",
      "mapsUrl": "https://www.google.com/maps/@43.0891502,27.6152412,3a,15y,90.66h,56.67t/data=!3m7!1e1!3m5!1sEwHSdvSMaP6v_pK_aGgsOQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEwHSdvSMaP6v_pK_aGgsOQ%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D177.15912%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656?entry=ttu",
      "width": 0.573,
      "text": [
@@ -315,7 +315,7 @@
    "metas": [
     {
      "id": "mr8t",
-     "image": "img/bulgaria/mr8t.webp",
+     "image": "data/img/bulgaria/mr8t.webp",
      "mapsUrl": "https://goo.gl/maps/gGEYWqem5Z12PCNMA",
      "width": 0.573,
      "text": [
@@ -324,7 +324,7 @@
     },
     {
      "id": "dPl7",
-     "image": "img/bulgaria/dPl7.webp",
+     "image": "data/img/bulgaria/dPl7.webp",
      "mapsUrl": "https://goo.gl/maps/gg6RZNrzZL3ZHq1Y7",
      "width": 0.573,
      "text": [
@@ -333,7 +333,7 @@
     },
     {
      "id": "7hxS",
-     "image": "img/bulgaria/7hxS.webp",
+     "image": "data/img/bulgaria/7hxS.webp",
      "mapsUrl": "https://goo.gl/maps/TWKjmMoerGy4Zv3s9",
      "width": 0.573,
      "text": [
@@ -343,7 +343,7 @@
     },
     {
      "id": "sB8m",
-     "image": "img/bulgaria/sB8m.webp",
+     "image": "data/img/bulgaria/sB8m.webp",
      "mapsUrl": "https://goo.gl/maps/WDJxmk13J2t7MqjB6",
      "width": 0.573,
      "text": [
