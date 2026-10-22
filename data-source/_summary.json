@@ -1,0 +1,838 @@
+{
+ "per_country": {
+  "united-states": {
+   "title": "United States of America",
+   "steps": 4,
+   "tips": 177,
+   "imgs": 336
+  },
+  "botswana": {
+   "title": "Botswana",
+   "steps": 4,
+   "tips": 36,
+   "imgs": 70
+  },
+  "egypt": {
+   "title": "Egypt",
+   "steps": 4,
+   "tips": 13,
+   "imgs": 26
+  },
+  "eswatini": {
+   "title": "Eswatini",
+   "steps": 3,
+   "tips": 17,
+   "imgs": 34
+  },
+  "ghana": {
+   "title": "Ghana",
+   "steps": 4,
+   "tips": 28,
+   "imgs": 54
+  },
+  "kenya": {
+   "title": "Kenya",
+   "steps": 4,
+   "tips": 42,
+   "imgs": 81
+  },
+  "lesotho": {
+   "title": "Lesotho",
+   "steps": 3,
+   "tips": 21,
+   "imgs": 41
+  },
+  "madagascar": {
+   "title": "Madagascar",
+   "steps": 3,
+   "tips": 52,
+   "imgs": 103
+  },
+  "mali": {
+   "title": "Mali",
+   "steps": 3,
+   "tips": 23,
+   "imgs": 46
+  },
+  "namibia": {
+   "title": "Namibia",
+   "steps": 4,
+   "tips": 80,
+   "imgs": 155
+  },
+  "reunion": {
+   "title": "Reunion",
+   "steps": 4,
+   "tips": 14,
+   "imgs": 26
+  },
+  "sao-tome-and-principe": {
+   "title": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+   "steps": 3,
+   "tips": 12,
+   "imgs": 24
+  },
+  "senegal": {
+   "title": "Senegal",
+   "steps": 4,
+   "tips": 31,
+   "imgs": 60
+  },
+  "south-africa": {
+   "title": "South Africa",
+   "steps": 4,
+   "tips": 45,
+   "imgs": 87
+  },
+  "tanzania": {
+   "title": "Tanzania",
+   "steps": 2,
+   "tips": 8,
+   "imgs": 16
+  },
+  "tunisia": {
+   "title": "Tunisia",
+   "steps": 3,
+   "tips": 29,
+   "imgs": 54
+  },
+  "nigeria": {
+   "title": "Nigeria",
+   "steps": 4,
+   "tips": 29,
+   "imgs": 52
+  },
+  "uganda": {
+   "title": "Uganda",
+   "steps": 4,
+   "tips": 28,
+   "imgs": 54
+  },
+  "antarctica": {
+   "title": "Antarctica",
+   "steps": 2,
+   "tips": 20,
+   "imgs": 41
+  },
+  "south-georgia-sandwich-islands": {
+   "title": "South Georgia & Sandwich Islands",
+   "steps": 2,
+   "tips": 6,
+   "imgs": 13
+  },
+  "american-samoa": {
+   "title": "American Samoa",
+   "steps": 3,
+   "tips": 7,
+   "imgs": 14
+  },
+  "christmas-island": {
+   "title": "Christmas Island",
+   "steps": 3,
+   "tips": 13,
+   "imgs": 25
+  },
+  "cocos-islands": {
+   "title": "Cocos Islands",
+   "steps": 3,
+   "tips": 12,
+   "imgs": 24
+  },
+  "guam": {
+   "title": "Guam",
+   "steps": 3,
+   "tips": 12,
+   "imgs": 24
+  },
+  "northern-mariana-islands": {
+   "title": "Northern Mariana Islands",
+   "steps": 3,
+   "tips": 11,
+   "imgs": 22
+  },
+  "australia": {
+   "title": "Australia",
+   "steps": 4,
+   "tips": 74,
+   "imgs": 144
+  },
+  "pitcairn-islands": {
+   "title": "Pitcairn Islands",
+   "steps": 3,
+   "tips": 8,
+   "imgs": 16
+  },
+  "vanuatu": {
+   "title": "Vanuatu",
+   "steps": 2,
+   "tips": 11,
+   "imgs": 21
+  },
+  "new-zealand": {
+   "title": "New Zealand",
+   "steps": 4,
+   "tips": 74,
+   "imgs": 142
+  },
+  "argentina": {
+   "title": "Argentina",
+   "steps": 4,
+   "tips": 57,
+   "imgs": 113
+  },
+  "bolivia": {
+   "title": "Bolivia",
+   "steps": 4,
+   "tips": 59,
+   "imgs": 117
+  },
+  "chile": {
+   "title": "Chile",
+   "steps": 4,
+   "tips": 64,
+   "imgs": 126
+  },
+  "brazil": {
+   "title": "Brazil",
+   "steps": 4,
+   "tips": 104,
+   "imgs": 196
+  },
+  "curacao": {
+   "title": "Cura\u00e7ao",
+   "steps": 3,
+   "tips": 13,
+   "imgs": 25
+  },
+  "colombia": {
+   "title": "Colombia",
+   "steps": 4,
+   "tips": 23,
+   "imgs": 45
+  },
+  "falkland-islands": {
+   "title": "Falkland Islands",
+   "steps": 2,
+   "tips": 7,
+   "imgs": 15
+  },
+  "ecuador": {
+   "title": "Ecuador",
+   "steps": 3,
+   "tips": 32,
+   "imgs": 60
+  },
+  "peru": {
+   "title": "Peru",
+   "steps": 4,
+   "tips": 66,
+   "imgs": 129
+  },
+  "uruguay": {
+   "title": "Uruguay",
+   "steps": 4,
+   "tips": 31,
+   "imgs": 60
+  },
+  "bermuda": {
+   "title": "Bermuda",
+   "steps": 3,
+   "tips": 13,
+   "imgs": 25
+  },
+  "alaska": {
+   "title": "Alaska",
+   "steps": 3,
+   "tips": 25,
+   "imgs": 50
+  },
+  "dominican-republic": {
+   "title": "Dominican Republic",
+   "steps": 3,
+   "tips": 13,
+   "imgs": 25
+  },
+  "costa-rica": {
+   "title": "Costa Rica",
+   "steps": 4,
+   "tips": 83,
+   "imgs": 160
+  },
+  "martinique": {
+   "title": "Martinique",
+   "steps": 2,
+   "tips": 4,
+   "imgs": 9
+  },
+  "guatemala": {
+   "title": "Guatemala",
+   "steps": 3,
+   "tips": 28,
+   "imgs": 53
+  },
+  "hawaii": {
+   "title": "Hawaii",
+   "steps": 3,
+   "tips": 32,
+   "imgs": 64
+  },
+  "puerto-rico": {
+   "title": "Puerto Rico",
+   "steps": 3,
+   "tips": 18,
+   "imgs": 36
+  },
+  "saint-pierre-and-miquelon": {
+   "title": "Saint Pierre and Miquelon",
+   "steps": 3,
+   "tips": 12,
+   "imgs": 23
+  },
+  "us-minor-outlying-islands": {
+   "title": "US Minor Outlying Islands",
+   "steps": 3,
+   "tips": 15,
+   "imgs": 29
+  },
+  "panama": {
+   "title": "Panama",
+   "steps": 4,
+   "tips": 31,
+   "imgs": 60
+  },
+  "canada": {
+   "title": "Canada",
+   "steps": 4,
+   "tips": 102,
+   "imgs": 199
+  },
+  "us-virgin-islands": {
+   "title": "US Virgin Islands",
+   "steps": 3,
+   "tips": 10,
+   "imgs": 19
+  },
+  "greenland": {
+   "title": "Greenland",
+   "steps": 4,
+   "tips": 52,
+   "imgs": 103
+  },
+  "british-indian-ocean-territory": {
+   "title": "British Indian Ocean Territory",
+   "steps": 2,
+   "tips": 10,
+   "imgs": 20
+  },
+  "bhutan": {
+   "title": "Bhutan",
+   "steps": 3,
+   "tips": 21,
+   "imgs": 40
+  },
+  "china": {
+   "title": "China",
+   "steps": 4,
+   "tips": 16,
+   "imgs": 30
+  },
+  "bangladesh": {
+   "title": "Bangladesh",
+   "steps": 4,
+   "tips": 44,
+   "imgs": 87
+  },
+  "iraq": {
+   "title": "Iraq",
+   "steps": 1,
+   "tips": 5,
+   "imgs": 11
+  },
+  "cambodia": {
+   "title": "Cambodia",
+   "steps": 4,
+   "tips": 41,
+   "imgs": 77
+  },
+  "hong-kong": {
+   "title": "Hong Kong",
+   "steps": 4,
+   "tips": 44,
+   "imgs": 85
+  },
+  "jordan": {
+   "title": "Jordan",
+   "steps": 3,
+   "tips": 25,
+   "imgs": 48
+  },
+  "laos": {
+   "title": "Laos",
+   "steps": 2,
+   "tips": 27,
+   "imgs": 52
+  },
+  "israel-west-bank": {
+   "title": "Israel & the West Bank",
+   "steps": 4,
+   "tips": 64,
+   "imgs": 127
+  },
+  "kazakhstan": {
+   "title": "Kazakhstan",
+   "steps": 4,
+   "tips": 56,
+   "imgs": 99
+  },
+  "japan": {
+   "title": "Japan",
+   "steps": 4,
+   "tips": 82,
+   "imgs": 156
+  },
+  "kyrgyzstan": {
+   "title": "Kyrgyzstan",
+   "steps": 4,
+   "tips": 91,
+   "imgs": 168
+  },
+  "macau": {
+   "title": "Macau",
+   "steps": 3,
+   "tips": 11,
+   "imgs": 22
+  },
+  "malaysia": {
+   "title": "Malaysia",
+   "steps": 4,
+   "tips": 32,
+   "imgs": 62
+  },
+  "singapore": {
+   "title": "Singapore",
+   "steps": 3,
+   "tips": 17,
+   "imgs": 34
+  },
+  "pakistan": {
+   "title": "Pakistan",
+   "steps": 2,
+   "tips": 25,
+   "imgs": 49
+  },
+  "south-korea": {
+   "title": "South Korea",
+   "steps": 3,
+   "tips": 27,
+   "imgs": 52
+  },
+  "qatar": {
+   "title": "Qatar",
+   "steps": 3,
+   "tips": 28,
+   "imgs": 55
+  },
+  "philippines": {
+   "title": "Philippines",
+   "steps": 4,
+   "tips": 47,
+   "imgs": 91
+  },
+  "sri-lanka": {
+   "title": "Sri Lanka",
+   "steps": 4,
+   "tips": 25,
+   "imgs": 44
+  },
+  "mongolia": {
+   "title": "Mongolia",
+   "steps": 4,
+   "tips": 83,
+   "imgs": 159
+  },
+  "oman": {
+   "title": "Oman",
+   "steps": 4,
+   "tips": 70,
+   "imgs": 137
+  },
+  "united-arab-emirates": {
+   "title": "United Arab Emirates",
+   "steps": 3,
+   "tips": 24,
+   "imgs": 47
+  },
+  "nepal": {
+   "title": "Nepal",
+   "steps": 4,
+   "tips": 84,
+   "imgs": 164
+  },
+  "taiwan": {
+   "title": "Taiwan",
+   "steps": 4,
+   "tips": 56,
+   "imgs": 107
+  },
+  "turkey": {
+   "title": "Turkey",
+   "steps": 4,
+   "tips": 64,
+   "imgs": 127
+  },
+  "thailand": {
+   "title": "Thailand",
+   "steps": 4,
+   "tips": 84,
+   "imgs": 166
+  },
+  "andorra": {
+   "title": "Andorra",
+   "steps": 2,
+   "tips": 16,
+   "imgs": 31
+  },
+  "belarus": {
+   "title": "Belarus",
+   "steps": 1,
+   "tips": 6,
+   "imgs": 11
+  },
+  "azores": {
+   "title": "Azores",
+   "steps": 3,
+   "tips": 16,
+   "imgs": 33
+  },
+  "albania": {
+   "title": "Albania",
+   "steps": 4,
+   "tips": 35,
+   "imgs": 67
+  },
+  "austria": {
+   "title": "Austria",
+   "steps": 3,
+   "tips": 39,
+   "imgs": 70
+  },
+  "croatia": {
+   "title": "Croatia",
+   "steps": 4,
+   "tips": 33,
+   "imgs": 64
+  },
+  "bulgaria": {
+   "title": "Bulgaria",
+   "steps": 3,
+   "tips": 32,
+   "imgs": 61
+  },
+  "denmark": {
+   "title": "Denmark",
+   "steps": 3,
+   "tips": 32,
+   "imgs": 58
+  },
+  "estonia": {
+   "title": "Estonia",
+   "steps": 3,
+   "tips": 25,
+   "imgs": 48
+  },
+  "czechia": {
+   "title": "Czechia",
+   "steps": 4,
+   "tips": 60,
+   "imgs": 117
+  },
+  "faroe-islands": {
+   "title": "Faroe Islands",
+   "steps": 3,
+   "tips": 19,
+   "imgs": 38
+  },
+  "gibraltar": {
+   "title": "Gibraltar",
+   "steps": 2,
+   "tips": 10,
+   "imgs": 20
+  },
+  "finland": {
+   "title": "Finland",
+   "steps": 4,
+   "tips": 53,
+   "imgs": 103
+  },
+  "hungary": {
+   "title": "Hungary",
+   "steps": 4,
+   "tips": 28,
+   "imgs": 51
+  },
+  "greece": {
+   "title": "Greece",
+   "steps": 3,
+   "tips": 35,
+   "imgs": 68
+  },
+  "iceland": {
+   "title": "Iceland",
+   "steps": 4,
+   "tips": 30,
+   "imgs": 56
+  },
+  "germany": {
+   "title": "Germany",
+   "steps": 4,
+   "tips": 71,
+   "imgs": 128
+  },
+  "france": {
+   "title": "France",
+   "steps": 4,
+   "tips": 92,
+   "imgs": 176
+  },
+  "cyprus": {
+   "title": "Cyprus",
+   "steps": 4,
+   "tips": 34,
+   "imgs": 63
+  },
+  "isle-of-man": {
+   "title": "Isle of Man",
+   "steps": 4,
+   "tips": 21,
+   "imgs": 40
+  },
+  "ireland": {
+   "title": "Ireland",
+   "steps": 3,
+   "tips": 27,
+   "imgs": 52
+  },
+  "jersey": {
+   "title": "Jersey",
+   "steps": 3,
+   "tips": 19,
+   "imgs": 36
+  },
+  "latvia": {
+   "title": "Latvia",
+   "steps": 3,
+   "tips": 18,
+   "imgs": 35
+  },
+  "liechtenstein": {
+   "title": "Liechtenstein",
+   "steps": 3,
+   "tips": 27,
+   "imgs": 55
+  },
+  "lithuania": {
+   "title": "Lithuania",
+   "steps": 3,
+   "tips": 25,
+   "imgs": 47
+  },
+  "luxembourg": {
+   "title": "Luxembourg",
+   "steps": 3,
+   "tips": 21,
+   "imgs": 40
+  },
+  "italy": {
+   "title": "Italy",
+   "steps": 4,
+   "tips": 52,
+   "imgs": 101
+  },
+  "monaco": {
+   "title": "Monaco",
+   "steps": 2,
+   "tips": 8,
+   "imgs": 15
+  },
+  "malta": {
+   "title": "Malta",
+   "steps": 3,
+   "tips": 15,
+   "imgs": 29
+  },
+  "montenegro": {
+   "title": "Montenegro",
+   "steps": 4,
+   "tips": 20,
+   "imgs": 40
+  },
+  "madeira": {
+   "title": "Madeira",
+   "steps": 3,
+   "tips": 32,
+   "imgs": 65
+  },
+  "north-macedonia": {
+   "title": "North Macedonia",
+   "steps": 4,
+   "tips": 25,
+   "imgs": 47
+  },
+  "poland": {
+   "title": "Poland",
+   "steps": 4,
+   "tips": 37,
+   "imgs": 69
+  },
+  "netherlands": {
+   "title": "Netherlands",
+   "steps": 4,
+   "tips": 52,
+   "imgs": 101
+  },
+  "portugal": {
+   "title": "Portugal",
+   "steps": 4,
+   "tips": 35,
+   "imgs": 68
+  },
+  "norway": {
+   "title": "Norway",
+   "steps": 4,
+   "tips": 55,
+   "imgs": 109
+  },
+  "india": {
+   "title": "India",
+   "steps": 4,
+   "tips": 104,
+   "imgs": 193
+  },
+  "mexico": {
+   "title": "Mexico",
+   "steps": 4,
+   "tips": 97,
+   "imgs": 190
+  },
+  "san-marino": {
+   "title": "San Marino",
+   "steps": 3,
+   "tips": 10,
+   "imgs": 20
+  },
+  "serbia": {
+   "title": "Serbia",
+   "steps": 3,
+   "tips": 21,
+   "imgs": 38
+  },
+  "romania": {
+   "title": "Romania",
+   "steps": 4,
+   "tips": 36,
+   "imgs": 69
+  },
+  "slovenia": {
+   "title": "Slovenia",
+   "steps": 3,
+   "tips": 24,
+   "imgs": 48
+  },
+  "svalbard": {
+   "title": "Svalbard",
+   "steps": 3,
+   "tips": 14,
+   "imgs": 28
+  },
+  "slovakia": {
+   "title": "Slovakia",
+   "steps": 3,
+   "tips": 53,
+   "imgs": 104
+  },
+  "switzerland": {
+   "title": "Switzerland",
+   "steps": 4,
+   "tips": 41,
+   "imgs": 76
+  },
+  "ukraine": {
+   "title": "Ukraine",
+   "steps": 4,
+   "tips": 44,
+   "imgs": 83
+  },
+  "russia": {
+   "title": "Russia",
+   "steps": 4,
+   "tips": 125,
+   "imgs": 227
+  },
+  "united-kingdom": {
+   "title": "United Kingdom",
+   "steps": 4,
+   "tips": 53,
+   "imgs": 100
+  },
+  "spain": {
+   "title": "Spain",
+   "steps": 4,
+   "tips": 120,
+   "imgs": 229
+  },
+  "sweden": {
+   "title": "Sweden",
+   "steps": 4,
+   "tips": 121,
+   "imgs": 237
+  },
+  "spillover-countries": {
+   "title": "Spillover countries",
+   "steps": 4,
+   "tips": 14,
+   "imgs": 27
+  },
+  "indonesia": {
+   "title": "Indonesia",
+   "steps": 4,
+   "tips": 59,
+   "imgs": 113
+  },
+  "beginners-guide": {
+   "title": "Beginner's Guide to Geoguessr",
+   "steps": 5,
+   "tips": 0,
+   "imgs": 3
+  },
+  "middle-earth": {
+   "title": "Middle Earth",
+   "steps": 3,
+   "tips": 27,
+   "imgs": 52
+  },
+  "belgium": {
+   "title": "Belgium",
+   "steps": 4,
+   "tips": 37,
+   "imgs": 72
+  },
+  "rwanda": {
+   "title": "Rwanda",
+   "steps": 4,
+   "tips": 32,
+   "imgs": 61
+  },
+  "lebanon": {
+   "title": "Lebanon",
+   "steps": 4,
+   "tips": 25,
+   "imgs": 47
+  },
+  "vietnam": {
+   "title": "Vietnam",
+   "steps": 4,
+   "tips": 61,
+   "imgs": 117
+  }
+ }
+}
