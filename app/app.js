@@ -41,7 +41,21 @@ const router = createRouter({
       : null;
 
     if (!handler) {
+      // An address that matches nothing must say so, not render a blank page.
       container.textContent = '';
+      const box = document.createElement('div');
+      box.className = 'card';
+      const heading = document.createElement('h2');
+      heading.textContent = 'Nothing here';
+      const detail = document.createElement('p');
+      detail.className = 'muted';
+      detail.textContent = 'That address does not match anything in the app.';
+      const back = document.createElement('a');
+      back.className = 'btn';
+      back.href = '#/';
+      back.textContent = 'Back to the countries';
+      box.append(heading, detail, back);
+      container.append(box);
       return;
     }
     Promise.resolve(handler(params)).catch((error) => {

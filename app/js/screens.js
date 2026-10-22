@@ -293,14 +293,28 @@ export function createScreens({ store, data, router, container }) {
 
     const sectionList = el('div', { className: 'section-list' });
     for (const section of guide.sections || []) {
-      const count = (section.metas || []).length;
+      const metas = section.metas || [];
+      const count = metas.length;
+      if (!count) {
+        // A maps section has no metas, so it is a label rather than a link,
+        // and its text is shown underneath.
+        sectionList.appendChild(
+          el('div', { className: 'card' }, [
+            el('div', { className: 'row' }, [
+              el('span', { className: 'grow', text: section.title || 'Section' }),
+              el('span', { className: 'chip', text: 'maps' }),
+            ]),
+            el('div', { className: 'meta-text small' }, [
+              ...(section.text || []).map((paragraph) => el('p', { html: renderMarkdown(paragraph) })),
+            ]),
+          ]),
+        );
+        continue;
+      }
       sectionList.appendChild(
-        el('a', { className: 'section-link', href: '#/meta/' + slug + '/' + (section.metas[0]?.id || '') }, [
+        el('a', { className: 'section-link', href: `#/meta/${slug}/${metas[0].id}` }, [
           el('span', { className: 'grow', text: section.title || 'Section' }),
-          el('span', {
-            className: 'chip',
-            text: section.kind === 'map' ? 'maps' : `${count} metas`,
-          }),
+          el('span', { className: 'chip', text: `${count} metas` }),
         ]),
       );
     }
