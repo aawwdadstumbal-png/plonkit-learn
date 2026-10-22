@@ -1,0 +1,325 @@
+{
+ "slug": "ghana",
+ "title": "Ghana",
+ "code": "GH",
+ "continent": "Africa",
+ "hero": "img/ghana/hero.webp",
+ "metaCount": 28,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Ghana",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/ghana/Ghana_summary_image.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "3ug2",
+     "image": "img/ghana/3ug2.webp",
+     "mapsUrl": "https://www.google.com/maps/@9.0744935,-0.543021,3a,90y,75.07h,1t/data=!3m6!1e1!3m4!1sBaBOs3o6j3Y5RFFns4wPHA!2e0!7i13312!8i6656",
+     "width": 0.5,
+     "text": [
+      "All regular road** generation 3** coverage in Ghana was made with a unique Google car. It has a visible roof rack with a piece of **black tape** on the right end of the front bar. In addition, the hood of the car is usually visible, showing a street view car wrapping that features a **red rectangle** and some other recognizable elements. Normally, this unique car is all you need to identify Ghana.",
+      "NOTE: Several natural reserves were covered with different unique cars."
+     ]
+    },
+    {
+     "id": "bJXr",
+     "image": "img/ghana/bJXr.webp",
+     "mapsUrl": "https://maps.app.goo.gl/JzS7S9F9MBAjqBSj9",
+     "width": 0.5,
+     "text": [
+      "Generation 4 coverage in Ghana was taken using a **grey** or white **pickup truck** with an antenna in the front. The truck will be either fully or partially **blurred **most of the time."
+     ]
+    },
+    {
+     "id": "dAJp",
+     "image": "img/ghana/dAJp.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Ghana uses **white** plates on normal vehicles, and **yellow** plates for commercial vehicles. They can be long or short. Because commercial vehicles are really common, you will often see a mix of both plate colours.",
+      "NOTE: Nigeria has similar white plates, but a green tint should be visible, which helps differentiate them."
+     ]
+    },
+    {
+     "id": "4IA8",
+     "image": "img/ghana/4IA8.webp",
+     "mapsUrl": "https://maps.app.goo.gl/TegdzZwbULciynS3A",
+     "width": 0.5,
+     "text": [
+      "Ghana is mostly flat with **red soil**, however hills and mountains can be seen in some regions. **Tropical **vegetation is very common, and palms are common especially toward the south."
+     ]
+    },
+    {
+     "id": "EktN",
+     "image": "img/ghana/EktN.webp",
+     "mapsUrl": "https://maps.app.goo.gl/S4SSsQVFHfs9xfDw9",
+     "width": 0.5,
+     "text": [
+      "Taxis in Ghana typically have **multicoloured** body panels. The fenders and quarter panels are always coloured orange-yellow."
+     ]
+    },
+    {
+     "id": "Tx1K",
+     "image": "img/ghana/Tx1K.webp",
+     "mapsUrl": "https://maps.app.goo.gl/f6FtUCcy6FYMUPfT7",
+     "width": 0.5,
+     "text": [
+      "Road lines in Ghana are **always white**. However, many paved roads do not have road lines at all."
+     ]
+    },
+    {
+     "id": "m5GG",
+     "image": "img/ghana/m5GG.webp",
+     "mapsUrl": "https://maps.app.goo.gl/ecidTYLA7AwMhzVS7",
+     "width": 0.5,
+     "text": [
+      "Ghana typically uses **wooden **poles with **3 insulators** on a metallic crossbar.",
+      "NOTE: Kenya has a similar [pole](https://maps.app.goo.gl/Wn9yQGnjHhFSLjG37)."
+     ]
+    },
+    {
+     "id": "trbc",
+     "image": "img/ghana/trbc.webp",
+     "mapsUrl": "https://maps.app.goo.gl/qNESZkrxf2YwmmGg6",
+     "width": 0.5,
+     "text": [
+      "Ghana is a patriotic** **country, and you can often see things painted in the national **flag’s colours**: red, yellow, green, and sometimes including the black star."
+     ]
+    },
+    {
+     "id": "sHFU",
+     "image": "img/ghana/sHFU.webp",
+     "mapsUrl": "https://maps.app.goo.gl/VgivW3YAcX7GxYn96",
+     "width": 0.5,
+     "text": [
+      "**Black and white **striped signposts in Ghana are typically seen in cities. On rural roads, you will mostly see classic, non-painted, metal signposts.",
+      "NOTE: Black and white signposts can be seen in other countries as well. Make sure to look at other clues before guessing."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "hLru",
+     "image": "img/ghana/hLru.webp",
+     "mapsUrl": "/images/ghana/Coverage_map.png",
+     "width": 0.573,
+     "text": [
+      "The coverage in Ghana is **limited **and easy to memorize, as most of it was taken on its main roads and in major cities. The most dense coverage is located in the south, around the cities of Accra and Kumasi."
+     ]
+    },
+    {
+     "id": "Grzs",
+     "image": "img/ghana/Grzs.webp",
+     "mapsUrl": "#",
+     "width": 0.573,
+     "text": [
+      "The majority of generation 4 coverage is close to Accra or Kumasi, with only a few major roads being covered. "
+     ]
+    },
+    {
+     "id": "Kg6Q",
+     "image": "img/ghana/Kg6Q.webp",
+     "mapsUrl": "#",
+     "width": 0.5,
+     "text": [
+      "This map shows the distribution of **paved and unpaved roads** across the country.",
+      "_You can click on the image to enlarge it._"
+     ]
+    },
+    {
+     "id": "H3ol",
+     "image": "img/ghana/H3ol.webp",
+     "mapsUrl": null,
+     "width": 0.573,
+     "text": [
+      "Ghana features 3 distinct types of tape on the google car:",
+      "In the southwest, you can find the ‘[unpeeled tape](https://www.google.com/maps/@5.0031389,-2.025501,3a,17.5y,227.34h,35.62t/data=!3m6!1e1!3m4!1s62SoTE21Q6VCvYwLPIrzhA!2e0!7i13312!8i6656)’, which is essentially a mostly **intact tape**, which is not peeling off.",
+      "In the east and north, you can find the ‘[peeled tape](https://goo.gl/maps/aCFqaQwVS6q6zmqh7)’, which unlike the ‘unpeeled tape’, is slightly **peeled off**.",
+      "North of Kumasi, and west of Tamale, you can find this ‘[scotched tape](https://goo.gl/maps/zZadCxUZeGzku5QS8)’, which has two distinct **white spots** on the left side of the tape."
+     ]
+    },
+    {
+     "id": "JppT",
+     "image": "img/ghana/JppT.webp",
+     "mapsUrl": "https://goo.gl/maps/E5cAKDLqceU34jPS8",
+     "width": 0.573,
+     "text": [
+      "Northern Ghana features a **savannah** landscape, which can be identified by its dry soil and less dense vegetation."
+     ]
+    },
+    {
+     "id": "VFa6",
+     "image": "img/ghana/VFa6.webp",
+     "mapsUrl": "https://goo.gl/maps/LqK7jGHJ4kkT66qQ6",
+     "width": 0.573,
+     "text": [
+      "**Tall mountain ranges **in Ghana are typically seen near Lake Volta in the highlighted area.",
+      "NOTE: Mountain ranges to the east are more common in the area near Togo."
+     ]
+    },
+    {
+     "id": "7ooz",
+     "image": "img/ghana/7ooz.webp",
+     "mapsUrl": "https://goo.gl/maps/mMYk8eKtAnfVxZfh6",
+     "width": 0.573,
+     "text": [
+      "**Dense forests** in Ghana are typically found in the southwest and east. You will usually see many naturally occurring palm** **trees, making the two regions recognizable."
+     ]
+    },
+    {
+     "id": "H4D5",
+     "image": "img/ghana/H4D5.webp",
+     "mapsUrl": "https://www.google.com/maps/@5.0732971,-2.6641149,3a,90y,91.63h,88.96t/data=!3m6!1e1!3m4!1s2ng2SGIgsfRYZurS_23lBg!2e0!7i13312!8i6656",
+     "width": 0.573,
+     "text": [
+      "**Tall palm trees** are commonly found** **along the coast. Most of them are located in the west."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "divider",
+     "title": "Rare Google cars"
+    }
+   ],
+   "metas": [
+    {
+     "id": "74In",
+     "image": "img/ghana/74In.webp",
+     "mapsUrl": "https://goo.gl/maps/6tcWbDbUiSGjNixp9",
+     "width": 0.573,
+     "text": [
+      "Most **unpaved roads** in a **dry savannah** landscape are found north of Wa, as well as near the town itself.",
+      "NOTE: The other unpaved roads in northern Ghana are the Yendi-Nkwanta road in the east, and part of the Salaga-Tamale road, which has very distinct soil. See the tips below."
+     ]
+    },
+    {
+     "id": "lK0K",
+     "image": "img/ghana/lK0K.webp",
+     "mapsUrl": "https://goo.gl/maps/i4ePJww9zLA7ZtbY6",
+     "width": 0.573,
+     "text": [
+      "The road connecting the town of Sawla with the N10 has very crisp,** new road lines**. Most of the road runs in a general east-west direction, through a lush savannah landscape. The middle line can be solid or dashed.",
+      "NOTE: There are a couple of other roads with crisp road lines like these, however these tend to have a different road angle or landscape."
+     ]
+    },
+    {
+     "id": "KrKW",
+     "image": "img/ghana/KrKW.webp",
+     "mapsUrl": "https://goo.gl/maps/tSqVKwqtYZGFrAmR6",
+     "width": 0.573,
+     "text": [
+      "The Salaga-Tamale road up to Kpalbusi is a dirt road with very moody **overcast **coverage. The soil tends to be **very dark**, with a purple or brown** **tinge to it. The road also has a unique tropical savannah feel. The soil is most dark near the town of Salaga.",
+      "NOTE: Unpaved roads with overcast coverage and a savannah landscape can be found in other places. The unique aspect of this road is the dark purplish brown soil and the especially dark cloud cover."
+     ]
+    },
+    {
+     "id": "c7W9",
+     "image": "img/ghana/c7W9.webp",
+     "mapsUrl": "https://goo.gl/maps/tsYsCxPwwtjuLywXA",
+     "width": 0.573,
+     "text": [
+      "The road between Nkwanta and Domanko is **unpaved**, with a **powerline** close to the road to your east or northeast. The road itself runs in a general SE-NW direction, through a lush savannah landscape that is typical of central Ghana.",
+      "NOTE: In urban areas, there can be a powerline on both sides of the road. In addition, a section of the Salaga-Tamale road has a powerline to the east as well, but the darker soil and moody cloud cover makes it distinguishable."
+     ]
+    },
+    {
+     "id": "zy0V",
+     "image": "img/ghana/zy0V.webp",
+     "mapsUrl": "https://goo.gl/maps/zvw7QUS2dK3pE8bv5",
+     "width": 0.573,
+     "text": [
+      "On a section of the N2 east of Lake Volta, you can often see a **ridgeline to your southeast**, somewhat close to the road. The road itself also has a distinct angle, running in a general SW-NE direction. The sky is very overcast and grey."
+     ]
+    },
+    {
+     "id": "yRvT",
+     "image": "img/ghana/yRvT.webp",
+     "mapsUrl": "https://goo.gl/maps/QgJN6BiTkEkEETLb8",
+     "width": 0.573,
+     "text": [
+      "The coastal area just **east of Accra**, especially on the N1, has a distinct landscape: it is very flat and wide open, with significantly less vegetation than the rest of southern Ghana. Some parts can look somewhat dry."
+     ]
+    },
+    {
+     "id": "4Awi",
+     "image": "img/ghana/4Awi.webp",
+     "mapsUrl": "https://goo.gl/maps/EUgkfuE64RE4tACW6",
+     "width": 0.573,
+     "text": [
+      "The section of the N1 road near the border town of Elubo is **very new**: it has dark and unblemished asphalt, a very crisp-looking middle line, and no outer lines. The vegetation is dense and occasionally features palm trees.",
+      "NOTE: This new road surface continues until the town of Azuleti. The middle line can be dashed or solid. Near Azuleti, the road does not have a middle line."
+     ]
+    },
+    {
+     "id": "Yl0l",
+     "image": "img/ghana/Yl0l.webp",
+     "mapsUrl": "https://www.google.com/maps/@5.9771614,1.0186978,3a,90y,154.45h,83.5t/data=!3m6!1e1!3m4!1saTNG4PPv47kupHJ6DJwztw!2e0!7i13312!8i6656",
+     "width": 0.573,
+     "text": [
+      "The **Keta Lagoon** in the southeast of Ghana can be seen on the road that runs along it, with the lake being most visible in the northern section. You can sometimes see grey rocks on the side of the road. The soil is quite sandy in comparison to the rest of the country, and it should have a coastal feel."
+     ]
+    },
+    {
+     "id": "Y6Tn",
+     "image": "img/ghana/Y6Tn.webp",
+     "mapsUrl": "https://goo.gl/maps/wP5DFUQGWqcapujEA",
+     "width": 0.573,
+     "text": [
+      "Several nature reserves and sanctuaries have this unique car. A **white** car and side **mirrors **will be visible instead of the regular car, however, the ‘Ghana tape’ will still be there."
+     ]
+    },
+    {
+     "id": "hyou",
+     "image": "img/ghana/hyou.webp",
+     "mapsUrl": "https://goo.gl/maps/2aFiHDX32TtAuCs8A",
+     "width": 0.573,
+     "text": [
+      "The Ankasa Game Reserve has a unique Google car. The entire front of the Google car **can be seen,** with only the actual camera blurred. The roof of the car will have a street view vinyl and the ‘Ghana tape’ will be present."
+     ]
+    },
+    {
+     "id": "nHMr",
+     "image": "img/ghana/nHMr.webp",
+     "mapsUrl": "https://goo.gl/maps/fhhLwXYKofZRgTDm7",
+     "width": 0.573,
+     "text": [
+      "The Boabeng Fiema Monkey Sanctuary has a unique Google car. The ‘Ghana tape’ and roof rack will **not **be visible however, the **black right side mirror** will be slightly visible just outside the blur.",
+      "NOTE: The red soil and surrounding vegetation should still be good clues for the country, despite the lack of the typical car meta associated with Ghana."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "Maps and resources",
+   "kind": "map",
+   "text": [
+    "In addition, here are some resources to help you practise Ghana:",
+    "- **Plonk It Ghana** ([map link](https://www.geoguessr.com/maps/6473f3ae6f5ab58346292e87)) - This map contains locations for practising each meta in the Plonk It Ghana guide from step 2 to 3."
+   ],
+   "extras": [],
+   "metas": []
+  }
+ ]
+}

@@ -1,0 +1,182 @@
+{
+ "slug": "malta",
+ "title": "Malta",
+ "code": "MT",
+ "continent": "Europe",
+ "hero": "img/malta/hero.webp",
+ "metaCount": 15,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Malta",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/malta/0_Normal_Summary_Graphic.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "vABj",
+     "image": "img/malta/vABj.webp",
+     "mapsUrl": "https://maps.app.goo.gl/rfZ8SAafi1SBttnA9",
+     "width": 0.5,
+     "text": [
+      "Malta drives on the **left**.",
+      "NOTE: Cyprus also drives on the left."
+     ]
+    },
+    {
+     "id": "0i5u",
+     "image": "img/malta/0i5u.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Like most of Europe, Maltese licence plates have a blue strip on the left. However, unlike most of Europe, **short plates** are very common."
+     ]
+    },
+    {
+     "id": "ZuPI",
+     "image": "img/malta/ZuPI.webp",
+     "mapsUrl": "https://maps.app.goo.gl/T3QxnVYSJTAy2HE36",
+     "width": 0.5,
+     "text": [
+      "The general landscape of Malta consists of slightly hilly **dry agricultural fields**. Many roads are also only 1 or 2 lanes wide, due to the island’s size. Having a mediterranean climate, [cacti](https://maps.app.goo.gl/Kh2pMFPUTQhivKT76#extra%5Btags%5D=yes) and various [dry shrubs](https://maps.app.goo.gl/BqgdrBxdG2UFft3z7#extra%5Btags%5D=yes) can be seen."
+     ]
+    },
+    {
+     "id": "A85X",
+     "image": "img/malta/A85X.webp",
+     "mapsUrl": "https://maps.app.goo.gl/my8PqqA57SB2pbDc6#extra%5Btags%5D=yes",
+     "width": 0.5,
+     "text": [
+      "**Limestone rock walls** are extremely common in Malta. This alone is usually enough to determine that you are in Malta."
+     ]
+    },
+    {
+     "id": "4s8H",
+     "image": "img/malta/4s8H.webp",
+     "mapsUrl": "https://maps.app.goo.gl/e19YM7JpiyDN11a89",
+     "width": 0.5,
+     "text": [
+      "The vast majority of buildings in Malta consist of low storey buildings, with **white to beige** coloured walls. Buildings made of [limestone](https://maps.app.goo.gl/BMSfQdQ7rujtEErg8#extra%5Btags%5D=yes) are also fairly common."
+     ]
+    },
+    {
+     "id": "xVAC",
+     "image": "img/malta/xVAC.webp",
+     "mapsUrl": "https://maps.app.goo.gl/yUJShYjxa1mhUeWN6",
+     "width": 0.5,
+     "text": [
+      "This style of traditional **covered balconies** is very common on Maltese buildings. They are often painted in bright colours."
+     ]
+    },
+    {
+     "id": "CkGF",
+     "image": "img/malta/CkGF.webp",
+     "mapsUrl": "https://maps.app.goo.gl/MEuWmXYJ3izUoE2v5",
+     "width": 0.5,
+     "text": [
+      "The Maltese word for street is “**triq**”, which can be seen on almost every street sign."
+     ]
+    },
+    {
+     "id": "v6Vj",
+     "image": "img/malta/v6Vj.webp",
+     "mapsUrl": "https://maps.app.goo.gl/i7LEyjPaARkUwj2x5",
+     "width": 0.5,
+     "text": [
+      "**Bus stops** are a common sight in Malta. They may sometimes have useful information as to where you are."
+     ]
+    },
+    {
+     "id": "S9ac",
+     "image": "img/malta/S9ac.webp",
+     "mapsUrl": "https://maps.app.goo.gl/FARDjAGrHppMShPQ7",
+     "width": 0.5,
+     "text": [
+      "Like the UK and Ireland, Malta uses these distinctive **double yellow no parking lines**."
+     ]
+    },
+    {
+     "id": "eHEp",
+     "image": "img/malta/eHEp.webp",
+     "mapsUrl": "https://maps.app.goo.gl/Dmr5UrfEJtx7krTx6#extra%5Btags%5D=eng",
+     "width": 0.5,
+     "text": [
+      "**English** is the primary language of Malta."
+     ]
+    },
+    {
+     "id": "XUts",
+     "image": "img/malta/XUts.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Apart from English it is also common to see the **Maltese** language. Maltese uses the Latin script, but with unique letters, which include:",
+      "- Ċ ċ",
+      "- Ġ ġ",
+      "- Ħ ħ",
+      "- Ż ż"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "LOnP",
+     "image": "img/malta/LOnP.webp",
+     "mapsUrl": "https://goo.gl/maps/xFtiRDcMLwNwoRvu6",
+     "width": 0.573,
+     "text": [
+      "Regular metal guardrails are rare on Gozo Island. **Low stone barriers** are more common instead."
+     ]
+    },
+    {
+     "id": "rb2X",
+     "image": "img/malta/rb2X.webp",
+     "mapsUrl": "https://goo.gl/maps/2F963MPw76pBqYAt7",
+     "width": 0.573,
+     "text": [
+      "Uniquely, all bus routes on Gozo Island are in the **300s**. These can be quite hard to see, meaning they are most useful in moving games."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "CXV5",
+     "image": "img/malta/CXV5.webp",
+     "mapsUrl": "https://goo.gl/maps/VRkErHz2kwSuYg1R8",
+     "width": 0.573,
+     "text": [
+      "These **blue signs** are unique to Valletta."
+     ]
+    },
+    {
+     "id": "aUAp",
+     "image": "img/malta/aUAp.webp",
+     "mapsUrl": "https://goo.gl/maps/ndhsLqocWaJuh8Si7",
+     "width": 0.573,
+     "text": [
+      "This trekker on a ship that is painted **white and blue** can be seen between the main island and Gozo Island."
+     ]
+    }
+   ]
+  }
+ ]
+}

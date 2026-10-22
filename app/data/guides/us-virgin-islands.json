@@ -1,0 +1,132 @@
+{
+ "slug": "us-virgin-islands",
+ "title": "US Virgin Islands",
+ "code": "VI",
+ "continent": "North America",
+ "hero": "img/us-virgin-islands/hero.webp",
+ "metaCount": 10,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying United States Virgin Islands",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/us-virgin-islands/0_vi_summary.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "QKxC",
+     "image": "img/us-virgin-islands/QKxC.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "The United States Virgin Islands are a group of islands that are US overseas territories. As such, it is counted as **the US** for country streaks purposes."
+     ]
+    },
+    {
+     "id": "abU4",
+     "image": "img/us-virgin-islands/abU4.webp",
+     "mapsUrl": "https://goo.gl/maps/6YfarA8BezMnq6L98",
+     "width": 0.5,
+     "text": [
+      "Car coverage on the islands will have a large, visible street view car, which will either be **red** or **white**. Details about where to find each car can be found in the region guessing section."
+     ]
+    },
+    {
+     "id": "GTl0",
+     "image": "img/us-virgin-islands/GTl0.webp",
+     "mapsUrl": "https://goo.gl/maps/Y4QVPFaPECRzMA5fA",
+     "width": 0.5,
+     "text": [
+      "A **unique blend of architecture** is found on the United States Virgin Islands. The primary influences are European Renaissance, Spanish Baroque, Rococo and Victorian styles. Facades with large arches are common; as well as central plazas and courtyards."
+     ]
+    },
+    {
+     "id": "Nfmm",
+     "image": "img/us-virgin-islands/Nfmm.webp",
+     "mapsUrl": "https://maps.app.goo.gl/ENbMwXjZ5aKe5odr7",
+     "width": 0.5,
+     "text": [
+      "Owing to its former status as a Danish colony, some streets and localities still have **Danish names** (e.g. _gade_) or display bilingual signs. This is most common in the historical downtown areas."
+     ]
+    },
+    {
+     "id": "yUX7",
+     "image": "img/us-virgin-islands/yUX7.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Licence plates are short, typically either having a **bright blue** or a **dark blue** design."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "OgDE",
+     "image": "img/us-virgin-islands/OgDE.webp",
+     "mapsUrl": "https://goo.gl/maps/BTtS23iSfgfeMy1T6",
+     "width": 0.573,
+     "text": [
+      "Primary roads on the Southern US Virgin Island of St. Croix follow a loose **grid pattern**. Main roads are angled from WSW to ENE, with intersecting roads angled from NNW to SSE. In contrast, the Northern Islands of St. John and St. Thomas have much curvier roads."
+     ]
+    },
+    {
+     "id": "x3lV",
+     "image": "img/us-virgin-islands/x3lV.webp",
+     "mapsUrl": "https://goo.gl/maps/d5uDu9mMyf6hg38V7",
+     "width": 0.573,
+     "text": [
+      "The United States Virgin Islands features 3 unique Google cars. The first of which is shown here. This red truck with a **red cab** can only be seen in the southern island of St Croix. This is the **most common** car that will be seen as St Croix has the most coverage."
+     ]
+    },
+    {
+     "id": "Ij8c",
+     "image": "img/us-virgin-islands/Ij8c.webp",
+     "mapsUrl": "https://maps.app.goo.gl/xLrQa59tFdzDqweL7",
+     "width": 0.573,
+     "text": [
+      "A white car **without** an antenna can also be seen on St Croix, however it will be less common than the red car."
+     ]
+    },
+    {
+     "id": "hBRi",
+     "image": "img/us-virgin-islands/hBRi.webp",
+     "mapsUrl": "https://goo.gl/maps/VfJjHzGuEzRqCqTA9",
+     "width": 0.573,
+     "text": [
+      "A white car **with an antenna** can only be seen in the northern islands of St Thomas and St John. The cab is also noticeably shorter than the other two cars."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "LB6O",
+     "image": "img/us-virgin-islands/LB6O.webp",
+     "mapsUrl": "https://goo.gl/maps/1p7YCLvRLRpQ4yim6",
+     "width": 0.573,
+     "text": [
+      "Two **boat trekkers** are found on the north coast of St Croix. The boat cannot be seen, however the trekker can be identified by the blue waters and hilly islands. The area near Buck Island National Park also has a distinct [pink tint](https://goo.gl/maps/kiRppxZK9vQVe3FA7) to the camera."
+     ]
+    }
+   ]
+  }
+ ]
+}

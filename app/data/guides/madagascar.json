@@ -1,0 +1,514 @@
+{
+ "slug": "madagascar",
+ "title": "Madagascar",
+ "code": "MG",
+ "continent": "Africa",
+ "hero": "img/madagascar/hero.webp",
+ "metaCount": 52,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Madagascar",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/madagascar/0_summary_madagascar.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "lIiH",
+     "image": "img/madagascar/lIiH.webp",
+     "mapsUrl": "https://maps.app.goo.gl/frRWbiv7GeXtx95T7",
+     "width": 0.5,
+     "text": [
+      "All coverage in Madagascar was taken with a **Generation 3 trekker** camera.",
+      "NOTE: While there are some [unusual vehicles](https://maps.app.goo.gl/h5Xb4zMRj5EXpNXw8) seen on some of the coverage, the camera and blur is still the same."
+     ]
+    },
+    {
+     "id": "WE2E",
+     "image": "img/madagascar/WE2E.webp",
+     "mapsUrl": "https://maps.app.goo.gl/wbKeUEGWDr4WGSK27",
+     "width": 0.5,
+     "text": [
+      "Several **boat trekkers** can be found throughout the country."
+     ]
+    },
+    {
+     "id": "uY1o",
+     "image": "img/madagascar/uY1o.webp",
+     "mapsUrl": "https://maps.app.goo.gl/oth6AfGeaPvaQakw6",
+     "width": 0.5,
+     "text": [
+      "Most coverage features one or several people walking alongside the trekker. These people can be used both to recognise the country and to regionguess it."
+     ]
+    },
+    {
+     "id": "V2nD",
+     "image": "img/madagascar/V2nD.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Madagascar has two official languages: **French** and [**Malagasy**](https://en.wikipedia.org/wiki/Malagasy_language), which is written with the Latin alphabet and contains many long, multiple-syllable words.",
+      "NOTE: [English](https://maps.app.goo.gl/1GZYGSBw3AdKn7CF6) can still be found on some commercial signs."
+     ]
+    },
+    {
+     "id": "peJo",
+     "image": "img/madagascar/peJo.webp",
+     "mapsUrl": "https://goo.gl/maps/oREEK9BsshuXYJMA6",
+     "width": 0.5,
+     "text": [
+      "The climate of Madagascar generally varies from extremely dry in the southern and central parts, to tropical in the [north](https://www.google.com/maps/@-13.7504015,48.4654968,2a,90y,187.83h,97.83t/data=!3m6!1e1!3m4!1s7MPvv_lTBLtRL6D9c6PqPg!2e0!7i13312!8i6656)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Land coverage",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "jaEx",
+     "image": "img/madagascar/jaEx.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Street View in Madagascar is very limited, with a mixture of land and boat coverage, most of which is on or near the west coast. It is worth noting that almost all the coverage was taken using trekkers, with only two exceptions, both of which have a visible, unique Street View car.",
+      "Because of the limited coverage, this guide will be structured differently than most other guides. It will be divided into two main sections: one for **land coverage** and one for **boat coverage**, which in turn is divided into subsections based on region."
+     ]
+    },
+    {
+     "id": "3Ucb",
+     "image": "img/madagascar/3Ucb.webp",
+     "mapsUrl": "https://goo.gl/maps/E9sPyJ5hmuFaC91e6",
+     "width": 0.573,
+     "text": [
+      "The coverage in Ambanja can be recognized by a person wearing a **dark blue T-shirt** and black sunglasses."
+     ]
+    },
+    {
+     "id": "VJ9Z",
+     "image": "img/madagascar/VJ9Z.webp",
+     "mapsUrl": "https://goo.gl/maps/LLaopm5Cm2AFYsrK8",
+     "width": 0.573,
+     "text": [
+      "The coverage on the island of Nosy Ambariovato can be recognized by the **people**, one wearing a blue T-shirt and sunglasses on their forehead, one with a light red T-shirt and one with a [darker red tank top](https://goo.gl/maps/sesxVH8xbgjzWWNt8). There is also a [fourth person](https://www.google.com/maps/@-13.4541161,48.3406304,2a,64.5y,249.26h,65.91t/data=!3m6!1e1!3m4!1sx4Wu5e_usfrumoBchBeMCQ!2e0!7i13312!8i6656) in some of the coverage, wearing a light blue T-shirt. The coverage is very hilly and forested."
+     ]
+    },
+    {
+     "id": "jwVN",
+     "image": "img/madagascar/jwVN.webp",
+     "mapsUrl": "https://goo.gl/maps/QksDwurC9U4NjXUH9",
+     "width": 0.573,
+     "text": [
+      "There is a **village** by the northern shore of Nosy Ambariovato."
+     ]
+    },
+    {
+     "id": "8VEn",
+     "image": "img/madagascar/8VEn.webp",
+     "mapsUrl": "https://goo.gl/maps/qEQJhsjUmyV9XM757",
+     "width": 0.573,
+     "text": [
+      "Ambiky can be recognized by the large number of **palms** combined with the **brown**, sandy dirt road. In most of the coverage, there is a person walking in front of the trekker with a grey T-shirt and a brown backpack."
+     ]
+    },
+    {
+     "id": "8jw5",
+     "image": "img/madagascar/8jw5.webp",
+     "mapsUrl": "https://goo.gl/maps/aqTtcGGc2REAannR9",
+     "width": 0.573,
+     "text": [
+      "A beach west of Ambiky can be recognized by the **low trees** combined with low mountains to the northwest."
+     ]
+    },
+    {
+     "id": "Zrpg",
+     "image": "img/madagascar/Zrpg.webp",
+     "mapsUrl": "https://goo.gl/maps/xjdwBoDp1CipKKar5",
+     "width": 0.573,
+     "text": [
+      "An area with coverage south of Ambiky can be recognized by the large, solitary **green bushes** combined with a very slight red tinge in the dirt. Certain parts of the coverage are [quite wet](https://www.google.com/maps/@-13.551823,48.4587811,2a,90y,113.31h,83.81t/data=!3m6!1e1!3m4!1sQR4WivGckMydCDGxYmxMcQ!2e0!7i13312!8i6656)."
+     ]
+    },
+    {
+     "id": "hzyJ",
+     "image": "img/madagascar/hzyJ.webp",
+     "mapsUrl": "https://goo.gl/maps/7ECT8qsFUujiweFL6",
+     "width": 0.573,
+     "text": [
+      "There are three major sections of coverage along the Sambirano river, most of which can be identified with the single person, wearing a **dark blue** T-shirt and **sunglasses** on their forehead. The same person is also present on Nosy Ambariovato."
+     ]
+    },
+    {
+     "id": "Ma9o",
+     "image": "img/madagascar/Ma9o.webp",
+     "mapsUrl": "https://goo.gl/maps/B9KNyDUk7Ty78u777",
+     "width": 0.573,
+     "text": [
+      "A small section of the coverage by the Sambirano river has two **different people** present on the coverage; one with a red T-shirt and white cap, and one with a [spotted dress](https://goo.gl/maps/1r7p8QfDCBG2oBLG6)."
+     ]
+    },
+    {
+     "id": "6Icy",
+     "image": "img/madagascar/6Icy.webp",
+     "mapsUrl": "https://goo.gl/maps/8pEr2QoxVqHv5Cyp9",
+     "width": 0.573,
+     "text": [
+      "A couple of atolls on the central west coast can be seen on Street View. The northernmost is the smallest, and is easily recognizable as it only consists of **sand** and you can always see from one shore to the other.",
+      "NOTE: Among the five atolls with land coverage, only the two furthest south appear on the map."
+     ]
+    },
+    {
+     "id": "U5fc",
+     "image": "img/madagascar/U5fc.webp",
+     "mapsUrl": "https://goo.gl/maps/zMjGpQNnpkn9Bt937",
+     "width": 0.573,
+     "text": [
+      "The other atolls can be recognized by their small size relative to other landmasses and the [**broad leaved palms**](https://goo.gl/maps/56HEtMgavgGcwsjV8) which is rarely found anywhere else in the country."
+     ]
+    },
+    {
+     "id": "8CI7",
+     "image": "img/madagascar/8CI7.webp",
+     "mapsUrl": "https://goo.gl/maps/p2U3GirJTU1HKqxu5",
+     "width": 0.573,
+     "text": [
+      "Most of the coverage in Antananarivo was taken on the **side of a hill** looking out over the city, which leads up to the [Queen’s Palace](https://goo.gl/maps/xU94ThbrNVjncEE27), which can be seen near the top of the hill."
+     ]
+    },
+    {
+     "id": "AmoS",
+     "image": "img/madagascar/AmoS.webp",
+     "mapsUrl": "https://goo.gl/maps/e3UeZJKNqGMMvfPn9",
+     "width": 0.573,
+     "text": [
+      "The coverage on the RN8 between Andriamena and Marofandilia can easily be recognized by the large **silver roof rack** on the Street View car. The coverage is very dry and sandy."
+     ]
+    },
+    {
+     "id": "Kgz7",
+     "image": "img/madagascar/Kgz7.webp",
+     "mapsUrl": "https://goo.gl/maps/K1v6g3eBSXfCftDs5",
+     "width": 0.573,
+     "text": [
+      "The trekker next to the RN8 can be recognized by its extreme dryness, combined with the **four people** wearing red, blue, grey and light blue respectively."
+     ]
+    },
+    {
+     "id": "KdDD",
+     "image": "img/madagascar/KdDD.webp",
+     "mapsUrl": "https://goo.gl/maps/e9W7SziAobnRgC4Z9",
+     "width": 0.573,
+     "text": [
+      "Baobab Avenue is easy to recognize by the extremely **broad trunked** baobab trees along the side of the road."
+     ]
+    },
+    {
+     "id": "FAEV",
+     "image": "img/madagascar/FAEV.webp",
+     "mapsUrl": "https://goo.gl/maps/THerVSLhcT4G9DSz7",
+     "width": 0.573,
+     "text": [
+      "Morondava is most easily recognized by the bald person wearing either a light green or a [light red](https://www.google.com/maps/@-20.2922811,44.2728557,2a,90y,38.6h,75.53t/data=!3m6!1e1!3m4!1sdLo7gIsqBtj0LwG4gDh_PQ!2e0!7i13312!8i6656) striped shirt. It is also one of few towns where the trekker walks on a paved road."
+     ]
+    },
+    {
+     "id": "D7s5",
+     "image": "img/madagascar/D7s5.webp",
+     "mapsUrl": "https://goo.gl/maps/qxk32S57zpF2XTVJ7",
+     "width": 0.573,
+     "text": [
+      "Morondava has a very **smooth sand beach**, with the ocean to the northwest. There are a large number of palms visible."
+     ]
+    },
+    {
+     "id": "JKHg",
+     "image": "img/madagascar/JKHg.webp",
+     "mapsUrl": "https://goo.gl/maps/RNJzzqahmtkMcgr97",
+     "width": 0.573,
+     "text": [
+      "Belo Sur Mer can be recognized by the large number of palms combined with the blanket of **white sand **on the ground."
+     ]
+    },
+    {
+     "id": "QWtV",
+     "image": "img/madagascar/QWtV.webp",
+     "mapsUrl": "https://goo.gl/maps/FHYxcfNS9SjFBWrTA",
+     "width": 0.573,
+     "text": [
+      "The beach outside Belo Sur Mer can be recognized by the somewhat **dirty sand** and the curved shoreline with the ocean to the northwest."
+     ]
+    },
+    {
+     "id": "x1Ap",
+     "image": "img/madagascar/x1Ap.webp",
+     "mapsUrl": "https://goo.gl/maps/jca6snnJZDGqVP3S6",
+     "width": 0.573,
+     "text": [
+      "Kirindy Mitea National Park can be most easily recognized by having the **reddest soil** present on Street View in Madagascar."
+     ]
+    },
+    {
+     "id": "4v0Z",
+     "image": "img/madagascar/4v0Z.webp",
+     "mapsUrl": "https://goo.gl/maps/iTkGBR487YNV7xKG6",
+     "width": 0.573,
+     "text": [
+      "A car with a barely visible **grey metal roof rack** can be seen by Manahy. There are some locations where the car is completely [blurred out](https://www.google.com/maps/@-20.8635885,43.9144054,2a,75y,201.67h,54.09t,3.83r/data=!3m7!1e1!3m5!1sPAQm9O3ZuaHG6QXKk1Yzfg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DPAQm9O3ZuaHG6QXKk1Yzfg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D280%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656), where the shape of the blur is the best indication of the area."
+     ]
+    },
+    {
+     "id": "xeXN",
+     "image": "img/madagascar/xeXN.webp",
+     "mapsUrl": "https://goo.gl/maps/Ncshhyq8bc8jkS4B7",
+     "width": 0.573,
+     "text": [
+      "A piece of coverage, partly taken on a large [**grassy field**](https://goo.gl/maps/eCF98cDJ2mMTrNHV9), and partly on the side of a **sand dune**, can be found south of Manahy."
+     ]
+    },
+    {
+     "id": "61Nb",
+     "image": "img/madagascar/61Nb.webp",
+     "mapsUrl": "https://goo.gl/maps/r9nrbKdZ1T9n7fDT6",
+     "width": 0.573,
+     "text": [
+      "A village with the shore to the **east** can be found north of Andavadoaka."
+     ]
+    },
+    {
+     "id": "MGm7",
+     "image": "img/madagascar/MGm7.webp",
+     "mapsUrl": "https://goo.gl/maps/95V9sPQUaTforCch7",
+     "width": 0.573,
+     "text": [
+      "A small, very sandy village with the shore to the **north** can be seen on a small cape north of Andavadoaka. Part of the coverage was taken [just outside the shoreline](https://goo.gl/maps/Qn4qB1PmUcaRey337)."
+     ]
+    },
+    {
+     "id": "NzF4",
+     "image": "img/madagascar/NzF4.webp",
+     "mapsUrl": "https://goo.gl/maps/deLjHt5KZnGx3TBdA",
+     "width": 0.573,
+     "text": [
+      "The town of Andavadoaka can be recognized by **three** different people appearing on the coverage; One wearing a greyish hat and a light blue shirt, and two with [red and white T-shirts](https://goo.gl/maps/bqLC2F1PQDcKc1jA7)."
+     ]
+    },
+    {
+     "id": "8VYx",
+     "image": "img/madagascar/8VYx.webp",
+     "mapsUrl": "https://goo.gl/maps/XtkfEffuj5nRpzEW9",
+     "width": 0.573,
+     "text": [
+      "The main part of the trekker coverage surrounding Andavadoaka can be recognized by either the person wearing a greyish hat and light blue shirt or a person wearing a** **[yellow T-shirt](https://goo.gl/maps/tk4eKhBmyttFugDG9)."
+     ]
+    },
+    {
+     "id": "IywX",
+     "image": "img/madagascar/IywX.webp",
+     "mapsUrl": "https://goo.gl/maps/6PgQu68fpaeLSZDf8",
+     "width": 0.573,
+     "text": [
+      "A second Trekker, going to the northeast of Andavadoaka can be recognized by a person with a **light blue T-shirt**."
+     ]
+    },
+    {
+     "id": "YZcR",
+     "image": "img/madagascar/YZcR.webp",
+     "mapsUrl": "https://goo.gl/maps/9YjEZDy9C2ifNMSs7",
+     "width": 0.573,
+     "text": [
+      "A blue cart dragged by a **black **cow on the left and a **brown-white **cow on the right can be found south of Andavadoaka."
+     ]
+    },
+    {
+     "id": "Vjwp",
+     "image": "img/madagascar/Vjwp.webp",
+     "mapsUrl": "https://goo.gl/maps/WUs69U3cWT9uMevy7",
+     "width": 0.573,
+     "text": [
+      "Another cart dragged by a **white** cow on the left and a **black and white cow** on the right can be found just south of Andavadoaka."
+     ]
+    },
+    {
+     "id": "Gu8N",
+     "image": "img/madagascar/Gu8N.webp",
+     "mapsUrl": "https://goo.gl/maps/VifCsrrm76Xq4WpdA",
+     "width": 0.573,
+     "text": [
+      "A small seaside village, with little to **no visible people** can be found in the northern end of the bay, south of Andavadoaka."
+     ]
+    },
+    {
+     "id": "trNX",
+     "image": "img/madagascar/trNX.webp",
+     "mapsUrl": "https://goo.gl/maps/j7t2LR5ddEbMV7f19",
+     "width": 0.573,
+     "text": [
+      "Coverage on a somewhat **rocky** ground with **no people** following the trekker can be found southwest of the bay."
+     ]
+    },
+    {
+     "id": "X1Fm",
+     "image": "img/madagascar/X1Fm.webp",
+     "mapsUrl": "https://goo.gl/maps/qQeNKpxietji1FW97",
+     "width": 0.573,
+     "text": [
+      "Coverage with multiple different people walking near and around the trekker, and with a [small village](https://www.google.com/maps/@-22.2385629,43.2972032,2a,90y,125.63h,91.6t/data=!3m6!1e1!3m4!1s3dMI1dhBOWDorIiI3h7DrQ!2e0!7i13312!8i6656) to the west, can be found in the southeastern part of the bay. Part of the coverage goes through a very [shallow body of water](https://maps.app.goo.gl/rZReKRbq4E5qccdeA)."
+     ]
+    },
+    {
+     "id": "M3tI",
+     "image": "img/madagascar/M3tI.webp",
+     "mapsUrl": "https://goo.gl/maps/UitR6Mq17nB4GaXp8",
+     "width": 0.573,
+     "text": [
+      "A cluster of **fishing nets** can be found in the bay."
+     ]
+    },
+    {
+     "id": "bzxa",
+     "image": "img/madagascar/bzxa.webp",
+     "mapsUrl": "https://goo.gl/maps/P19fcNBiLyt4psMK8",
+     "width": 0.573,
+     "text": [
+      "The Tsaranoro Massif is a large [**monolithic mountain**](https://goo.gl/maps/coxbSnD6beVYspY19) with trekker coverage. The steep mountainsides, combined with the mountainous area surrounding the coverage makes it very recognizable. The [four people](https://www.google.com/maps/@-22.0973126,46.7594034,2a,90y,182.36h,90.99t/data=!3m6!1e1!3m4!1s0NR1H26JY_5a9JRRVRluDw!2e0!7i13312!8i6656) following the trekker can also occasionally be a useful clue."
+     ]
+    },
+    {
+     "id": "TxsK",
+     "image": "img/madagascar/TxsK.webp",
+     "mapsUrl": "https://goo.gl/maps/xzHMWY2ZNMcZvMqw7",
+     "width": 0.573,
+     "text": [
+      "A small part of the coverage in Tsaranoro was taken inside a forest, which occasionally hides the surrounding mountains. The best way to recognize this area is the relatively **dark coverage**, combined with the four people following the trekker."
+     ]
+    },
+    {
+     "id": "Sm22",
+     "image": "img/madagascar/Sm22.webp",
+     "mapsUrl": "https://goo.gl/maps/fSuchhnkiZPVzqZi9",
+     "width": 0.573,
+     "text": [
+      "A **small settlement** is found in the northeastern end of Tsaranoro. The mountains can typically be seen in the background."
+     ]
+    },
+    {
+     "id": "puA3",
+     "image": "img/madagascar/puA3.webp",
+     "mapsUrl": "https://goo.gl/maps/qgmaet88X3n7vDPb9",
+     "width": 0.573,
+     "text": [
+      "Toliara can be recognized as being a generally quite busy-looking town and the only large town on Madagascar with **no person** following the trekker."
+     ]
+    },
+    {
+     "id": "0dG7",
+     "image": "img/madagascar/0dG7.webp",
+     "mapsUrl": "https://goo.gl/maps/asy8KS3hur3SadB86",
+     "width": 0.573,
+     "text": [
+      "Two pieces of coverage can be recognized by two people following the trekker; one with a **yellow tank top** and one with a **blue T-shirt**. The first of these two parts is located in the town of St Augustin."
+     ]
+    },
+    {
+     "id": "2sOi",
+     "image": "img/madagascar/2sOi.webp",
+     "mapsUrl": "https://goo.gl/maps/6iV3M2rWg9tJyQdH7",
+     "width": 0.573,
+     "text": [
+      "The second part with the same two people is found to the east of St Augustin, going through a **hilly landscape** with a lot of shrubs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Boat coverage",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "wCgg",
+     "image": "img/madagascar/wCgg.webp",
+     "mapsUrl": "https://goo.gl/maps/UF32nTMUhZTBCHHo9",
+     "width": 0.573,
+     "text": [
+      "A white boat, containing **many people**, can be found going around the island of Nosy Ambariovato."
+     ]
+    },
+    {
+     "id": "6fjx",
+     "image": "img/madagascar/6fjx.webp",
+     "mapsUrl": "https://goo.gl/maps/3rVXyhyvnv8d8YyM6",
+     "width": 0.573,
+     "text": [
+      "A mainly **blue boat** can be found along the coast south of Nosy Ambariovato."
+     ]
+    },
+    {
+     "id": "iNsg",
+     "image": "img/madagascar/iNsg.webp",
+     "mapsUrl": "https://goo.gl/maps/wUSTz9V5NThaDBt99",
+     "width": 0.573,
+     "text": [
+      "A row boat containing five people with a **wide wooden frame **surrounding it can be found northwest of Ambohimena."
+     ]
+    },
+    {
+     "id": "k6M6",
+     "image": "img/madagascar/k6M6.webp",
+     "mapsUrl": "https://goo.gl/maps/Wn34AQtQJsw2skCu5",
+     "width": 0.573,
+     "text": [
+      "A boat going up the Sambirano River can be seen with **two people**; a tourist with a blue T-shirt and a gondolier with a brown shirt. The northernmost part of the coverage is [very dark](https://goo.gl/maps/nzQX5CgEam31fFrbA), as it was taken during sunset."
+     ]
+    },
+    {
+     "id": "ih6i",
+     "image": "img/madagascar/ih6i.webp",
+     "mapsUrl": "https://goo.gl/maps/wgYsFa1PmSdqhU5d8",
+     "width": 0.573,
+     "text": [
+      "The boat covering some small atolls along the central parts of the west coast can be recognized by the driver, wearing a **white cap** and **no shirt**."
+     ]
+    },
+    {
+     "id": "7g5M",
+     "image": "img/madagascar/7g5M.webp",
+     "mapsUrl": "https://goo.gl/maps/uMiH6m7QsjMHcsWn9",
+     "width": 0.573,
+     "text": [
+      "The boat north of Andavadoaka can mostly be recognized by the **large sail** almost filling up the entire screen and the [bow](https://www.google.com/maps/@-21.9535228,43.2636268,2a,55.4y,36.5h,61.5t,0.68r/data=!3m6!1e1!3m4!1shdQMOTBRSEXz7sS9LL0q7w!2e0!7i13312!8i6656) which is painted yellow and blue. Note that the sail is not present in the northern parts of the coverage."
+     ]
+    },
+    {
+     "id": "dsgX",
+     "image": "img/madagascar/dsgX.webp",
+     "mapsUrl": "https://goo.gl/maps/D93FjdpSdSSeWNkQ8",
+     "width": 0.573,
+     "text": [
+      "The boat in the bay south of Andavadoaka can be recognized by either the somewhat **smaller sail** than the one north of Andavadoaka, or the person sitting by the bow wearing a [**red T-shirt**](https://www.google.com/maps/@-22.2352535,43.2975109,2a,66.6y,25.5h,81.08t/data=!3m6!1e1!3m4!1sNRpIPDMqSBxlPqXDBZW6WQ!2e0!7i13312!8i6656) with the text “Diesel”. Beware that only one of the two will appear on most of the coverage."
+     ]
+    },
+    {
+     "id": "FYx3",
+     "image": "img/madagascar/FYx3.webp",
+     "mapsUrl": "https://goo.gl/maps/38xSseYnJShRbpSH6",
+     "width": 0.573,
+     "text": [
+      "Four people; one dressed in **red**, one in **blue** and one in** yellow **in the back, and one dressed in brown at the front, can be seen on a boat by the town of St Augustin."
+     ]
+    }
+   ]
+  }
+ ]
+}

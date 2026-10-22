@@ -1,0 +1,188 @@
+{
+ "slug": "andorra",
+ "title": "Andorra",
+ "code": "AD",
+ "continent": "Europe",
+ "hero": "img/andorra/hero.webp",
+ "metaCount": 16,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Andorra",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/andorra/0_Copy_of_Copy_of_Copy_of_Copy_of_Infographic.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "zsXQ",
+     "image": "img/andorra/zsXQ.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Andorran licence plates have an **orange dot** on the left side and can be regularly found throughout the country.",
+      "NOTE: Within Europe, this plate is unique to Andorra."
+     ]
+    },
+    {
+     "id": "1Qw8",
+     "image": "img/andorra/1Qw8.webp",
+     "mapsUrl": "https://goo.gl/maps/4ZDLUSorBTBtVv3w5",
+     "width": 0.5,
+     "text": [
+      "Andorra **only has Generation 2 and Generation 3** coverage. In all Generation 3 coverage, a medium-short antenna is visible on the Google car.",
+      "Generation 3 is by far the most common. Almost all of Generation 2 is overwritten and is mostly confined to a couple of smaller off-roads."
+     ]
+    },
+    {
+     "id": "QX0k",
+     "image": "img/andorra/QX0k.webp",
+     "mapsUrl": "https://goo.gl/maps/ZrtDdX73zVEF1VHA9",
+     "width": 0.5,
+     "text": [
+      "All the Generation 3 coverage was taken in October, meaning that many deciduous trees have **autumn colours**."
+     ]
+    },
+    {
+     "id": "oy4W",
+     "image": "img/andorra/oy4W.webp",
+     "mapsUrl": "https://goo.gl/maps/TKsJpKsb95ZX4LVaA",
+     "width": 0.5,
+     "text": [
+      "Andorra has a lot of these **stone** buildings. They can be seen almost everywhere in the country.",
+      "NOTE: These buildings can also be found close to Andorra, in the French and Spanish Pyrenees."
+     ]
+    },
+    {
+     "id": "NHCC",
+     "image": "img/andorra/NHCC.webp",
+     "mapsUrl": "https://goo.gl/maps/QhciRdf4ngh6XhSy9",
+     "width": 0.5,
+     "text": [
+      "Andorran snow poles are made out of **wood** and can have a variety** **of** colours** on them."
+     ]
+    },
+    {
+     "id": "ZYyW",
+     "image": "img/andorra/ZYyW.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "**Catalan** is the main language in Andorra. It is a Romance language that is closely related to Spanish and French.",
+      "If you are unfamiliar with Romance languages, it can be hard to distinguish between Catalan and Spanish. If you see **i** instead of **y** (“and” in English), it is Catalan. In addition, more Catalan words end with consonants.",
+      "NOTE: The Catalan language is also used in eastern Spain: in Catalonia, the Valencian community and the Balearic islands."
+     ]
+    },
+    {
+     "id": "4Dnj",
+     "image": "img/andorra/4Dnj.webp",
+     "mapsUrl": "https://goo.gl/maps/Biy2NcYPRMkbiuqg6",
+     "width": 0.5,
+     "text": [
+      "The Catalan word for street is **“carrer”**."
+     ]
+    },
+    {
+     "id": "kLb3",
+     "image": "img/andorra/kLb3.webp",
+     "mapsUrl": "https://goo.gl/maps/c3WDEKnBp4Kx6Ucg8",
+     "width": 0.5,
+     "text": [
+      "These kilometre markers with** CG and CS **road numbers are found in Andorra.",
+      "NOTE: Similar kilometre marker designs can be found in Spain."
+     ]
+    },
+    {
+     "id": "yQEn",
+     "image": "img/andorra/yQEn.webp",
+     "mapsUrl": "https://goo.gl/maps/AxEgwqKPhpP2EzLf7",
+     "width": 0.5,
+     "text": [
+      "Andorra uses **yellow** reflectors on its guardrails.",
+      "NOTE: Within Europe, yellow reflectors are only found in Andorra, Spain and Belgium. For a good overview of European guardrails, see [this infographic](/images/andorra/europeguardrail.png)."
+     ]
+    },
+    {
+     "id": "JMBH",
+     "image": "img/andorra/JMBH.webp",
+     "mapsUrl": "https://goo.gl/maps/EntyVY3Mmh3FV2cB8",
+     "width": 0.5,
+     "text": [
+      "The Andorran bollard has an **orange** reflector and can be occasionally found on the main highways.",
+      "NOTE: This bollard can also be found in **Spain**."
+     ]
+    },
+    {
+     "id": "TBFy",
+     "image": "img/andorra/TBFy.webp",
+     "mapsUrl": "https://goo.gl/maps/pGA6AAWD1htrgR4q6",
+     "width": 0.5,
+     "text": [
+      "**Yellow** and **turquoise-green** traffic cones are used in the whole country."
+     ]
+    },
+    {
+     "id": "LHX7",
+     "image": "img/andorra/LHX7.webp",
+     "mapsUrl": "https://goo.gl/maps/B3pbnmC9TqEP3jtL9",
+     "width": 0.5,
+     "text": [
+      "Pedestrian signs** **have **8 stripes**.",
+      "NOTE: Spain is the only other European country that has pedestrian signs with 8 stripes."
+     ]
+    },
+    {
+     "id": "PGfc",
+     "image": "img/andorra/PGfc.webp",
+     "mapsUrl": "https://goo.gl/maps/kwA7aDrBRdHApj5A8",
+     "width": 0.5,
+     "text": [
+      "Andorra has a lot of Generation 2 **snow trekkers**, especially on ski resorts.",
+      "NOTE: Other countries have snow trekkers as well, but Andorra has the highest amount for its size."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional and parish-specific clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "OMfo",
+     "image": "img/andorra/OMfo.webp",
+     "mapsUrl": "https://goo.gl/maps/PThXhgDraXSm485y6",
+     "width": 0.573,
+     "text": [
+      "**Andorra la Vella** is a capital city surrounded by high mountains, making it recognisable.",
+      "NOTE: It is the highest European capital with an altitude of 1023 metres."
+     ]
+    },
+    {
+     "id": "3F4R",
+     "image": "img/andorra/3F4R.webp",
+     "mapsUrl": "https://goo.gl/maps/YMGjVWRdh7y96w5Y8",
+     "width": 0.573,
+     "text": [
+      "In the capital Andorra la Vella you can often see the **Caldea tower** and the **sky wheel**."
+     ]
+    },
+    {
+     "id": "vpA3",
+     "image": "img/andorra/vpA3.webp",
+     "mapsUrl": "https://goo.gl/maps/9cfe6joY3Yrpw1dq7",
+     "width": 0.573,
+     "text": [
+      "**Pas de la Casa**, a touristy city in eastern Andorra, can be easily recognized by the plethora of shops and hotels. As it is located at an altitude of 2080 metres, there are no trees visible on the mountains surrounding it."
+     ]
+    }
+   ]
+  }
+ ]
+}

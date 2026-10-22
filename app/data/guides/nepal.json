@@ -1,0 +1,903 @@
+{
+ "slug": "nepal",
+ "title": "Nepal",
+ "code": "NP",
+ "continent": "Asia",
+ "hero": "img/nepal/hero.webp",
+ "metaCount": 84,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Nepal",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/nepal/0_I77DC4X.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "tKtn",
+     "image": "img/nepal/tKtn.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Nepali licence plates are typically fairly long, with the most common design being white. Private vehicles use red plates, while public vehicles use black ones."
+     ]
+    },
+    {
+     "id": "djZd",
+     "image": "img/nepal/djZd.webp",
+     "mapsUrl": "https://maps.app.goo.gl/NeHUe6k8rd8vbyUv6",
+     "width": 0.5,
+     "text": [
+      "All of the road coverage in Nepal was taken with what’s commonly referred to as **“shitcam”**, which is a low-quality camera that can typically be recognised by the brownish colours and often, but not always, by a large circular blur covering the Street View car.",
+      "NOTE: Shitcam coverage is also very common in India and can rarely be found in Bangladesh and Sri Lanka."
+     ]
+    },
+    {
+     "id": "i7zv",
+     "image": "img/nepal/i7zv.webp",
+     "mapsUrl": "https://maps.app.goo.gl/WUw8YEL73XrHcKwz6",
+     "width": 0.5,
+     "text": [
+      "Nepal drives on the** left side** of the road."
+     ]
+    },
+    {
+     "id": "zeXz",
+     "image": "img/nepal/zeXz.webp",
+     "mapsUrl": "/images/nepal/5.jpeg",
+     "width": 0.5,
+     "text": [
+      "Nepal uses the **Devanagari script**, which can be recognised by the line going through the top of each word and the straight vertical lines found in the majority of all letters.",
+      "NOTE: The characters ङ and especially ङ्ग are much more common in Nepali than in Hindi/Marathi. It is also quite common to find [native Devanagari numbers](https://maps.app.goo.gl/iZWe7Td5ovENJDEF7) on signage in Nepal, which is very rare in India."
+     ]
+    },
+    {
+     "id": "fLll",
+     "image": "img/nepal/fLll.webp",
+     "mapsUrl": "https://maps.app.goo.gl/GWpSEh7AQaMRxWPH9",
+     "width": 0.5,
+     "text": [
+      "Nepal typically uses square concrete poles in the flat areas, and thin metallic poles in the mountainous regions. The poletops vary, but it is often some kind of trident.",
+      "The concrete pole with a [trident pole top and triangle supports](https://maps.app.goo.gl/ZpwKw2HMY3K4QkQy9) is unique to Nepal. Another common pole almost unique to Nepal is a concrete square pole with [2 vertical insulators](https://maps.app.goo.gl/RBVJCNrtq2enZDS47) on the sides with a wide gap between them. Other poles can often appear very similar to poles in India."
+     ]
+    },
+    {
+     "id": "oxoV",
+     "image": "img/nepal/oxoV.webp",
+     "mapsUrl": "https://maps.app.goo.gl/QEJcARP1NNPetPwS8",
+     "width": 0.5,
+     "text": [
+      "Nepal commonly uses **outer yellow road lines** that are either [dashed](https://maps.app.goo.gl/QEJcARP1NNPetPwS8) or [solid](https://maps.app.goo.gl/sAwmxo23B4o9Hc4m7), with dashed white lines in the middle of bigger roads. Solid outer yellows are very common in eastern Bagmati province."
+     ]
+    },
+    {
+     "id": "0YtE",
+     "image": "img/nepal/0YtE.webp",
+     "mapsUrl": "https://maps.app.goo.gl/RERdSiRq7CkuNh4x5",
+     "width": 0.5,
+     "text": [
+      "Nepal mainly uses **black-and-white striped concrete bollards** that often have a **red marking** on the top. The amount of stripes vary from 3 to 5."
+     ]
+    },
+    {
+     "id": "oWV4",
+     "image": "img/nepal/oWV4.webp",
+     "mapsUrl": "https://maps.app.goo.gl/2TsRKHKYw3Qyij1P8",
+     "width": 0.5,
+     "text": [
+      "You will see **flat agricultural areas** in the south as well as high altitude **mountain roads** in the northern half of Nepal."
+     ]
+    },
+    {
+     "id": "Y1VK",
+     "image": "img/nepal/Y1VK.webp",
+     "mapsUrl": "https://maps.app.goo.gl/kPjC91QHEQa1Q6H4A",
+     "width": 0.5,
+     "text": [
+      "Most buildings are either colorful blocky multi-story structures or small houses with painted concrete, red brick, or thatched looking walls, with either a tiled or tin roof. As part of the building facade, you will often spot [triangle shaped decorations](https://maps.app.goo.gl/YV9ysBvzpGBpQdwJ9)."
+     ]
+    },
+    {
+     "id": "8n9O",
+     "image": "img/nepal/8n9O.webp",
+     "mapsUrl": "https://maps.app.goo.gl/uVeg1kKMRwrxGnSs5",
+     "width": 0.5,
+     "text": [
+      "Nepal uses black-and-white striped signposts.",
+      "NOTE: Within South and Southeast Asia, India, Bhutan, Bangladesh, Sri Lanka and Malaysia also use black-and-white striped signposts."
+     ]
+    },
+    {
+     "id": "7qax",
+     "image": "img/nepal/7qax.webp",
+     "mapsUrl": "https://goo.gl/maps/rfsL8Fktu1GAgBSa6",
+     "width": 0.5,
+     "text": [
+      "This type of **white-painted Buddhist stupa**, sometimes with painted eyes on the sides, are only found in Nepal."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "divider",
+     "title": "Landscape and vegetation"
+    },
+    {
+     "kind": "divider",
+     "title": "Architecture"
+    },
+    {
+     "kind": "divider",
+     "title": "Infrastructure"
+    },
+    {
+     "kind": "divider",
+     "title": "Car Meta"
+    }
+   ],
+   "metas": [
+    {
+     "id": "yXhS",
+     "image": "img/nepal/yXhS.webp",
+     "mapsUrl": null,
+     "width": 0.573,
+     "text": [
+      "Districts can show up on addresses, often in English as well."
+     ]
+    },
+    {
+     "id": "sqGf",
+     "image": "img/nepal/sqGf.webp",
+     "mapsUrl": null,
+     "width": 0.573,
+     "text": [
+      "The area in the far south close to the Indian border is almost completely flat, while the central and northern parts are very high altitude and very mountainous."
+     ]
+    },
+    {
+     "id": "4cJ4",
+     "image": "img/nepal/4cJ4.webp",
+     "mapsUrl": "https://maps.app.goo.gl/154kHkAzK5gVvsMy9",
+     "width": 0.573,
+     "text": [
+      "The western hills can be recognised by the **dry landscape**, with a lot of exposed hillsides lacking vegetation."
+     ]
+    },
+    {
+     "id": "JXKf",
+     "image": "img/nepal/JXKf.webp",
+     "mapsUrl": "https://maps.app.goo.gl/BtotMyJx7MhdyZhp9",
+     "width": 0.573,
+     "text": [
+      "**Areca Palms** can be recognised by their very thin trunk and a small crown. They are mainly found in the southeast."
+     ]
+    },
+    {
+     "id": "hSPg",
+     "image": "img/nepal/hSPg.webp",
+     "mapsUrl": "https://maps.app.goo.gl/cjveN4vyMxWTPz3b7",
+     "width": 0.573,
+     "text": [
+      "**Canola, **a crop with bright yellow flowers, is mostly found in a few southern pockets in the western half of Nepal."
+     ]
+    },
+    {
+     "id": "uTPc",
+     "image": "img/nepal/uTPc.webp",
+     "mapsUrl": "https://maps.app.goo.gl/LisJQMTs73smU8W69",
+     "width": 0.573,
+     "text": [
+      "**Chir Pines**, which can be identified from their generally smooth-looking conical or spherical crowns with very long needles, are found everywhere in the mountains, but are much more common in the west, and near Kathmandu.",
+      "NOTE: The eastern region is generally greener than the west."
+     ]
+    },
+    {
+     "id": "OjoN",
+     "image": "img/nepal/OjoN.webp",
+     "mapsUrl": "https://maps.app.goo.gl/o21FfPhw2kgRsXAH8",
+     "width": 0.573,
+     "text": [
+      "Grass with white and fluffy-looking tips is most commonly found just southeast of Kathmandu.",
+      "While it can be found in most of the country, it usually won’t look as white and fluffy outside the dark red coloured region."
+     ]
+    },
+    {
+     "id": "eQQW",
+     "image": "img/nepal/eQQW.webp",
+     "mapsUrl": "https://maps.app.goo.gl/gZuPb6tbhhCZyJA78",
+     "width": 0.573,
+     "text": [
+      "Japanese cedar trees, which are only found in far eastern Nepal, can typically be recognised by their significant height combined with their narrow, fluffy-looking crowns."
+     ]
+    },
+    {
+     "id": "3thG",
+     "image": "img/nepal/3thG.webp",
+     "mapsUrl": "https://maps.app.goo.gl/QFGaQbskte2kNg559",
+     "width": 0.573,
+     "text": [
+      "Tea Plantations are also only found in far eastern Nepal. Both in the mountains, and in the flat region."
+     ]
+    },
+    {
+     "id": "xEXu",
+     "image": "img/nepal/xEXu.webp",
+     "mapsUrl": "https://maps.app.goo.gl/6Mynosj23MRf5f3A9",
+     "width": 0.573,
+     "text": [
+      "**Rounded roof tiles** are most common in the flat regions south of Kathmandu, but are also prevalent further west.",
+      "NOTE: Don’t mix this up with the [half-rounded tiles](https://maps.app.goo.gl/4WMe1LBb2TXwU1Za6), which are part of the hint below this."
+     ]
+    },
+    {
+     "id": "hURU",
+     "image": "img/nepal/hURU.webp",
+     "mapsUrl": "https://maps.app.goo.gl/rW5bdp1r4Ekhpgpy9",
+     "width": 0.573,
+     "text": [
+      "West Bengal style roof tiles, which are more organised and have small **diamond shaped protrusions**, are most common in the far west flat region. This hint also works for the [half-rounded tiles](https://maps.app.goo.gl/4WMe1LBb2TXwU1Za6)."
+     ]
+    },
+    {
+     "id": "Awwe",
+     "image": "img/nepal/Awwe.webp",
+     "mapsUrl": "https://maps.app.goo.gl/WEWubWdyqjGFeb2j7",
+     "width": 0.573,
+     "text": [
+      "Flat **square shaped stone tiles** that are grey in colour are common south of Kathmandu, more specifically around Birgunj and Janakpur.",
+      "NOTE: Neat, square, stone tiles are not found in parts of India that tend to look similar to Nepal."
+     ]
+    },
+    {
+     "id": "uYxZ",
+     "image": "img/nepal/uYxZ.webp",
+     "mapsUrl": "https://maps.app.goo.gl/zDaM7sNG8Hk7inEd6",
+     "width": 0.573,
+     "text": [
+      "Rectangular tiles that are** less organised** in shape and placement are common in western mountain towns, but can also be found towards the center of the country."
+     ]
+    },
+    {
+     "id": "WzwA",
+     "image": "img/nepal/WzwA.webp",
+     "mapsUrl": "https://maps.app.goo.gl/pwZYAB8zc7kG7iSYA",
+     "width": 0.573,
+     "text": [
+      "Roofs made from sheets of** corrugated metal** are most common between Birgunj and Janakpur."
+     ]
+    },
+    {
+     "id": "p8KJ",
+     "image": "img/nepal/p8KJ.webp",
+     "mapsUrl": "https://maps.app.goo.gl/LZJU2G6yWZhKvRPH6",
+     "width": 0.573,
+     "text": [
+      "Roofs that have a **railing** along the sides of the roofs, usually made of dark concrete, are found in some parts of western Nepal. They are most common in the Tulsipur valley, where the railings sometimes have a [stair shape](https://maps.app.goo.gl/ikhV9mfvD98582v9A). The easternmost region where they’re found is the plains by Kawasoti. The westernmost regions often have lower quality “railings”, sometimes consisting of a few sticks."
+     ]
+    },
+    {
+     "id": "Eg1M",
+     "image": "img/nepal/Eg1M.webp",
+     "mapsUrl": "https://maps.app.goo.gl/WZ3BbdCwTHmPzezj8",
+     "width": 0.573,
+     "text": [
+      "Gable ends decorated by **carvings of gods**, goddesses, and other religious symbols, usually painted in a golden colour, are mostly around Kawasoti, west of Bharatpur."
+     ]
+    },
+    {
+     "id": "zYdm",
+     "image": "img/nepal/zYdm.webp",
+     "mapsUrl": "https://maps.app.goo.gl/rjCrZUic2LJejBgp8",
+     "width": 0.573,
+     "text": [
+      "Fences of varying build quality, made of mainly sticks, are most commonly found in the eastern plains of Nepal."
+     ]
+    },
+    {
+     "id": "3OLY",
+     "image": "img/nepal/3OLY.webp",
+     "mapsUrl": "https://maps.app.goo.gl/xN4rYQRsxnS8dxQe6",
+     "width": 0.573,
+     "text": [
+      "In the far east, you will mainly see roofs made of sheet metal with a triangular \"window\" just below the ridge of the roof, and an outwards sloping section below it."
+     ]
+    },
+    {
+     "id": "GK0F",
+     "image": "img/nepal/GK0F.webp",
+     "mapsUrl": "https://maps.app.goo.gl/qTNq2gXAdQGpHYhLA",
+     "width": 0.573,
+     "text": [
+      "Large hip roofs made of sheet metal with a small protrusion just below the ridge are found around Biratnagar in the east."
+     ]
+    },
+    {
+     "id": "dAPp",
+     "image": "img/nepal/dAPp.webp",
+     "mapsUrl": "https://maps.app.goo.gl/qTNq2gXAdQGpHYhLA",
+     "width": 0.573,
+     "text": [
+      "Similar to the above hint, hip roofs made of sheet metal with an even smaller protruding piece of metal at the ridge are mainly found west of and around Biratnagar."
+     ]
+    },
+    {
+     "id": "Tzjk",
+     "image": "img/nepal/Tzjk.webp",
+     "mapsUrl": "https://maps.app.goo.gl/xDXd3T436xYfHHPM9",
+     "width": 0.573,
+     "text": [
+      "Mosques are concentrated in a few Muslim majority spots in southern Nepal.",
+      "- In the east, just around Janakpur.",
+      "- In the east, just around Birgunj.",
+      "- In the west, just around Nepalgunj.",
+      "- In the east, around Biratnagar and west of the Koshi river."
+     ]
+    },
+    {
+     "id": "xHyX",
+     "image": "img/nepal/xHyX.webp",
+     "mapsUrl": "https://maps.app.goo.gl/XE3Sy6rkMwH1Ayk67",
+     "width": 0.573,
+     "text": [
+      "Small** round clay huts** with **thatched roofs** are mainly found around Birgunj.",
+      "NOTE: These are also common just over the border in India."
+     ]
+    },
+    {
+     "id": "aJ2N",
+     "image": "img/nepal/aJ2N.webp",
+     "mapsUrl": "https://maps.app.goo.gl/K5xo8wwu2asGtiE78",
+     "width": 0.573,
+     "text": [
+      "Poles with a **cross** attached near the top are common in the east."
+     ]
+    },
+    {
+     "id": "l5Hu",
+     "image": "img/nepal/l5Hu.webp",
+     "mapsUrl": "https://maps.app.goo.gl/eHBKW9KZr4pjfmYB7",
+     "width": 0.573,
+     "text": [
+      "In Kathmandu, you’ll find poles with an asymmetrical crossbar, which has a triangular attachment on top of it, as well as a support bar below it."
+     ]
+    },
+    {
+     "id": "uRkU",
+     "image": "img/nepal/uRkU.webp",
+     "mapsUrl": "https://maps.app.goo.gl/9tMocKoYq42WPrHq8",
+     "width": 0.573,
+     "text": [
+      "While the most common water tank colours in Nepal are green and black, which are found everywhere, **yellow** ones are mainly found in the east."
+     ]
+    },
+    {
+     "id": "ikN4",
+     "image": "img/nepal/ikN4.webp",
+     "mapsUrl": "https://maps.app.goo.gl/BnuG4TBJjqUomAbB7",
+     "width": 0.573,
+     "text": [
+      "An orange google car can be found around:",
+      "- Nepalgunj in the west",
+      "- Madi, south of Bharatpur in the central south",
+      "- Biratnagar in the east",
+      "- Birtamod in the far east."
+     ]
+    },
+    {
+     "id": "cOqH",
+     "image": "img/nepal/cOqH.webp",
+     "mapsUrl": "https://maps.app.goo.gl/HjHdaUo8vaGNsj3m9",
+     "width": 0.573,
+     "text": [
+      "An orange car with a blue ribbon on the front is found around Biratnagar."
+     ]
+    },
+    {
+     "id": "zQR5",
+     "image": "img/nepal/zQR5.webp",
+     "mapsUrl": "https://maps.app.goo.gl/YNimQQt3x62JrcHk6",
+     "width": 0.573,
+     "text": [
+      "A blue car is found around:",
+      "- Pokhara, under the Nepal label",
+      "- Birgunj, southwest of Kathmandu",
+      "- Malangawa, near the Indian border southeast of Kathmandu."
+     ]
+    },
+    {
+     "id": "Cs2W",
+     "image": "img/nepal/Cs2W.webp",
+     "mapsUrl": "https://maps.app.goo.gl/yTEdznu6YVkDyNZX6",
+     "width": 0.573,
+     "text": [
+      "If the blue car has an antenna, you will be around Pokhara."
+     ]
+    },
+    {
+     "id": "gXQt",
+     "image": "img/nepal/gXQt.webp",
+     "mapsUrl": "https://maps.app.goo.gl/U6bnRG8KbGe3RQap6",
+     "width": 0.573,
+     "text": [
+      "A white car can be found in the following areas:",
+      "- Around Butwal, southwest of the Nepal label",
+      "- On the H10 going to Pokhara",
+      "- On the H04 east to Kathmandu",
+      "- On some roads near Kathmandu",
+      "- Northeast of Birgunj, southwest of Kathmandu",
+      "- From Janakpur to Lahan, southeast of Kathmandu",
+      "- Around Itahari, in the east."
+     ]
+    },
+    {
+     "id": "Px6r",
+     "image": "img/nepal/Px6r.webp",
+     "mapsUrl": "https://maps.app.goo.gl/D6Pyd9QxkPBaxH9dA",
+     "width": 0.573,
+     "text": [
+      "A car with a black spoiler is found just around Janakpur, southeast of Kathmandu."
+     ]
+    },
+    {
+     "id": "L6Cc",
+     "image": "img/nepal/L6Cc.webp",
+     "mapsUrl": "https://maps.app.goo.gl/HF1bepirYrbPXAUT9",
+     "width": 0.573,
+     "text": [
+      "A regular grey car can be found around Kathmandu, and to the southeast, around Lahan."
+     ]
+    },
+    {
+     "id": "4SYu",
+     "image": "img/nepal/4SYu.webp",
+     "mapsUrl": "https://maps.app.goo.gl/XgrvEMeFbnUxrKFK8",
+     "width": 0.573,
+     "text": [
+      "A blocky grey truck can be found east of Birgunj and just south of Kathmandu."
+     ]
+    },
+    {
+     "id": "mLJ5",
+     "image": "img/nepal/mLJ5.webp",
+     "mapsUrl": "https://maps.app.goo.gl/g64i8fVwFT7p4oxy5",
+     "width": 0.573,
+     "text": [
+      "A grey car with a visible backlight can be found in the following areas:",
+      "- Around Pokhara, under the Nepal label",
+      "- Around Kathmandu",
+      "- North of Malangawa, near the Indian border southeast of Kathmandu",
+      "- East of Itahari, in the east."
+     ]
+    },
+    {
+     "id": "Y0PQ",
+     "image": "img/nepal/Y0PQ.webp",
+     "mapsUrl": "https://maps.app.goo.gl/Xoxqqst9Dp36uAWw9",
+     "width": 0.573,
+     "text": [
+      "A red car, that usually has a long antenna, can be found in Kathmandu, and north of Janakpur, which is southeast of Kathmandu."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "divider",
+     "title": "Trekker Coverage"
+    },
+    {
+     "kind": "centeredText",
+     "text": [
+      "Important note: The **compass** on Nepalese trekker coverage is generally not very reliable. Thus, a compass will only ever be included in a picture for which the compass is at least mostly correct."
+     ]
+    },
+    {
+     "kind": "divider",
+     "title": "Settlements"
+    },
+    {
+     "kind": "divider",
+     "title": "Lukla - Namche Bazar"
+    },
+    {
+     "kind": "divider",
+     "title": "Namche Bazar - Thame"
+    },
+    {
+     "kind": "divider",
+     "title": "Namche Bazar - Gokyo"
+    },
+    {
+     "kind": "divider",
+     "title": "Gokyo - Lobuche"
+    },
+    {
+     "kind": "divider",
+     "title": "Namche Bazar - Dingboche"
+    },
+    {
+     "kind": "divider",
+     "title": "Trail to Everest"
+    }
+   ],
+   "metas": [
+    {
+     "id": "evPB",
+     "image": "img/nepal/evPB.webp",
+     "mapsUrl": "https://maps.app.goo.gl/hgM4ns1N2HiLHuFW9",
+     "width": 0.573,
+     "text": [
+      "Some roads north of Siddhicharan, in eastern Nepal are unique due to the high elevation hills with dark green rhododendron bushes growing in abundance. The bushes have [red flowers](https://maps.app.goo.gl/ZyeniQ6umodMPa7h9) which can be hard to see."
+     ]
+    },
+    {
+     "id": "vYvI",
+     "image": "img/nepal/vYvI.webp",
+     "mapsUrl": "https://maps.app.goo.gl/eMbveUojAgAz3vE39",
+     "width": 0.573,
+     "text": [
+      "This foggy and gloomy road hosts the only natural forest dominated by east himalayan fir. You can recognise it from all the tall dark trees present around the road. It is located just northwest of Bhimeshwor Municipality, east of Kathmandu."
+     ]
+    },
+    {
+     "id": "8fCe",
+     "image": "img/nepal/8fCe.webp",
+     "mapsUrl": "https://maps.app.goo.gl/P8bbSc6ruJBNRUGF6",
+     "width": 0.573,
+     "text": [
+      "This sketchy yellow/orange dirt road can be recognised from the high elevation landscape with the high elevation oaks. It can be found northeast of Phungling in far northeastern Nepal."
+     ]
+    },
+    {
+     "id": "cvRP",
+     "image": "img/nepal/cvRP.webp",
+     "mapsUrl": "https://maps.app.goo.gl/Qbamxsuj4icA8DFH7",
+     "width": 0.573,
+     "text": [
+      "This dirt track in a northwestbound valley can be recognised by the **snowcapped mountains** to the northwest. You can find it north of the Khaptad national park in western Nepal."
+     ]
+    },
+    {
+     "id": "cqVV",
+     "image": "img/nepal/cqVV.webp",
+     "mapsUrl": null,
+     "width": 0.573,
+     "text": [
+      "Trekker coverage in Nepal is limited to the **northeast** of the country, in the general area southwest of Mount Everest."
+     ]
+    },
+    {
+     "id": "tzvh",
+     "image": "img/nepal/tzvh.webp",
+     "mapsUrl": "https://goo.gl/maps/9vfo8WEyocrwFKW56",
+     "width": 0.573,
+     "text": [
+      "**Green forests** and trees are found in the southern parts of the Nepalese trekker coverage."
+     ]
+    },
+    {
+     "id": "5sld",
+     "image": "img/nepal/5sld.webp",
+     "mapsUrl": "https://goo.gl/maps/ZF5fSsqU6JZ5ywFk9",
+     "width": 0.573,
+     "text": [
+      "**Barren mountain trails** are found in the northern parts of the coverage."
+     ]
+    },
+    {
+     "id": "oEN0",
+     "image": "img/nepal/oEN0.webp",
+     "mapsUrl": "https://goo.gl/maps/2Wr74N91hiVmZGNw6",
+     "width": 0.573,
+     "text": [
+      "A lot of the coverage in the vicinity of Namche Bazar can be summarised as being sunny, with the trails going **close to the treeline**, meaning you will be either near the top of or just above a forest for most of this coverage. You will generally see barren or snowy mountains in some direction."
+     ]
+    },
+    {
+     "id": "KIyv",
+     "image": "img/nepal/KIyv.webp",
+     "mapsUrl": "https://goo.gl/maps/SAgi2e46wTXK9EAH6",
+     "width": 0.573,
+     "text": [
+      "Namche Bazar is by far the **largest** and **most densely populated** settlement with trekker coverage. There is also some coverage [looking down on the town](https://www.google.com/maps/@27.8056067,86.71193,2a,90y,112.78h,82.14t/data=!3m6!1e1!3m4!1s9HNBGJ7FGOq9a4fOPyvWcg!2e0!7i13312!8i6656?entry=ttu)."
+     ]
+    },
+    {
+     "id": "m56H",
+     "image": "img/nepal/m56H.webp",
+     "mapsUrl": "https://goo.gl/maps/NKg8MNMt5L2qTQMAA",
+     "width": 0.573,
+     "text": [
+      "The southernmost trekker coverage is situated in the town of Lukla, which can be recognised by the narrow street with relatively large buildings, combined with the **extremely dark coverage**."
+     ]
+    },
+    {
+     "id": "ansC",
+     "image": "img/nepal/ansC.webp",
+     "mapsUrl": "https://goo.gl/maps/s1xTGhTwUgKi5Q4E9",
+     "width": 0.573,
+     "text": [
+      "Khumjung village, situated just north of Namche Bazar, can be recognised by the **jagged mountain** towering above the village. Almost every house in the village has a **green roof**.",
+      "Beware that there is a label for Khumjung further north, which is not close to the village."
+     ]
+    },
+    {
+     "id": "h60b",
+     "image": "img/nepal/h60b.webp",
+     "mapsUrl": "https://goo.gl/maps/qUazKZ328Cs8CEz49",
+     "width": 0.573,
+     "text": [
+      "Pangboche is a fairly large settlement with fairly bright coverage. The surrounding landscape mainly consists of **forested mountains** nearby and some taller mountains in the distance."
+     ]
+    },
+    {
+     "id": "FSi3",
+     "image": "img/nepal/FSi3.webp",
+     "mapsUrl": "https://goo.gl/maps/DKb8tcDEqDXu3BMb8",
+     "width": 0.573,
+     "text": [
+      "Phorste is a fairly scarcely built settlement with a massive **recognizable mountain** close by. There are a lot of dead-looking trees surrounding the village."
+     ]
+    },
+    {
+     "id": "15gH",
+     "image": "img/nepal/15gH.webp",
+     "mapsUrl": "https://goo.gl/maps/YPYHpBg9XQq9X3vt9",
+     "width": 0.573,
+     "text": [
+      "Around the southern tip of the Nepalese trekker coverage, you will get this **dark**, overcast coverage inside a forested valley."
+     ]
+    },
+    {
+     "id": "13Id",
+     "image": "img/nepal/13Id.webp",
+     "mapsUrl": "https://goo.gl/maps/QQWRuNgYsfRodesC6",
+     "width": 0.573,
+     "text": [
+      "North of Phakding you will get more overcast coverage in the same forest valley, however here the coverage is **far brighter**."
+     ]
+    },
+    {
+     "id": "LKPy",
+     "image": "img/nepal/LKPy.webp",
+     "mapsUrl": "https://goo.gl/maps/uMvURN13Gp1KezaF6",
+     "width": 0.573,
+     "text": [
+      "The coverage from Monjo up to Namche Bazar is also within the same valley, however here the coverage is mostly **sunny** and bright."
+     ]
+    },
+    {
+     "id": "lNEk",
+     "image": "img/nepal/lNEk.webp",
+     "mapsUrl": "https://goo.gl/maps/cFHsryriG78Zggdt6",
+     "width": 0.573,
+     "text": [
+      "The valley by Thamu can be recognised by the generally forested mountainsides, combined with the **angle of the valley**, going northwest to southeast."
+     ]
+    },
+    {
+     "id": "Ipk5",
+     "image": "img/nepal/Ipk5.webp",
+     "mapsUrl": "https://goo.gl/maps/eD6jwkiKLKpW4MK47",
+     "width": 0.573,
+     "text": [
+      "Next to the village of Thame you can see this snowy, and **shining bright** mountain range."
+     ]
+    },
+    {
+     "id": "QPNM",
+     "image": "img/nepal/QPNM.webp",
+     "mapsUrl": "https://goo.gl/maps/UoaE3kVHV4biFUna9",
+     "width": 0.573,
+     "text": [
+      "Northeast of Namche Bazar, you can find this **semi-green river valley** with clouds covering all mountains surrounding it."
+     ]
+    },
+    {
+     "id": "Dg6E",
+     "image": "img/nepal/Dg6E.webp",
+     "mapsUrl": "https://goo.gl/maps/1cuEKevteRjsejB18",
+     "width": 0.573,
+     "text": [
+      "On a section north of Phorste, you get a view of the mountain Tobuche, covered in a **blanket of clouds**."
+     ]
+    },
+    {
+     "id": "6zi1",
+     "image": "img/nepal/6zi1.webp",
+     "mapsUrl": "https://goo.gl/maps/ovkqXzQTNCSKsjNu9",
+     "width": 0.573,
+     "text": [
+      "Further north, the cloud blanket is replaced by **small, spotty clouds** somewhat resembling smoke coming out of chimneys."
+     ]
+    },
+    {
+     "id": "j2HS",
+     "image": "img/nepal/j2HS.webp",
+     "mapsUrl": "https://goo.gl/maps/PTwF4WDav41nTYhP7",
+     "width": 0.573,
+     "text": [
+      "Even further north, the clouds disappear completely, and you get a **clear view** of the Tobuche peak."
+     ]
+    },
+    {
+     "id": "cwQB",
+     "image": "img/nepal/cwQB.webp",
+     "mapsUrl": "https://goo.gl/maps/EhxYUxAtrKyZqiew9",
+     "width": 0.573,
+     "text": [
+      "Leaving Tobuche behind, you will find this small, **ice-covered lake**, right by Gokyo, with jagged mountains as a backdrop."
+     ]
+    },
+    {
+     "id": "jtSd",
+     "image": "img/nepal/jtSd.webp",
+     "mapsUrl": "https://goo.gl/maps/QCH8wGWKGLT62M6p7",
+     "width": 0.573,
+     "text": [
+      "North of the icy lake, you reach a barren landscape, with a trail going to the **north-north-west**."
+     ]
+    },
+    {
+     "id": "p93Y",
+     "image": "img/nepal/p93Y.webp",
+     "mapsUrl": "https://goo.gl/maps/sCLhAywQU1bCxrX87",
+     "width": 0.573,
+     "text": [
+      "East of Gokyo, you reach this **dried out glacial valley**, with bright grey rocks as far as you can see.",
+      "NOTE: This valley can less commonly be seen from the trail [north of Gokyo](https://goo.gl/maps/pnV63nxPuKLv6bhd7)."
+     ]
+    },
+    {
+     "id": "VYWX",
+     "image": "img/nepal/VYWX.webp",
+     "mapsUrl": "https://goo.gl/maps/KPpiHqKtXwuLAzbo9",
+     "width": 0.573,
+     "text": [
+      "East of the glacial valley, you get to a somewhat **red-coloured**, rugged mountainside **right next to the trail**."
+     ]
+    },
+    {
+     "id": "hHGC",
+     "image": "img/nepal/hHGC.webp",
+     "mapsUrl": "https://goo.gl/maps/6YVj61Qn5hs4iuqQ6",
+     "width": 0.573,
+     "text": [
+      "Leaving the red mountainside behind, you enter a somewhat **U-shaped valley**, going firmly upwards."
+     ]
+    },
+    {
+     "id": "fB1L",
+     "image": "img/nepal/fB1L.webp",
+     "mapsUrl": "https://goo.gl/maps/Bowp5b53RfTVxKsD7",
+     "width": 0.573,
+     "text": [
+      "Above the U-shaped valley, you get a view of this **spiky mountain range**. While there are some clouds around the peaks, they are mostly clearly visible."
+     ]
+    },
+    {
+     "id": "E2q2",
+     "image": "img/nepal/E2q2.webp",
+     "mapsUrl": "https://goo.gl/maps/Q5re48674nUFCnHF6",
+     "width": 0.573,
+     "text": [
+      "As you lose sight of the spiky mountains, you cross over a **glacier**, which is the largest patch of snow covered ground with coverage in the country."
+     ]
+    },
+    {
+     "id": "8v2z",
+     "image": "img/nepal/8v2z.webp",
+     "mapsUrl": "https://goo.gl/maps/JHv4WKCGFWkgLPPw8",
+     "width": 0.573,
+     "text": [
+      "The area east of the glacier can be recognised by the many **irregular clouds** spread across the sky and covering various mountain peaks."
+     ]
+    },
+    {
+     "id": "oMsb",
+     "image": "img/nepal/oMsb.webp",
+     "mapsUrl": "https://goo.gl/maps/spdNoJy7Mza1yvAR7",
+     "width": 0.573,
+     "text": [
+      "Further along the trail, you get this stunning **view over Tobuche** from the eastern side. The mountains get increasingly covered in clouds to the west."
+     ]
+    },
+    {
+     "id": "K8df",
+     "image": "img/nepal/K8df.webp",
+     "mapsUrl": "https://goo.gl/maps/SCdJgCEFrrvMkN9i8",
+     "width": 0.573,
+     "text": [
+      "Closing in on the final trek toward Everest, you get a view of this wide, **high-altitude river valley**."
+     ]
+    },
+    {
+     "id": "L7uv",
+     "image": "img/nepal/L7uv.webp",
+     "mapsUrl": "https://goo.gl/maps/TFv82ibiPmy4rCf19",
+     "width": 0.573,
+     "text": [
+      "Slightly east of Namche Bazar, you can find this very overcast trail following the mountainside. There are still some trees around, and the trail is noticeably **higher** above the valley than other overcast sections with trees."
+     ]
+    },
+    {
+     "id": "zxhL",
+     "image": "img/nepal/zxhL.webp",
+     "mapsUrl": "https://goo.gl/maps/b4enHp2Q6HPbJeCLA",
+     "width": 0.573,
+     "text": [
+      "East of the POI called ‘Deboche’, you get this very **overcast forest coverage**. The dirt here is very bright and sandy, which can help differentiate it from the southern trail."
+     ]
+    },
+    {
+     "id": "UiDS",
+     "image": "img/nepal/UiDS.webp",
+     "mapsUrl": "https://goo.gl/maps/HYKHY1GFrxVBukzU8",
+     "width": 0.573,
+     "text": [
+      "You can recognise the trail between Pangboche and Dingboche by the massive mountains, combined with the sun looking somewhat **hazy**."
+     ]
+    },
+    {
+     "id": "Zjaj",
+     "image": "img/nepal/Zjaj.webp",
+     "mapsUrl": "https://goo.gl/maps/EsMMmKtthqVTkFps5",
+     "width": 0.573,
+     "text": [
+      "North of Dingboche, you reach a high-altitude valley with very **low clouds** covering the sky and most of the surrounding mountains."
+     ]
+    },
+    {
+     "id": "fClz",
+     "image": "img/nepal/fClz.webp",
+     "mapsUrl": "https://goo.gl/maps/bdBxkXAkyhRmDNUH9",
+     "width": 0.573,
+     "text": [
+      "Closing in on Everest, you get this completely barren landscape, with the trail going to the **north-north-east**."
+     ]
+    },
+    {
+     "id": "TvYi",
+     "image": "img/nepal/TvYi.webp",
+     "mapsUrl": "https://goo.gl/maps/DvY5eT5Y2x7jHM9e7",
+     "width": 0.573,
+     "text": [
+      "Reaching the endpoint of the coverage, you finally get a stunning view of the world's tallest mountain, **Mount Everest**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "title": "Maps and resources",
+   "kind": "map",
+   "text": [
+    "GeoGuessr’s own official maps are not very good, for a variety of reasons. Plonk It recommends the following maps instead:",
+    "- **AI Gen Nepal** ([map link](https://www.geoguessr.com/maps/689cdc023c5ba8c7cb2a1506)) - AI generated map with 100k+ locations.",
+    "In addition, here are some resources to help you practise Nepal:",
+    "- **Plonk It Nepal **([map link](https://www.geoguessr.com/maps/694a06117e7100873f4ae9e9)) - This map contains locations for practising each meta in the Plonk It Nepal guide from step 2 to 3.",
+    "- **Nepal Districts quiz **([link)](https://helloquiz.app/quiz/76OmKMLxjr6Y) - Learn the Nepali districts in English.",
+    "- **Nepal Districts in Nepali quiz **([link](https://helloquiz.app/quiz/KA5eNZKO1il1)) - Learn the Nepali districts in Nepali.",
+    "- **Devanagari letters quiz **([link](https://helloquiz.app/quiz/ekWztxoVOoqZ)) - Learn to read Nepali."
+   ],
+   "extras": [],
+   "metas": []
+  }
+ ]
+}

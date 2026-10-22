@@ -1,0 +1,152 @@
+{
+ "slug": "sao-tome-and-principe",
+ "title": "São Tomé and Príncipe",
+ "code": "ST",
+ "continent": "Africa",
+ "hero": "img/sao-tome-and-principe/hero.webp",
+ "metaCount": 12,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying São Tomé & Príncipe",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/sao-tome-and-principe/0_st_summary.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "mteu",
+     "image": "img/sao-tome-and-principe/mteu.webp",
+     "mapsUrl": "https://goo.gl/maps/LTkTMgjD7rxFCcgE8",
+     "width": 0.5,
+     "text": [
+      "All the coverage was taken with a low quality camera that’s commonly referred to as “Shitcam”. The car will often be completely blurred, with a **very large blur** covering the back and a [somewhat smaller blur](https://goo.gl/maps/YfaEf11wuzdt3NYv8) covering the front.",
+      "NOTE: The coverage is a newer variant of shitcam, where the image is dimmer and hazier than the original shitcam primarily found in [India](https://maps.app.goo.gl/3MYW94icKvwhWTc66) and [Nigeria](https://maps.app.goo.gl/eETqUgMHvyiCR4di8)."
+     ]
+    },
+    {
+     "id": "EmV2",
+     "image": "img/sao-tome-and-principe/EmV2.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "**Portuguese** is the main language used on São Tomé and Príncipe."
+     ]
+    },
+    {
+     "id": "8u6S",
+     "image": "img/sao-tome-and-principe/8u6S.webp",
+     "mapsUrl": "https://goo.gl/maps/4ojwFdj6pSKUkbeF8",
+     "width": 0.5,
+     "text": [
+      "On top of the language, the Portuguese influence can also be seen in infrastructure, such as ladder poles and pedestrian signs with the same design as in Portugal."
+     ]
+    },
+    {
+     "id": "Iix7",
+     "image": "img/sao-tome-and-principe/Iix7.webp",
+     "mapsUrl": "https://goo.gl/maps/qjvx6rFCZPN7M3QdA",
+     "width": 0.5,
+     "text": [
+      "São Tomé and Príncipe are **tropical islands**, which are almost completely covered in rainforests. Banana plants are especially common throughout the islands."
+     ]
+    },
+    {
+     "id": "ij58",
+     "image": "img/sao-tome-and-principe/ij58.webp",
+     "mapsUrl": "https://maps.app.goo.gl/4VeKVBatyNNenp8y9",
+     "width": 0.5,
+     "text": [
+      "In many locations, you will notice a **slanted antenna** protruding from the side of the car."
+     ]
+    },
+    {
+     "id": "0mhZ",
+     "image": "img/sao-tome-and-principe/0mhZ.webp",
+     "mapsUrl": "https://goo.gl/maps/6x7TkiEeH4v4XSGL7",
+     "width": 0.5,
+     "text": [
+      "Some wooden poles are painted **blue **on the bottom. You can also read the letters **CST **on them."
+     ]
+    },
+    {
+     "id": "1MAM",
+     "image": "img/sao-tome-and-principe/1MAM.webp",
+     "mapsUrl": "https://maps.app.goo.gl/JkNYuG5P1kwrHWMa8",
+     "width": 0.5,
+     "text": [
+      "Taxis and minibuses are painted in a **bright yellow** colour."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Region-specific clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "oaFS",
+     "image": "img/sao-tome-and-principe/oaFS.webp",
+     "mapsUrl": "https://maps.app.goo.gl/rMu2eGbM2tD2KF719",
+     "width": 0.573,
+     "text": [
+      "This desaturated and even dimmer variant of shitcam is most common on Príncipe."
+     ]
+    },
+    {
+     "id": "YviS",
+     "image": "img/sao-tome-and-principe/YviS.webp",
+     "mapsUrl": "https://maps.app.goo.gl/gFGYZg3wL1LP4acT9",
+     "width": 0.573,
+     "text": [
+      "The car used on Príncipe can be recognised by the **blue** roof and silver roof rails.",
+      "NOTE: Remember that it can sometimes be blurred out."
+     ]
+    },
+    {
+     "id": "5DnQ",
+     "image": "img/sao-tome-and-principe/5DnQ.webp",
+     "mapsUrl": "https://maps.app.goo.gl/XNmPyAVxnjhpm81n7",
+     "width": 0.573,
+     "text": [
+      "The car used on São Tomé is **black** with black roof rails. In most locations, it is blurred out."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "1vUE",
+     "image": "img/sao-tome-and-principe/1vUE.webp",
+     "mapsUrl": "https://goo.gl/maps/13XwZpCMeKqxn6wG7",
+     "width": 0.573,
+     "text": [
+      "You can find **oil palm plantations** in southern São Tomé."
+     ]
+    },
+    {
+     "id": "5C59",
+     "image": "img/sao-tome-and-principe/5C59.webp",
+     "mapsUrl": "https://goo.gl/maps/1Aty7JQDMLYERf7N8",
+     "width": 0.573,
+     "text": [
+      "The town of Trinidade has poles with **red and white** pole paint."
+     ]
+    }
+   ]
+  }
+ ]
+}

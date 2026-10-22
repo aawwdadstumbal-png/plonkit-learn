@@ -1,0 +1,174 @@
+{
+ "slug": "us-minor-outlying-islands",
+ "title": "US Minor Outlying Islands",
+ "code": "UM-MQ",
+ "continent": "North America",
+ "hero": "img/us-minor-outlying-islands/hero.webp",
+ "metaCount": 15,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying the islands",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "N38T",
+     "image": "img/us-minor-outlying-islands/N38T.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "The US Minor Outlying Islands are a chain of islands that are US overseas territories. As such, it is counted as **the US** for country streak purposes.",
+      "The guide will be somewhat skewed towards the Midway Atoll, as that is the only island with pinpointable coverage.",
+      "NOTE: The easiest way to locate the Midway Atoll on the map is to zoom in slightly to the west of the North Pacific Ocean map label."
+     ]
+    },
+    {
+     "id": "72r4",
+     "image": "img/us-minor-outlying-islands/72r4.webp",
+     "mapsUrl": "https://goo.gl/maps/PJEEw73taHwJb65u7",
+     "width": 0.5,
+     "text": [
+      "The coverage on the Midway Atoll was made with a **Generation 2 camera**."
+     ]
+    },
+    {
+     "id": "RgPj",
+     "image": "img/us-minor-outlying-islands/RgPj.webp",
+     "mapsUrl": "https://goo.gl/maps/Kakx6BbTK2Mp61HV6",
+     "width": 0.5,
+     "text": [
+      "One of the most distinct features of the Midway atoll is the presence of multiple **albatrosses** on almost every single location."
+     ]
+    },
+    {
+     "id": "ware",
+     "image": "img/us-minor-outlying-islands/ware.webp",
+     "mapsUrl": "https://goo.gl/maps/hpfryhPkGfAgZqjn6",
+     "width": 0.5,
+     "text": [
+      "A large part of the coverage on the Midway Atoll was taken on two **runways**, which are the only areas where it can be difficult to spot the albatrosses."
+     ]
+    },
+    {
+     "id": "9Msy",
+     "image": "img/us-minor-outlying-islands/9Msy.webp",
+     "mapsUrl": "https://goo.gl/maps/YALv3V46aVBbjXds8",
+     "width": 0.5,
+     "text": [
+      "The islands other than the Midway Atoll can generally be characterised by three things. Firstly, the **Generation 3 trekker** coverage. Secondly, the low, **bushy** vegetation, and thirdly, the presence of numerous **birds**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Region-specific clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "9k4l",
+     "image": "img/us-minor-outlying-islands/9k4l.webp",
+     "mapsUrl": "https://goo.gl/maps/F9kQ53oULpwe9pna7",
+     "width": 0.573,
+     "text": [
+      "A **nicely paved runway** can be seen going west to east on the southern side of the Midway Atoll."
+     ]
+    },
+    {
+     "id": "vizw",
+     "image": "img/us-minor-outlying-islands/vizw.webp",
+     "mapsUrl": "https://goo.gl/maps/9LnkL81nBAfS9Qym8",
+     "width": 0.573,
+     "text": [
+      "A **poorly paved runway** can be seen going north to south on the Midway Atoll. The pavement gets increasingly poor to the [north](https://goo.gl/maps/d45BgC8WQFuxeAE67)."
+     ]
+    },
+    {
+     "id": "ytJi",
+     "image": "img/us-minor-outlying-islands/ytJi.webp",
+     "mapsUrl": "https://goo.gl/maps/hokkxYeomeYi5MPq7",
+     "width": 0.573,
+     "text": [
+      "On the eastern side of the Midway Atoll, you can find a **small village**."
+     ]
+    },
+    {
+     "id": "UJW5",
+     "image": "img/us-minor-outlying-islands/UJW5.webp",
+     "mapsUrl": "https://goo.gl/maps/1z9K9Q9iAftdDTTz6",
+     "width": 0.573,
+     "text": [
+      "Southeast Island is arguably the least distinctive island in the chain. It has a small lake near the centre, and a large amount of birds in the sky."
+     ]
+    },
+    {
+     "id": "KERJ",
+     "image": "img/us-minor-outlying-islands/KERJ.webp",
+     "mapsUrl": "https://goo.gl/maps/F5psr4siuK3fiKR9A",
+     "width": 0.573,
+     "text": [
+      "Lisianski Island only has coverage right by the shore and can typically be recognised by the **large bushes** going around the entire island."
+     ]
+    },
+    {
+     "id": "FXcL",
+     "image": "img/us-minor-outlying-islands/FXcL.webp",
+     "mapsUrl": "https://goo.gl/maps/cNLCGPvTvqv7LjXk8",
+     "width": 0.573,
+     "text": [
+      "Laysan Island is the only island in the chain where the coverage has almost **no clouds**."
+     ]
+    },
+    {
+     "id": "mjUK",
+     "image": "img/us-minor-outlying-islands/mjUK.webp",
+     "mapsUrl": "https://goo.gl/maps/K6ZksuXBqhnuJbYs9",
+     "width": 0.573,
+     "text": [
+      "The French Frigate Shoals is a fairly long and thin island with a shabby-looking runway. The island has by far the **largest number of birds** out of all islands in the chain."
+     ]
+    },
+    {
+     "id": "RIgw",
+     "image": "img/us-minor-outlying-islands/RIgw.webp",
+     "mapsUrl": "https://goo.gl/maps/oMVSWipvpK1mcT3U8",
+     "width": 0.573,
+     "text": [
+      "East Island is the **smallest** island in the chain. There is barely any vegetation and you can see the ocean in all directions."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "mgq8",
+     "image": "img/us-minor-outlying-islands/mgq8.webp",
+     "mapsUrl": "https://goo.gl/maps/i9mxerD8Z3eBzGQF7",
+     "width": 0.573,
+     "text": [
+      "The western corner of the Midway Atoll runway is arguably the **most common location** on the official Geoguessr world map and may thus be worth remembering, particularly for a newer player."
+     ]
+    },
+    {
+     "id": "PVL3",
+     "image": "img/us-minor-outlying-islands/PVL3.webp",
+     "mapsUrl": "https://goo.gl/maps/gFcW5YXhgnCPArG6A",
+     "width": 0.573,
+     "text": [
+      "Eastern Island, situated right next to the Midway Atoll, has two small areas of low-quality **tripod coverage**. It does not have any other official coverage."
+     ]
+    }
+   ]
+  }
+ ]
+}

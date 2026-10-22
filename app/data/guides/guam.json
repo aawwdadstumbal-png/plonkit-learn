@@ -1,0 +1,153 @@
+{
+ "slug": "guam",
+ "title": "Guam",
+ "code": "GU",
+ "continent": "Oceania",
+ "hero": "img/guam/hero.webp",
+ "metaCount": 12,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Guam",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/guam/0_gu_summary.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "w6da",
+     "image": "img/guam/w6da.webp",
+     "mapsUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Guam_in_Oceania_%28-mini_map_-rivers%29.svg/2388px-Guam_in_Oceania_%28-mini_map_-rivers%29.svg.png",
+     "width": 0.5,
+     "text": [
+      "Guam is a United States overseas territory. As such, it is counted as **the US** for country streaks purposes."
+     ]
+    },
+    {
+     "id": "KSIf",
+     "image": "img/guam/KSIf.webp",
+     "mapsUrl": "https://goo.gl/maps/VRiC7utYWhZZjnsm9",
+     "width": 0.5,
+     "text": [
+      "The entire Google car is blurred, however an **antenna** at the front right and a tiny part of the **roof rack** can be seen.",
+      "NOTE: You will not see a roof rack on the Northern Mariana Islands Google car."
+     ]
+    },
+    {
+     "id": "04NE",
+     "image": "img/guam/04NE.webp",
+     "mapsUrl": "https://goo.gl/maps/jPup4bbtnzrAwtpM7",
+     "width": 0.5,
+     "text": [
+      "Poles on Guam are almost always **concrete** and commonly very thick.",
+      "NOTE: Northern Mariana Islands typically have wooden poles."
+     ]
+    },
+    {
+     "id": "Gyzt",
+     "image": "img/guam/Gyzt.webp",
+     "mapsUrl": "https://goo.gl/maps/FCLP4g95945UNCAs8",
+     "width": 0.5,
+     "text": [
+      "Guam uses **green** street signs, unlike the Northern Mariana Islands, which use blue street signs."
+     ]
+    },
+    {
+     "id": "a1Iu",
+     "image": "img/guam/a1Iu.webp",
+     "mapsUrl": "https://goo.gl/maps/dquWaVahW6qV5rSY8",
+     "width": 0.5,
+     "text": [
+      "Guam has a **tropical climate** with a lot of dense and somewhat low vegetation."
+     ]
+    },
+    {
+     "id": "793A",
+     "image": "img/guam/793A.webp",
+     "mapsUrl": "https://goo.gl/maps/rV74Bk4bBnfL1emp9",
+     "width": 0.5,
+     "text": [
+      "Both Guam and Northern Mariana Islands often have a very **large number** of **road reflectors**."
+     ]
+    },
+    {
+     "id": "eTI3",
+     "image": "img/guam/eTI3.webp",
+     "mapsUrl": "https://goo.gl/maps/5nqPw4zR28Bqm25w5",
+     "width": 0.5,
+     "text": [
+      "**East Asian languages** such as Japanese, Chinese, Korean, and even Russian are common to see in Guam.",
+      "NOTE: This is also the case in Northern Mariana Islands."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "I0mE",
+     "image": "img/guam/I0mE.webp",
+     "mapsUrl": null,
+     "width": 0.5,
+     "text": [
+      "Coverage in Guam is fairly limited, particularly in the southern half, where there is almost no coverage inland."
+     ]
+    },
+    {
+     "id": "qvj3",
+     "image": "img/guam/qvj3.webp",
+     "mapsUrl": "https://maps.app.goo.gl/542NLfJXbMdfNzQE9",
+     "width": 0.573,
+     "text": [
+      "**Hills** are mostly found on the southern half of the island."
+     ]
+    },
+    {
+     "id": "59r8",
+     "image": "img/guam/59r8.webp",
+     "mapsUrl": "https://maps.app.goo.gl/FTkRJj1AEnDoWnwP8",
+     "width": 0.573,
+     "text": [
+      "Similarly, the northern half of the island is mostly **flat**."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "title": "Spotlight",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "hxXB",
+     "image": "img/guam/hxXB.webp",
+     "mapsUrl": "https://maps.app.goo.gl/AKPVwkAEFB5Wjyes6",
+     "width": 0.573,
+     "text": [
+      "Some Signposts near the town of Apra View are coloured **yellow**."
+     ]
+    },
+    {
+     "id": "D0Zu",
+     "image": "img/guam/D0Zu.webp",
+     "mapsUrl": "https://goo.gl/maps/mXQvkj25qFMZJRJR8",
+     "width": 0.573,
+     "text": [
+      "LeoPalace Resort can be recognised by the white, resort buildings with **orange tiled roofs**, which looks superficially similar to tiled roofs found on [Java](https://goo.gl/maps/E6P4UxfQsHz8wZoe7)."
+     ]
+    }
+   ]
+  }
+ ]
+}

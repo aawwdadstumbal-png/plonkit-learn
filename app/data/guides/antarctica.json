@@ -1,0 +1,216 @@
+{
+ "slug": "antarctica",
+ "title": "Antarctica",
+ "code": "AQ",
+ "continent": "Antarctica",
+ "hero": "img/antarctica/hero.webp",
+ "metaCount": 20,
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Identifying Antarctica",
+   "kind": "tip",
+   "text": [],
+   "extras": [
+    {
+     "kind": "centeredImage",
+     "imageUrl": "/images/antarctica/0_aq_summary.png"
+    }
+   ],
+   "metas": [
+    {
+     "id": "sUvL",
+     "image": "img/antarctica/sUvL.webp",
+     "mapsUrl": "https://goo.gl/maps/WdvUjKikrvCAbKnTA",
+     "width": 0.5,
+     "text": [
+      "Most of Antarctica is covered in **snow and ice**."
+     ]
+    },
+    {
+     "id": "cZIY",
+     "image": "img/antarctica/cZIY.webp",
+     "mapsUrl": "https://goo.gl/maps/rX871TMMebN15wqg9",
+     "width": 0.5,
+     "text": [
+      "The soil will always be **dark**."
+     ]
+    },
+    {
+     "id": "MJ6N",
+     "image": "img/antarctica/MJ6N.webp",
+     "mapsUrl": "https://goo.gl/maps/aAvFMEQ8jfkek3M88",
+     "width": 0.5,
+     "text": [
+      "**Penguins** can be found on parts of the coverage.",
+      "NOTE: This is mostly useful to exclude coverage in the Arctics."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "title": "Regional clues",
+   "kind": "tip",
+   "text": [],
+   "extras": [],
+   "metas": [
+    {
+     "id": "M09G",
+     "image": "img/antarctica/M09G.webp",
+     "mapsUrl": "https://goo.gl/maps/FSAzovZcXiTLsyHL6",
+     "width": 0.5,
+     "text": [
+      "Half Moon Island was covered by a **tripod**. It can also be recognized by the numerous other people in red jackets."
+     ]
+    },
+    {
+     "id": "5eul",
+     "image": "img/antarctica/5eul.webp",
+     "mapsUrl": "https://goo.gl/maps/Gj7cPhS9x5U15ugp6",
+     "width": 0.5,
+     "text": [
+      "The **Deception Island Bay** can be recognized by the blue and white ship in the bay, and the abandoned equipment on the beach."
+     ]
+    },
+    {
+     "id": "LHa5",
+     "image": "img/antarctica/LHa5.webp",
+     "mapsUrl": "https://goo.gl/maps/swvB96kQYetBxFwy8",
+     "width": 0.5,
+     "text": [
+      "The trekker can be seen **walking in a line **on Deception Island."
+     ]
+    },
+    {
+     "id": "H2qs",
+     "image": "img/antarctica/H2qs.webp",
+     "mapsUrl": "https://goo.gl/maps/sqvn11NCvto2voh6A",
+     "width": 0.5,
+     "text": [
+      "A beach with **black sand** and many penguins can be seen on Deception Island."
+     ]
+    },
+    {
+     "id": "z5y4",
+     "image": "img/antarctica/z5y4.webp",
+     "mapsUrl": "https://goo.gl/maps/MM4jjEUWScfLfeaRA",
+     "width": 0.5,
+     "text": [
+      "Cuverville Island can be recognised by the overcast weather combined with the coastline to the **northwest**. You’ll also see a decent number of penguins, particularly [toward the east](https://goo.gl/maps/EVEBMqPQCrBaeptV6)."
+     ]
+    },
+    {
+     "id": "Xp1t",
+     "image": "img/antarctica/Xp1t.webp",
+     "mapsUrl": "https://goo.gl/maps/gBuhotZS2bQfrf3K7",
+     "width": 0.5,
+     "text": [
+      "Danco Island can be recognised by the **beautiful sunset coverage** over a snowy fjord."
+     ]
+    },
+    {
+     "id": "DonF",
+     "image": "img/antarctica/DonF.webp",
+     "mapsUrl": "https://goo.gl/maps/WUnCLoJWf27e4EUv8",
+     "width": 0.5,
+     "text": [
+      "Petermann Island can be recognized by the layer of snow with patches of **exposed rocks**, and the overexposed camera."
+     ]
+    },
+    {
+     "id": "267M",
+     "image": "img/antarctica/267M.webp",
+     "mapsUrl": "https://goo.gl/maps/q1ELtwJAtkANiymK8",
+     "width": 0.5,
+     "text": [
+      "The coverage at the western tip of Ross Island can typically be recognised by the extremely dark, and mostly barren, **rocky soil**."
+     ]
+    },
+    {
+     "id": "xy6q",
+     "image": "img/antarctica/xy6q.webp",
+     "mapsUrl": "https://goo.gl/maps/uPXAtuGAxSUEUy9k6",
+     "width": 0.5,
+     "text": [
+      "A tripod featuring the exterior and [interior](https://goo.gl/maps/s9oJFd4Q8Vuretn89) of a small wooden cabin with a **grey metal roof **can be found south of the eastern tip of Ross Island."
+     ]
+    },
+    {
+     "id": "H9Ii",
+     "image": "img/antarctica/H9Ii.webp",
+     "mapsUrl": "https://goo.gl/maps/v1NYrq3KVTwiQoSH6",
+     "width": 0.5,
+     "text": [
+      "McMurdo Station is the largest research station on Antarctica, and can be recognized by the **dark brown soil**, **many buildings**, American infrastructure and sunset coverage.",
+      "NOTE: A lot of the coverage around McMurdo Station has the sun setting in the south, which shouldn’t lead you to guess in the northern hemisphere."
+     ]
+    },
+    {
+     "id": "zOhv",
+     "image": "img/antarctica/zOhv.webp",
+     "mapsUrl": "https://goo.gl/maps/HcARGup685XbAc4FA",
+     "width": 0.5,
+     "text": [
+      "You can also find tripod coverage inside [several](https://goo.gl/maps/Pa8CQWgr7CmcTBvt7) [buildings](https://goo.gl/maps/JLbjTgt5ibVGp7SF8) at McMurdo Station."
+     ]
+    },
+    {
+     "id": "WeDn",
+     "image": "img/antarctica/WeDn.webp",
+     "mapsUrl": "https://goo.gl/maps/NizvjKX7WiCXrc2VA",
+     "width": 0.5,
+     "text": [
+      "On the eastern side of McMurdo Station you can find a small wooden cabin, having a [tripod going inside](https://goo.gl/maps/LfHyR3gHdYmXM7TBA)."
+     ]
+    },
+    {
+     "id": "6UVj",
+     "image": "img/antarctica/6UVj.webp",
+     "mapsUrl": "https://goo.gl/maps/hTguZarvbp4eNazB7",
+     "width": 0.5,
+     "text": [
+      "Southeast of McMurdo station, the trekker can be seen walking on a layer of ice around **various machinery**."
+     ]
+    },
+    {
+     "id": "ppwM",
+     "image": "img/antarctica/ppwM.webp",
+     "mapsUrl": "https://goo.gl/maps/p1n1tgcGbNEa3J5fA",
+     "width": 0.5,
+     "text": [
+      "The trekker can be seen walking through a fantastical landscape consisting of many **desolate valleys** on mainland Antarctica, west of Ross Island."
+     ]
+    },
+    {
+     "id": "Vkbp",
+     "image": "img/antarctica/Vkbp.webp",
+     "mapsUrl": "https://goo.gl/maps/3w5rtf8c1hvmRAZo9",
+     "width": 0.5,
+     "text": [
+      "A **vast, snowy landscape **with spread out hills can be seen south of McMurdo station."
+     ]
+    },
+    {
+     "id": "gvxD",
+     "image": "img/antarctica/gvxD.webp",
+     "mapsUrl": "https://goo.gl/maps/bPnDUuJDiiSAtmoY6",
+     "width": 0.5,
+     "text": [
+      "The tripod at the **south pole** can be recognized by numerous countries’ flags around the tripod, and a sign with ‘Geographic South Pole’ written on it.",
+      "This location is often on community-made world maps for a better scoring range."
+     ]
+    },
+    {
+     "id": "J7ki",
+     "image": "img/antarctica/J7ki.webp",
+     "mapsUrl": "https://goo.gl/maps/tubFheZLxov1FxXz9",
+     "width": 0.5,
+     "text": [
+      "The South Pole Observatory has tripod coverage going around and inside of it."
+     ]
+    }
+   ]
+  }
+ ]
+}
