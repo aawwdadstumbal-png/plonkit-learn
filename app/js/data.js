@@ -10,12 +10,21 @@ export function createDataClient({ base = '', fetchImpl = fetch } = {}) {
   let indexPromise = null;
   const guides = new Map();
 
-  async function getJson(url) {
-    const response = await fetchImpl(url);
+  // The paths are relative to the document, so the app works from a
+  // subdirectory as well as from the root. A base is a path prefix, and it
+  // is joined with exactly one slash.
+  const url = (path) => {
+    const prefix = String(base).replace(/\/+$/, '');
+    return prefix ? `${prefix}/${path}` : path;
+  };
+
+  async function getJson(path) {
+    const target = url(path);
+    const response = await fetchImpl(target);
     if (!response || !response.ok) {
       const status = response ? response.status : 'no response';
       const text = response ? response.statusText : '';
-      throw new Error(`could not load ${url} (${status} ${text})`);
+      throw new Error(`could not load ${target} (${status} ${text})`);
     }
     return response.json();
   }
@@ -24,7 +33,7 @@ export function createDataClient({ base = '', fetchImpl = fetch } = {}) {
     /** The country list. Fetched once. */
     index() {
       if (!indexPromise) {
-        indexPromise = getJson(`${base}/data/index.json`).catch((error) => {
+        indexPromise = getJson('data/index.json').catch((error) => {
           indexPromise = null;
           throw error;
         });
@@ -35,7 +44,7 @@ export function createDataClient({ base = '', fetchImpl = fetch } = {}) {
     /** One guide. Fetched once per slug. */
     guide(slug) {
       if (!guides.has(slug)) {
-        const promise = getJson(`${base}/data/guides/${slug}.json`).catch((error) => {
+        const promise = getJson(`data/guides/${slug}.json`).catch((error) => {
           guides.delete(slug);
           throw error;
         });

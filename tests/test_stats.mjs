@@ -61,6 +61,38 @@ test('the data client builds the guide url from the base', async () => {
   assert.equal(urls[0], '/plonkit-learn/data/guides/japan.json');
 });
 
+test('the data client uses relative paths by default', async () => {
+  // An absolute path from the origin root breaks the app on GitHub Pages,
+  // where it is served from a subdirectory.
+  const urls = [];
+  const client = createDataClient({
+    fetchImpl: async (url) => {
+      urls.push(url);
+      return { ok: true, json: async () => ({}) };
+    },
+  });
+  await client.index();
+  await client.guide('japan');
+  assert.equal(urls[0], 'data/index.json');
+  assert.equal(urls[1], 'data/guides/japan.json');
+  for (const url of urls) {
+    assert.ok(!url.startsWith('/'), `${url} must be relative`);
+  }
+});
+
+test('a base with a trailing slash is joined with one slash', async () => {
+  const urls = [];
+  const client = createDataClient({
+    base: '/plonkit-learn/',
+    fetchImpl: async (url) => {
+      urls.push(url);
+      return { ok: true, json: async () => ({}) };
+    },
+  });
+  await client.index();
+  assert.equal(urls[0], '/plonkit-learn/data/index.json');
+});
+
 test('the data client throws on a failed response', async () => {
   const client = createDataClient({
     base: '',
