@@ -109,12 +109,26 @@ def is_webp(data):
 # --------------------------------------------------------------------------
 
 
+LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+URL_RE = re.compile(r"https?://\S+")
+
+
 def normalise(text):
-    """Lowercased word set with the markdown punctuation removed."""
+    """Lowercased word set with the markdown punctuation removed.
+
+    A markdown link is reduced to its label and a bare URL is dropped
+    entirely. The live guide text carries the raw markdown, so its word set
+    would otherwise be inflated with the words inside every link URL, while
+    the archive holds the same text already rendered, with the URL in an
+    attribute rather than in the text. Stripping them makes the two sides
+    comparable.
+    """
     if not text:
         return set()
-    cleaned = text.replace("**", " ").replace("__", " ").replace("`", " ")
-    cleaned = cleaned.replace("*", " ").replace("_", " ")
+    cleaned = LINK_RE.sub(r"\1", text)
+    cleaned = URL_RE.sub(" ", cleaned)
+    for mark in ("**", "__", "`", "*", "_"):
+        cleaned = cleaned.replace(mark, " ")
     words = re.split(r"[^0-9A-Za-z]+", cleaned.lower())
     return {w for w in words if len(w) >= 3}
 
@@ -257,7 +271,11 @@ def run_tier1(only=None):
 
 MAX_DIM = 1000
 QUALITY = 78
-BACKOFF = (30, 60, 120, 240)
+# The host rate-limits hard. A 429 is worth waiting for, but only for so
+# long: the run is resumable, so a skipped image is cheaper than a long
+# stall on one of them.
+BACKOFF = (60, 180)
+IMAGE_SLEEP = 4.0
 
 
 def downscale(raw, max_dim=MAX_DIM, quality=QUALITY):
@@ -280,7 +298,7 @@ def downscale(raw, max_dim=MAX_DIM, quality=QUALITY):
         raise ValueError(f"not a usable image: {error}") from error
 
 
-def fetch_image(url, referer=REFERER, timeout=45, attempts=4):
+def fetch_image(url, referer=REFERER, timeout=45, attempts=3):
     """GET an image. Returns the bytes, or None if the host never gave them up.
 
     The host answers 403 unless the Referer is the site root **with a
@@ -331,7 +349,7 @@ def upstream_image_urls(slug):
     return urls, public.get("heroImage")
 
 
-def tier2(guide, out_dir, sleep=2.5, referer=REFERER):
+def tier2(guide, out_dir, sleep=IMAGE_SLEEP, referer=REFERER):
     """Fetch every image the guide needs that is not on disk yet.
 
     Returns (written, failed).

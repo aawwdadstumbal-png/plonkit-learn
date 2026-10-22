@@ -35,6 +35,23 @@ class NormaliseTests(unittest.TestCase):
     def test_normalise_drops_marks_and_underscores(self):
         self.assertEqual(build_images.normalise("_italic_ text"), {"italic", "text"})
 
+    def test_normalise_reduces_a_link_to_its_label(self):
+        # The live guide text carries raw markdown with a long URL, while the
+        # archive holds the same text rendered, with the URL in an attribute.
+        # If the URL is not stripped the two word sets are not comparable.
+        words = build_images.normalise(
+            "see [the islands](https://th.bing.com/th/id/R.7efa01a909fe9fb8de92cac3188595c5?x=1) here"
+        )
+        self.assertIn("islands", words)
+        self.assertNotIn("bing", words)
+        self.assertNotIn("efaa01a909fe9fb8de92cac3188595c5", words)
+
+    def test_normalise_drops_a_bare_url(self):
+        words = build_images.normalise("go to https://maps.example.com/thing now")
+        self.assertNotIn("maps", words)
+        self.assertNotIn("example", words)
+        self.assertIn("now", words)
+
 
 class SimilarityTests(unittest.TestCase):
     def test_similarity_is_one_for_identical_text(self):
