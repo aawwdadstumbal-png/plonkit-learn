@@ -66,7 +66,7 @@ def request(path, timeout=45):
         return None, b"", None
 
 
-def warm(pairs, sleep=0.4):
+def warm(pairs, sleep=0.4, on_hit=None):
     hits = 0
     misses = 0
     for index, (slug, meta_id, path) in enumerate(pairs):
@@ -78,6 +78,8 @@ def warm(pairs, sleep=0.4):
             if not out.exists():
                 out.parent.mkdir(parents=True, exist_ok=True)
                 out.write_bytes(downscale(body))
+                if on_hit:
+                    on_hit(slug, meta_id)
         else:
             misses += 1
         if (index + 1) % 25 == 0:
@@ -91,6 +93,13 @@ def warm(pairs, sleep=0.4):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--fetch", action="store_true", help="also save anything that is cached")
+    parser.add_argument(
+        "--delay",
+        type=float,
+        default=0.4,
+        help="seconds between requests. The host asks for about 2000, and "
+        "asking for the same object again sooner may restart that wait.",
+    )
     args = parser.parse_args()
 
     pairs = missing_images()
@@ -98,10 +107,10 @@ def main():
     if not pairs:
         return 0
 
-    warm(pairs)
+    warm(pairs, sleep=args.delay)
 
     if args.fetch:
-        warm(pairs, sleep=0.2)
+        warm(pairs, sleep=args.delay)
     return 0
 
 
