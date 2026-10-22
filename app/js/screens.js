@@ -6,7 +6,7 @@
  */
 
 import { el, clear, mount } from './dom.js';
-import { countryProgress } from './stats.js';
+import { countryProgress, summarise } from './stats.js';
 import { renderMarkdown, splitNoteParagraphs } from './md.js';
 import { buildOptions, buildPool, scoreAnswer } from './quiz.js';
 import { review as srsReview } from './srs.js';
@@ -21,8 +21,9 @@ export function showToast(message, ms = 1800) {
 }
 
 /**
- * Ask the service worker to cache a set of countries for offline use.
- * The callback receives how many files have been saved so far.
+ * Ask the service worker to cache guides for offline use.
+ * `slugs` of null means every country. The callback receives how many files
+ * have been saved so far.
  */
 export function requestOffline(slugs, onProgress) {
   const worker = navigator.serviceWorker && navigator.serviceWorker.controller;
@@ -39,6 +40,50 @@ export function requestOffline(slugs, onProgress) {
     }
   };
   worker.postMessage({ type: 'prefetch', slugs }, [channel.port2]);
+}
+
+/**
+ * The metas worth revisiting: the ones whose review is due, and the ones the
+ * user starred. Both are keyed the way the store keys them.
+ */
+export function collectReviewItems({ index, store, now = Date.now() }) {
+  const titles = new Map((index || []).map((entry) => [entry.slug, entry.title]));
+  const due = [];
+  const starred = [];
+
+  for (const [key, srsState] of store.srsEntries()) {
+    const dueAt = Number(srsState && srsState.due) || 0;
+    if (!dueAt || dueAt > now) continue;
+    const [slug, metaId] = splitKey(key);
+    if (!titles.has(slug)) continue;
+    due.push({ key, slug, metaId, country: titles.get(slug) });
+  }
+
+  for (const key of store.bookmarkedKeys()) {
+    const [slug, metaId] = splitKey(key);
+    if (!titles.has(slug)) continue;
+    starred.push({ key, slug, metaId, country: titles.get(slug) });
+  }
+
+  const byName = (a, b) => a.country.localeCompare(b.country) || a.metaId.localeCompare(b.metaId);
+  due.sort(byName);
+  starred.sort(byName);
+  return { due, starred };
+}
+
+function splitKey(key) {
+  const at = String(key).indexOf(':');
+  if (at < 0) return [String(key), ''];
+  return [String(key).slice(0, at), String(key).slice(at + 1)];
+}
+
+/** The name the progress export is saved under. */
+export function exportFilename(now = Date.now()) {
+  const date = new Date(now);
+  const pad = (n) => String(n).padStart(2, '0');
+  return `plonkit-learn-progress-${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(
+    date.getDate(),
+  )}.json`;
 }
 
 /**
@@ -757,9 +802,247 @@ export function createScreens({ store, data, router, container }) {
     drawQuestion();
   };
 
-  screens.stats = stub('Stats');
-  screens.review = stub('Review');
-  screens.settings = stub('Settings');
+  screens.stats = async () => {
+    begin();
+    const index = await data.index();
+    const summary = summarise({ history: store.history(), index, store });
+
+    const accuracy = summary.accuracy === null ? 'no answers yet' : `${Math.round(summary.accuracy * 100)}%`;
+
+    const statRow = el('div', { className: 'stat-row' }, [
+      el('div', { className: 'stat' }, [
+        el('div', { className: 'value', text: String(summary.totalSeen), data: { testid: 'stats-total' } }),
+        el('div', { className: 'label', text: `metas seen of ${summary.totalMetas}` }),
+      ]),
+      el('div', { className: 'stat' }, [
+        el('div', { className: 'value', text: accuracy, data: { testid: 'stats-accuracy' } }),
+        el('div', { className: 'label', text: 'accuracy' }),
+      ]),
+      el('div', { className: 'stat' }, [
+        el('div', { className: 'value', text: String(summary.streak.current) }),
+        el('div', { className: 'label', text: `streak, best ${summary.streak.best}` }),
+      ]),
+      el('div', { className: 'stat' }, [
+        el('div', { className: 'value', text: String(summary.dueCount) }),
+        el('div', { className: 'label', text: 'reviews due' }),
+      ]),
+    ]);
+
+    const weakest = el('div', { className: 'list', data: { testid: 'stats-weakest' } });
+    if (summary.weakest.length) {
+      for (const country of summary.weakest) {
+        weakest.appendChild(
+          el('div', { className: 'list-row' }, [
+            el('a', { className: 'grow', href: `#/country/${country.slug}`, text: country.title }),
+            el('span', {
+              className: `chip ${country.accuracy >= 0.5 ? 'good' : 'bad'}`,
+              text: `${Math.round(country.accuracy * 100)}% of ${country.attempts}`,
+            }),
+          ]),
+        );
+      }
+    } else {
+      weakest.appendChild(
+        el('p', {
+          className: 'empty',
+          text: 'Answer at least five questions in a country to see it listed here.',
+        }),
+      );
+    }
+
+    const table = el('table', { className: 'table' }, [
+      el('thead', {}, [
+        el('tr', {}, [
+          el('th', { text: 'Country' }),
+          el('th', { className: 'num', text: 'Seen' }),
+          el('th', { className: 'num', text: 'Metas' }),
+          el('th', { className: 'num', text: 'Right' }),
+          el('th', { className: 'num', text: 'Wrong' }),
+        ]),
+      ]),
+      el(
+        'tbody',
+        {},
+        summary.byCountry.map((country) =>
+          el('tr', {}, [
+            el('td', {}, [el('a', { href: `#/country/${country.slug}`, text: country.title })]),
+            el('td', { className: 'num', text: String(country.seen) }),
+            el('td', { className: 'num', text: String(country.total) }),
+            el('td', { className: 'num', text: String(country.correct) }),
+            el('td', { className: 'num', text: String(country.wrong) }),
+          ]),
+        ),
+      ),
+    ]);
+
+    mount(
+      container,
+      el('div', { className: 'stack' }, [
+        el('h1', { text: 'Stats' }),
+        statRow,
+        el('h2', { text: 'Weakest countries' }),
+        weakest,
+        el('h2', { text: 'Every country' }),
+        el('div', { className: 'card', style: { overflowX: 'auto' } }, [table]),
+      ]),
+    );
+  };
+
+  screens.review = async () => {
+    begin();
+    const index = await data.index();
+    const { due, starred } = collectReviewItems({ index, store });
+
+    const dueList = el('div', { className: 'list', data: { testid: 'review-due' } });
+    if (due.length) {
+      for (const item of due) {
+        dueList.appendChild(
+          el('div', { className: 'list-row' }, [
+            el('span', { className: 'chip', text: item.country }),
+            el('a', { className: 'grow', href: `#/meta/${item.slug}/${item.metaId}`, text: `Meta ${item.metaId}` }),
+            el('a', { className: 'btn', href: `#/quiz/${item.slug}`, text: 'Quiz' }),
+          ]),
+        );
+      }
+    } else {
+      dueList.appendChild(el('p', { className: 'empty', text: 'Nothing is due for review right now.' }));
+    }
+
+    const starredList = el('div', { className: 'list', data: { testid: 'review-bookmarked' } });
+    if (starred.length) {
+      for (const item of starred) {
+        starredList.appendChild(
+          el('div', { className: 'list-row' }, [
+            el('span', { className: 'chip', text: item.country }),
+            el('a', { className: 'grow', href: `#/meta/${item.slug}/${item.metaId}`, text: `Meta ${item.metaId}` }),
+            el('a', { className: 'btn', href: `#/quiz/${item.slug}`, text: 'Quiz' }),
+          ]),
+        );
+      }
+    } else {
+      starredList.appendChild(el('p', { className: 'empty', text: 'You have not starred any metas yet.' }));
+    }
+
+    mount(
+      container,
+      el('div', { className: 'stack' }, [
+        el('h1', { text: 'Review' }),
+        el('h2', { text: `Due (${due.length})` }),
+        dueList,
+        el('h2', { text: `Starred (${starred.length})` }),
+        starredList,
+      ]),
+    );
+  };
+
+  screens.settings = async () => {
+    begin();
+
+    const importInput = el('input', {
+      type: 'file',
+      accept: 'application/json,.json',
+      data: { testid: 'settings-import-input' },
+      style: { display: 'none' },
+    });
+    importInput.addEventListener('change', async () => {
+      const file = importInput.files && importInput.files[0];
+      if (!file) return;
+      try {
+        const parsed = JSON.parse(await file.text());
+        store.import(parsed);
+        showToast('Progress imported');
+        router.navigate('/stats');
+      } catch (error) {
+        showToast(`That file could not be read: ${error.message || error}`);
+      }
+      importInput.value = '';
+    });
+
+    const exportButton = el('button', {
+      className: 'btn',
+      text: 'Export progress',
+      data: { testid: 'settings-export' },
+      onClick: () => {
+        const blob = new Blob([JSON.stringify(store.export(), null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const link = el('a', { href: url, download: exportFilename() });
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        setTimeout(() => URL.revokeObjectURL(url), 1000);
+        showToast('Progress exported');
+      },
+    });
+
+    const downloadAll = el('button', {
+      className: 'btn',
+      text: 'Make everything available offline',
+      data: { testid: 'settings-download-all' },
+      onClick: (event) => {
+        const button = event.currentTarget;
+        button.disabled = true;
+        button.textContent = 'Saving...';
+        requestOffline(null, (done, total) => {
+          button.textContent = total ? `Saving ${done}/${total}` : 'Saved offline';
+          if (total && done >= total) {
+            button.disabled = false;
+            button.textContent = 'Make everything available offline';
+          }
+        });
+      },
+    });
+
+    const resetButton = el('button', {
+      className: 'btn btn-danger',
+      text: 'Reset all progress',
+      data: { testid: 'settings-reset' },
+      onClick: () => {
+        if (!window.confirm('This clears everything: seen metas, stars, notes and the review schedule. It cannot be undone.')) {
+          return;
+        }
+        store.reset();
+        showToast('Progress cleared');
+        router.navigate('/');
+      },
+    });
+
+    mount(
+      container,
+      el('div', { className: 'stack' }, [
+        el('h1', { text: 'Settings' }),
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Your progress' }),
+          el('p', {
+            className: 'muted',
+            text: 'Everything is kept in this browser only. Nothing is uploaded anywhere. Export it before you change the address the app is served from, because the browser ties stored progress to the address.',
+          }),
+          el('div', { className: 'btn-row' }, [
+            exportButton,
+            el('button', {
+              className: 'btn',
+              text: 'Import progress',
+              data: { testid: 'settings-import' },
+              onClick: () => importInput.click(),
+            }),
+            importInput,
+          ]),
+        ]),
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Offline' }),
+          el('p', {
+            className: 'muted',
+            text: 'Caching the guides and their images lets the app work with no connection at all.',
+          }),
+          el('div', { className: 'btn-row' }, [downloadAll]),
+        ]),
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Start again' }),
+          el('p', { className: 'muted', text: 'Clears every trace of your progress on this device.' }),
+          el('div', { className: 'btn-row' }, [resetButton]),
+        ]),
+      ]),
+    );
+  };
 
   return screens;
 }
