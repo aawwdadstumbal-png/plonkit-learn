@@ -162,12 +162,25 @@ itself (584), another http(s) URL (462), or nothing (1).
 The archive's images are ~12x smaller than upstream because SingleFile
 downscales them. That is why the archive is the preferred source.
 
-The image host sits behind Cloudflare and Caddy and **hard rate-limits**:
-sustained probing showed roughly 1 success per 3–6 s, with HTTP 429 beyond
-that, and the limit did not reset immediately after a 25 s pause. Responses are
-backed by Google Cloud Storage (`x-goog-*` headers) with
-`Cache-Control: public, max-age=31536000`, but no bucket name or alternative
-host is exposed, so the rate limit cannot be bypassed.
+The image host sits behind Cloudflare and Caddy, in front of Google Cloud
+Storage. **It only serves objects the Cloudflare edge has already cached.** A
+request for an object the edge has not fetched comes back **HTTP 429** with
+`cf-cache-status: BYPASS` and a `Retry-After` of about 2050 seconds; the same
+request once the edge has fetched the object comes back **200** with
+`cf-cache-status: HIT` and an `age`. There is no way to bypass this and no
+way to make the origin serve a cold object.
+
+**The `Referer` header must carry a trailing slash.** `https://www.plonkit.net`
+is answered with **403**; `https://www.plonkit.net/` and any page path such as
+`https://www.plonkit.net/japan` are answered with 200. This is not documented
+anywhere and looks exactly like a rate limit, which cost a full run of the
+image fetcher before it was found.
+
+The practical consequence: the missing images are fetched by **asking for them
+once** (which makes the edge fetch and cache the object), **waiting** for the
+edge to warm, and **asking again**. `tools/warm_cache.py` does exactly that.
+The 429 is not a rate limit and backing off does not help; only the passage
+of time does.
 
 ### 2.5 Machine and toolchain constraints
 
@@ -305,21 +318,53 @@ Two tiers, both resumable, both writing to `app/data/img/<slug>/<metaId>.webp`.
 5. Write the decoded bytes to `app/data/img/<slug>/<metaId>.webp`. The bytes
    are already WebP; they are copied, not re-encoded.
 
-**Tier 2 — the network (background).** For every meta still without an image:
+**Tier 2 — the edge cache (background).** For every meta still without an
+image:
 
-1. `GET https://www.plonkit.net<imageUrl>` with a `Referer` header. **The
-   header is required** — without it the host returns 403.
-2. Downscale to a maximum dimension of 1000 px and encode as WebP quality 78.
-3. On HTTP 429, back off 30 s, 60 s, 120 s, 240 s, then skip and continue; the
-   next run picks it up.
-4. Skip any file that already exists.
+1. `GET https://www.plonkit.net<imageUrl>` with a `Referer` header of
+   `https://www.plonkit.net/`. **The header is required** — without the
+   trailing slash the host answers 403.
+2. A **200** means the edge already had the object: downscale it to a maximum
+   dimension of 1000 px, encode as WebP quality 78, and write it.
+3. A **429** means the edge does not have it yet. Nothing is written and the
+   image is asked for again later. The edge fetches the object in the
+   background, so a later request succeeds. Backing off does not help; only
+   the passage of time does.
+4. Skip any file that already exists, so the run is resumable and re-running
+   it costs nothing.
 5. Also fetch each guide's `heroImage` to `app/data/img/<slug>/hero.webp`.
    Heroes are optional: the country screen renders a gradient header with the
    country name when a hero is missing.
 
 **Both tiers must be individually runnable and individually re-runnable.**
 
-### 4.3 Volume to expect
+`tools/warm_cache.py` is the tool that does tier 2: one pass asks for every
+missing image, and a later pass saves the ones the edge has since cached. The
+whole set needs about half an hour between the two passes.
+
+### 4.3 The archive images are matched by text, not by position
+
+The archive is a month older than the live guide, and the saved DOM dropped
+the original image URLs, so an archive image can only be attached to a meta by
+comparing their text.
+
+Two details make the comparison work:
+
+- **The live text carries raw markdown, so it holds the words inside every
+  link URL; the archive holds the same text already rendered, with the URL in
+  an attribute rather than in the text.** A markdown link is reduced to its
+  label and a bare URL is dropped before the two are compared. Without this,
+  the two sides are not comparable and every meta with a link is rejected.
+- **The similarity divides by the longer word set, not the shorter.** A short
+  archive block whose words all happen to appear in a long meta that has
+  since been rewritten would score 1.0 against a `min()` denominator and pair
+  a stale image with changed text.
+
+With both in place, 4,914 of 4,960 metas are matched, and **4,882 of those
+match at a similarity of 0.95 or better**. The weakest match, at 0.758, was
+checked by eye and is the right meta.
+
+### 4.4 Volume to expect
 
 | Outcome | Size |
 |---|---|
@@ -509,8 +554,10 @@ catches that.
 
 ### 7.1 Acceptance criteria
 
-1. `python tools/fetch_guides.py` produces 139 guide files and an index of 139
-   countries, totalling 5,303 metas.
+1. `python tools/fetch_guides.py` produces 139 guide files and an index of 138
+   countries, totalling 5,303 metas. The index has one entry fewer than the
+   guide count because `beginners-guide` is published with no metas and is
+   therefore not a country.
 2. `python tools/build_images.py` tier 1 fills the large majority of metas
    without network access; tier 2 fills the rest and is re-runnable.
 3. Every country on the index opens, lists its sections, and its metas open

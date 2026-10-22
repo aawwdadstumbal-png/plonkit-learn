@@ -245,8 +245,8 @@ git commit -m "Add the guide pipeline: fetch and reshape upstream guide JSON"
 - Produces:
   - `LocalBlock` — a named tuple `(image_bytes: bytes | None, text: str, kind: str)`.
   - `parse_blocks(html: str) -> list[LocalBlock]` — splits a saved page into its tip blocks, in document order.
-  - `normalise(text: str) -> set[str]` — lowercased word set, markdown punctuation stripped.
-  - `similarity(a: str, b: str) -> float` — the fraction of the shorter word set that appears in the longer one.
+  - `normalise(text) -> set[str]` — lowercased word set, markdown punctuation stripped, words shorter than 3 characters dropped.
+  - `similarity(a, b) -> float` — the fraction of the **longer** word set that also appears in the shorter one. The denominator is the longer set, not the shorter: a short block whose words all happen to appear in a long meta that has since been rewritten would score 1.0 against a `min()` denominator and pair a stale image with changed text.
   - `align(blocks: list[LocalBlock], metas: list[dict], threshold: float = 0.75) -> dict[str, int]` — meta id to block index.
   - `tier1(guide: dict, html: str, out_dir: Path) -> tuple[int, int]` — returns `(matched, unmatched)`.
   - `main() -> int` — the CLI.
