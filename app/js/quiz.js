@@ -80,6 +80,7 @@ export function buildPool({ guides, scope = 'all' }) {
           country: guide.title,
           answer: guide.slug,
           text: (meta.text || []).join(' '),
+          paragraphs: meta.text || [],
           section: section.title,
           image: meta.image,
           mapsUrl: meta.mapsUrl,

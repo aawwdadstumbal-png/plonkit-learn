@@ -8,6 +8,8 @@
 import { el, clear, mount } from './dom.js';
 import { countryProgress } from './stats.js';
 import { renderMarkdown, splitNoteParagraphs } from './md.js';
+import { buildOptions, buildPool, scoreAnswer } from './quiz.js';
+import { review as srsReview } from './srs.js';
 
 /** A short message at the bottom of the screen. */
 export function showToast(message, ms = 1800) {
@@ -37,6 +39,25 @@ export function requestOffline(slugs, onProgress) {
     }
   };
   worker.postMessage({ type: 'prefetch', slugs }, [channel.port2]);
+}
+
+/**
+ * Choose the questions of a session.
+ *
+ * The pool holds every meta of the countries in scope. Distinct metas are
+ * sampled at random, without replacement, so one meta is never asked twice
+ * before the session ends. A meta answered wrongly is put back on the queue
+ * by the quiz screen, not here.
+ */
+export function planSession(pool, length = 10, rng = Math.random) {
+  const remaining = (pool || []).slice();
+  const chosen = [];
+  const target = Math.min(length, remaining.length);
+  while (chosen.length < target && remaining.length) {
+    const index = Math.min(remaining.length - 1, Math.floor(rng() * remaining.length));
+    chosen.push(remaining.splice(index, 1)[0]);
+  }
+  return chosen;
 }
 
 /** Filter the country list by title, ISO code or continent. */
@@ -456,7 +477,286 @@ export function createScreens({ store, data, router, container }) {
     cleanup = () => window.removeEventListener('keydown', onKey);
   };
 
-  screens.quiz = stub('Quiz');
+  screens.quiz = async ({ slug }) => {
+    begin();
+
+    let index = [];
+    let guides = [];
+    let pool = [];
+    let scopeLabel = 'any country';
+
+    try {
+      index = await data.index();
+      if (slug) {
+        guides = [await data.guide(slug)];
+        scopeLabel = guides[0].title;
+      } else {
+        guides = await data.allGuides();
+        scopeLabel = 'any country';
+      }
+      pool = buildPool({ guides, scope: slug ? 'country' : 'all' });
+    } catch (error) {
+      mount(
+        container,
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Could not build the quiz' }),
+          el('p', { className: 'muted', text: String(error.message || error) }),
+        ]),
+      );
+      return;
+    }
+
+    if (!pool.length) {
+      mount(
+        container,
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Nothing to quiz' }),
+          el('p', { className: 'muted', text: 'This country has no metas yet.' }),
+        ]),
+      );
+      return;
+    }
+
+    const countries = index.map((entry) => ({
+      slug: entry.slug,
+      title: entry.title,
+      continent: entry.continent,
+    }));
+
+    const queue = planSession(pool, 10);
+    const asked = new Set();
+    let current = null;
+    let answered = false;
+    let correctCount = 0;
+    let wrongCount = 0;
+    const missed = [];
+
+    const prompt = el('p', { className: 'quiz-prompt', text: `Which country is this from?` });
+    const imageBox = el('div', { data: { testid: 'quiz-image' } });
+    const optionsBox = el('div', { className: 'quiz-options', data: { testid: 'quiz-options' } });
+    const revealBox = el('div', { className: 'quiz-reveal', data: { testid: 'quiz-reveal' } });
+    const nextButton = el('button', {
+      className: 'btn btn-accent',
+      text: 'Next question',
+      data: { testid: 'quiz-next' },
+      onClick: () => next(),
+    });
+    const summaryBox = el('div', { className: 'stack', data: { testid: 'quiz-summary' } });
+    const skipButton = el('button', {
+      className: 'btn',
+      text: 'End the session',
+      data: { testid: 'quiz-skip' },
+      onClick: () => showSummary(),
+    });
+
+    const questionArea = el('div', { className: 'stack' }, [
+      prompt,
+      imageBox,
+      optionsBox,
+      revealBox,
+      el('div', { className: 'btn-row' }, [nextButton, skipButton]),
+    ]);
+
+    const counter = el('span', { className: 'muted small', data: { testid: 'quiz-counter' } });
+
+    mount(
+      container,
+      el('div', { className: 'stack' }, [
+        el('div', { className: 'row' }, [
+          el('h1', { text: 'Quiz' }),
+          el('span', { className: 'spacer' }),
+          counter,
+        ]),
+        el('p', { className: 'muted small', text: `Metas from ${scopeLabel}.` }),
+        questionArea,
+        summaryBox,
+      ]),
+    );
+
+    function drawQuestion() {
+      answered = false;
+      clear(revealBox);
+      revealBox.setAttribute('hidden', '');
+      nextButton.setAttribute('hidden', '');
+      skipButton.setAttribute('hidden', '');
+
+      if (!queue.length) {
+        showSummary();
+        return;
+      }
+
+      current = queue.shift();
+      asked.add(`${current.answer}:${current.id}`);
+      counter.textContent = `Question ${correctCount + wrongCount + 1} of 10`;
+
+      clear(imageBox);
+      if (current.image) {
+        const img = el('img', {
+          className: 'meta-image',
+          src: current.image,
+          alt: '',
+          data: { testid: 'quiz-image-img' },
+        });
+        img.addEventListener('error', () => {
+          clear(imageBox);
+          imageBox.appendChild(
+            el('div', {
+              className: 'img-placeholder',
+              text: 'No image downloaded for this meta',
+              data: { testid: 'quiz-image-missing' },
+            }),
+          );
+        });
+        imageBox.appendChild(img);
+      } else {
+        imageBox.appendChild(
+          el('div', {
+            className: 'img-placeholder',
+            text: 'No image downloaded for this meta',
+            data: { testid: 'quiz-image-missing' },
+          }),
+        );
+      }
+
+      const options = buildOptions({
+        answerSlug: current.answer,
+        countries,
+        count: 6,
+      });
+
+      clear(optionsBox);
+      for (const optionSlug of options) {
+        const entry = countries.find((c) => c.slug === optionSlug);
+        const button = el('button', {
+          className: 'quiz-option',
+          text: entry ? entry.title : optionSlug,
+          data: { testid: 'quiz-option', slug: optionSlug },
+          onClick: (event) => choose(event.currentTarget, optionSlug),
+        });
+        optionsBox.appendChild(button);
+      }
+
+      skipButton.removeAttribute('hidden');
+    }
+
+    function choose(button, chosenSlug) {
+      if (answered) return;
+      answered = true;
+
+      const { correct } = scoreAnswer(current, chosenSlug);
+      const key = metaKey(current.answer, current.id);
+
+      for (const option of optionsBox.querySelectorAll('.quiz-option')) {
+        option.disabled = true;
+        if (option.dataset.slug === current.answer) option.classList.add('correct');
+        else if (option === button) option.classList.add('wrong');
+      }
+
+      store.markSeen(key);
+      store.setSrs(key, srsReview(store.srs(key), correct));
+
+      const streak = store.streak();
+      store.setStreak(
+        correct
+          ? { current: streak.current + 1, best: streak.best }
+          : { current: 0, best: streak.best },
+      );
+
+      store.pushHistory({
+        country: current.answer,
+        metaId: current.id,
+        ok: correct,
+        at: Date.now(),
+      });
+
+      if (correct) {
+        correctCount += 1;
+      } else {
+        wrongCount += 1;
+        missed.push(current);
+        // A wrong answer comes back later in the same session.
+        queue.push(current);
+      }
+
+      clear(revealBox);
+      revealBox.removeAttribute('hidden');
+      revealBox.appendChild(
+        el('div', {
+          className: `quiz-verdict ${correct ? 'right' : 'wrong'}`,
+          text: correct ? 'Correct' : `Not quite - it is ${countryTitle(current.answer)}`,
+        }),
+      );
+      const { text, notes } = splitNoteParagraphs(current.paragraphs || []);
+      for (const paragraph of text) {
+        revealBox.appendChild(el('p', { html: renderMarkdown(paragraph) }));
+      }
+      for (const paragraph of notes) {
+        revealBox.appendChild(el('div', { className: 'note' }, [el('p', { html: renderMarkdown(paragraph) })]));
+      }
+      if (current.mapsUrl) {
+        revealBox.appendChild(
+          el('a', {
+            className: 'maps-link',
+            href: current.mapsUrl,
+            target: '_blank',
+            rel: 'noopener noreferrer',
+            text: 'Open in Google Maps',
+            data: { testid: 'quiz-maps' },
+          }),
+        );
+      }
+
+      nextButton.removeAttribute('hidden');
+      counter.textContent = `${correctCount} right, ${wrongCount} wrong`;
+    }
+
+    function countryTitle(slug) {
+      const entry = countries.find((c) => c.slug === slug);
+      return entry ? entry.title : slug;
+    }
+
+    function next() {
+      drawQuestion();
+    }
+
+    function showSummary() {
+      clear(questionArea);
+      questionArea.setAttribute('hidden', '');
+      clear(summaryBox);
+      summaryBox.removeAttribute('hidden');
+
+      const total = correctCount + wrongCount;
+      summaryBox.appendChild(
+        el('div', { className: 'card' }, [
+          el('div', { className: 'quiz-score', text: `${correctCount} / ${total}` }),
+          el('p', { className: 'muted', text: 'right answers' }),
+          el('div', { className: 'btn-row' }, [
+            el('a', { className: 'btn btn-accent', href: slug ? `#/quiz/${slug}` : '#/quiz', text: 'Another session' }),
+            el('a', { className: 'btn', href: '#/stats', text: 'See the stats' }),
+            el('a', { className: 'btn', href: '#/', text: 'Back to the countries' }),
+          ]),
+        ]),
+      );
+
+      if (missed.length) {
+        summaryBox.appendChild(el('h2', { text: 'You missed' }));
+        const list = el('div', { className: 'list' });
+        for (const entry of missed) {
+          list.appendChild(
+            el('div', { className: 'list-row' }, [
+              el('span', { className: 'chip', text: countryTitle(entry.answer) }),
+              el('span', { className: 'grow', text: (entry.paragraphs || []).join(' ').slice(0, 140) }),
+              el('a', { className: 'btn', href: `#/meta/${entry.answer}/${entry.id}`, text: 'Open' }),
+            ]),
+          );
+        }
+        summaryBox.appendChild(list);
+      }
+    }
+
+    drawQuestion();
+  };
+
   screens.stats = stub('Stats');
   screens.review = stub('Review');
   screens.settings = stub('Settings');

@@ -44,6 +44,32 @@ export function createDataClient({ base = '', fetchImpl = fetch } = {}) {
       return guides.get(slug);
     },
 
+    /**
+     * Every guide, fetched a few at a time. The global quiz needs all of
+     * them, and the service worker caches them as they are fetched.
+     */
+    async allGuides(concurrency = 8) {
+      const entries = await this.index();
+      const slugs = entries.map((entry) => entry.slug);
+      const loaded = [];
+      let position = 0;
+
+      const worker = async () => {
+        while (position < slugs.length) {
+          const slug = slugs[position++];
+          try {
+            loaded.push(await this.guide(slug));
+          } catch {
+            // A guide that will not load is simply not in the pool.
+          }
+        }
+      };
+
+      const workers = Array.from({ length: Math.min(concurrency, slugs.length || 1) }, worker);
+      await Promise.all(workers);
+      return loaded;
+    },
+
     /** Forget everything, so the next call fetches again. */
     clearCache() {
       indexPromise = null;
