@@ -1,0 +1,14 @@
+# The original SingleFile archive of plonkit.net guides (371 MB).
+# Superseded by tools/fetch_guides.py, which pulls the same content as JSON.
+Country/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# OS
+Thumbs.db
+desktop.ini
