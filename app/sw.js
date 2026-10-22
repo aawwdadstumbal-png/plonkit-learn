@@ -23,6 +23,8 @@ if (isServiceWorker) {
   // The base has to be an absolute URL, not a pathname, or every URL built
   // from it throws. It carries the subdirectory the app is served from.
   const BASE = new URL('./', self.location).href;
+  // The path prefix the app lives under, used to recognise its own data.
+  const BASE_PATH = new URL('./', self.location).pathname;
 
   const resolve = (path) => new URL(path, BASE).toString();
 
@@ -71,7 +73,7 @@ if (isServiceWorker) {
     const url = new URL(request.url);
     if (url.origin !== self.location.origin) return;
 
-    const isData = url.pathname.startsWith(BASE + DATA_PREFIX);
+    const isData = url.pathname.startsWith(BASE_PATH + DATA_PREFIX);
 
     event.respondWith(
       (async () => {

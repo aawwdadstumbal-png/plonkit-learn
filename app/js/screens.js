@@ -276,23 +276,19 @@ export function createScreens({ store, data, router, container }) {
     const percent = Math.round(progress.pct * 100);
 
     const hero = el('div', { className: 'country-hero' });
+    // The title is always in the overlay, so the country is named whether or
+    // not its hero image loads.
+    hero.appendChild(
+      el('div', { className: 'country-hero-overlay' }, [el('h1', { text: guide.title })]),
+    );
     if (guide.hero) {
       const img = el('img', { src: guide.hero, alt: '', loading: 'lazy' });
       img.addEventListener('error', () => {
+        img.remove();
         hero.classList.remove('has-image');
-        clear(hero);
-        hero.appendChild(
-          el('div', { className: 'country-hero-overlay' }, [
-            el('h1', { text: guide.title }),
-          ]),
-        );
       });
       hero.classList.add('has-image');
       hero.appendChild(img);
-    } else {
-      hero.appendChild(
-        el('div', { className: 'country-hero-overlay' }, [el('h1', { text: guide.title })]),
-      );
     }
 
     const sectionList = el('div', { className: 'section-list' });

@@ -202,6 +202,28 @@ export async function newPage(cdp) {
       await cdp.send('Page.navigate', { url }, sessionId);
       await this.waitForFunction('document.readyState === "complete"');
     },
+    async reload() {
+      await cdp.send('Page.reload', {}, sessionId);
+      await this.waitForFunction('document.readyState === "complete"');
+    },
+    /** Wait until an image has either loaded or failed to load. */
+    async waitForImage(selector, timeoutMs = 15000) {
+      await this.waitForFunction(
+        `(() => {
+          const img = document.querySelector(${JSON.stringify(selector)});
+          if (!img) return true;
+          if (img.complete) return true;
+          return false;
+        })()`,
+        timeoutMs,
+      );
+      return this.evaluate(
+        `(() => {
+          const img = document.querySelector(${JSON.stringify(selector)});
+          return img ? { w: img.naturalWidth, h: img.naturalHeight, src: img.getAttribute('src') } : null;
+        })()`,
+      );
+    },
     async evaluate(expression) {
       const result = await cdp.send(
         'Runtime.evaluate',
