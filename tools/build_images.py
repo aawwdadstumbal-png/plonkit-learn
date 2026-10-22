@@ -32,6 +32,8 @@ IMG_DIR = PROJECT / "app" / "data" / "img"
 ARCHIVE_DIR = PROJECT / "Country"
 SOURCE_DIR = PROJECT / "data-source"
 BASE_URL = "https://www.plonkit.net"
+# The image host refuses a Referer without a trailing slash.
+REFERER = BASE_URL + "/"
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -278,11 +280,13 @@ def downscale(raw, max_dim=MAX_DIM, quality=QUALITY):
         raise ValueError(f"not a usable image: {error}") from error
 
 
-def fetch_image(url, referer=BASE_URL, timeout=45, attempts=4):
+def fetch_image(url, referer=REFERER, timeout=45, attempts=4):
     """GET an image. Returns the bytes, or None if the host never gave them up.
 
-    The host answers 403 without a Referer and rate-limits with 429, so the
-    Referer is always sent and a 429 is backed off rather than abandoned.
+    The host answers 403 unless the Referer is the site root **with a
+    trailing slash**. "https://www.plonkit.net" is refused; "https://www.
+    plonkit.net/" and any page path are accepted. A 429 is backed off rather
+    than abandoned, because the host rate-limits hard.
     """
     for attempt in range(attempts):
         request = urllib.request.Request(
@@ -327,7 +331,7 @@ def upstream_image_urls(slug):
     return urls, public.get("heroImage")
 
 
-def tier2(guide, out_dir, sleep=2.5, referer=BASE_URL):
+def tier2(guide, out_dir, sleep=2.5, referer=REFERER):
     """Fetch every image the guide needs that is not on disk yet.
 
     Returns (written, failed).

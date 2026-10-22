@@ -170,6 +170,41 @@ class Tier1Tests(unittest.TestCase):
             self.assertEqual(os.listdir(tmp), [])
 
 
+class RefererTests(unittest.TestCase):
+    def test_the_referer_carries_a_trailing_slash(self):
+        # The image host answers 403 for "https://www.plonkit.net" and 200 for
+        # "https://www.plonkit.net/". Losing the slash makes every fetch fail.
+        self.assertTrue(build_images.REFERER.endswith("/"))
+        self.assertEqual(build_images.REFERER, "https://www.plonkit.net/")
+
+    def test_fetch_image_uses_the_trailing_slash_referer(self):
+        seen = {}
+
+        class FakeResponse:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def read(self):
+                return b"bytes"
+
+        def fake_urlopen(request, timeout=None):
+            seen["referer"] = request.get_header("Referer")
+            return FakeResponse()
+
+        original = build_images.urllib.request.urlopen
+        build_images.urllib.request.urlopen = fake_urlopen
+        try:
+            result = build_images.fetch_image("https://www.plonkit.net/images/x.png")
+        finally:
+            build_images.urllib.request.urlopen = original
+
+        self.assertEqual(result, b"bytes")
+        self.assertEqual(seen["referer"], "https://www.plonkit.net/")
+
+
 class Tier2Tests(unittest.TestCase):
     def test_downscale_shrinks_a_large_image(self):
         from PIL import Image
