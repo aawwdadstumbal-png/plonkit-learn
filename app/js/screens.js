@@ -401,12 +401,12 @@ export function createScreens({ store, data, router, container }) {
 
     const imageBox = el('div', { data: { testid: 'meta-image' } });
     if (meta.image) {
-      const img = el('img', {
-        className: 'meta-image',
-        src: meta.image,
-        alt: '',
-        loading: 'lazy',
-      });
+       const img = el('img', {
+         className: 'meta-image',
+         src: meta.image,
+         alt: '',
+         loading: 'eager',
+       });
       img.addEventListener('error', () => {
         clear(imageBox);
         imageBox.appendChild(

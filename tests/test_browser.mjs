@@ -88,14 +88,15 @@ if (!base) {
     await page.goto(`${base}/${href}`);
     await page.waitForSelector('[data-testid="meta-text"]');
     // The image may still be loading, or it may have failed and become the
-    // placeholder, so wait for whichever happens.
+    // placeholder, so wait for whichever happens. The wait is generous
+    // because a published site throttles a burst of requests.
     await page.waitForFunction(`(() => {
       const box = document.querySelector('[data-testid="meta-image"]');
       if (!box) return false;
       const img = box.querySelector('img');
       if (img) return img.complete;
       return !!box.querySelector('.img-placeholder');
-    })()`, 20000);
+    })()`, 60000);
     const image = await page.waitForImage('[data-testid="meta-image"] img');
     assert.ok(image, 'the meta should have an image element or a placeholder');
     await shot('02-meta');
