@@ -1153,3 +1153,39 @@ export function createScreens({ store, data, router, container }) {
 
   return screens;
 }
+
+// Phase 3: Performance, empty states, analytics, animations
+export function getEmptyStateMessage(context = "search", query = "") {
+  switch (context) {
+    case "search": return query ? `No country matches "${query}".` : "No countries found.";
+    case "quiz": return "No metas available for this quiz.";
+    case "meta": return "No metas in this section.";
+    default: return "Nothing to show.";
+  }
+}
+
+export function trackFeature(featureName, extra = {}) {
+  try {
+    const log = JSON.parse(localStorage.getItem("plonkit-analytics") || "[]");
+    log.push({ feature: featureName, time: Date.now(), ...extra });
+    localStorage.setItem("plonkit-analytics", JSON.stringify(log.slice(-100)));
+    console.log("[Analytics]", featureName, extra);
+  } catch (e) { /* analytics non-blocking */ }
+}
+
+export function trackPerformance(opName, durMs) {
+  try {
+    const log = JSON.parse(localStorage.getItem("plonkit-perf") || "[]");
+    log.push({ op: opName, durMs, time: new Date().toISOString() });
+    localStorage.setItem("plonkit-perf", JSON.stringify(log.slice(-50)));
+    if (durMs > 2000) console.warn(`[Slow] ${opName}: ${durMs}ms`);
+  } catch (e) {}
+}
+
+export function animateTransition(el, fromC, toC) {
+  el.classList.remove(fromC || "");
+  el.classList.add("animating");
+  el.offsetHeight;
+  if (toC) el.classList.add(toC);
+  setTimeout(() => { el.classList.remove("animating"); if (fromC) el.classList.add(fromC); }, 300);
+}
