@@ -989,6 +989,25 @@ export function createScreens({ store, data, router, container }) {
 
   };
 
+  screens.randomSection = async ({ slug, sectionId }) => {
+    begin();
+    let guide;
+    try {
+      guide = await data.guide(slug);
+    } catch (e) {
+      mount(container, el('div', { className: 'card' }, [el('h2', { text: 'Could not load country' }), el('p', { className: 'muted', text: String(e.message || e) })]));
+      return;
+    }
+    const flat = flattenMetas(guide);
+    const pool = flat.filter(m => m.section === sectionId || m.sectionTitle === sectionId);
+    const entry = pool.length ? pool[Math.floor(Math.random() * pool.length)] : null;
+    if (!entry) {
+      mount(container, el('div', { className: 'card' }, [el('h2', { text: 'No meta in that section' }), el('a', { className: 'btn', href: `#/country/${slug}`, text: 'Back to country' })]));
+      return;
+    }
+    window.location.hash = `#/meta/${slug}/${entry.id}`;
+  };
+
   screens.random = async () => {
     begin();
     let guides = [];
