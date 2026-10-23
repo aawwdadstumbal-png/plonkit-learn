@@ -29,6 +29,7 @@ const router = createRouter({
     '/weakest': () => screens.weakest(),
     '/compare/:slug1/:slug2': ({ slug1, slug2 }) => screens.compare({ slug1, slug2 }),
     '/flashcard/:slug/:metaId': ({ slug, metaId }) => screens.flashcard({ slug, metaId }),
+    '/flashcard/:slug/:metaId': ({ slug, metaId }) => screens.flashcard({ slug, metaId }),
   },
   onRoute: (pattern, params) => {
     const handler = pattern
@@ -42,6 +43,7 @@ const router = createRouter({
           '/stats': screens.stats,
           '/weakest': screens.weakest,
           '/compare/:slug1/:slug2': screens.compare,
+          '/flashcard/:slug/:metaId': screens.flashcard,
           '/flashcard/:slug/:metaId': screens.flashcard,
           '/review': screens.review,
           '/settings': screens.settings,
