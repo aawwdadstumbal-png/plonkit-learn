@@ -1003,7 +1003,7 @@ export function createScreens({ store, data, router, container }) {
       );
       return;
     }
-    router.navigate(`/meta/${entry.answer}/${entry.id}`);
+    window.location.hash = `#/meta/${entry.answer}/${entry.id}`;
   };
 
   screens.review = async () => {
