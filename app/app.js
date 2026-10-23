@@ -8,6 +8,7 @@
 import { createPrefs } from './js/prefs.js';
 import { createRouter } from './js/router.js';
 import { createScreens } from './js/screens.js';
+import { flashcardScreen } from './js/screens/flashcard.js';
 
 const container = document.getElementById('app');
 const prefs = createPrefs();
@@ -28,8 +29,7 @@ const router = createRouter({
     '/settings': () => screens.settings(),
     '/weakest': () => screens.weakest(),
     '/compare/:slug1/:slug2': ({ slug1, slug2 }) => screens.compare({ slug1, slug2 }),
-    '/flashcard/:slug/:metaId': ({ slug, metaId }) => screens.flashcard({ slug, metaId }),
-    '/flashcard/:slug/:metaId': ({ slug, metaId }) => screens.flashcard({ slug, metaId }),
+    '/flashcard/:slug/:metaId': ({ slug, metaId }) => flashcardScreen({ slug, metaId, store, data, router: screens.router, container }),
   },
   onRoute: (pattern, params) => {
     const handler = pattern
@@ -43,7 +43,7 @@ const router = createRouter({
           '/stats': screens.stats,
           '/weakest': screens.weakest,
           '/compare/:slug1/:slug2': screens.compare,
-          '/flashcard/:slug/:metaId': screens.flashcard,
+          '/flashcard/:slug/:metaId': (p) => flashcardScreen({ ...p, store, data, router: screens.router, container }),
           '/flashcard/:slug/:metaId': screens.flashcard,
           '/review': screens.review,
           '/settings': screens.settings,
