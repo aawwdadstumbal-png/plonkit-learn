@@ -426,7 +426,6 @@ export function createScreens({ store, data, router, container }) {
             text: 'Browse the metas',
           }),
           el('a', { className: 'btn', href: `#/quiz/${slug}`, text: 'Quiz this country' }),
-          el('a', { className: 'btn btn-info', href: `#/compare/${slug}/france`, text: 'Compare w/ France' }),
           el('button', {
             className: 'btn',
             text: 'Make available offline',
@@ -564,8 +563,7 @@ export function createScreens({ store, data, router, container }) {
 
     const body = el('div', { className: 'stack' }, [
       el('div', { className: 'row' }, [
-        el('a', { className: 'btn', href: '#/', text: 'Menu', 'aria-label': 'Back to main menu', data: { testid: 'meta-back-menu' } }),
-        el('a', { className: 'btn', href: `#/country/${slug}`, text: 'All metas', data: { testid: 'meta-back-country' } }),
+        el('a', { className: 'btn', href: `#/country/${slug}`, text: 'All metas' }),
         el('span', { className: 'spacer' }),
         el('span', {
           className: 'muted small',
@@ -872,10 +870,11 @@ export function createScreens({ store, data, router, container }) {
         el('div', { className: 'card' }, [
           el('div', { className: 'quiz-score', text: `${correctCount} / ${total}` }),
           el('p', { className: 'muted', text: 'right answers' }),
-        el('div', { className: 'btn-row' }, [
-          el('a', { className: 'btn btn-accent', href: '#/stats', text: 'Back to stats' }),
-          el('a', { className: 'btn btn-accent', href: '#/quiz', text: 'Another session' }),
-        ]),
+          el('div', { className: 'btn-row' }, [
+            el('a', { className: 'btn btn-accent', href: slug ? `#/quiz/${slug}` : '#/quiz', text: 'Another session' }),
+            el('a', { className: 'btn', href: '#/stats', text: 'See the stats' }),
+            el('a', { className: 'btn', href: '#/', text: 'Back to the countries' }),
+          ]),
         ]),
       );
 
@@ -898,107 +897,13 @@ export function createScreens({ store, data, router, container }) {
     drawQuestion();
   };
 
-  screens.weakest = async () => {
-    begin();
-    const index = await data.index();
-    const summary = summarise({ history: store.history(), index, store });
-    const weakest = summary.weakest || [];
-    if (!weakest.length) {
-      mount(container, el('div', { className: 'card' }, [
-        el('h2', { text: 'Nothing to drill' }),
-        el('p', { className: 'muted', text: 'Answer more questions to build weakest-country stats.' }),
-        el('a', { className: 'btn', href: '#/', text: 'Back to countries' }),
-      ]));
-      return;
-    }
-    const target = weakest[Math.floor(Math.random() * weakest.length)];
-    router.navigate(`/quiz/${target.slug}`);
-  };
-
-  screens.flashcard = async ({ slug, metaId }) => {
-    begin();
-    try {
-      const guide = await data.guide(slug);
-      const flat = flattenMetas(guide);
-      const meta = flat.find(m => m.id === metaId);
-      const key = metaKey(slug, metaId);
-      if (!meta) {
-        mount(container, el('div', { className: 'card' }, [
-          el('h2', { text: 'Meta not found' }),
-          el('a', { className: 'btn', href: '#/', text: 'Back to countries' }),
-        ]));
-        return;
-      }
-      const { text, notes } = splitNoteParagraphs(meta.text || []);
-      let flipped = false;
-      const card = el('div', { className: 'stack', 'data-testid': 'flashcard-view', onclick: () => { flipped = !flipped; const f = document.querySelector('.flashcard-front'); const b = document.querySelector('.flashcard-back'); if (f && b) { f.style.display = flipped ? 'none' : 'flex'; b.style.display = flipped ? 'flex' : 'none'; } } }, [
-        el('div', { className: 'flashcard-front', style: { display: 'flex' }, 'data-testid': 'flashcard-front' }, [
-          meta.image ? el('img', { className: 'meta-image', src: meta.image, alt: meta.text ? meta.text[0] || '' : '', loading: 'lazy' }) : el('div', { className: 'img-placeholder', text: 'No image' }),
-          el('p', { className: 'muted small', text: 'Click to reveal country & text' }),
-        ]),
-        el('div', { className: 'flashcard-back', style: { display: 'none' }, 'data-testid': 'flashcard-back' }, [
-          el('h2', { text: guide.title + ' � ' + meta.id }),
-          el('div', { className: 'meta-text' }, [
-            ...text.map(p => el('p', { html: renderMarkdown(p) })),
-            ...notes.map(p => el('div', { className: 'note' }, [el('p', { html: renderMarkdown(p) })])),
-          ]),
-          meta.mapsUrl ? el('a', { className: 'btn btn-accent', href: meta.mapsUrl, target: '_blank', text: 'Open in Google Maps' }) : null,
-          el('div', { className: 'btn-row' }, [
-            el('button', { className: 'btn btn-accent', text: store.isSeen(key) ? 'Seen' : 'Mark seen', onClick: () => { store.markSeen(key); showToast('Marked seen'); } }),
-            el('button', { className: 'btn', text: store.isBookmarked(key) ? 'Starred' : 'Star', onClick: () => { store.toggleBookmark(key); showToast('Updated'); } }),
-          ]),
-          el('a', { className: 'btn btn-info', href: `#/flashcard/${slug}/${metaId}`, text: 'Flashcard', data: { testid: 'flashcard-btn' } }),
-          el('a', { className: 'btn', href: `#/meta/${slug}/${metaId}`, text: 'Back to meta' }),
-          el('a', { className: 'btn', href: '#/', text: 'Menu' }),
-        ]),
-      ]);
-      mount(container, card);
-    } catch (e) {
-      mount(container, el('div', { className: 'card' }, [
-        el('h2', { text: 'Could not load flashcard' }),
-        el('p', { className: 'muted', text: String(e.message || e) }),
-      ]));
-    }
-  };
-
-    screens.compare = async ({ slug1, slug2 }) => {
-    begin();
-    try {
-      const [g1, g2] = await Promise.all([data.guide(slug1), data.guide(slug2)]);
-      mount(container, el('div', { className: 'stack', 'data-testid': 'compare-view' }, [
-        el('h1', { text: `${g1.title} vs ${g2.title}` }),
-        el('div', { className: 'compare-grid' }, [
-          el('div', { className: 'compare-panel' }, [
-            el('h2', { text: g1.title }),
-            el('p', { className: 'muted', text: `${g1.metaCount} metas · ${g1.continent}` }),
-            el('a', { className: 'btn', href: `#/country/${slug1}`, text: 'Open' }),
-          ]),
-          el('div', { className: 'compare-panel' }, [
-            el('h2', { text: g2.title }),
-            el('p', { className: 'muted', text: `${g2.metaCount} metas · ${g2.continent}` }),
-            el('a', { className: 'btn', href: `#/country/${slug2}`, text: 'Open' }),
-          ]),
-        ]),
-      ]));
-    } catch (e) {
-      mount(container, el('div', { className: 'card' }, [
-        el('h2', { text: 'Could not compare' }),
-        el('p', { className: 'muted', text: String(e.message || e) }),
-      ]));
-    }
-  };
-
   screens.stats = async () => {
     begin();
     const index = await data.index();
     const summary = summarise({ history: store.history(), index, store });
-    
-    // Track stats view
-    trackFeature('stats_viewed', { accuracy: summary.accuracy, weakestCount: summary.weakest.length });
 
     const accuracy = summary.accuracy === null ? 'no answers yet' : `${Math.round(summary.accuracy * 100)}%`;
 
-    const weakest = summary.weakest || [];
     const statRow = el('div', { className: 'stat-row' }, [
       el('div', { className: 'stat' }, [
         el('div', { className: 'value', text: String(summary.totalSeen), data: { testid: 'stats-total' } }),
@@ -1070,9 +975,6 @@ export function createScreens({ store, data, router, container }) {
       el('div', { className: 'stack' }, [
         el('h1', { text: 'Stats' }),
         statRow,
-        el('div', { className: 'btn-row', style: { marginTop: '8px' } }, [
-          el('a', { className: 'btn btn-accent', href: '#/weakest', text: 'Drill weakest', 'aria-label': 'Quiz weakest countries' }),
-        ]),
         el('h2', { text: 'Weakest countries' }),
         weakest,
         el('h2', { text: 'Every country' }),
@@ -1084,10 +986,6 @@ export function createScreens({ store, data, router, container }) {
 
   screens.random = async () => {
     begin();
-    mount(container, el('div', { className: 'card' }, [
-      el('h2', { text: 'Picking a meta...' }),
-      el('p', { className: 'muted', text: 'Loading guides from all countries.' }),
-    ]));
     let guides = [];
     try {
       guides = await data.allGuides();
