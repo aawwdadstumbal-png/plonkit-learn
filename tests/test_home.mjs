@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { filterCountries } from '../app/js/screens.js';
+import { filterCountries, pickRandom } from '../app/js/screens.js';
 
 const INDEX = [
   { slug: 'japan', title: 'Japan', code: 'JP', continent: 'Asia', metaCount: 82, hero: null },
@@ -47,4 +47,29 @@ test('the original index is not mutated', () => {
   const copy = JSON.parse(JSON.stringify(INDEX));
   filterCountries(INDEX, 'jap');
   assert.deepEqual(INDEX, copy);
+});
+
+test('pickRandom returns null on an empty list', () => {
+  assert.equal(pickRandom([]), null);
+  assert.equal(pickRandom(null), null);
+});
+
+test('pickRandom returns an element from the list', () => {
+  const result = pickRandom(['a', 'b', 'c'], () => 0.5);
+  assert.ok(['a', 'b', 'c'].includes(result));
+});
+
+test('pickRandom is deterministic with a fixed rng', () => {
+  const list = ['x', 'y', 'z'];
+  const first = pickRandom(list, () => 0.4);
+  const second = pickRandom(list, () => 0.4);
+  assert.equal(first, second);
+});
+
+test('pickRandom with rng 0 picks the first element', () => {
+  assert.equal(pickRandom(['a', 'b', 'c'], () => 0), 'a');
+});
+
+test('pickRandom with rng near 1 picks the last element', () => {
+  assert.equal(pickRandom(['a', 'b', 'c'], () => 0.999), 'c');
 });

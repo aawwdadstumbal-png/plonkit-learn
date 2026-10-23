@@ -7,7 +7,7 @@ spec: docs/superpowers/specs/2026-10-22-plonkit-learn-design.md
 
 # Plonk It Learn Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [x]`) syntax for tracking.
 
 **Goal:** Build an offline-capable web app that turns the 139 plonkit.net country guides into a study tool: browse a country's metas one at a time, and get quizzed on identifying a meta's country from its image alone.
 
@@ -145,7 +145,7 @@ F:\Ai\Orca\Utama\Plonkit-Learn\
 - `metaCount` counts metas only, not extras.
 - `id` for a section is `s1`, `s2`, … in document order across the whole guide.
 
-- [ ] **Step 1: Write the failing tests**
+- [x] **Step 1: Write the failing tests**
 
 In `tests/test_fetch_guides.py`, add at the top of the file:
 
@@ -171,12 +171,12 @@ Test cases:
 - `test_index_uses_current_upstream_slugs` — assert the index contains `"svalbard"`, `"cocos-islands"`, `"south-georgia-sandwich-islands"`, `"us-minor-outlying-islands"`, `"us-virgin-islands"`, and `"china"`; and does **not** contain `"svalbard-and-jan-mayen"`, `"cocos-keeling-islands"`, `"united-states-virgin-islands"`.
 - `test_reshape_is_deterministic` — reshape the japan guide twice and assert the two results are equal (`json.dumps` with `sort_keys=True`).
 
-- [ ] **Step 2: Run the tests to verify they fail**
+- [x] **Step 2: Run the tests to verify they fail**
 
 Run: `python -m unittest tests.test_fetch_guides -v`
 Expected: `ModuleNotFoundError: No module named 'fetch_guides'` and then `ERROR: test_...` for each test.
 
-- [ ] **Step 3: Implement `tools/fetch_guides.py`**
+- [x] **Step 3: Implement `tools/fetch_guides.py`**
 
 Module-level constants:
 
@@ -214,17 +214,17 @@ Required functions with these exact names: `load_list(path)`, `parse_preloaded(h
 - Sleep 2.5 s between network requests and back off on HTTP 429.
 - Print a one-line summary per guide and a final tally: guides written, metas written, guides skipped.
 
-- [ ] **Step 4: Run the tests to verify they pass**
+- [x] **Step 4: Run the tests to verify they pass**
 
 Run: `python -m unittest tests.test_fetch_guides -v`
 Expected: all tests `ok`.
 
-- [ ] **Step 5: Run the pipeline for real**
+- [x] **Step 5: Run the pipeline for real**
 
 Run: `python tools/fetch_guides.py`
 Expected: `app/data/guides/` holds 139 files and `app/data/index.json` exists with 138 entries and a total `metaCount` of 5,303.
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add tools/fetch_guides.py tests/test_fetch_guides.py app/data
@@ -264,7 +264,7 @@ git commit -m "Add the guide pipeline: fetch and reshape upstream guide JSON"
 - The decoded bytes are already WebP for all but the 246 logo PNGs. **Write the bytes as they are** — do not re-encode. A block whose bytes are PNG is a logo, not a meta image, and must be skipped (a meta image must be WebP).
 - Output path: `app/data/img/<slug>/<metaId>.webp`. Skip the write if the file already exists.
 
-- [ ] **Step 1: Write the failing tests**
+- [x] **Step 1: Write the failing tests**
 
 In `tests/test_build_images.py`:
 
@@ -288,12 +288,12 @@ Test cases:
 - `test_tier1_writes_a_webp_for_a_known_meta` — using `Country/albania.html` and `app/data/guides/albania.json`, run `tier1` into a `tempfile.TemporaryDirectory()`. Assert at least 10 files were written, each starts with the WebP magic bytes `b"RIFF"`, and the total matched count is greater than 0. Assert no file was written for a meta whose text does not appear in the archive.
 - `test_tier1_is_idempotent` — run `tier1` twice into the same directory; assert the second run writes 0 new files and the file count is unchanged.
 
-- [ ] **Step 2: Run the tests to verify they fail**
+- [x] **Step 2: Run the tests to verify they fail**
 
 Run: `python -m unittest tests.test_build_images -v`
 Expected: `ModuleNotFoundError: No module named 'build_images'`.
 
-- [ ] **Step 3: Implement `tools/build_images.py` tier 1**
+- [x] **Step 3: Implement `tools/build_images.py` tier 1**
 
 Module constants:
 
@@ -318,17 +318,17 @@ Functions with these exact names: `parse_blocks(html)`, `normalise(text)`, `simi
 
 `main()` for `--tier 1`: for each guide file in `GUIDES_DIR`, find the matching archive file at `ARCHIVE_DIR / f"{slug}.html"`. If the archive file is absent, or the guide has a slug the archive does not (the 5 renamed guides and the 6 new ones), skip it and count it as unmatched — those are tier 2's job. Print a per-guide line and a final tally.
 
-- [ ] **Step 4: Run the tests to verify they pass**
+- [x] **Step 4: Run the tests to verify they pass**
 
 Run: `python -m unittest tests.test_build_images -v`
 Expected: all tests `ok`.
 
-- [ ] **Step 5: Run tier 1 for real**
+- [x] **Step 5: Run tier 1 for real**
 
 Run: `python tools/build_images.py --tier 1`
 Expected: a tally showing a majority of the 5,303 metas matched, and `app/data/img/` holding that many `.webp` files. Record the number in the commit message.
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add tools/build_images.py tests/test_build_images.py app/data/img
@@ -355,7 +355,7 @@ git commit -m "Add image pipeline tier 1: reuse the local archive by text match"
 - A non-image response (HTML error page) must not be written. Check that the decoded image is valid before writing; on failure treat it as a failed image.
 - `tier2` must skip any file that already exists, so the run is resumable and re-running it after tier 1 fills the gaps costs nothing.
 
-- [ ] **Step 1: Write the failing tests**
+- [x] **Step 1: Write the failing tests**
 
 Add to `tests/test_build_images.py`:
 - `test_downscale_shrinks_a_large_image` — build a 2400x1200 PNG in memory with `PIL.Image`, call `downscale(png_bytes, max_dim=1000)`, reopen the result with `PIL.Image`, assert its larger dimension is at most 1000 and the bytes start with `b"RIFF"`.
@@ -363,12 +363,12 @@ Add to `tests/test_build_images.py`:
 - `test_downscale_rejects_non_image_data` — `downscale(b"<html>not an image</html>")` raises `ValueError`.
 - `test_tier2_skips_existing_files` — write a dummy `0D6J.webp` into a temp dir, run `tier2` for a guide with `sleep=0`, assert the dummy file's bytes are unchanged and `written == 0` for that meta. Use a guide whose meta already has a file so no network call is attempted; assert the function does not raise.
 
-- [ ] **Step 2: Run the tests to verify they fail**
+- [x] **Step 2: Run the tests to verify they fail**
 
 Run: `python -m unittest tests.test_build_images -v`
 Expected: `AttributeError: module 'build_images' has no attribute 'downscale'`.
 
-- [ ] **Step 3: Implement tier 2 in `tools/build_images.py`**
+- [x] **Step 3: Implement tier 2 in `tools/build_images.py`**
 
 Add `downscale`, `fetch_image(url, referer, timeout=45)` returning raw bytes or `None` after its own 429 backoff, and `tier2`.
 
@@ -386,17 +386,17 @@ Add `downscale`, `fetch_image(url, referer, timeout=45)` returning raw bytes or 
 5. Also fetch the hero to `out_dir / "hero.webp"` when the guide has one and the file is absent.
 6. Return `(written, failed)`.
 
-- [ ] **Step 4: Run the tests to verify they pass**
+- [x] **Step 4: Run the tests to verify they pass**
 
 Run: `python -m unittest tests.test_build_images -v`
 Expected: all tests `ok`.
 
-- [ ] **Step 5: Start the tier 2 run in the background**
+- [x] **Step 5: Start the tier 2 run in the background**
 
 Run: `python tools/build_images.py --tier 2`
 Expected: it downloads steadily. The site rate-limits, so this is expected to take hours and to be stopped and restarted freely. It is safe to interrupt at any time because every finished file is kept.
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add tools/build_images.py tests/test_build_images.py
@@ -449,7 +449,7 @@ returning an object with:
 - `import` must accept a document produced by `export` and restore every field exactly, and must ignore any key it does not recognise rather than failing.
 - A corrupt or unparseable stored document must not crash the app: fall back to an empty state and keep the bad value under a `__corrupt` key so it can be recovered by hand.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_store.mjs`:
 
@@ -476,21 +476,21 @@ Test cases:
 - `a corrupt stored document does not throw` — put `"{not json"` in the backend under the store key; assert `createStore(backend).seenCount() === 0` and that the store still works afterwards.
 - `state survives a new store over the same backend` — write with one store, read with a second store over the same backend; assert the seen set survived.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_store.mjs`
 Expected: `Cannot find module '../app/js/store.js'`.
 
-- [ ] **Step 3: Implement `app/js/store.js`**
+- [x] **Step 3: Implement `app/js/store.js`**
 
 Pure ESM. Export `createStore(backend, { key })`. No `document`, no `window`, no `localStorage`.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_store.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add app/js/store.js tests/test_store.mjs
@@ -520,7 +520,7 @@ git commit -m "Add the state store: seen, bookmarks, notes, SRS, history, export
 - `plainText` strips all of the above and collapses whitespace.
 - `splitNoteParagraphs` treats a paragraph as a note when its trimmed text starts with `NOTE` (case-insensitive) or when it is wrapped in `_..._` and contains the word `note`. The returned `notes` array keeps the paragraph text as written.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_md.mjs` with these cases:
 - `renders bold` — `renderMarkdown('a **b** c')` contains `<strong>b</strong>`.
@@ -537,21 +537,21 @@ Create `tests/test_md.mjs` with these cases:
 - `splitNoteParagraphs on an empty list` returns `{ text: [], notes: [] }`.
 - `renderMarkdown of an empty string` returns `''`.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_md.mjs`
 Expected: `Cannot find module '../app/js/md.js'`.
 
-- [ ] **Step 3: Implement `app/js/md.js`**
+- [x] **Step 3: Implement `app/js/md.js`**
 
 Pure ESM, no DOM. `renderMarkdown` returns a string, not a DOM node.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_md.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add app/js/md.js tests/test_md.mjs
@@ -596,7 +596,7 @@ git commit -m "Add the Markdown renderer and NOTE paragraph splitter"
 - `buildPool` is deterministic: it returns every meta of the selected guides, in document order. The random choice of a question happens in the session planner, not here.
 - `review` is a pure function of `(state, correct, now)`. It never reads a clock by itself — the caller passes `now`, except that `now` defaults to `Date.now()`.
 
-- [ ] **Step 1: Write the failing tests**
+- [x] **Step 1: Write the failing tests**
 
 Create `tests/test_srs.mjs`:
 - `a new meta is box 0 and due now` — `initialState()` deep-equals `{ box: 0, due: 0 }`.
@@ -621,21 +621,21 @@ Create `tests/test_quiz.mjs`:
 - `buildPool excludes a guide with no metas` — a guide whose sections hold no metas contributes nothing.
 - `scoreAnswer` — a correct slug gives `{ correct: true, correctSlug: 'japan' }`; a wrong slug gives `{ correct: false, correctSlug: 'japan' }`.
 
-- [ ] **Step 2: Run the tests to verify they fail**
+- [x] **Step 2: Run the tests to verify they fail**
 
 Run: `node --test tests/test_quiz.mjs tests/test_srs.mjs`
 Expected: `Cannot find module '../app/js/quiz.js'`.
 
-- [ ] **Step 3: Implement `app/js/quiz.js` and `app/js/srs.js`**
+- [x] **Step 3: Implement `app/js/quiz.js` and `app/js/srs.js`**
 
 Pure ESM, no DOM. `buildOptions` takes the `rng` for its shuffle and for its draws; use a small helper `pick(rng, arr)` that returns `arr[Math.floor(rng() * arr.length)]` and removes the picked element.
 
-- [ ] **Step 4: Run the tests to verify they pass**
+- [x] **Step 4: Run the tests to verify they pass**
 
 Run: `node --test tests/test_quiz.mjs tests/test_srs.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add app/js/quiz.js app/js/srs.js tests/test_quiz.mjs tests/test_srs.mjs
@@ -672,7 +672,7 @@ git commit -m "Add the quiz engine and the spaced-repetition scheduler"
 - `summarise` must handle a history of zero entries: `accuracy` is `null` and `weakest` is `[]`.
 - A country with fewer than 5 attempts is excluded from `weakest`, so one lucky guess does not put a country at the top.
 
-- [ ] **Step 1: Write the failing tests**
+- [x] **Step 1: Write the failing tests**
 
 Create `tests/test_stats.mjs`:
 - `accuracy is null with no history` — `summarise({ history: [], index, store, now })` gives `accuracy: null` and `weakest: []`.
@@ -682,21 +682,21 @@ Create `tests/test_stats.mjs`:
 - `weakest is sorted by accuracy ascending` — two countries with 10 attempts each, one at 0.2 and one at 0.8; assert the 0.2 one comes first.
 - `dueCount counts due metas` — a store with one SRS entry due in the past and one due in the future gives `dueCount === 1`.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_stats.mjs`
 Expected: `Cannot find module '../app/js/stats.js'`.
 
-- [ ] **Step 3: Implement `app/js/data.js` and `app/js/stats.js`**
+- [x] **Step 3: Implement `app/js/data.js` and `app/js/stats.js`**
 
 Pure ESM, no DOM. `data.js` uses a module-level `Map` for guide cache and a module-level variable for the index promise.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_stats.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add app/js/data.js app/js/stats.js tests/test_stats.mjs
@@ -749,7 +749,7 @@ git commit -m "Add guide loading with caching and the statistics aggregation"
 - `app.js` creates the prefs, the router and the screens, registers the routes, and calls `router.start()`.
 - Screens are responsible for their own container: each screen function clears the container and appends its node.
 
-- [ ] **Step 1: Write the browser test for the home screen**
+- [x] **Step 1: Write the browser test for the home screen**
 
 Do this task's test in `tests/test_browser.mjs`, but the CDP client does not exist yet — it is built in Task 12. For this task, instead write a **DOM-free unit test** of the screen's data preparation, so the task is independently testable now:
 - Create `tests/test_home.mjs` asserting that a pure helper `filterCountries(index, query)` returns the matching countries by title or code, case-insensitively, and returns an empty array for a query that matches nothing. Put `filterCountries` in `app/js/screens.js` and export it.
@@ -761,25 +761,25 @@ Add to `tests/test_home.mjs`:
 - `matches nothing` — `filterCountries([{title: 'Japan', code: 'JP'}], 'zzz')` has length 0.
 - `an empty query returns everything` — length equals the input length.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_home.mjs`
 Expected: `Cannot find module '../app/js/screens.js'`.
 
-- [ ] **Step 3: Write `app/index.html`, `app/styles.css`, `app/js/dom.js`, `app/js/router.js`, `app/js/prefs.js`, `app/js/screens.js`, `app/app.js`**
+- [x] **Step 3: Write `app/index.html`, `app/styles.css`, `app/js/dom.js`, `app/js/router.js`, `app/js/prefs.js`, `app/js/screens.js`, `app/app.js`**
 
 Follow the interfaces above. `screens.js` in this task implements `home` and stubs the other screens as a `<div>` reading `Coming soon`. `app.js` registers the routes for all of them so the router is complete from the start.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_home.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Serve the app and look at it**
+- [x] **Step 5: Serve the app and look at it**
 
 Run: `python -m http.server 8123 --directory app` from the project root, then open `http://127.0.0.1:8123` in a browser. The home screen must show 138 country cards with their progress bars, and the search box must filter. **Stop the server afterwards.**
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add app/index.html app/styles.css app/app.js app/js
@@ -810,7 +810,7 @@ git commit -m "Add the app shell, router and the home screen"
 - Left and right arrow keys navigate, but **not** while a note field or any other input has focus.
 - The screen title shows the country name and the meta's position, for example `Japan — 12 of 82`.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_meta.mjs` with a pure helper in `screens.js`:
 - Export `flattenMetas(guide) -> Array<{ id, section, sectionTitle }>`.
@@ -819,25 +819,25 @@ Create `tests/test_meta.mjs` with a pure helper in `screens.js`:
 - `flattenMetas on a guide with no metas` returns `[]`.
 - Export `metaKey(slug, metaId) -> string` returning `slug + ':' + metaId`.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_meta.mjs`
 Expected: `Cannot find module '../app/js/screens.js'` or an assertion failure for the missing export.
 
-- [ ] **Step 3: Implement the country and meta screens**
+- [x] **Step 3: Implement the country and meta screens**
 
 Replace the `country` and `meta` stubs in `app/js/screens.js` and add the styles.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_meta.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Look at it in a browser**
+- [x] **Step 5: Look at it in a browser**
 
 Run `python -m http.server 8123 --directory app` from the project root, open `http://127.0.0.1:8123`, click into Japan, step through several metas, star one, mark one seen, add a note, and reload the page to confirm the state persisted. **Stop the server afterwards.**
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add app/js/screens.js app/styles.css tests/test_meta.mjs
@@ -872,7 +872,7 @@ git commit -m "Add the country screen and the meta browser"
 - When the pool is exhausted, the summary appears.
 - The question's meta is chosen at random, so the meta's text is known to the app but is not in the DOM until the reveal.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_quizflow.mjs` for a pure session planner exported from `screens.js`:
 - Export `planSession(pool, length = 10, rng = Math.random) -> Array<PoolEntry>`
@@ -882,25 +882,25 @@ Create `tests/test_quizflow.mjs` for a pure session planner exported from `scree
   - `planSession is deterministic with a fixed rng` — two calls with `rng: () => 0` return the same ids in the same order.
   - The re-queue of a wrongly answered meta is **not** part of the planner. It happens at runtime: the screen keeps a queue and pushes a wrong answer's entry onto the end of it.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_quizflow.mjs`
 Expected: an assertion failure because `planSession` is not exported.
 
-- [ ] **Step 3: Implement the quiz screen**
+- [x] **Step 3: Implement the quiz screen**
 
 Replace the `quiz` stub and add the styles. Keep the option buttons as real `<button>` elements so they are reachable by role and name.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_quizflow.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Look at it in a browser**
+- [x] **Step 5: Look at it in a browser**
 
 Serve the app, open `#/quiz/japan`, answer several questions, confirm the text is absent before answering and present after, confirm a wrong answer reappears later in the session, and confirm the summary at the end. **Stop the server afterwards.**
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add app/js/screens.js app/styles.css tests/test_quizflow.mjs
@@ -929,7 +929,7 @@ git commit -m "Add the quiz screen with reveal, scoring and the session summary"
   - *Reset all progress* — asks for confirmation with `confirm()` before clearing the store.
   - A line explaining that progress is stored in this browser only and should be exported before changing the address the app is served from.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_review.mjs` for two pure helpers exported from `screens.js`:
 - Export `collectReviewItems({ index, store, now }) -> { due: Array, starred: Array }` where each item is `{ key, slug, metaId, country }`.
@@ -940,25 +940,25 @@ Create `tests/test_review.mjs` for two pure helpers exported from `screens.js`:
 - Export `exportFilename(now) -> string` returning `plonkit-learn-progress-<YYYY-MM-DD>.json`.
   - `the export filename carries the date` — for `now = Date.UTC(2026, 9, 22)` the result is `plonkit-learn-progress-2026-10-22.json`.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_review.mjs`
 Expected: an assertion failure because the exports are missing.
 
-- [ ] **Step 3: Implement the three screens**
+- [x] **Step 3: Implement the three screens**
 
 Replace the stubs and add the styles.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_review.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Look at it in a browser**
+- [x] **Step 5: Look at it in a browser**
 
 Serve the app, open `#/stats`, `#/review` and `#/settings`. Confirm the stats numbers match a session you just played, confirm export writes a file, and confirm importing that file into a cleared store restores everything. **Stop the server afterwards.**
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add app/js/screens.js app/styles.css tests/test_review.mjs
@@ -985,7 +985,7 @@ git commit -m "Add the stats, review and settings screens"
 - It prints the LAN URL using the machine's IPv4 address, so the user can open it on the phone.
 - `run.cmd` runs `python tools\serve.py --port 8000` and starts the browser with `start http://127.0.0.1:8000`.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_serve.py` with `unittest`, using `http.client` against a server started on port 0 in a thread:
 - `serves index html` — a GET of `/` returns 200 and the body contains `id="app"`.
@@ -994,21 +994,21 @@ Create `tests/test_serve.py` with `unittest`, using `http.client` against a serv
 - `refuses to escape the app directory` — GET `/../tools/serve.py` returns 404 or 403, never the file.
 - `sends no-store` — the `Cache-Control` header contains `no-store`.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `python -m unittest tests.test_serve -v`
 Expected: `ModuleNotFoundError: No module named 'serve'`.
 
-- [ ] **Step 3: Implement `tools/serve.py` and `run.cmd`**
+- [x] **Step 3: Implement `tools/serve.py` and `run.cmd`**
 
 Use `http.server.ThreadingHTTPServer` with a `SimpleHTTPRequestHandler` subclass whose `directory` is the `app/` folder.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `python -m unittest tests.test_serve -v`
 Expected: all tests pass.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add tools/serve.py run.cmd tests/test_serve.py
@@ -1039,7 +1039,7 @@ git commit -m "Add the local server and the launcher"
 - The manifest's `start_url` is `"./"` and `scope` is `"./"` so the app works from a subpath on GitHub Pages (`/plonkit-learn/`).
 - **Every path the service worker handles must be relative to the app's base**, not absolute from the origin root, or the app breaks under a GitHub Pages subpath.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_sw.mjs`. `sw.js` cannot be imported by node (it references `self` and `caches`), so test the parts that are pure. Export from `sw.js` a pure function `shellAssets(base)` returning the list of shell paths:
 - `shellAssets includes the entry point` — the list contains `index.html`, `styles.css`, `app.js` and `manifest.webmanifest`.
@@ -1049,21 +1049,21 @@ Create `tests/test_sw.mjs`. `sw.js` cannot be imported by node (it references `s
 
 To keep `sw.js` importable by node, guard the service-worker-only code with `if (typeof self !== 'undefined' && typeof caches !== 'undefined')` and keep the `export` at the top level.
 
-- [ ] **Step 2: Run the test to verify it fails**
+- [x] **Step 2: Run the test to verify it fails**
 
 Run: `node --test tests/test_sw.mjs`
 Expected: `Cannot find module '../app/sw.js'`.
 
-- [ ] **Step 3: Implement `app/sw.js`, `app/manifest.webmanifest` and `tools/make_icons.py`**
+- [x] **Step 3: Implement `app/sw.js`, `app/manifest.webmanifest` and `tools/make_icons.py`**
 
 Write `tools/make_icons.py` first, run it to produce the three PNGs, then write the manifest and the service worker.
 
-- [ ] **Step 4: Run the test to verify it passes**
+- [x] **Step 4: Run the test to verify it passes**
 
 Run: `node --test tests/test_sw.mjs`
 Expected: all tests pass.
 
-- [ ] **Step 5: Commit**
+- [x] **Step 5: Commit**
 
 ```bash
 git add app/sw.js app/manifest.webmanifest app/icons tools/make_icons.py tests/test_sw.mjs
@@ -1103,27 +1103,27 @@ git commit -m "Add the PWA manifest, icons and the service worker"
 10. Every screen is screenshotted to `tests/screenshots/`.
 11. The console is watched for errors: **any uncaught console error or page error fails the test.** A screen that throws in the console but still looks right is a failure.
 
-- [ ] **Step 1: Write the failing test**
+- [x] **Step 1: Write the failing test**
 
 Create `tests/test_browser.mjs` with the cases above, each guarded by `test.skip` when `PLONKIT_BASE_URL` is not set, so `node --test tests/` still passes without a server.
 
-- [ ] **Step 2: Run it to verify it skips cleanly**
+- [x] **Step 2: Run it to verify it skips cleanly**
 
 Run: `node --test tests/test_browser.mjs`
 Expected: the tests report as skipped, not failed.
 
-- [ ] **Step 3: Implement `tests/cdp.mjs` and `tools/browser_test.py`**
+- [x] **Step 3: Implement `tests/cdp.mjs` and `tools/browser_test.py`**
 
-- [ ] **Step 4: Run the browser test**
+- [x] **Step 4: Run the browser test**
 
 Run: `python tools/browser_test.py`
 Expected: all the browser cases pass, and the screenshots exist under `tests/screenshots/`. If Chromium cannot be found the run reports a skip and exits 0.
 
-- [ ] **Step 5: Look at the screenshots**
+- [x] **Step 5: Look at the screenshots**
 
 Open each screenshot and confirm the layout is right: the home grid, a country page, a meta page, and a quiz question. **A screenshot that renders but looks broken is a failure** — fix the CSS and re-run.
 
-- [ ] **Step 6: Commit**
+- [x] **Step 6: Commit**
 
 ```bash
 git add tests/cdp.mjs tests/test_browser.mjs tools/browser_test.py tests/screenshots
@@ -1146,11 +1146,11 @@ git commit -m "Add browser verification driving real Chromium over the DevTools 
 - The `app/data/` directory is committed, including the images. The first push carries the bulk of the payload; expect it to be slow.
 - `docs/deploy.md` records: the repository URL, the Pages URL, the command to re-run the image pipeline, the command to rebuild the guide data, and the fact that a guide refresh is a pull, a rebuild and a push.
 
-- [ ] **Step 1: Create the workflow and the deploy note**
+- [x] **Step 1: Create the workflow and the deploy note**
 
 Write `.github/workflows/pages.yml` and `docs/deploy.md`.
 
-- [ ] **Step 2: Create the repository and push**
+- [x] **Step 2: Create the repository and push**
 
 Run:
 
@@ -1160,27 +1160,27 @@ gh repo create aawwdadstumbal-png/plonkit-learn --public --source=. --remote=ori
 
 Expected: the repository is created and the push succeeds. If the push fails because of a large payload, retry; if it still fails, push the images in a second commit.
 
-- [ ] **Step 3: Turn on Pages**
+- [x] **Step 3: Turn on Pages**
 
 Run: `gh api --method POST repos/aawwdadstumbal-png/plonkit-learn/pages -f build_type=workflow`
 Expected: the Pages site is enabled. If the API refuses because the build type must be set in the workflow alone, that is fine — the workflow's `configure-pages` action does it.
 
-- [ ] **Step 4: Verify the deployment**
+- [x] **Step 4: Verify the deployment**
 
 Run: `gh api repos/aawwdadstumbal-png/plonkit-learn/pages --jq '.html_url + " " + .status'`
 Expected: a `https://aawwdadstumbal-png.github.io/plonkit-learn/` URL and a status of `built`. The first build takes a few minutes; poll every 20 seconds until the status leaves `building`.
 
 Then open the URL and confirm the home screen loads with its 138 cards.
 
-- [ ] **Step 5: Verify the service worker works on the published origin**
+- [x] **Step 5: Verify the service worker works on the published origin**
 
 Open the published URL in Chromium with the DevTools protocol, confirm `navigator.serviceWorker.controller` is non-null after a reload, and confirm `app/data/index.json` is served with a 200.
 
-- [ ] **Step 6: Update the vault**
+- [x] **Step 6: Update the vault**
 
 Update `G:\Obsidian\Main\Main\Projects\plonkit-learn.md`: set `status: built`, fill in the Pages URL, and change the *Next* line to the remaining work.
 
-- [ ] **Step 7: Commit**
+- [x] **Step 7: Commit**
 
 ```bash
 git add .github/workflows/pages.yml docs/deploy.md

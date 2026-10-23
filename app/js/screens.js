@@ -105,6 +105,16 @@ export function planSession(pool, length = 10, rng = Math.random) {
   return chosen;
 }
 
+/**
+ * Pick one element from a list using the injected rng.
+ * Returns the whole entry, or null when the list is empty.
+ */
+export function pickRandom(list, rng = Math.random) {
+  if (!list || !list.length) return null;
+  const index = Math.min(list.length - 1, Math.floor(rng() * list.length));
+  return list[index];
+}
+
 /** Filter the country list by title, ISO code or continent. */
 export function filterCountries(index, query) {
   const list = index || [];
@@ -245,6 +255,7 @@ export function createScreens({ store, data, router, container }) {
             count,
             el('span', { className: 'spacer' }),
             el('a', { className: 'btn btn-accent', href: '#/quiz', text: 'Quiz me' }),
+            el('a', { className: 'btn', href: '#/random', text: 'Random meta' }),
           ]),
         ]),
         grid,
@@ -896,6 +907,39 @@ export function createScreens({ store, data, router, container }) {
         el('div', { className: 'card', style: { overflowX: 'auto' } }, [table]),
       ]),
     );
+
+  };
+
+  screens.random = async () => {
+    begin();
+    let guides = [];
+    try {
+      guides = await data.allGuides();
+    } catch (error) {
+      mount(
+        container,
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Could not build the random picker' }),
+          el('p', { className: 'muted', text: String(error.message || error) }),
+        ]),
+      );
+      return;
+    }
+
+    const pool = buildPool({ guides, scope: 'all' });
+    const entry = pickRandom(pool);
+    if (!entry) {
+      mount(
+        container,
+        el('div', { className: 'card' }, [
+          el('h2', { text: 'Nothing to pick' }),
+          el('p', { className: 'muted', text: 'There are no metas to browse yet.' }),
+          el('a', { className: 'btn', href: '#/', text: 'Back to the countries' }),
+        ]),
+      );
+      return;
+    }
+    router.navigate(`/meta/${entry.answer}/${entry.id}`);
   };
 
   screens.review = async () => {
