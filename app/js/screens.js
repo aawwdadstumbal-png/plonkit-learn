@@ -4,7 +4,6 @@
  * A screen is an async function that renders into the shared container. The
  * pure helpers are exported separately so they can be tested without a DOM.
  */
-
 import { el, clear, mount } from './dom.js';
 import { countryProgress, summarise } from './stats.js';
 import { renderMarkdown, splitNoteParagraphs } from './md.js';
@@ -12,12 +11,62 @@ import { buildOptions, buildPool, scoreAnswer } from './quiz.js';
 import { review as srsReview } from './srs.js';
 
 /** A short message at the bottom of the screen. */
-export function showToast(message, ms = 1800) {
+export function showToast(message, ms = 1800, type = 'info', action = null) {
   const existing = document.querySelector('.toast');
   if (existing) existing.remove();
-  const toast = el('div', { className: 'toast', text: message, data: { testid: 'toast' } });
+  
+  const toast = el('div', { 
+    className: `toast ${type}`, 
+    text: message, 
+    'data-testid': 'toast',
+    ...(action && { 'data-action': action })
+  });
+  
+  if (action) {
+    toast.style.cursor = 'pointer';
+    toast.addEventListener('click', () => {
+      if (typeof action === 'function') {
+        action();
+      } else {
+        window.location.hash = action;
+      }
+      toast.remove();
+    });
+  }
+  
   document.body.appendChild(toast);
-  setTimeout(() => toast.remove(), ms);
+  setTimeout(() => {
+    if (document.body.contains(toast)) {
+      toast.remove();
+    }
+  }, ms);
+}
+
+/** Accessibility helper: announce to screen readers */
+export function announceToScreenReader(message, priority = 'polite') {
+  let liveRegion = document.querySelector('#sr-announcements');
+  if (!liveRegion) {
+    liveRegion = el('div', {
+      id: 'sr-announcements',
+      className: 'sr-only',
+      'aria-live': priority,
+      'aria-atomic': 'true'
+    });
+    document.body.appendChild(liveRegion);
+  }
+  liveRegion.textContent = message;
+}
+
+/** Enhanced error handler with toast notification and logging */
+export function handleError(error, context = 'application') {
+  console.error(`[${context}]`, error);
+  
+  const message = error.message || 'An error occurred';
+  showToast(message, 5000, 'error');
+  
+  announceToScreenReader(`Error: ${message}`, 'assertive');
+  
+  return { message, context, error };
 }
 
 /**
