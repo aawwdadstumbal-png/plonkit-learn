@@ -9,6 +9,7 @@ import { createPrefs } from './js/prefs.js';
 import { createRouter } from './js/router.js';
 import { createScreens } from './js/screens.js';
 import { flashcardScreen } from './js/screens/flashcard.js';
+import { blindScreen } from './js/screens/blind.js';
 
 const container = document.getElementById('app');
 const prefs = createPrefs();
@@ -29,6 +30,7 @@ const router = createRouter({
     '/settings': () => screens.settings(),
     '/weakest': () => screens.weakest(),
     '/compare/:slug1/:slug2': ({ slug1, slug2 }) => screens.compare({ slug1, slug2 }),
+    '/blind': () => blindScreen({ store, data, router: screens.router, container }),
     '/flashcard/:slug/:metaId': ({ slug, metaId }) => flashcardScreen({ slug, metaId, store, data, router: screens.router, container }),
   },
   onRoute: (pattern, params) => {
@@ -43,6 +45,7 @@ const router = createRouter({
           '/stats': screens.stats,
           '/weakest': screens.weakest,
           '/compare/:slug1/:slug2': screens.compare,
+          '/blind': () => blindScreen({ store, data, router: screens.router, container }),
           '/flashcard/:slug/:metaId': (p) => flashcardScreen({ ...p, store, data, router: screens.router, container }),
           '/review': screens.review,
           '/settings': screens.settings,

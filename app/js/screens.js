@@ -874,6 +874,7 @@ export function createScreens({ store, data, router, container }) {
           el('div', { className: 'btn-row' }, [
             el('a', { className: 'btn btn-accent', href: slug ? `#/quiz/${slug}` : '#/quiz', text: 'Another session' }),
             el('a', { className: 'btn', href: '#/stats', text: 'See the stats' }),
+            el('a', { className: 'btn btn-info', href: '#/blind', text: 'Blind quiz' }),
             el('a', { className: 'btn', href: '#/', text: 'Back to the countries' }),
           ]),
         ]),
