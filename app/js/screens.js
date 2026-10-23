@@ -563,7 +563,8 @@ export function createScreens({ store, data, router, container }) {
 
     const body = el('div', { className: 'stack' }, [
       el('div', { className: 'row' }, [
-        el('a', { className: 'btn', href: `#/country/${slug}`, text: 'All metas' }),
+        el('a', { className: 'btn', href: '#/', text: 'Menu', 'aria-label': 'Back to main menu', data: { testid: 'meta-back-menu' } }),
+        el('a', { className: 'btn', href: `#/country/${slug}`, text: 'All metas', data: { testid: 'meta-back-country' } }),
         el('span', { className: 'spacer' }),
         el('span', {
           className: 'muted small',
