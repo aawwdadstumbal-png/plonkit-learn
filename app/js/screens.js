@@ -299,6 +299,20 @@ export function createScreens({ store, data, router, container }) {
       attrs: { 'aria-label': 'Search countries' },
     });
     search.addEventListener('input', () => paint(search.value));
+
+    const continentSelect = el('select', {
+      className: 'search',
+      'aria-label': 'Filter by continent',
+      style: 'margin-top: 6px;',
+      data: { testid: 'continent-select' },
+    }, [
+      el('option', { value: '', text: 'All continents' }),
+      ...['Europe','Asia','Africa','North America','South America','Oceania','Antarctica'].map(c => el('option', { value: c, text: c })),
+    ]);
+    continentSelect.addEventListener('change', () => {
+      search.value = continentSelect.value;
+      paint(continentSelect.value);
+    });
     
     const continents = ['Europe', 'Asia', 'Africa', 'North America', 'South America', 'Oceania', 'Antarctica'];
     const continentRow = el('div', { className: 'continent-filters', 'aria-label': 'Filter by continent' },
@@ -321,6 +335,7 @@ export function createScreens({ store, data, router, container }) {
             text: 'Read the clues for a country one at a time, then test yourself.',
           }),
           search,
+          continentSelect,
           el('div', { className: 'row' }, [
             count,
             el('span', { className: 'spacer' }),
