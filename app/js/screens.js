@@ -214,7 +214,15 @@ function countryCard(entry, store) {
     },
     [
       el('div', { className: 'card-head' }, [
-        entry.code ? el('span', { className: 'badge', text: entry.code }) : null,
+        entry.code ? el('img', {
+          className: 'flag-badge',
+          src: `https://flagcdn.com/w40/${entry.code.toLowerCase()}.png`,
+          alt: `${entry.title} flag`,
+          width: 32,
+          height: 24,
+          loading: 'lazy',
+          'aria-label': `${entry.title} flag`
+        }) : null,
         el('span', { className: 'card-title', text: entry.title }),
       ]),
       el('div', {

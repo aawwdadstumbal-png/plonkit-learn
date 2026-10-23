@@ -162,6 +162,8 @@ a.card:hover { border-color: var(--accent); text-decoration: none; }
 }
 
 .btn:hover { border-color: var(--accent); }
+
+.flag-badge { width: 32px; height: 24px; object-fit: contain; border-radius: 3px; box-shadow: 0 1px 3px rgba(0,0,0,0.3); margin-right: 6px; vertical-align: middle; }
 .btn:disabled { opacity: .45; cursor: default; }
 .btn:disabled:hover { border-color: var(--line); }
 
