@@ -223,6 +223,9 @@ a.card:hover { border-color: var(--accent); text-decoration: none; }
 
 /* Button active state for scale interaction */
 .btn.active { transform: scale(0.97); transition: transform 0.1s; }
+
+.continent-filters { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+.continent-filters .btn { padding: 6px 10px; font-size: .85rem; border-radius: 20px; }
 .btn-danger { border-color: var(--danger); color: var(--danger); }
 
 .btn-row { display: flex; gap: 10px; flex-wrap: wrap; }

@@ -299,6 +299,16 @@ export function createScreens({ store, data, router, container }) {
       attrs: { 'aria-label': 'Search countries' },
     });
     search.addEventListener('input', () => paint(search.value));
+    
+    const continents = ['Europe', 'Asia', 'Africa', 'North America', 'South America', 'Oceania', 'Antarctica'];
+    const continentRow = el('div', { className: 'continent-filters', 'aria-label': 'Filter by continent' },
+      continents.map(c => el('button', {
+        className: 'btn btn-small',
+        text: c,
+        'aria-label': `Show ${c} countries`,
+        onClick: () => { search.value = c; paint(c); }
+      }))
+    );
 
     mount(
       container,
