@@ -1017,46 +1017,7 @@ export function createScreens({ store, data, router, container }) {
     window.location.hash = `#/meta/${entry.answer}/${entry.id}`;
   };
 
-  screens.flashcard = async ({ slug, metaId }) => {
-    begin();
-    try {
-      const guide = await data.guide(slug);
-      const flat = flattenMetas(guide);
-      const meta = flat.find(m => m.id === metaId);
-      const key = metaKey(slug, metaId);
-      if (!meta) {
-        mount(container, el('div', { className: 'card' }, [el('h2', { text: 'Meta not found' }), el('a', { className: 'btn', href: '#/', text: 'Back to countries' })]));
-        return;
-      }
-      const { text, notes } = splitNoteParagraphs(meta.text || []);
-      let flipped = false;
-      const card = el('div', { className: 'stack', 'data-testid': 'flashcard-view', onclick: () => { flipped = !flipped; const f = document.querySelector('.flashcard-front'); const b = document.querySelector('.flashcard-back'); if (f && b) { f.style.display = flipped ? 'none' : 'flex'; b.style.display = flipped ? 'flex' : 'none'; } } }, [
-        el('div', { className: 'flashcard-front', style: { display: 'flex' }, 'data-testid': 'flashcard-front' }, [
-          meta.image ? el('img', { className: 'meta-image', src: meta.image, alt: meta.text ? meta.text[0] || '' : '', loading: 'lazy' }) : el('div', { className: 'img-placeholder', text: 'No image' }),
-          el('p', { className: 'muted small', text: 'Click to reveal country & text' }),
-        ]),
-        el('div', { className: 'flashcard-back', style: { display: 'none' }, 'data-testid': 'flashcard-back' }, [
-          el('h2', { text: guide.title + ' — ' + meta.id }),
-          el('div', { className: 'meta-text' }, [
-            ...text.map(p => el('p', { html: renderMarkdown(p) })),
-            ...notes.map(p => el('div', { className: 'note' }, [el('p', { html: renderMarkdown(p) })])),
-          ]),
-          meta.mapsUrl ? el('a', { className: 'btn btn-accent', href: meta.mapsUrl, target: '_blank', text: 'Open in Google Maps' }) : null,
-          el('div', { className: 'btn-row' }, [
-            el('button', { className: 'btn btn-accent', text: store.isSeen(key) ? 'Seen' : 'Mark seen', onClick: () => { store.markSeen(key); showToast('Marked seen'); } }),
-            el('button', { className: 'btn', text: store.isBookmarked(key) ? 'Starred' : 'Star', onClick: () => { store.toggleBookmark(key); showToast('Updated'); } }),
-          ]),
-          el('a', { className: 'btn', href: #/meta//, text: 'Back to meta' }),
-          el('a', { className: 'btn', href: '#/', text: 'Menu' }),
-        ]),
-      ]);
-      mount(container, card);
-    } catch (e) {
-      mount(container, el('div', { className: 'card' }, [el('h2', { text: 'Could not load flashcard' }), el('p', { className: 'muted', text: String(e.message || e) })]));
-    }
-  };
-
-    screens.review = async () => {
+  screens.review = async () => {
     begin();
     const index = await data.index();
     const { due, starred } = collectReviewItems({ index, store });
