@@ -461,12 +461,15 @@ export function createScreens({ store, data, router, container }) {
 
     const imageBox = el('div', { data: { testid: 'meta-image' } });
     if (meta.image) {
-       const img = el('img', {
-         className: 'meta-image',
-         src: meta.image,
-         alt: '',
-         loading: 'eager',
-       });
+      const img = el('img', {
+        className: 'meta-image',
+        src: meta.image,
+        alt: meta.text ? meta.text[0] || '' : '',
+        loading: 'lazy',
+        'data-src': meta.image,
+        'aria-label': 'Meta image',
+      });
+      img.addEventListener('load', () => announceToScreenReader('Image loaded'));
       img.addEventListener('error', () => {
         clear(imageBox);
         imageBox.appendChild(
@@ -476,6 +479,7 @@ export function createScreens({ store, data, router, container }) {
             data: { testid: 'meta-image-missing' },
           }),
         );
+        announceToScreenReader('Image failed to load', 'assertive');
       });
       imageBox.appendChild(img);
     } else {
