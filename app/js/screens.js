@@ -340,6 +340,7 @@ export function createScreens({ store, data, router, container }) {
             count,
             el('span', { className: 'spacer' }),
             el('a', { className: 'btn btn-info', href: '#/bookmark', text: 'Bookmarks', 'aria-label': 'Open bookmarked metas' }),
+            el('a', { className: 'btn', href: '#/random', text: 'Random meta', 'aria-label': 'Open a random meta from any country' }),
             el('a', { className: 'btn btn-accent', href: '#/quiz', text: 'Quiz me' }),
             el('a', { className: 'btn', href: '#/offline-status', text: 'Offline', 'aria-label': 'Check offline status' }),
             el('a', { className: 'btn btn-accent', href: '#/quiz', text: 'Quiz me' }),
