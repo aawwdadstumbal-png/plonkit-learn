@@ -11,6 +11,8 @@ import { createScreens } from './js/screens.js';
 import { flashcardScreen } from './js/screens/flashcard.js';
 import { blindScreen } from './js/screens/blind.js';
 import { recommendScreen } from './js/screens/recommend.js';
+import { bookmarkScreen } from './js/screens/bookmark.js';
+import { setupKeyboardShortcuts } from './js/screens/keyboard.js';
 
 const container = document.getElementById('app');
 const prefs = createPrefs();
@@ -47,7 +49,9 @@ const router = createRouter({
           '/weakest': screens.weakest,
           '/compare/:slug1/:slug2': screens.compare,
     '/blind': () => blindScreen({ store, data, router: screens.router, container }),
-    '/recommend': () => recommendScreen({ store, data, router: screens.router, container }),
+          '/recommend': () => recommendScreen({ store, data, router: screens.router, container }),
+          '/bookmark': () => bookmarkScreen({ store, data, router: screens.router, container }),
+    '/bookmark': () => bookmarkScreen({ store, data, router: screens.router, container }),
           '/flashcard/:slug/:metaId': (p) => flashcardScreen({ ...p, store, data, router: screens.router, container }),
           '/review': screens.review,
           '/recommend': (p) => recommendScreen({ ...p, store, data, router: screens.router, container }),
@@ -94,6 +98,7 @@ const router = createRouter({
 screens.router = router;
 
 router.start();
+setupKeyboardShortcuts();
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
