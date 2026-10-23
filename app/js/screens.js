@@ -1084,6 +1084,10 @@ export function createScreens({ store, data, router, container }) {
 
   screens.random = async () => {
     begin();
+    mount(container, el('div', { className: 'card' }, [
+      el('h2', { text: 'Picking a meta...' }),
+      el('p', { className: 'muted', text: 'Loading guides from all countries.' }),
+    ]));
     let guides = [];
     try {
       guides = await data.allGuides();
