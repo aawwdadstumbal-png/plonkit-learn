@@ -1,0 +1,1 @@
+Split done: app/js/screens/ directory exists for meta/home/quiz/stats/review/settings/weakest/compare/flashcard. Future features go in own file (e.g., flashcard.js) — never edit screens.js directly again.
