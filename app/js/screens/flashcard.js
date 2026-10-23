@@ -53,7 +53,7 @@ export async function flashcardScreen({ store, data, router, container, slug, me
       const b = container.querySelector('.flashcard-back');
       if (f && b) {
         f.style.display = flipped ? 'none' : 'flex';
-        b.style.display = flipped ? ' ' : 'flex';
+        b.style.display = flipped ? 'flex' : 'none';
       }
     }
   }, [
