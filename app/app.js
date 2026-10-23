@@ -44,7 +44,6 @@ const router = createRouter({
           '/weakest': screens.weakest,
           '/compare/:slug1/:slug2': screens.compare,
           '/flashcard/:slug/:metaId': (p) => flashcardScreen({ ...p, store, data, router: screens.router, container }),
-          '/flashcard/:slug/:metaId': screens.flashcard,
           '/review': screens.review,
           '/settings': screens.settings,
         }[pattern]
