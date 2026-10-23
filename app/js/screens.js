@@ -326,6 +326,7 @@ export function createScreens({ store, data, router, container }) {
             el('span', { className: 'spacer' }),
             el('a', { className: 'btn btn-info', href: '#/bookmark', text: 'Bookmarks', 'aria-label': 'Open bookmarked metas' }),
             el('a', { className: 'btn', href: '#/country/japan', text: 'Japan', 'aria-label': 'Browse Japan guides' }),
+            el('a', { className: 'btn btn-info', href: '#/', text: 'Europe', 'aria-label': 'Show European countries' }),
             el('a', { className: 'btn', href: '#/offline-status', text: 'Offline', 'aria-label': 'Check offline cache status' }),
             el('a', { className: 'btn btn-accent', href: '#/quiz', text: 'Quiz me' }),
             el('a', { className: 'btn', href: '#/random', text: 'Random meta' }),
