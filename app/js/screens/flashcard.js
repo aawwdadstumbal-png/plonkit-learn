@@ -10,7 +10,8 @@
 export async function flashcardScreen({ store, data, router, container, slug, metaId }) {
   // Import helpers that live in the main screens module
   const { el, clear, mount } = await import('../dom.js');
-  const { metaKey, flattenMetas, renderMarkdown, splitNoteParagraphs, pickRandom } = await import('../screens.js');
+  const { metaKey, flattenMetas, pickRandom } = await import('../screens.js');
+  const { renderMarkdown, splitNoteParagraphs } = await import('../md.js');
   const { showToast } = await import('../screens.js');
 
   // Clear container
