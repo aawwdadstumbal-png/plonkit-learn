@@ -599,13 +599,13 @@ export function createScreens({ store, data, router, container }) {
         el('span', { className: 'spacer' }),
         el('a', {
           className: 'btn',
-          href: prev ? `#/meta/${slug}/${prev.id}` : `#/country/${slug}`,
+          href: prev ? `#/meta/${slug}/${prev.id}` : `#/random`,
           text: 'Previous',
           data: { testid: 'prev-meta' },
         }),
         el('a', {
           className: 'btn',
-          href: next ? `#/meta/${slug}/${next.id}` : `#/country/${slug}`,
+          href: next ? `#/meta/${slug}/${next.id}` : `#/random`,
           text: 'Next',
           data: { testid: 'next-meta' },
         }),
