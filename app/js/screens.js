@@ -1018,7 +1018,6 @@ export function createScreens({ store, data, router, container }) {
       );
       return;
     }
-    window.history.replaceState(null, '', `#/meta/${entry.answer}/${entry.id}`);
     window.location.hash = `#/meta/${entry.answer}/${entry.id}`;
   };
 
