@@ -10,6 +10,7 @@ import { createRouter } from './js/router.js';
 import { createScreens } from './js/screens.js';
 import { flashcardScreen } from './js/screens/flashcard.js';
 import { blindScreen } from './js/screens/blind.js';
+import { recommendScreen } from './js/screens/recommend.js';
 
 const container = document.getElementById('app');
 const prefs = createPrefs();
@@ -45,9 +46,11 @@ const router = createRouter({
           '/stats': screens.stats,
           '/weakest': screens.weakest,
           '/compare/:slug1/:slug2': screens.compare,
-          '/blind': () => blindScreen({ store, data, router: screens.router, container }),
+    '/blind': () => blindScreen({ store, data, router: screens.router, container }),
+    '/recommend': () => recommendScreen({ store, data, router: screens.router, container }),
           '/flashcard/:slug/:metaId': (p) => flashcardScreen({ ...p, store, data, router: screens.router, container }),
           '/review': screens.review,
+          '/recommend': (p) => recommendScreen({ ...p, store, data, router: screens.router, container }),
           '/settings': screens.settings,
         }[pattern]
       : null;
