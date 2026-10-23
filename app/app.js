@@ -13,6 +13,7 @@ import { blindScreen } from './js/screens/blind.js';
 import { recommendScreen } from './js/screens/recommend.js';
 import { bookmarkScreen } from './js/screens/bookmark.js';
 import { learningScreen } from './js/screens/learning.js';
+import { offlineStatusScreen } from './js/screens/offline.js';
 import { setupKeyboardShortcuts } from './js/screens/keyboard.js';
 
 const container = document.getElementById('app');
@@ -53,6 +54,7 @@ const router = createRouter({
           '/recommend': () => recommendScreen({ store, data, router: screens.router, container }),
     '/bookmark': () => bookmarkScreen({ store, data, router: screens.router, container }),
     '/learning': () => learningScreen({ store, data, router: screens.router, container }),
+    '/offline-status': () => offlineStatusScreen({ store, data, router: screens.router, container }),
     '/bookmark': () => bookmarkScreen({ store, data, router: screens.router, container }),
           '/flashcard/:slug/:metaId': (p) => flashcardScreen({ ...p, store, data, router: screens.router, container }),
           '/review': screens.review,
