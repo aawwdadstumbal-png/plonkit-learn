@@ -564,6 +564,7 @@ export function createScreens({ store, data, router, container }) {
     const body = el('div', { className: 'stack' }, [
       el('div', { className: 'row' }, [
           el('a', { className: 'btn btn-info', href: `#/flashcard/${slug}/${metaId}`, text: 'Flashcard', data: { testid: 'flashcard-btn' } }),
+          el('a', { className: 'btn', href: '#/random', text: 'Random meta', 'aria-label': 'Open a random meta from any country' }),
           el('a', { className: 'btn', href: `#/country/${slug}`, text: 'All metas' }),
         el('span', { className: 'spacer' }),
         el('span', {
