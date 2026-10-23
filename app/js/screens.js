@@ -426,6 +426,7 @@ export function createScreens({ store, data, router, container }) {
             text: 'Browse the metas',
           }),
           el('a', { className: 'btn', href: `#/quiz/${slug}`, text: 'Quiz this country' }),
+          el('a', { className: 'btn btn-info', href: `#/compare/${slug}/france`, text: 'Compare w/ France' }),
           el('button', {
             className: 'btn',
             text: 'Make available offline',
@@ -871,11 +872,10 @@ export function createScreens({ store, data, router, container }) {
         el('div', { className: 'card' }, [
           el('div', { className: 'quiz-score', text: `${correctCount} / ${total}` }),
           el('p', { className: 'muted', text: 'right answers' }),
-          el('div', { className: 'btn-row' }, [
-            el('a', { className: 'btn btn-accent', href: slug ? `#/quiz/${slug}` : '#/quiz', text: 'Another session' }),
-            el('a', { className: 'btn', href: '#/stats', text: 'See the stats' }),
-            el('a', { className: 'btn', href: '#/', text: 'Back to the countries' }),
-          ]),
+        el('div', { className: 'btn-row' }, [
+          el('a', { className: 'btn btn-accent', href: '#/stats', text: 'Back to stats' }),
+          el('a', { className: 'btn btn-accent', href: '#/quiz', text: 'Another session' }),
+        ]),
         ]),
       );
 
@@ -898,13 +898,61 @@ export function createScreens({ store, data, router, container }) {
     drawQuestion();
   };
 
+  screens.weakest = async () => {
+    begin();
+    const index = await data.index();
+    const summary = summarise({ history: store.history(), index, store });
+    const weakest = summary.weakest || [];
+    if (!weakest.length) {
+      mount(container, el('div', { className: 'card' }, [
+        el('h2', { text: 'Nothing to drill' }),
+        el('p', { className: 'muted', text: 'Answer more questions to build weakest-country stats.' }),
+        el('a', { className: 'btn', href: '#/', text: 'Back to countries' }),
+      ]));
+      return;
+    }
+    const target = weakest[Math.floor(Math.random() * weakest.length)];
+    router.navigate(`/quiz/${target.slug}`);
+  };
+
+  screens.compare = async ({ slug1, slug2 }) => {
+    begin();
+    try {
+      const [g1, g2] = await Promise.all([data.guide(slug1), data.guide(slug2)]);
+      mount(container, el('div', { className: 'stack', 'data-testid': 'compare-view' }, [
+        el('h1', { text: `${g1.title} vs ${g2.title}` }),
+        el('div', { className: 'compare-grid' }, [
+          el('div', { className: 'compare-panel' }, [
+            el('h2', { text: g1.title }),
+            el('p', { className: 'muted', text: `${g1.metaCount} metas · ${g1.continent}` }),
+            el('a', { className: 'btn', href: `#/country/${slug1}`, text: 'Open' }),
+          ]),
+          el('div', { className: 'compare-panel' }, [
+            el('h2', { text: g2.title }),
+            el('p', { className: 'muted', text: `${g2.metaCount} metas · ${g2.continent}` }),
+            el('a', { className: 'btn', href: `#/country/${slug2}`, text: 'Open' }),
+          ]),
+        ]),
+      ]));
+    } catch (e) {
+      mount(container, el('div', { className: 'card' }, [
+        el('h2', { text: 'Could not compare' }),
+        el('p', { className: 'muted', text: String(e.message || e) }),
+      ]));
+    }
+  };
+
   screens.stats = async () => {
     begin();
     const index = await data.index();
     const summary = summarise({ history: store.history(), index, store });
+    
+    // Track stats view
+    trackFeature('stats_viewed', { accuracy: summary.accuracy, weakestCount: summary.weakest.length });
 
     const accuracy = summary.accuracy === null ? 'no answers yet' : `${Math.round(summary.accuracy * 100)}%`;
 
+    const weakest = summary.weakest || [];
     const statRow = el('div', { className: 'stat-row' }, [
       el('div', { className: 'stat' }, [
         el('div', { className: 'value', text: String(summary.totalSeen), data: { testid: 'stats-total' } }),
@@ -976,6 +1024,9 @@ export function createScreens({ store, data, router, container }) {
       el('div', { className: 'stack' }, [
         el('h1', { text: 'Stats' }),
         statRow,
+        el('div', { className: 'btn-row', style: { marginTop: '8px' } }, [
+          el('a', { className: 'btn btn-accent', href: '#/weakest', text: 'Drill weakest', 'aria-label': 'Quiz weakest countries' }),
+        ]),
         el('h2', { text: 'Weakest countries' }),
         weakest,
         el('h2', { text: 'Every country' }),

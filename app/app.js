@@ -26,6 +26,8 @@ const router = createRouter({
     '/stats': () => screens.stats(),
     '/review': () => screens.review(),
     '/settings': () => screens.settings(),
+    '/weakest': () => screens.weakest(),
+    '/compare/:slug1/:slug2': ({ slug1, slug2 }) => screens.compare({ slug1, slug2 }),
   },
   onRoute: (pattern, params) => {
     const handler = pattern
@@ -37,6 +39,8 @@ const router = createRouter({
           '/quiz/:slug': screens.quiz,
           '/random': screens.random,
           '/stats': screens.stats,
+          '/weakest': screens.weakest,
+          '/compare/:slug1/:slug2': screens.compare,
           '/review': screens.review,
           '/settings': screens.settings,
         }[pattern]

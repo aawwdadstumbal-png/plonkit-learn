@@ -225,6 +225,8 @@ a.card:hover { border-color: var(--accent); text-decoration: none; }
 .btn.active { transform: scale(0.97); transition: transform 0.1s; }
 
 .continent-filters { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+.compare-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.compare-panel { background: var(--panel); border-radius: 12px; padding: 20px; }
 .continent-filters .btn { padding: 6px 10px; font-size: .85rem; border-radius: 20px; }
 .btn-danger { border-color: var(--danger); color: var(--danger); }
 
