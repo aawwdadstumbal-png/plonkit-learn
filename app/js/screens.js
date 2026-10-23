@@ -267,6 +267,9 @@ export function createScreens({ store, data, router, container }) {
 
     const grid = el('div', { className: 'grid', data: { testid: 'country-grid' } });
     const count = el('span', { className: 'muted small', data: { testid: 'country-count' } });
+    
+    // Track feature use
+    trackFeature('home_screen_loaded');
 
     const paint = (query) => {
       const visible = filterCountries(index, query);
@@ -276,7 +279,7 @@ export function createScreens({ store, data, router, container }) {
       }
       count.textContent = `${visible.length} of ${index.length} countries`;
       if (!visible.length) {
-        grid.appendChild(el('p', { className: 'empty', text: 'No country matches that.' }));
+        grid.appendChild(el('p', { className: 'empty', text: getEmptyStateMessage('search', query || '') }));
       }
     };
 
